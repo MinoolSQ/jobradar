@@ -7,8 +7,9 @@ oglase, sve što ti treba je u JSON fajlu, uključujući i pun tekst svakog ogla
 
 ## Korak 1: podaci
 
-Pročitaj `data/oglasi.json` iz kloniranog repozitorijuma. Ako ga nema, potraži ga sa
-`find . -name oglasi.json`.
+Radni folder je već koren kloniranog repozitorijuma, pa odmah pročitaj `data/oglasi.json`.
+Ako ga tu nema, pogledaj `ls` i `ls data`. Nemoj pretraživati ceo fajl sistem, taj fajl je
+ili tu ili ga nema.
 
 Proveri polje `generated_at`, to je vreme kad je GitHub Action skupio oglase:
 
