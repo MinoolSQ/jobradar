@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+prompt.txt
+proba.json
+test*.json
+
+# Profil ne ide u repo, tamo pise sta ne znas i sta izbegavas.
+profil.md

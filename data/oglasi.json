@@ -1,0 +1,360 @@
+{
+ "generated_at": "2026-09-20T17:04:09+00:00",
+ "window_days": 3,
+ "cutoff": "2026-09-17",
+ "count": 14,
+ "errors": [],
+ "jobs": [
+  {
+   "source": "infostud",
+   "id": "756253",
+   "title": "Business Analyst",
+   "company": "Thrive Talent Solutions d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-09-17",
+   "expires": "02.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/business-analyst/thrive-talent-solutions-doo/756253",
+   "summary": "This Business Analyst role combines data analysis and hands-on technical work to translate stakeholder needs into actionable technical requirements and reliable data processes. The position improves campaign and operational performance through reporting KPI tracking SQL based validation and API integrations.",
+   "matched": [
+    "data platform"
+   ],
+   "details": "O poslodavcu We are seeking a motivated and analytically minded Business Analyst to join our team and support our US-based partner company. Our partner company is a business process outsourcing company delivering AI-governed contact center, sales, and marketing services for regulated industries. As a Business Analyst, you will work closely with the Data Performance and Lead Generation teams. As part of your collaboration with the Data Performance team, you will support data analysis, performance measurement, data quality and validation, reporting, requirements definition, and the translation of business needs into actionable technical requirements. In collaboration with the Lead Generation team, you will be responsible for campaign, audience, lead, and marketing performance analysis, as well as related data and system support. Approximately 50% of your time will be dedicated to business and data analysis, reporting, KPI tracking, requirements gathering, and stakeholder support. The remaining 50% will focus on hands-on technical work, including SQL, data validation, QA, API integrations, troubleshooting, minor development support, and cloud-related activities. Responsibilities: Collaboration & Communication Assist the Development Manager with all aspects of software design, coding, and project planning Attend and actively contribute to company development meetings and cross-team discussions Respond promptly to requests from the development team via email, Microsoft Teams, and other communication platforms Gather information from end users and consumers to evaluate program functionality and identify areas for improvement Reference: 4GHCkX04H-kgc_sqwkE2xnb7DjDxFnbVULIU9Qf3a7gH0rHv1AhTRVUctKMC0nWO Data Analysis & Reporting Monitor the financial and/or operational performance of internal metrics, KPIs, and systems Gather information from multiple sources to measure, audit, and analyze data Write clear, accurate, and actionable reports for internal stakeholders Perform occasional data entry tasks with a high level of attention to detail Technical & Development Support Learn and improve familiarity with the codebase to effectively support development efforts Write and maintain code as needed to support business requirements Work on minor bug fixes and conduct development and QA tests Implement new APIs as required Become proficient in managing cloud resources on AWS Problem Solving Identify issues quickly and develop effective, practical solutions in a timely manner Empathize with stakeholders and end users to understand root causes and prioritize impactful resolutions Perform other duties as assigned Qualifications: 2-4 years of relevant Business Analyst or Analyst/Developer experience 1–2+ years with PHP, HTML5, and JavaScript; full-stack experience is a plus Strong SQL/MySQL skills, including complex joins, views, and stored procedures Experience with REST APIs, cURL, JSON, and operating systems Familiarity with AWS or another cloud platform and at least one additional programming language Strong data analysis, validation, troubleshooting, and problem-solving abilities Excellent communication and documentation skills, especially translating stakeholder needs into technical requirements Strong attention to detail, accuracy, teamwork, empathy, and self-motivation Ability to learn new technologies quickly and follow established processes A Bachelor’s degree in CS, Information Systems, Business, or a related field is preferred but not mandatory"
+  },
+  {
+   "source": "infostud",
+   "id": "756552",
+   "title": "Data Warehouse & BI Engineer",
+   "company": "Kansai Helios Srbija a.d.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SAP",
+    "Programiranje",
+    "BI",
+    "ETL",
+    "Excel"
+   ],
+   "posted": "2026-09-18",
+   "expires": "30.09.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-warehouse-bi-engineer/kansai-helios-srbija-ad/756552",
+   "summary": "The role leads design and delivery of enterprise data warehouse and BI solutions to enable data driven decisions across the group. The specialist will build and optimise ETL pipelines semantic layers and reports using Microsoft Fabric Power BI and SAP technologies while supporting business users.",
+   "matched": [
+    "data engineer",
+    "etl",
+    "data platform"
+   ],
+   "details": "O poslodavcu Become part of an international working environment where you can continuously seize opportunities for growth through open communication and the integration of processes. We invite you to explore how we create excellence within the KANSAI HELIOS Group . Turn data into impact. We're looking for a Data Warehouse & BI Expert to help drive smarter decisions across the KANSAI HELIOS Group. If you enjoy working with Power BI, Microsoft Fabric, SAP technologies, and AI, and want to make a real business impact, we'd love to hear from you. Description of duties and responsibilities: Design, develop, and enhance the data warehouse model Strong knowledge of reporting system tools, including: SAP BW Design, develop, and enhance the data warehouse model Develop and customize ETL procedures for loading data into the data warehouse. Develop and maintain data extraction, transformation, and loading (ETL) processes. Monitor data loading procedures and ensure data consistency and integrity within the data warehouse. Diagnose and resolve performance-related issues. Manage user authorization and access rights. Analyse business user requirements and prepare specifications for BI applications. Develop semantic layers, metadata, and reports Prepare advanced reports and analyses from the data warehouse Train end users in the use of data warehouse reports Reference: Ht9j62P01TMlAkJqMmoiX3cWk_Kky080yZI2MihPh6QR8wP5IpHMUYaZ-h0FboJg Knowledge of advanced data platforms: Microsoft Fabric Power BI AI tools, such as Microsoft Copilot Coordinate external vendors and business partners Participate in the planning and implementation of DW/BI projects Maintain required records, statistics, archives, and operational documentation We expect: A minimum of a bachelor’s degree (Level VII or higher) in Computer Science, Business Informatics, or a related field 3–5 years of experience in a similar role Excellent command of English, both written and spoken Accuracy, reliability, innovation, and the ability to drive change Excellent knowledge of MS Office tools (Excel, Word, PowerPoint, Outlook) Strong time management and organizational skills A positive, solution-oriented mindset Motivation and a genuine interest in continuous professional and personal development We offer: Permanent employment with a 6-month probation period and full-time work schedule Work performed from the country of residence, with flexible working hours and the possibility of remote work A healthy work-life balance A stimulating, development-oriented, and dynamic work environment An international working environment and collaboration with experts across the KANSAI HELIOS Group Structured onboarding Opportunities for professional and personal development through the KANSAI HELIOS Academy Informal social events that foster positive interpersonal relationships And other benefits depending on the company where you will be employed Please send your application together with your CV electronically. All applications will be treated with strict confidentiality. Helios Srbija a.d. Radovana Grkovića 24 32300 Gornji Milanovac, Srbija PIB: 101152852 Matični broj: 07152981 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi "
+  },
+  {
+   "source": "infostud",
+   "id": "756763",
+   "title": "IT Security Engineer – Focus on SIEM & SOC",
+   "company": "STRABAG d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija",
+    "Hardware",
+    "SoC",
+    "Cloud"
+   ],
+   "posted": "2026-09-18",
+   "expires": "18.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-security-engineer-focus-on-siem-soc/strabag-doo/756763",
+   "summary": "Službenička uloga odgovorna za vođenje kancelarijskih i kadrovskih procesa kako bi se obezbedila uredna administracija i pravovremena komunikacija. Kandidat će održavati poslovnu korespondenciju, arhivu i podržavati interne i eksterne poslovne potrebe uključujući prevođenje službenih dokumenata.",
+   "matched": [
+    "data engineer"
+   ],
+   "details": "At STRABAG, around 89,000 people are working on progress at more than 2,400 locations worldwide. Uniqueness and individual strengths characterise both our projects and each of us as individuals. Whether it’s building construction, civil engineering, road construction, underground engineering, bridge building, tunnelling, construction material production, project development or building management – we are always one step ahead so that we can become the most innovative and sustainable construction technology company in Europe. Diversity, inclusion and equal opportunities are integral to who we are as a company and how we work. Our services company, STRABAG BRVZ, is responsible for all central commercial and IT activities within the Group. Together we work as partners to complete projects successfully and grow with new challenges. Together we achieve great things. Let’s progress! Description: Further development and operation of our SIEM solution, including the configuration, monitoring and optimization of dashboards, searches, alerts, use cases and reports Analyze substantial amounts of security data to identify potential security incidents, reduce their impact and provide recommendations to prevent future security breaches Carry out risk assessments and evaluate the information security of new products (hardware, software and services) as part of requirements and procurement processes Contribute to security audits and prepare audit reports and technical documentation Actively participate in the implementation of current IT security measures within the STRABAG Group Reference: 8vTwk0T_kCvJrqFqz95y8ws5Fh-nRK_DFYnoFfrvzyy2Irwei4AyySn-HpaBZR64 Profile: Completed degree in Computer Science, Information Technology, Business Informatics or a comparable field, or an equivalent qualification At least 3 years of hands-on experience in a Security Operations Center (SOC), focusing on SIEM, security monitoring, incident detection and response Ability to understand network traffic and detect, monitor, and investigate potential security threats across network, remote, and cloud systems Experience with common security tools such as Microsoft Defender and SPLUNK Strong understanding of network traffic and common cyber threats such as malware, phishing and DDoS attacks, including the ability to detect and investigate potential security incidents Strong analytical and communication skills, with the ability to work independently and as part of an international team; good command of English and German Additional experience in the following areas is an advantage: Vulnerability assessments, penetration testing or ethical hacking Digital forensics, malware analysis or reverse engineering Implementation of IT security solutions in a project environment Offer: Make an impact on IT security and help protect a complex, international IT environment Shape and improve our SIEM environment and actively contribute your expertise and ideas Take ownership and contribute to security solutions used across the STRABAG Group Work in an international environment with IT security experts and colleagues across countries Broaden your security expertise across SIEM, incident response, risk assessments and security audits Receive a competitive salary reflecting your experience and professional expertise Diverse career opportunities Competitive compensation Health promotion Employee events Good transport connection Network eG Völklinger Str. 1, 40219 Düsseldorf, Nemačka Više o posl"
+  },
+  {
+   "source": "infostud",
+   "id": "756432",
+   "title": "Junior ERP Consultant (Yardi)",
+   "company": "Stellar Advisory d.o.o.",
+   "location": "Novi Sad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SAP",
+    "Prodaja / konsultanti",
+    "ERP"
+   ],
+   "posted": "2026-09-17",
+   "expires": "02.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-erp-consultant-yardi/stellar-advisory-doo/756432",
+   "summary": "Junior Yardi Consultant will support Yardi implementations and system configuration for international real estate clients through hands-on project work. The role exists to ensure accurate data migrations and smooth go-lives while developing ERP and finance process expertise.",
+   "matched": [
+    "etl"
+   ],
+   "details": "O poslodavcu ABOUT US Stellar Advisory is an international consultancy and software company specialising in real estate technology and a leading Yardi implementation partner in the Netherlands. We support some of the largest real estate owners and asset managers in the Netherlands and across Europe, with several of our clients managing portfolios exceeding 1,000,000 m². ABOUT THE ROLE Stellar Advisory supports real estate organisations with Yardi implementations, system optimisation, data migration, business intelligence and ongoing support. Our teams operate from Amsterdam and Novi Sad. We are looking for a Junior Yardi Consultant who is interested in ERP systems and wants to develop into a Yardi specialist. You will support projects for international real estate clients and build your expertise through hands-on project work, working closely with experienced consultants. This role is a great fit for someone who enjoys understanding business processes, has an interest in finance and technology, and wants to build a career in ERP consulting and support. Previous Yardi experience is not required, but curiosity, initiative and a willingness to learn are essential. Key responsibilities Support Yardi implementation projects alongside experienced consultants. Assist with mapping business processes to system functionality and configuration. Help configure workflows and set up lease administration. Support system testing by identifying, documenting and helping resolve issues. Assist with data migrations, including creating, testing and troubleshooting ETL data imports under the guidance of experienced consultants. Help prepare system documentation and end-user training materials. Support go-live preparation and implementation activities. Contribute to improvements after go-live and help investigate and resolve support tickets through our ticketing system. Reference: oCTqhAlEEFs9qWkgaixiVFdnbMp2vDI6c-bcgMAsND30bKC6P7uhZTgnydPrZN1R Must-have mindset You are eager to learn Yardi and willing to explore its functionality, test possible solutions and build your knowledge through hands-on experience. You take ownership of your learning and try to work through problems independently, while asking questions and seeking guidance when you get stuck. Requirements 0–2 years of experience in ERP, consulting, finance, business analysis or a similar field. A basic understanding of business processes, preferably related to finance or operations. An interest in ERP systems and technology. Strong analytical and problem-solving skills. The ability and motivation to learn quickly. Good organisational skills and attention to detail. Good written and spoken English. Nice to have Previous experience or an internship involving ERP systems such as Yardi, SAP, Microsoft Dynamics or similar. A basic understanding of accounts payable (AP), accounts receivable (AR), the general ledger (GL) or other financial processes. Knowledge of real estate, property management or lease administration. Fluency in Dutch, Italian, Spanish, German or French. Practical details Location: Novi Sad, Serbia. Working model: On-site. Travel: Occasional travel within Europe. Benefits: Private health insurance. Salary: Competitive salary based on your relevant skills, experience and demonstrated potential. Application: Please submit your CV together with a short motivation letter explaining why you are interested in the Junior Yardi Consultant role and why you would like to develop your career in ER"
+  },
+  {
+   "source": "infostud",
+   "id": "756721",
+   "title": "Medior ERP Consultant (Yardi)",
+   "company": "Stellar Advisory d.o.o.",
+   "location": "Novi Sad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "SAP",
+    "Prodaja / konsultanti",
+    "ERP"
+   ],
+   "posted": "2026-09-18",
+   "expires": "03.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/medior-erp-consultant-yardi/stellar-advisory-doo/756721",
+   "summary": "The role exists to support Yardi implementation and optimisation projects while developing into a Yardi specialist through hands on project work. The successful candidate will deliver configuration testing data migration and user support to ensure smooth go live and post go live improvements for international real estate clients.",
+   "matched": [
+    "etl",
+    "sql"
+   ],
+   "details": "O poslodavcu ABOUT US Stellar Advisory is an international consultancy and software company specialising in real estate technology and a leading Yardi implementation partner in the Netherlands. We support some of the largest real estate owners and asset managers in the Netherlands and across Europe, with several of our clients managing portfolios exceeding 1,000,000 m². ABOUT THE ROLE Stellar Advisory supports real estate organisations with Yardi implementations, system optimisation, data migration, business intelligence and ongoing support. Our teams operate from Amsterdam and Novi Sad. We are looking for a Yardi (ERP) Consultant who is interested in ERP systems and wants to develop into a Yardi specialist. You will support projects for international real estate clients and build your expertise through hands-on project work, working closely with experienced consultants. This role is a great fit for someone who enjoys understanding business processes, has an interest in finance and technology, and wants to build a career in ERP consulting and support. Previous Yardi experience is not required, but curiosity, initiative and a willingness to learn are essential. Key responsibilities Support Yardi implementation projects alongside experienced consultants. Assist with mapping business processes to system functionality and configuration. Help configure workflows and set up lease administration. Support system testing by identifying, documenting and helping resolve issues. Assist with data migrations, including creating, testing and troubleshooting ETL data imports under the guidance of experienced consultants. Help prepare system documentation and end-user training materials. Support go-live preparation and implementation activities. Contribute to improvements after go-live and help investigate and resolve support tickets through our ticketing system. Reference: RVfyi1wj1UJxt0tyd2KQmPIRaJkbXUjeV2nQtwZ6qtQPoLH5cdhKYY-PijYcdMMt Must-have mindset You are eager to learn Yardi and willing to explore its functionality, test possible solutions and build your knowledge through hands-on experience. You take ownership of your learning and try to work through problems independently, while asking questions and seeking guidance when you get stuck. Requirements 2–4 years of experience in ERP, consulting, finance, business analysis or a similar field. A basic understanding of business processes, preferably related to finance or operations. An interest in ERP systems and technology. Strong analytical and problem-solving skills. Good knowledge of Microsoft Excel and PowerPoint. The ability and motivation to learn quickly. Good organisational skills and attention to detail. Good written and spoken English. Nice to have Previous experience or an internship involving ERP systems such as Yardi, SAP, Microsoft Dynamics or similar. A basic understanding of accounts payable (AP), accounts receivable (AR), the general ledger (GL) or other financial processes. Knowledge of SQL. Knowledge of real estate, property management or lease administration. Fluency in Dutch, Italian, Spanish, German or French. Practical details Location: Novi Sad, Serbia. Working model: On-site. Travel: Occasional travel within Europe. Benefits: Private health insurance. Salary: Competitive salary based on your relevant skills, experience and demonstrated potential. Application: Please submit your CV together with a short motivation letter explaining why you are interested in the Junior Yardi "
+  },
+  {
+   "source": "infostud",
+   "id": "756315",
+   "title": "Observability-Monitoring Specialist",
+   "company": "Pollard Digital Solutions",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "AWS",
+    "DevOps",
+    "Foundation",
+    "Sistemska administracija",
+    "Cloud",
+    "Kubernetes",
+    "RDS"
+   ],
+   "posted": "2026-09-17",
+   "expires": "02.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/observability-monitoring-specialist/pollard-digital-solutions/756315",
+   "summary": "This role builds and operates observability platforms to ensure reliability and visibility across cloud native infrastructure and applications. The specialist will enable engineering teams by implementing Grafana pipelines, Kubernetes monitoring, and application instrumentation to improve system performance and predictability.",
+   "matched": [
+    "aws",
+    "data platform",
+    "kubernetes"
+   ],
+   "details": "O poslodavcu We are looking for an Intermediate Observability-Monitoring Specialist with a strong foundation in modern observability practices and tools. This role is ideal for someone with hands-on experience in building and maintaining observability platforms that support scalable, cloud-native environments. You will work closely with platform engineering, SRE, and development teams to ensure system reliability, performance, and visibility across our infrastructure and applications. Who We Are Pollard Digital Solutions - Europe is a full-solution supplier of lottery management and iLottery technology for lottery markets. We’re a division of Pollard Banknote Ltd., a leading partner to 60 lotteries worldwide, known for high-quality instant ticket products, licensed games, retail merchandising solutions, and innovation. Established in 1907 and headquartered in Winnipeg, Canada, Pollard Banknote is publicly traded on the Toronto Stock Exchange (PBL). Our objective is to deliver the most innovative solutions that will render industry-leading returns to good causes in an ethically responsible way. We pride ourselves on a collaborative and inclusive workplace where creativity, team spirit, and respect are core to how we work. What We Offer A truly collaborative and supportive working environment Modern office space with on-site parking Private health insurance Coverage for medical treatments outside of Serbia Learning and development budget Profit sharing – every role plays a part in our success Budget for sports activities Team-building and social activities Employee referral bonuses Hybrid work environment Additional employee perks Reference: A7bFdJRQjR3KBNhRzgc2PMKWEwm3h_4skmCaBM3V81ZszSWaawzY_nv3DGQkVj8U What You’ll Do Design, implement, and maintain observability solutions using Grafana Cloud and Grafana OSS Customize and manage Grafana Alloy pipelines for telemetry data collection and transformation Build and optimize observability for AWS services, focusing on CloudWatch metrics and logs Implement observability for EKS clusters, leveraging Prometheus, OpenTelemetry, and Istio Monitor and analyze database performance, with a focus on Amazon RDS Instrument applications for tracing, profiling, and visibility, using modern observability standards Collaborate with engineering teams to define and track KPIs and OKRs related to system health and performance Contribute to infrastructure-as-code efforts using Terraform (preferred) Support deployment and configuration of observability tools using Helm charts (preferred) Advocate for and apply SRE principles, platform engineering best practices, and development productivity tooling Who You Are You are a hands-on observability specialist who thrives in dynamic, cloud-native environments. You combine strong technical expertise with a collaborative mindset, helping teams gain visibility into complex systems and improve reliability. You’re curious, detail-oriented, and proactive about solving performance challenges before they impact users. You take ownership of your work, communicate clearly across engineering and product teams, and enjoy building scalable, data-driven monitoring solutions that make systems more predictable and resilient. What You’ll Need Minimum 3 years of experience in observability, DevOps, or related IT roles Proven experience with Grafana Cloud and OSS, including alerting, dashboarding, and SLOs Experience customizing and deploying Grafana Alloy Hands-on experience with Kubern"
+  },
+  {
+   "source": "infostud",
+   "id": "756447",
+   "title": "Team Lead - Yardi Consulting Team",
+   "company": "Stellar Advisory d.o.o.",
+   "location": "Novi Sad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Python",
+    "Menadžment"
+   ],
+   "posted": "2026-09-17",
+   "expires": "02.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/team-lead-yardi-consulting-team/stellar-advisory-doo/756447",
+   "summary": "This hands on role leads the Novi Sad consulting team to deliver complex Yardi implementations and large scale data migrations for international real estate clients. The lead will manage projects from requirements to delivery, bridge local and Amsterdam teams and develop consultants technical and professional skills.",
+   "matched": [
+    "python",
+    "etl",
+    "sql"
+   ],
+   "details": "O poslodavcu ABOUT US Stellar is an international consultancy and software company specialising in real estate technology. We help leading real estate companies improve their business processes and technology, with a strong focus on Yardi, data, reporting and automation. Our teams operate from Amsterdam and Novi Sad. As our Novi Sad team continues to grow, we’re looking for an experienced Team Lead – Yardi Consulting to lead the local team and work closely with our consultants, management and international clients. Help grow our Novi Sad team This is a hands-on management role. You’ll be responsible for the day-to-day leadership and development of our Novi Sad consulting team, while remaining actively involved in complex client projects. You’ll also become an important link between our teams in Novi Sad and Amsterdam and work directly with clients, primarily real estate companies in the Netherlands. What you’ll do Lead, coach and develop the Novi Sad consulting team Coordinate priorities, capacity and work allocation Help recruit and onboard new consultants as the team grows Work closely with our Amsterdam team and management Lead and support complex Yardi projects and implementations Work on large-scale Yardi data migrations Translate business requirements into functional and technical solutions Design and develop Yardi reports using YSR and SQL Work with Yardi clients operating in different real estate sectors, like commercial, residential and student housing Advise clients on property management, asset management and leasing processes Develop reporting and analytics solutions using Power BI and related technologies Work directly with client stakeholders and senior management Improve our internal processes and knowledge sharing Take ownership of projects from requirement to delivery Reference: n8ORT0QuZhkyH3N_ZBQgPZUC_NaNih2smpulhhGBw8ni7jv5PfW_XAubTXmtUQqp We’re looking for someone who… Has at least 5 years of relevant experience in real estate technology, Yardi consulting or Yardi-based real estate operations Has a relevant Master’s degree in Finance, Real Estate, Economics, Data & Analytics or another quantitative field Has extensive hands-on experience with Yardi Voyager for both commercial and residential Understands property management, asset management and leasing processes Has significant experience with Yardi data migrations as well as developing Yardi Standard Reports (YSR) and SQL reports Has experience with Power BI, management reporting and DWH architecture Can translate business requirements into technical solutions Has experience working directly with clients and senior stakeholders Is professionally fluent in Dutch and English , both written and spoken Enjoys taking ownership and developing other people Professional fluency in Dutch is important for this position as the role involves direct interaction with our predominantly Dutch-speaking client base and stakeholders. Bonus points if you have experience with Microsoft Fabric Python Power Query ETL/ELT processes Integrating Yardi with external reporting and analytics platforms AI-Agents What success looks like After your first year you will have: Become the day-to-day lead of our Novi Sad consulting team Helped grow and develop the team as the office expands Taken ownership of complex international Yardi projects Built a strong connection between our Novi Sad and Amsterdam teams Helped consultants develop both technically and professionally Improved the quality and sca"
+  },
+  {
+   "source": "infostud",
+   "id": "756597",
+   "title": "Technical Product Lead",
+   "company": "Adecco Outsourcing d.o.o.",
+   "location": "Niš",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "C++",
+    "Git",
+    "Svn",
+    "Python",
+    "ARM",
+    "Jira",
+    "Confluence",
+    "UML",
+    "C",
+    "Programiranje",
+    "VHDL",
+    "Hardware",
+    "Embedded",
+    "Agile",
+    "FPGA",
+    "Matlab"
+   ],
+   "posted": "2026-09-18",
+   "expires": "03.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/technical-product-lead/adecco-outsourcing-doo/756597",
+   "summary": "Technical Product Lead will steer the development team to ensure technically correct product delivery and take shared responsibility for system and subsystem modelling validation and verification. The role combines hands on implementation with coordination of external providers and central technical communication to align development activities with product strategy.",
+   "matched": [
+    "python"
+   ],
+   "details": "O poslodavcu Our client, ebs electronics d.o.o , is the newly established manufacturing entity of an Austrian-based group active in engineering, battery and electronics systems, as well as energy and service solutions for industries including renewable energy, automotive, MedTech and industrial systems. As part of its growth in Serbia, the company is looking for an experienced Technical Product Lead to join its development team and take a key role in the technical steering and further development of its products. These are your challenges: Technical steering of the development team Implementing the technical vision and ensuring technically correct product delivery Taking responsibility for cross-functional requirements, system and subsystem modelling, validation and verification, as well as technical process conformity Supporting technical decision-making and change management Planning short-, medium- and long-term development activities together with the Product Manager Contributing at least 30% hands-on to implementation tasks Coordinating external service providers Reference: vE1evUrZqModjqxiVFKz48xI5b3xan8a6HIbguk2loxA3toACVt7UZepi7neFRjt Central point of communication Acting as a key technical contact for the development team, customers, external partners and other relevant stakeholders Facilitating communication and knowledge sharing within the team Taking responsibility for onboarding new team members Coordinating technical planning and communication with customers and relevant stakeholders Supporting knowledge transfer within the team Ensuring development requirements and company strategy Monitoring technical progress and communicating status to the team and Product Manager Planning, preparing, facilitating and documenting technical reviews and meetings Supporting the continuous improvement of development processes, methods and tools Supporting the Product Manager and Marketing with product-specific technical documentation Advising the Product Manager on product planning and development Contributing to the technical roadmap and product vision Identifying relevant standards Defining development requirements, content and scope Supporting effort and cost estimation Contributing to the definition of development processes and models Supporting product maintenance and further development In addition to the defined core tasks, the role description also covers all activities arising in the context of product success, provided they are appropriate and reasonable. What you bring with you: System-level experience Strong experience in system architecture and system modelling, including UML / SysML Knowledge of communication interfaces such as serial, Ethernet and fieldbus Experience with variant management and configuration management Practical experience with test bench operation, maintenance and servicing, including HiL systems Experience with configuration management and associated tools such as SVN and Git Experience with release management and planning Experience with requirements management, including traceability from requirements to tests Knowledge of test methodologies and different test levels Embedded software development Experience with MPSoCs, ideally AMD Zynq UltraScale+, and associated development tools Experience with ARM Cortex microprocessors and associated modern peripherals, including DDR4 memory controllers, DMA, coherency units and CoreSight Experience with embedded virtualisation and partitioning technologies such as "
+  },
+  {
+   "source": "helloworld",
+   "id": "756601",
+   "title": "Front-End Developer",
+   "company": "Digistore24Eklektika",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "css",
+    "html",
+    "cms",
+    "qa"
+   ],
+   "posted": null,
+   "posted_window": "poslednjih 3 dana",
+   "expires": "04.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Front-End-Developer/Digistore24Eklektika/756601",
+   "summary": "Digistore24/Eklektika Rad od kuće online intervju 04.10.2026. Oglas dostupan i osobama sa invaliditetom JavaScript CSS HTML CMS QA Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Front-End Developer Front-End Developer Digistore24/Eklektika Rad od kuće online intervju 04.10.2026. Oglas dostupan i osobama sa invaliditetom JavaScript CSS HTML CMS QA intermediate Front-End Developer – Marketing team REMOTE / FULL-TIME Are you a hands-on developer who values fast, accessible, meticulously built websites and is comfortable working within an established technical and design system? Do you want to build and maintain high-performing marketing pages using a framework-light architecture while avoiding unnecessary reinvention? If yes, then this could be your next favorite role. We’re looking for a Front-End Developer to join our remote team and help implement and evolve our marketing website. Who is Digistore24? Here at Digistore24, we create client success. Our mission is to empower limitless success for digital entrepreneurs through innovation, connection, and growth, helping them reach their audiences by automating and digitalizing the complete sales process: from order forms, invoices, affiliates, payment processes, and statistics to accounting and conversion optimization. Eklektika, a company from Belgrade, has existed for 20 years and recently became an integral part of the German/USA company Digistore24. Digistore24 is a global affiliate marketplace connecting offer owners and affiliates across digital products, subscriptions, services, and online business models, operating in ecosystems where visibility, trust, and speed matter. Your Mission: This is not your average developer role. In fact, this is not a React, Vue, Tailwind, or Bootstrap role. Our marketing site is intentionally framework-light, relying on Astro for fully static output, Sanity as a headless CMS for structured content and translations, and vanilla JavaScript and CSS for front-end behavior and styling. Your mission is to ensure our marketing website communicates our ambition through a clear, high-performing, and consistent digital experience. You’ll initially focus on content development within Sanity Studio, using existing Custom Code components and our established ds24-prefixed architecture. As your familiarity with the platform grows, you will expand into translating approved designs into reusable, production-ready Astro sections, templates, and page components. Success in this position depends less on familiarity with a specific framework and more on strong fundamentals, sound engineering judgment, and the discipline to extend existing conventions rather than creating competing patterns. Responsibilities: Implementing and maintaining marketing pages using existing Sanity page-builder sections, content models, and Custom Code components. Building responsive interfaces with semantic HTML, modern vanilla CSS, and purposeful vanilla JavaScript, keeping performance and maintainability central to every implementation. Gradually expanding into writing GROQ queries to retrieve the content required by pages and components. Applying the established Digistore24 design system and section structure consistently, improving existing patterns only through appropriate architectural and review processes. Validating work thoroughly across breakpoints and supported browsers to identify and resolve visual, responsive, accessibility, and functional issues before release. Working closely with design, marketing, content, and engineering stakeholders to incorporate feedback efficiently and communicate constraints, trade-offs, and implementation status clearly. Using AI"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-twikey-java-developer",
+   "title": "Java Developer",
+   "company": "Twikey",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-09-17",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/twikey-java-developer",
+   "summary": "Headquarters: Ghent - Belgium URL: https://www.twikey.com Are you a driven back-end developer who doesn't wait for instructions, but is already thinking two steps ahead? Who experiments with new technologies and smart solutions alongside the job? Then we want to talk to you. Straight forward but clear: Twikey isn't looking for someone to just execute. We're looking for someone who thinks, does and",
+   "matched": [
+    "weworkremotely"
+   ]
+  },
+  {
+   "source": "helloworld",
+   "id": "756595",
+   "title": "Scrum Master",
+   "company": "CREATEQ",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "scrum",
+    "agile"
+   ],
+   "posted": null,
+   "posted_window": "poslednjih 3 dana",
+   "expires": "18.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Scrum-Master/CREATEQ/756595",
+   "summary": "CREATEQ 3 Beograd | Hibrid online intervju 18.10.2026. SCRUM Agile Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Scrum Master Scrum Master CREATEQ 3 Beograd | Hibrid online intervju 18.10.2026. SCRUM Agile intermediate Apply Here Upoznaj kompaniju O Kompaniji Iskustva Plate Beneficije Tech Stack CxO Brief Dobrodošli u svet CREATEQ-a! Mi smo švajcarska kompanija koja se bavi razvojem softvera za razne industrije – od avijacije i finansija, preko energetike i e-učenja, pa sve do telekomunikacija. U Švajcarskoj smo prisutni još od 1996. godine, dok smo prvi razvojni centar u Srbiji otvorili 2004. godine. Počeli smo u Beogradu, proširili se na Niš, a zatim i na Kragujevac. Paralelno s razvojem u Srbiji, širili smo svoja tržišta i u Rumuniji i Moldaviji. Danas se ponosimo timom od oko 200 ljudi koji svakodnevno oblikuju našu kulturu i već više od dve decenije čine CREATEQ sjajnim mestom za rad. Verujemo u timski duh, podržavamo razmenu znanja i brinemo o balansu između posla i privatnog života. Naša strast je razvoj softvera! Uz stručnjake za .NET, JAVA, PHP, Mobile i Web tehnologije, naš tim čine i Scrum Masteri, Business Analisti, Product Owneri, DevOps inženjeri i mnogi drugi. Zajedno kreiramo, razvijamo i održavamo jedinstvena rešenja za klijente iz Ujedinjenog Kraljevstva, Nemačke, Švajcarske i Austrije. Želite da zavirite još dublje u naš svet? Uvek smo u potrazi za novim talentima – pogledajte naše otvorene pozicije na: https://www.createq.com/en/careers 3 60% Menadžment kompanije 2.6 Beneficije 3.2 Balans karijere i privatnog života 2.6 Timska atmosfera 4.2 Zadovoljstvo projektima 3.2 Mogućnost napredovanja 2.6 Iskustvo o radu Iskustvo 04.12.2025 2 Ne preporučuje Qa Prethodno zaposlen/a na neodređeno 7-10 godina Pozitivno Dobre kolege, dobra atmosfera, dobri uslovi za rad, dobra oprema Zamerke Ne vode računa o zaposlenima, na zaposlene gledaju samo kao na resurs i broj Korisno? 3 Pročitaj sva iskustva o kompaniji Software Developer/Engineer 24 plate 1.502 € Prosečna neto plata min 600 medijana 1.350 prosek 1.502 max 3.400 DevOps Engineer 2 plate 2.200 € Prosečna neto plata min 2.000 Prosek i medijana 2.200 max 2.400 QA Specialist 4 plate 1.125 € Prosečna neto plata min 700 medijana 1.075 prosek 1.125 max 1.650 Test Engineer 2 plate 1.075 € Prosečna neto plata min 500 Prosek i medijana 1.075 max 1.650 Business Analyst 3 plate 2.050 € Prosečna neto plata min 1.100 medijana 1.900 prosek 2.050 max 3.150 Technical Lead 1 plata 2.200 € Prosečna neto plata min 2.200 Prosek i medijana 2.200 max 2.200 IT Technician 1 plata 700 € Prosečna neto plata min 700 Prosek i medijana 700 max 700 Software Developer/Engineer 1 plata 8 € /satnica Prosečna satnica min 8 Prosek i medijana 8 max 8 Graphics Designer 1 plata 800 € Prosečna neto plata min 800 Prosek i medijana 800 max 800 Backend developer 1 plata 2.000 € Prosečna neto plata min 2.000 Prosek i medijana 2.000 max 2.000 Full stack developer 1 plata 1.150 € Prosečna neto plata min 1.150 Prosek i medijana 1.150 max 1.150 Delivery Manager 1 plata 2.554 € Prosečna neto plata min 2.554 Prosek i medijana 2.554 max 2.554 Porodica i roditeljstvo Timska druženja Hibridni model rada Edukacija, profesionalni razvoj Sport i rekreacija Dobrovoljno zdravstveno osiguranje Nagrade, bonusi, pokloni Poslovna putovanja Java C# React .NET JavaScript PHP SCRUM NodeJS Docker Kubernetes Groovy Scala Python HTML5 Azure AWS RabbitMQ Kafka IT kompanije iz prve ruke Ivan Kun, General Manager CREATEQ Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost do"
+  },
+  {
+   "source": "helloworld",
+   "id": "753708",
+   "title": "Senior Frontend & Mobile Software Developer",
+   "company": "Keba d.o.o.",
+   "location": "Novi Sad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "angular",
+    "ios",
+    "jira",
+    "confluence",
+    "swift",
+    "scrum",
+    "typescript",
+    "cloud",
+    "agile",
+    "ionic"
+   ],
+   "posted": null,
+   "posted_window": "poslednjih 3 dana",
+   "expires": "04.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Frontend-Mobile-Software-Developer/Keba-d.o.o/753708",
+   "summary": "Keba d.o.o. 4.3 Odgovara na prijave Dobrovoljno zdravstveno osiguranje Edukacija i konferencije Fleksibilni rad Novi Sad 04.10.2026. Angular iOS Jira Confluence Swift SCRUM TypeScript Cloud Agile Ionic Senior",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior Frontend & Mobile Software Developer Senior Frontend & Mobile Software Developer Keba d.o.o. 4.3 Odgovara na prijave Novi Sad Novi Sad: Hilandarska 2 04.10.2026. Angular iOS Jira Confluence Swift SCRUM TypeScript Cloud Agile Ionic senior KEBA Novi Sad was established in 2012 as a subsidiary of the Austrian company KEBA AG, which has been operating since 1968 in Linz. In addition to industrial automation being our primary business focus, we are also expanding our interests into areas such as electromobility, energy automation, banking automation, logistics, and more. Senior Frontend & Mobile Software Developer We are looking for a new team member with proven experience in frontend and mobile (iOS) development to join our engineering team. You will play a key role in designing and implementing frontend solutions and a native iOS mobile application for the KEBA eMobility Portal and App , backed by our cloud platform. You will work closely with frontend, backend, mobile, and UI/UX experts in an agile team, with a focus on both frontend and native iOS application development. You can expect diverse technical challenges, opportunities to influence product direction, and a clear professional growth path. As our product evolves, you may also contribute to other exciting projects across KEBA. Please note: This role is primarily office-based. While hybrid work is supported, most collaboration within the team takes place on-site. What you'll bring ► Strong experience with Angular v16+ and TypeScript ► Deep understanding of RxJS and reactive programming, plus experience with Signals ► Solid experience with SCSS and Tailwind ► Strong hands-on experience with Swift and native iOS application development ► Experience with Ionic or other cross-platform development frameworks ► Experience working with GitLab, Jira, and Confluence, and familiarity with Agile/Scrum methodologies ► BSc (minimum) in Software Engineering, Computer Science, or a related field, with at least 3 years of professional experience in the relevant technologies ► Proactive and self-motivated, with a strong commitment to software quality, maintainability, and clean architecture ► Strong English communication skills, written and verbal Benefits offered by KEBA ► Great team spirit nurtured as a main aspect of our company’s culture ► Flexible working hours ► Compensatory time (no lost overtime hours/minutes) ► Hybrid work mode: combining home office and on-site work ► Ability to reduce workload for a defined time ► 22 vacation days (+ additional days for loyal employees) ► Self-learning time (10% of total working time) ► Internal library, training programs, online courses, conferences participation ► Private health insurance ► FitPass membership available ► Covered parking fees ► Christmas gifts (vouchers) for KEBA children ► Fully equipped kitchen and dining/chill-out area in our premises Apply Here Upoznaj kompaniju O Kompaniji Iskustva Plate Beneficije Tech Stack KEBA Grupa je ponosna na svoj kolektiv u Novom Sadu koji uspešno posluje od 2012. godine. Naš novosadski tim uspeva da iz godine u godinu stiče sve veće poverenje i ostvaruje uspehe u okviru KEBA Grupe. Svi proizvodi na kojima radimo – softverski i hardverski – deo su naše kompanije, tako da se poslovne odluke i strategije donose u okviru grupe, a naši inženjeri ne moraju da strahuju od rokova koji su trebali biti ostvareni juče. Najveći deo posla koji pokriva novosadski ogranak čine softverski projekti koji se obavlja"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-circleci-software-engineer",
+   "title": "Software Engineer",
+   "company": "CircleCI",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-09-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+   "summary": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. At CircleCI, our guiding principles aren't posters on a wall. We lear",
+   "matched": [
+    "weworkremotely"
+   ]
+  },
+  {
+   "source": "helloworld",
+   "id": "756743",
+   "title": "Technical Artist II",
+   "company": "IGT D&B d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "3d",
+    "unity",
+    "maya",
+    "adobe",
+    "blender"
+   ],
+   "posted": null,
+   "posted_window": "poslednjih 3 dana",
+   "expires": "18.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Technical-Artist-II/IGT-DB-d.o.o/756743",
+   "summary": "IGT D&B d.o.o. 3.7 Beograd | Hibrid 18.10.2026. 3D Unity Maya Adobe Blender Intermediate global.searchSelectItemEvents = {\"753708\":{\"event\":\"select_ite",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Technical Artist II Technical Artist II IGT D&B d.o.o. 3.7 Beograd | Hibrid 18.10.2026. 3D Unity Maya Adobe Blender intermediate IGT , where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences —powered by world‑class content , strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. With a team of over 6,000 employees across 30+ countries and products delivered in more than 100 jurisdictions worldwide , we operate at scale while staying closely connected to costumers we serve. If you’re ready to bring your talent to a team shaping the future of entertainment, your next big move starts here - www.igt.com . What You'll Do Hiring location: Serbia, Belgrade Employment type: Full-time position through employment contract. Requirement: Candidates must be fully eligible to work full-time under a local employment contract in Serbia. Work setup: Hybrid, connected to the local office in Belgrade At IGT, we design and build casino games played by millions of players worldwide. Based in Belgrade, Lynx Studio is IGT’s dedicated localization studio for EMEA and LAC markets. Our team adapts game mathematics, features, and themes to meet the needs and preferences of diverse markets, while preserving the core elements that made the original games successful. For our Lynx studio we’re searching for talented Technical Artist who are passionate about creating and improving art production pipelines. What You'll Do As a Technical Artist you will play a crucial role in bridging the gap between art and technology, ensuring the seamless integration of visual elements into our games. Collaborating closely with art and programming teams to bridge the gap between artistic vision and technical implementation. Creating and maintaining technical PSD files for implementation. Leading and developing technical tool project for a game. Supporting artists and engineers in the art pipeline. Profiling and optimizing game assets for memory and performance gains while maintaining our high standards for user experience. What We`re Looking For Expert proficiency in Adobe Creative package with a strong focus on Photoshop and After Effects. Proficiency in Spine or any 3D software, preferably Blender and Maya. Experience working with game engines, especially Unity. Previous experience in the gaming industry is a plus. Commercial artist experience also counts as a plus. Benefits & Culture Permanent employment contract and a competitive salary. Private health insurance for you and your family. Flexible working hours, including a hybrid work model, along with various initiatives that support wellbeing and work-life balance. Opportunity to learn and continuously improve your skills through collaboration with e-learning platforms. Clear career development path with well-defined growth opportunities. A vibrant and stimulating work environment within Class-A office space. IGT is committed to fostering a diverse, equitable, and inclusive workplace that reflects the global communities and customers we serve. We strive to create an environment where all employees feel valued, respected, and empowered. IGT is an equal opportunity employer. We provide equal "
+  }
+ ]
+}
