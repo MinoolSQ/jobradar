@@ -24,7 +24,7 @@ Rutina: `trig_01ULSuKkaRpqi42QMmqhcWYY`, pregled na https://claude.ai/code/routi
 | Izvor | Kako se čita | Kako se zna šta je novo |
 |---|---|---|
 | poslovi.infostud.com | Sajt je Next.js, cela pretraga stoji kao JSON u `__NEXT_DATA__` bloku stranice. Ide petnaest pretraga po ključnim rečima. | Polje `onlineViewDate` u samom oglasu |
-| helloworld.rs | Server-renderovan HTML, parsira se regexom | Parametar `vreme_postavljanja` filtrira na serveru |
+| helloworld.rs | Server-renderovan HTML, parsira se regexom | Grub filter `vreme_postavljanja`, pa tačan `datePosted` iz JSON-LD bloka na stranici oglasa |
 | remoteok.com | Javni JSON API | Polje `epoch` |
 | weworkremotely.com | RSS, dva feeda | Polje `pubDate` |
 
@@ -79,6 +79,8 @@ smeta, oba treba pomeriti za sat unapred.
 
 - Infostud vraća najviše 30 oglasa po ključnoj reči, bez paginacije. Za dnevni prozor je to
   više nego dovoljno.
-- HelloWorld ne daje datum objave u listi, pa se filtriranje oslanja na njihov filter.
+- HelloWorld ne daje datum objave u listi, a njihov filter prima samo 2, 3 i 7 dana. Zato
+  skripta uzme najuži prozor pa proveri tačan datum na stranici svakog oglasa. Sa
+  `--no-details` ta provera otpada i u rezultatu može biti oglasa starijih od traženog dana.
 - LinkedIn nije uključen, traži prijavljivanje i blokira automatsko čitanje.
 - Joberty nije uključen, sajt je SPA i bez JavaScript-a vraća praznu stranicu.

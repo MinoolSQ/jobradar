@@ -141,9 +141,13 @@ HW_CARD = re.compile(
 )
 
 
-def collect_helloworld(days):
-    """HelloWorld ima filter po datumu postavljanja, pa je svezina resena na serveru."""
-    window = "today" if days <= 1 else str(min(days, 7))
+def collect_helloworld(days, cutoff, open_pages, char_limit):
+    """
+    Lista oglasa ne nosi datum objave, a filter na serveru prima samo 2, 3 i 7 dana,
+    dok vrednost za danas tiho vraca nefiltriranu stranu. Zato se uzme najuzi ponudjeni
+    prozor, pa se tacan datum procita iz JSON-LD bloka na stranici svakog oglasa.
+    """
+    window = "2" if days <= 2 else ("3" if days <= 3 else "7")
     jobs, errors = {}, []
     for cat in HELLOWORLD_CATS:
         params = {"vreme_postavljanja": window}
@@ -178,14 +182,33 @@ def collect_helloworld(days):
                 "hybrid": "hibrid" in place.lower(),
                 "tags": [t.replace("-", " ") for t in tags],
                 "posted": None,
-                "posted_window": "danas" if window == "today" else "poslednjih %s dana" % window,
+                "posted_window": "poslednjih %s dana" % window,
                 "expires": clean(expires.group(1)) if expires else None,
                 "salary": None,
                 "url": "https://www.helloworld.rs" + href,
                 "summary": text[:400],
                 "matched": ["helloworld"],
             }
-    return list(jobs.values()), errors
+
+    if not open_pages:
+        return list(jobs.values()), errors
+
+    svezi = []
+    for job in jobs.values():
+        try:
+            body, posted = page_data(job["url"], char_limit)
+        except Exception as exc:
+            job["details_error"] = str(exc)
+            svezi.append(job)  # bez datuma je bolje pustiti oglas nego ga izgubiti
+            continue
+        job["details"] = body
+        if posted:
+            job["posted"] = posted
+            job.pop("posted_window", None)
+            if datetime.strptime(posted, "%Y-%m-%d").date() < cutoff:
+                continue
+        svezi.append(job)
+    return svezi, errors
 
 
 def url_company(href):
@@ -299,11 +322,13 @@ def collect_wwr(cutoff):
 
 # Sve pre ovih reci je navigacija sajta, ne oglas.
 BODY_MARKERS = ("Tekst oglasa", "Oglasi za posao")
+LD_DATE = re.compile(r'"datePosted"\s*:\s*"(\d{4}-\d{2}-\d{2})')
 
 
-def page_text(url, limit):
-    """Skida stranicu oglasa i vraca goli tekst, bez menija i podnozja."""
+def page_data(url, limit):
+    """Sa stranice oglasa vraca goli tekst i datum objave, ako ga sajt daje."""
     page = fetch(url, tries=2)
+    posted = LD_DATE.search(page)
     body = re.sub(r"<(script|style|noscript)[^>]*>.*?</\1>", " ", page, flags=re.S | re.I)
     text = clean(re.sub(r"<[^>]+>", " ", body))
     for marker in BODY_MARKERS:
@@ -311,7 +336,7 @@ def page_text(url, limit):
         if spot > 0:
             text = text[spot + len(marker):].strip()
             break
-    return text[:limit]
+    return text[:limit], posted.group(1) if posted else None
 
 
 def add_details(jobs, how_many, char_limit):
@@ -320,10 +345,12 @@ def add_details(jobs, how_many, char_limit):
     for job in jobs:
         if done >= how_many:
             break
-        if job["source"] not in ("infostud", "helloworld") or not job.get("url"):
+        if job.get("details") is not None or not job.get("url"):
+            continue  # HelloWorld je svoje stranice vec otvorio
+        if job["source"] != "infostud":
             continue
         try:
-            job["details"] = page_text(job["url"], char_limit)
+            job["details"], _ = page_data(job["url"], char_limit)
         except Exception as exc:
             job["details_error"] = str(exc)
         done += 1
@@ -352,7 +379,8 @@ def main():
     jobs, errors = [], []
     plan = [
         ("infostud", lambda: collect_infostud(cutoff)),
-        ("helloworld", lambda: collect_helloworld(args.days)),
+        ("helloworld", lambda: collect_helloworld(
+            args.days, cutoff, args.details, args.details_chars)),
         ("remoteok", lambda: collect_remoteok(cutoff)),
         ("wwr", lambda: collect_wwr(cutoff)),
     ]
