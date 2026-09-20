@@ -7,6 +7,11 @@ on:
     # scheduler ume da kasni kad je guzva, nije garantovan na minut.
     - cron: "15 5 * * *"
   workflow_dispatch:
+    inputs:
+      dana:
+        description: "Koliko dana unazad da skupi oglase"
+        required: false
+        default: "1"
 
 permissions:
   contents: write
@@ -23,7 +28,7 @@ jobs:
           python-version: "3.12"
 
       - name: Skupi oglase
-        run: python fetch_jobs.py --days 1 --out data/oglasi.json
+        run: python fetch_jobs.py --days "${{ inputs.dana || 1 }}" --out data/oglasi.json
 
       - name: Arhiviraj dan
         run: |

@@ -16,8 +16,10 @@ HERE = Path(__file__).resolve().parent
 def build():
     sablon = (HERE / "routine_prompt.md").read_text(encoding="utf-8")
     profil = (HERE / "profil.md").read_text(encoding="utf-8")
-    # Profilu se skida naslov prvog nivoa da ne bode oči usred prompta.
-    profil = "\n".join(line for line in profil.splitlines() if not line.startswith("# "))
+    # Sve pre prvog podnaslova je beleška za čoveka, u prompt ide tek od "## ".
+    pocetak = profil.find("\n## ")
+    if pocetak > 0:
+        profil = profil[pocetak:]
     return sablon.replace("{{PROFIL}}", profil.strip())
 
 
