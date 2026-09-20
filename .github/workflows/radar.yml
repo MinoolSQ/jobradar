@@ -2,9 +2,10 @@ name: radar
 
 on:
   schedule:
-    # 05:45 UTC je 07:45 po beogradskom vremenu dok traje letnje racunanje.
-    # Rutina koja ovo cita krece u 06:00 UTC, pa ima petnaest minuta zazora.
-    - cron: "45 5 * * *"
+    # 05:15 UTC je 07:15 po beogradskom vremenu dok traje letnje racunanje.
+    # Rutina koja ovo cita krece u 06:00 UTC. Razmak je 45 minuta jer GitHub-ov
+    # scheduler ume da kasni kad je guzva, nije garantovan na minut.
+    - cron: "15 5 * * *"
   workflow_dispatch:
 
 permissions:

@@ -10,10 +10,15 @@ oglase, sve što ti treba je u JSON fajlu, uključujući i pun tekst svakog ogla
 Pročitaj `data/oglasi.json` iz kloniranog repozitorijuma. Ako ga nema, potraži ga sa
 `find . -name oglasi.json`.
 
-Proveri polje `generated_at`. Ako je starije od 30 sati, podaci su bajati, što znači da
-GitHub Action nije prošao. U tom slučaju pošalji mejl sa naslovom
-`Poslovi: podaci su stari` i navedi koliko je star fajl i kada je poslednji put osvežen,
-pa završi. Ako fajla uopšte nema, pošalji `Poslovi: nema podataka` i završi.
+Proveri polje `generated_at`, to je vreme kad je GitHub Action skupio oglase:
+
+- Ako je od danas, sve je u redu, nastavi normalno.
+- Ako nije od danas a mlađe je od 30 sati, Action je zakasnio ili nije prošao jutros.
+  Nastavi sa ocenjivanjem, ali na vrh mejla stavi podebljan red da su podaci od tog i tog
+  datuma, ne od jutros, i da oglasi objavljeni danas verovatno fale.
+- Ako je starije od 30 sati, pošalji mejl sa naslovom `Poslovi: podaci su stari`, navedi
+  kada je fajl poslednji put osvežen, i završi.
+- Ako fajla uopšte nema, pošalji `Poslovi: nema podataka` i završi.
 
 Struktura fajla: `count`, `errors`, `cutoff`, i niz `jobs`. Svaki oglas ima `title`,
 `company`, `location`, `tags`, `posted`, `expires`, `salary`, `url`, `summary`, i za

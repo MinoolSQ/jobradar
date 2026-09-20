@@ -71,8 +71,8 @@ Action se može pokrenuti ručno sa GitHub-a, dugme "Run workflow" na kartici Ac
 
 ## Vreme
 
-Action je `45 5 * * *` UTC, rutina `0 6 * * *` UTC, što je 07:45 i 08:00 po beogradskom
-vremenu dok traje letnje računanje. Od kraja oktobra to postaje 06:45 i 07:00, pa ako
+Action je `15 5 * * *` UTC, rutina `0 6 * * *` UTC, što je 07:15 i 08:00 po beogradskom
+vremenu dok traje letnje računanje. Od kraja oktobra to postaje 06:15 i 07:00, pa ako
 smeta, oba treba pomeriti za sat unapred.
 
 ## Ograničenja
