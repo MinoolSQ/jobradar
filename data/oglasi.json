@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-04T13:59:01+00:00",
+ "generated_at": "2026-10-04T14:03:10+00:00",
  "window_days": 3,
  "cutoff": "2026-10-01",
- "count": 9,
- "new_count": 0,
+ "count": 13,
+ "new_count": 4,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -158,6 +158,102 @@
   }
  },
  "jobs": [
+  {
+   "source": "helloworld",
+   "id": "759038",
+   "title": "Konsultant senior – Implementator poslovnog softvera (ERP-a)",
+   "company": "VEDE IT d.o.o",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "sql",
+    "erp"
+   ],
+   "posted": "2026-10-01",
+   "expires": "31.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Konsultant-senior-Implementator-poslovnog-softvera-ERP-a/VEDE-IT-d.o.o/759038",
+   "summary": "VEDE IT d.o.o. Beograd | Hibrid 31.10.2026. SQL ERP Intermediate Senior",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Konsultant senior – Implementator poslovnog softvera (ERP-a) Konsultant senior – Implementator poslovnog softvera (ERP-a) VEDE IT d.o.o. Beograd | Hibrid Beograd: Toše Jovanovića, Banovo Brdo 31.10.2026. SQL ERP senior intermediate Oblast naše ekspertize je prodaja i implementacija poslovnog softvera (ERP, MES, APS, EAM), kao i pružanje konsultantskih usluga pri izboru rešenja. Raspolažemo sa iskusnim konsultantskim timom za implementaciju i iskustvom od preko 30 godina na ovim poslovima. U cilju daljeg razvoja poslovanja potreban nam je: Konsultant senior – Implementator poslovnog softvera (ERP-a) Opis poslova: Implementacija poslovnog softvera ERP klase - UPIS u velikim i srednjim preduzećima na teritoriji Srbije i regionu Podrška korisnicima Uslovi: Radno iskustvo od minimim 3. godine Poznavanje poslovnih procesa u različitim delatnostima velikih i srednjih preduzeća Poželjno iskustvo na implementaciji softvera ERP klase Poznavanje MS Office paketa Znanje engleskog jezika Fakultetska diploma (tehnički ili ekonomski fakultet ili visoko obrazovanje iz oblasti organizacionih nauka, npr. FON ili srodne akreditovane visokoškolske ustanove) Znanje SQL-a (poželjno) Vozačka dozvola B kategorije Mesto zaposlenja - Beograd Šta nudimo? Dinamičan i atraktivan posao Napredovanje, širenje znanja i veština Hibridni model rada koji čini kombinacija rada u kancelariji i rada na daljinu Moderno radno okruženje u kancelariji smeštenoj na Banovom Brdu Ako ispunjavate tražene uslove i sebe vidite u Vede IT timu, pošaljite Vaš CV elektronskim putem. Više informacija o našoj firmi i ponudi softvera na www.vedeit.rs Konkuriši Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * Izaberi sa liste Problem pri slanju prijave za posao Problem sa registracijom ili loginom Odjava sa mejling liste Aktivacija ili deaktivacija korisničkog naloga Ostalo Poruka Pošalji Odustani Greška ... Ok Budi obavešten! Prati kompaniju i ne propusti nove važne informacije. Dobićeš email obaveštenje kada poslodavac objavi novi oglas za posao, kada neko podeli platu, iskustvo o radu ili sa intervjua. Prati Odustani Tvoj Infostud profil je spreman Jedan korak te deli do kreiranog profila. Završi popunjavanje",
+   "first_seen": "2026-10-04T14:03:10+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "758992",
+   "title": "Next.js Developer",
+   "company": "Codelogix",
+   "location": "Novi Sad | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "javascript",
+    "css",
+    "html",
+    "git",
+    "aws",
+    "azure",
+    "rest",
+    "qa",
+    "typescript"
+   ],
+   "posted": "2026-10-01",
+   "expires": "31.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Next.javascript-Developer/Codelogix/758992",
+   "summary": "Codelogix Novi Sad | Hibrid 31.10.2026. JavaScript CSS HTML Git AWS Azure REST QA TypeScript Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Next.js Developer Next.js Developer Codelogix Novi Sad | Hibrid 31.10.2026. JavaScript CSS HTML Git AWS Azure REST QA TypeScript intermediate Role Overview As a Next.js Developer, you will contribute to building modern, high-performance web applications using React and Next.js. You’ll work closely with designers, backend developers, and product teams to create reliable, responsive, and user-friendly digital experiences. This role is a great opportunity for a developer who wants to strengthen their frontend expertise, work with modern web technologies, and grow within a collaborative engineering environment. Key Responsibilities Develop and maintain scalable, performant web applications using React and Next.js. Write clean, maintainable, and well-structured JavaScript and TypeScript code. Build responsive and accessible user interfaces based on UI/UX designs. Integrate and consume REST APIs and work with backend services. Debug, troubleshoot, and resolve application issues. Optimize applications for performance, usability, and maintainability. Use Git and GitFlow as part of the development workflow. Participate in code reviews and contribute constructive feedback. Collaborate with designers, backend developers, QA, and product teams. Follow modern frontend development practices and continuously improve technical skills. Required Qualifications 3 years of profesional Experience with React and Next.js. Practical experience with JavaScript and TypeScript. Good understanding of HTML, CSS, and responsive design principles. Experience integrating and working with APIs. Familiarity with Git and GitFlow workflows. Strong debugging, analytical, and problem-solving skills. Ability to write clean, readable, and maintainable code. Good communication and teamwork skills. Willingness to learn, take ownership, and grow as a developer. Nice to Have Experience with testing, such as unit testing or Cypress. Understanding of authentication and security concepts. Basic knowledge of databases and data modeling. Familiarity with CI/CD pipelines and development automation. Exposure to cloud platforms such as Azure, AWS or Google Cloud. Experience working in an Agile/Scrum development environment. Familiarity with accessibility and SEO principles. Previous experience working on production web applications. Why Join Us? Competitive salary and benefits package. Opportunity to work on modern React and Next.js projects. Collaborative and supportive engineering environment. Opportunity to learn from experienced developers and work across different areas of the product. Professional growth and opportunities to expand your technical skills. Work on meaningful projects with modern development practices. Apply Here Upoznaj kompaniju O Kompaniji We are an agile IT group specializing in developing innovative digital solutions for the hospitality and amenities industry in the US. We are collaborating closely with a major US-based client with over $1B USD in Revenue, in building a cutting-edge mobile platform that integrates IoT devices and retail marketplace offers. The platform seamless integration with third-party services, enabling a comprehensive and interconnected ecosystem of offers. Leveraging modern technologies and a customer-centric approach, our team focuses on delivering scalable, secure, and consumer-friendly systems. Our mission is to deeply engage with our clients 13M consumer users to enhance their journey and shopping experience Pogledaj profil kompanije L",
+   "first_seen": "2026-10-04T14:03:10+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "759144",
+   "title": "Sales Engineer",
+   "company": "Apcom distribution d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-01",
+   "expires": "31.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Sales-Engineer/Apcom-distribution-d.o.o/759144",
+   "summary": "Apcom distribution d.o.o. Odgovara na prijave Beograd 31.10.2026. Senior",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Sales Engineer Sales Engineer Apcom distribution d.o.o. Odgovara na prijave Beograd 31.10.2026. senior About the job: Accountable for driving sales opportunities through technical presentations, demonstrations, and solution designs, ensuring seamless implementation and customer satisfaction post-sale. S/He collaborates with internal teams to provide feedback, address customer needs, and identify upselling opportunities to enhance customer adoption and ROI. Main Duties and Responsibilities: Drive sales opportunities by leveraging technical accelerators such as presentations, demonstrations, Proof of Concepts (POCs), and potentially engaging in pilot programs with professional services; Participate in technical sales cadence calls and communicate with other technical teams such as support and professional services throughout the sales cycle to ensure overall customer satisfaction; Assist in the deployment and implementation of solutions post-sale, ensuring smooth customer onboarding and addressing technical challenges; Deliver customer training sessions and create user documentation to maximize solution adoption and ROI; Act as a trusted advisor by maintaining strong relationships with customers and partners, ensuring long-term renewals, and addressing issues impacting satisfaction; Provide technical product enablement and mentoring to channel and internal resources; Serve as a subject matter expert in solution designs for the assigned products and services, offering appropriate product recommendations; Monitor customer adoption and suggest enhancements to improve outcomes and satisfaction; Collaborate with sales and product teams to qualify opportunities, present solution proposals, and contribute feedback on customer needs for product development; Engage internal resources (e.g., product management, marketing, support) to close sales opportunities and resolve implementation issues; Complete both pre-sales and post-sales documentation accurately to support the entire sales lifecycle; Work closely with product teams to provide feedback from implementation experiences to improve product offerings; Identify opportunities for upselling or cross-selling, driving additional revenue streams. Education: Bachelor’s degree in Computer Engineering, Computer Science or any other related field Qualifications/Skills: To be defined based on the Vendor. Proven track record in supporting sales cycles and driving technical solutions that meet customer needs. Strong understanding of the relevant technologies, tools, or platforms. Familiarity with the target industry and its technical challenges. Experience collaborating with cross-functional teams. Experience: At least 5 years of relevant experience Key Competencies: Customer Centric Agile Accountable Business Awareness Problem Solving and Decision Making Result Driven Negotiation Communicate effectively Apply Here Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće",
+   "first_seen": "2026-10-04T14:03:10+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "759037",
+   "title": "Senior Sales Manager/Senior Prodavac ERP, MES, APS Softvera",
+   "company": "VEDE IT d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "erp",
+    "crm"
+   ],
+   "posted": "2026-10-01",
+   "expires": "31.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Sales-ManagerSenior-Prodavac-ERP-MES-APS-Softvera/VEDE-IT-d.o.o/759037",
+   "summary": "VEDE IT d.o.o. Beograd 31.10.2026. ERP CRM Senior",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior Sales Manager/Senior Prodavac ERP, MES, APS Softvera Senior Sales Manager/Senior Prodavac ERP, MES, APS Softvera VEDE IT d.o.o. Beograd Beograd: Toše Jovanovića 11, Banovo Brdo 31.10.2026. ERP CRM senior Oblast naše ekspertize je prodaja i implementacija poslovnog softvera (ERP, MES, APS, EAM), kao i pružanje konsultantskih usluga pri izboru rešenja. Raspolažemo sa iskusnim konsultantskim timom za implementaciju i iskustvom od preko 30 godina na ovim poslovima. U cilju daljeg razvoja poslovanja potreban nam je: Senior Sales Manager/Senior Prodavac ERP, MES, APS Softvera Opis poslova: Kao Senior Prodavac ERP, MES, APS softvera, bićete odgovorni za kompletan prodajni ciklus – od identifikacije potencijalnih klijenata i razumevanja njihovih poslovnih procesa, do prezentacije rešenja i ugovaranja saradnje. Tražimo osobu koja ne prodaje samo \"softver\", već razume specifičnosti poslovanja naših potencijalnih klijenata i nudi im adekvatnu digitalnu transformaciju - rešenje. Glavne odgovornosti: Aktivno pronalaženje novih poslovnih prilika (B2B) i razvoj mreže klijenata. Analiza poslovnih potreba i procesa potencijalnih klijenata u saradnji sa timom za implementaciju. Priprema i izvođenje stručnih prodajnih prezentacija Izrada komercijalnih ponuda, vođenje pregovora i zaključenje ugovora. Građenje i održavanje dugoročnih odnosa sa ključnim donosiocima odluka (CEO, CFO, COO, IT direktori). Praćenje tržišnih trendova, aktivnosti konkurencije i redovno izveštavanje u CRM-u. Kvalifikacije i veštine: Iskustvo: Najmanje 5 godina dokazanog iskustva u B2B prodaji kompleksnih softverskih rešenja (ERP, MES, APS ili srodni poslovni sistemi). Tehničko i poslovno razumevanje: Odlično poznavanje osnovnih poslovnih procesa (proizvodnja, nabavka, prodaja, logistika, održavanje finansije, … ). Veštine komunikacije: Izuzetne pregovaračke, prezentacione i artikulacione sposobnosti. Samostalnost: Proaktivan pristup radu, usmerenost na ostvarivanje ciljeva i visoki standardi profesionalizma. Jezici i alati: Aktivno korišćenje engleskog jezika i rad u CRM sistemima, poznavanje MS Office paketa Ostali uslovi: Fakultetska diploma (tehnički ili ekonomski fakultet, obrazovanje iz oblasti organizacionih nauka (npr. FON ili srodne akreditovane visokoškolske ustanove)) Vozačka dozvola B kategorije Mesto zaposlenja - Beograd Šta nudimo? Atraktivan paket: Konkurentna osnovna plata uz stimulativan, neograničen bonus model vezan za prodajne rezultate. Fleksibilnost: Mogućnost hibridnog režima rada i prilagodljivo radno vreme. Podrška tima: Bliska saradnja sa iskusnim timom konsultanata i tehničke podrške koji učestvuju u demo fazama. Razvoj: Prilika za rad na velikim i izazovnim projektima digitalizacije poslovanja. Moderno radno okruženje u kancelariji smeštenoj na Banovom Brdu Ako ispunjavate tražene uslove i sebe vidite u Vede IT timu, pošaljite Vaš CV elektronskim putem. Više informacija o našoj firmi i ponudi softvera na www.vedeit.rs Konkuriši Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Term",
+   "first_seen": "2026-10-04T14:03:10+00:00"
+  },
   {
    "source": "infostud",
    "id": "759103",

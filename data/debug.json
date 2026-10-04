@@ -708,7 +708,6 @@
    "karaktera": 496286,
    "razlicitih_id": 30,
    "kartica": 30,
-   "page_linkovi": [],
    "prvih_id": [
     "753708",
     "755242",
@@ -722,37 +721,57 @@
     "759135",
     "759144",
     "759254"
-   ]
-  },
-  {
-   "params": "vreme_postavljanja=1",
-   "karaktera": 498536,
-   "razlicitih_id": 30,
-   "kartica": 30,
-   "page_linkovi": [],
-   "prvih_id": [
-    "753708",
-    "755242",
-    "755921",
-    "755927",
-    "756595",
-    "756763"
    ],
-   "poslednjih_id": [
-    "759103",
-    "759135",
-    "759144",
-    "759254"
-   ]
+   "param_imena": [
+    "a",
+    "action",
+    "client",
+    "disable_saved_search",
+    "display",
+    "emedium",
+    "esource",
+    "ev",
+    "family",
+    "guid",
+    "icampaign",
+    "icontent",
+    "id",
+    "ilist",
+    "imedium",
+    "isource",
+    "item_index",
+    "l",
+    "n",
+    "noscript",
+    "pcampaignid",
+    "pid",
+    "redirect",
+    "render",
+    "s",
+    "script",
+    "scroll_to",
+    "sg",
+    "show_more",
+    "t",
+    "token",
+    "utm_campaign",
+    "utm_medium",
+    "utm_source",
+    "value"
+   ],
+   "filter_isecci": [
+    "data-placeholder=\"Poslodavac\" /> postavljeno danas postavljeno u poslednja 2 dana postavljeno u poslednja 3 dana postavljeno u poslednjih 7 dana <div class=\"w-full md:w-56 md:mt-4 hidden __hw-search-",
+    "holder=\"Poslodavac\" /> postavljeno danas postavljeno u poslednja 2 dana postavljeno u poslednja 3 dana postavljeno u poslednjih 7 dana",
+    "type=\"button\" class=\"btn btn-outline btn-sm __search_sort \" data-val=\"p_vreme_postavljanja_sort\" > Najnovije Uskoro ističe <",
+    "type=\"button\" class=\"btn btn-outline btn-sm __search_sort \" data-val=\"p_vreme_postavljanja_sort\" > Najnovije Uskoro ističe"
+   ],
+   "opcije": []
   },
   {
    "params": "vreme_postavljanja=2",
    "karaktera": 442443,
    "razlicitih_id": 30,
    "kartica": 30,
-   "page_linkovi": [
-    "0"
-   ],
    "prvih_id": [
     "757701",
     "757902",
@@ -766,51 +785,47 @@
     "759135",
     "759144",
     "759254"
-   ]
-  },
-  {
-   "params": "vreme_postavljanja=3",
-   "karaktera": 242417,
-   "razlicitih_id": 1,
-   "kartica": 1,
-   "page_linkovi": [],
-   "prvih_id": [
-    "759254"
    ],
-   "poslednjih_id": [
-    "759254"
+   "param_imena": [
+    "a",
+    "action",
+    "client",
+    "display",
+    "emedium",
+    "esource",
+    "ev",
+    "family",
+    "guid",
+    "icampaign",
+    "id",
+    "imedium",
+    "isource",
+    "item_index",
+    "l",
+    "n",
+    "noscript",
+    "page",
+    "pcampaignid",
+    "redirect",
+    "render",
+    "s",
+    "script",
+    "scroll_to",
+    "sort",
+    "t",
+    "token",
+    "utm_campaign",
+    "utm_medium",
+    "utm_source",
+    "value",
+    "vreme_postavljanja"
    ]
   },
   {
-   "params": "vreme_postavljanja=7",
-   "karaktera": 435397,
-   "razlicitih_id": 23,
-   "kartica": 23,
-   "page_linkovi": [],
-   "prvih_id": [
-    "756939",
-    "758191",
-    "758203",
-    "758236",
-    "758241",
-    "758330"
-   ],
-   "poslednjih_id": [
-    "759103",
-    "759135",
-    "759144",
-    "759254"
-   ]
-  },
-  {
-   "params": "vreme_postavljanja=2&page=2",
-   "karaktera": 443058,
+   "params": "vreme_postavljanja=2&strana=2",
+   "karaktera": 443124,
    "razlicitih_id": 30,
    "kartica": 30,
-   "page_linkovi": [
-    "0",
-    "2"
-   ],
    "prvih_id": [
     "757701",
     "757902",
@@ -824,68 +839,224 @@
     "759135",
     "759144",
     "759254"
+   ],
+   "param_imena": [
+    "a",
+    "action",
+    "client",
+    "display",
+    "emedium",
+    "esource",
+    "ev",
+    "family",
+    "guid",
+    "icampaign",
+    "id",
+    "imedium",
+    "isource",
+    "item_index",
+    "l",
+    "n",
+    "noscript",
+    "page",
+    "pcampaignid",
+    "redirect",
+    "render",
+    "s",
+    "script",
+    "scroll_to",
+    "sort",
+    "strana",
+    "t",
+    "token",
+    "utm_campaign",
+    "utm_medium",
+    "utm_source",
+    "value",
+    "vreme_postavljanja"
    ]
   },
   {
-   "params": "vreme_postavljanja=7&page=2",
-   "karaktera": 417233,
-   "razlicitih_id": 21,
-   "kartica": 21,
-   "page_linkovi": [
-    "2"
-   ],
-   "prvih_id": [
-    "756939",
-    "758191",
-    "758203",
-    "758236",
-    "758241",
-    "758330"
-   ],
-   "poslednjih_id": [
-    "759038",
-    "759086",
-    "759103",
-    "759144"
-   ]
-  },
-  {
-   "params": "page=2",
-   "karaktera": 492051,
+   "params": "vreme_postavljanja=2&p=2",
+   "karaktera": 442959,
    "razlicitih_id": 30,
    "kartica": 30,
-   "page_linkovi": [
-    "2"
-   ],
    "prvih_id": [
-    "755242",
-    "755921",
-    "755927",
-    "756595",
-    "756763",
-    "756939"
+    "757701",
+    "757902",
+    "757995",
+    "758001",
+    "758034",
+    "758121"
    ],
    "poslednjih_id": [
-    "759086",
     "759103",
     "759135",
-    "759144"
+    "759144",
+    "759254"
+   ],
+   "param_imena": [
+    "a",
+    "action",
+    "client",
+    "display",
+    "emedium",
+    "esource",
+    "ev",
+    "family",
+    "guid",
+    "icampaign",
+    "id",
+    "imedium",
+    "isource",
+    "item_index",
+    "l",
+    "n",
+    "noscript",
+    "p",
+    "page",
+    "pcampaignid",
+    "redirect",
+    "render",
+    "s",
+    "script",
+    "scroll_to",
+    "sort",
+    "t",
+    "token",
+    "utm_campaign",
+    "utm_medium",
+    "utm_source",
+    "value",
+    "vreme_postavljanja"
+   ]
+  },
+  {
+   "params": "vreme_postavljanja=2&offset=30",
+   "karaktera": 443157,
+   "razlicitih_id": 30,
+   "kartica": 30,
+   "prvih_id": [
+    "757701",
+    "757902",
+    "757995",
+    "758001",
+    "758034",
+    "758121"
+   ],
+   "poslednjih_id": [
+    "759103",
+    "759135",
+    "759144",
+    "759254"
+   ],
+   "param_imena": [
+    "a",
+    "action",
+    "client",
+    "display",
+    "emedium",
+    "esource",
+    "ev",
+    "family",
+    "guid",
+    "icampaign",
+    "id",
+    "imedium",
+    "isource",
+    "item_index",
+    "l",
+    "n",
+    "noscript",
+    "offset",
+    "page",
+    "pcampaignid",
+    "redirect",
+    "render",
+    "s",
+    "script",
+    "scroll_to",
+    "sort",
+    "t",
+    "token",
+    "utm_campaign",
+    "utm_medium",
+    "utm_source",
+    "value",
+    "vreme_postavljanja"
+   ]
+  },
+  {
+   "params": "vreme_postavljanja=2&start=30",
+   "karaktera": 443124,
+   "razlicitih_id": 30,
+   "kartica": 30,
+   "prvih_id": [
+    "757701",
+    "757902",
+    "757995",
+    "758001",
+    "758034",
+    "758121"
+   ],
+   "poslednjih_id": [
+    "759103",
+    "759135",
+    "759144",
+    "759254"
+   ],
+   "param_imena": [
+    "a",
+    "action",
+    "client",
+    "display",
+    "emedium",
+    "esource",
+    "ev",
+    "family",
+    "guid",
+    "icampaign",
+    "id",
+    "imedium",
+    "isource",
+    "item_index",
+    "l",
+    "n",
+    "noscript",
+    "page",
+    "pcampaignid",
+    "redirect",
+    "render",
+    "s",
+    "script",
+    "scroll_to",
+    "sort",
+    "start",
+    "t",
+    "token",
+    "utm_campaign",
+    "utm_medium",
+    "utm_source",
+    "value",
+    "vreme_postavljanja"
    ]
   }
  ],
  "helloworld": [
   {
+   "url": "https://www.helloworld.rs/oglasi-za-posao?vreme_postavljanja=2",
+   "karaktera": 442443,
+   "kartica": 30
+  },
+  {
    "url": "https://www.helloworld.rs/oglasi-za-posao?vreme_postavljanja=3",
    "karaktera": 242417,
-   "kartica": 1,
-   "naslov_strane": "IT Poslovi i Prakse | HelloWorld.rs HelloWorld Logo HelloWorld Logo",
-   "job_id_atributa": 11,
-   "ga4_title_klasa": 1,
-   "isecci": [
-    "div>\n\n            </div>\n    </div>\n\n    <div class=\"relative z-1 flex flex-col gap-4 md:flex-row items-center \">\n        <div class=\"flex flex-col gap-4 flex-1 px-4 md:pl-4 mb-4 w-full\">\n            <div class=\"pr-10 md:pr-0\">\n                                \n                                <h3><a data-job-id=\"759254\" href=\"/posao/Data-Platform-Engineer/Keba-d.o.o/759254?vreme_postavljanja=3&amp;disable_saved_search=0&amp;show_more=1&amp;ilist=11&amp;item_index=0\" data-ec-search-pid=\"759254\" class=\"__ga4_job_title hover:opacity-50 font-bold text-lg\">Data Platform Engineer\n                    </a></h3>\n                \n                                <h4 class=\"font-semibold opacity-75\">\n                    <a data-job-id=\"759254\" href=https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319 class=__ga4_job_company hover:opacity-50>\n                        Keba d.o.o.\n                    </a>\n                </h4>\n\n                                    <div class=\" inline-flex items-center gap-2 mt-1 opacity-75\">\n                                                                                <div class=\"inline-flex items-end justify-center gap-1\">\n                            <span class=\"group inline-block text-sm font-medium\">\n                                <a data-job-id=\"759254\" href=\"https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319\" class=\"group-hover:opacity-50 __ga4_job_company_rating\">\n                                4.3\n                                    <i class=\"las la-star text-sm\" data-job-id=\"759254\"></i>\n                                </a>\n                            </span>\n                            </div>\n                                                                            <div class=\"inline-flex items-end justify-center\">\n     ",
-    "=0&amp;show_more=1&amp;ilist=11&amp;item_index=0\" data-ec-search-pid=\"759254\" class=\"__ga4_job_title hover:opacity-50 font-bold text-lg\">Data Platform Engineer\n                    </a></h3>\n                \n                                <h4 class=\"font-semibold opacity-75\">\n                    <a data-job-id=\"759254\" href=https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319 class=__ga4_job_company hover:opacity-50>\n                        Keba d.o.o.\n                    </a>\n                </h4>\n\n                                    <div class=\" inline-flex items-center gap-2 mt-1 opacity-75\">\n                                                                                <div class=\"inline-flex items-end justify-center gap-1\">\n                            <span class=\"group inline-block text-sm font-medium\">\n                                <a data-job-id=\"759254\" href=\"https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319\" class=\"group-hover:opacity-50 __ga4_job_company_rating\">\n                                4.3\n                                    <i class=\"las la-star text-sm\" data-job-id=\"759254\"></i>\n                                </a>\n                            </span>\n                            </div>\n                                                                            <div class=\"inline-flex items-end justify-center\">\n                            <span class=\"inline-block text-sm font-medium  border-l pl-2 \">\n                                <i class=\"las la-thumbs-up text-lg\"></i>\n                                <span class=\"relative\" style=\"top:-2px;\">Odgovara na prijave</span>\n                            </span>\n                            </div>\n                                            </div>\n                            </div>\n\n  ",
-    "ine-flex items-center gap-2 mt-1 opacity-75\">\n                                                                                <div class=\"inline-flex items-end justify-center gap-1\">\n                            <span class=\"group inline-block text-sm font-medium\">\n                                <a data-job-id=\"759254\" href=\"https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319\" class=\"group-hover:opacity-50 __ga4_job_company_rating\">\n                                4.3\n                                    <i class=\"las la-star text-sm\" data-job-id=\"759254\"></i>\n                                </a>\n                            </span>\n                            </div>\n                                                                            <div class=\"inline-flex items-end justify-center\">\n                            <span class=\"inline-block text-sm font-medium  border-l pl-2 \">\n                                <i class=\"las la-thumbs-up text-lg\"></i>\n                                <span class=\"relative\" style=\"top:-2px;\">Odgovara na prijave</span>\n                            </span>\n                            </div>\n                                            </div>\n                            </div>\n\n            \n                        <div class=\"grid gap-1\">\n            <div class=\"flex flex-wrap leading-relaxed text-sm md:leading-none lowercase opacity-75\">\n                                    <p class=\"after:content-['·'] after:mx-2 after:last:content-['']\">Dobrovoljno zdravstveno osiguranje</p>\n                                    <p class=\"after:content-['·'] after:mx-2 after:last:content-['']\">Fleksibilni rad</p>\n                                    <p class=\"after:content-['·'] after:mx-2 after:last:content-['']\">Edukacija i konferencije</p>\n         "
-   ]
+   "kartica": 1
+  },
+  {
+   "url": "https://www.helloworld.rs/oglasi-za-posao?vreme_postavljanja=7",
+   "karaktera": 435397,
+   "kartica": 23
   }
  ]
 }
