@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-04T13:49:29+00:00",
+ "generated_at": "2026-10-04T13:54:00+00:00",
  "window_days": 3,
  "cutoff": "2026-10-01",
  "count": 9,
  "new_count": 0,
  "errors": [
-  "infostud: pretrage administrator, it podrska, it support, it tehnicar, podaci, racunari, sistem administrator, tehnicka podrska su napunile svih 4 strana, mozda ima jos"
+  "infostud: pretrage administrator, it podrska, it support, racunari su napunile svih 6 strana, mozda ima jos"
  ],
  "infostud_queries": {
   "python": {
@@ -24,9 +24,9 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 120,
-   "strane": 4,
-   "stop": "limit"
+   "vraceno": 130,
+   "strane": 5,
+   "stop": "kraj"
   },
   "etl": {
    "vraceno": 3,
@@ -104,9 +104,9 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 120,
-   "strane": 4,
-   "stop": "limit"
+   "vraceno": 171,
+   "strane": 6,
+   "stop": "kraj"
   },
   "sistem administrator": {
    "vraceno": 105,
@@ -114,13 +114,13 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 120,
-   "strane": 4,
+   "vraceno": 180,
+   "strane": 6,
    "stop": "limit"
   },
   "it podrska": {
-   "vraceno": 120,
-   "strane": 4,
+   "vraceno": 180,
+   "strane": 6,
    "stop": "limit"
   },
   "help desk": {
@@ -129,13 +129,13 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 120,
-   "strane": 4,
-   "stop": "limit"
+   "vraceno": 132,
+   "strane": 5,
+   "stop": "kraj"
   },
   "it support": {
-   "vraceno": 120,
-   "strane": 4,
+   "vraceno": 180,
+   "strane": 6,
    "stop": "limit"
   },
   "serviser": {
@@ -154,8 +154,8 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 120,
-   "strane": 4,
+   "vraceno": 180,
+   "strane": 6,
    "stop": "limit"
   }
  },
@@ -263,6 +263,7 @@
     "etl",
     "linux",
     "sistem administrator",
+    "administrator",
     "tehnicka podrska",
     "mrezni"
    ],
@@ -309,6 +310,7 @@
    "summary": "Junior konsultant podržava implementaciju i prilagođavanje softverskih rešenja za upravljanje transportom kako bi se unapredili logistički procesi klijenata. Kandidat prikuplja zahteve korisnika, obučava korisnike i doprinosi razvoju funkcionalnosti kroz saradnju sa timom.",
    "matched": [
     "junior",
+    "it podrska",
     "tehnicka podrska"
    ],
    "first_seen": "2026-10-04T13:44:55+00:00",

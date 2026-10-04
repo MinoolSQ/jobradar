@@ -1,6 +1,6 @@
 {
  "infostud_meta": {
-  "url": "https://poslovi.infostud.com/oglasi-za-posao-python",
+  "url": "https://poslovi.infostud.com/oglasi-za-posao-python?sort=date",
   "pageProps_kljucevi": [
    "_sentryBaggage",
    "_sentryTraceData",
@@ -11,7 +11,7 @@
    "initialSearchResults",
    "quickFilterAnsweredServerSide"
   ],
-  "results_bez_jobs": "{\"totalPrimaryItems\": 16, \"totalSecondaryItems\": 0, \"searchLink\": \"https://poslovi.infostud.com/oglasi-za-posao-python\", \"paramsHash\": \"dcdc5d239d47ad194a2ab1f861edbe79d6dadce7\", \"page\": 1, \"sort\": null, \"params\": {\"categories\": null, \"cities\": null, \"dist\": null, \"companies\": null, \"q\": \"Python\", \"scope\": null, \"educations\": null, \"languages\": null, \"timeOfPosting\": null, \"employmentTypes\": null, \"workingHours\": null, \"forInvalids\": null, \"onlineInterview\": null, \"forStudents\": null, \"workPlaceTypes\": null, \"tags\": null, \"youthPosition\": null, \"youthRecruitmentAgency\": null, \"salary\": null, \"expired\": null, \"standardizedPosition\": null, \"onlineAfterDate\": null, \"__typename\": \"ReadableSearchParams\"}, \"facets\": {\"cities\": [{\"id\": 35, \"name\": \"Beograd\", \"count\": 11, \"__typename\": \"FacetItem\"}, {\"id\": 2, \"name\": \"Novi Sad\", \"count\": 4, \"__typename\": \"FacetItem\"}, {\"id\": 42, \"name\": \"Čačak\", \"count\": 4, \"__typename\": \"FacetItem\"}, {\"id\": 96, \"name\": \"Niš\", \"count\": 3, \"__typename\": \"FacetItem\"}, {\"id\": 1, \"name\": \"Zrenjanin\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 3, \"name\": \"Sremska Mitrovica\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 4, \"name\": \"Pančevo\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 5, \"name\": \"Vršac\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 6, \"name\": \"Sombor\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 7, \"name\": \"Kikinda\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 8, \"name\": \"Ruma\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 9, \"name\": \"Apatin\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 10, \"name\": \"Bačka Topola\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 11, \"name\": \"Kula\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 12, \"name\": \"Senta\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 13, \"name\": \"Crvenka\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 14, \"name\": \"Ada\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 15, \"name\": \"Bečej\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 16, \"name\": \"Srbobran\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 17, \"name\": \"Vrbas\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 18, \"name\": \"Odžaci\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 19, \"name\": \"Temerin\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 20, \"name\": \"Žabalj\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 21, \"name\": \"Bačka Palanka\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 22, \"name\": \"Futog\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 23, \"name\": \"Beočin\", \"c",
+  "results_bez_jobs": "{\"totalPrimaryItems\": 16, \"totalSecondaryItems\": 0, \"searchLink\": \"https://poslovi.infostud.com/oglasi-za-posao-python?sort=date\", \"paramsHash\": \"dcdc5d239d47ad194a2ab1f861edbe79d6dadce7\", \"page\": 1, \"sort\": null, \"params\": {\"categories\": null, \"cities\": null, \"dist\": null, \"companies\": null, \"q\": \"Python\", \"scope\": null, \"educations\": null, \"languages\": null, \"timeOfPosting\": null, \"employmentTypes\": null, \"workingHours\": null, \"forInvalids\": null, \"onlineInterview\": null, \"forStudents\": null, \"workPlaceTypes\": null, \"tags\": null, \"youthPosition\": null, \"youthRecruitmentAgency\": null, \"salary\": null, \"expired\": null, \"standardizedPosition\": null, \"onlineAfterDate\": null, \"__typename\": \"ReadableSearchParams\"}, \"facets\": {\"cities\": [{\"id\": 35, \"name\": \"Beograd\", \"count\": 11, \"__typename\": \"FacetItem\"}, {\"id\": 2, \"name\": \"Novi Sad\", \"count\": 4, \"__typename\": \"FacetItem\"}, {\"id\": 42, \"name\": \"Čačak\", \"count\": 4, \"__typename\": \"FacetItem\"}, {\"id\": 96, \"name\": \"Niš\", \"count\": 3, \"__typename\": \"FacetItem\"}, {\"id\": 1, \"name\": \"Zrenjanin\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 3, \"name\": \"Sremska Mitrovica\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 4, \"name\": \"Pančevo\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 5, \"name\": \"Vršac\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 6, \"name\": \"Sombor\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 7, \"name\": \"Kikinda\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 8, \"name\": \"Ruma\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 9, \"name\": \"Apatin\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 10, \"name\": \"Bačka Topola\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 11, \"name\": \"Kula\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 12, \"name\": \"Senta\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 13, \"name\": \"Crvenka\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 14, \"name\": \"Ada\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 15, \"name\": \"Bečej\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 16, \"name\": \"Srbobran\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 17, \"name\": \"Vrbas\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 18, \"name\": \"Odžaci\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 19, \"name\": \"Temerin\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 20, \"name\": \"Žabalj\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 21, \"name\": \"Bačka Palanka\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 22, \"name\": \"Futog\", \"count\": 2, \"__typename\": \"FacetItem\"}, {\"id\": 23, \"name\": \"B",
   "jobs_kljucevi": {
    "primary": 16,
    "secondary": 0,
@@ -56,6 +56,402 @@
    "workFromHome"
   ]
  },
+ "infostud_probe": [
+  {
+   "extra": "sort=date",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "sort=newest",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "sort=new",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "sort=datum",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "sort=latest",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "sort=DATE",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "sortiranje=datum",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "orderBy=date",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "timeOfPosting=3",
+   "oglasa": 1,
+   "meta": {
+    "total": 1,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python",
+     "timeOfPosting": {
+      "value": "3",
+      "name": "oglasi postavljeni u poslednja 3 dana",
+      "__typename": "SearchCriteriaItem"
+     }
+    }
+   },
+   "redosled": [
+    "2026-10-02"
+   ]
+  },
+  {
+   "extra": "time_of_posting=3",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "vreme_postavljanja=3",
+   "oglasa": 1,
+   "meta": {
+    "total": 1,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python",
+     "timeOfPosting": {
+      "value": "3",
+      "name": "oglasi postavljeni u poslednja 3 dana",
+      "__typename": "SearchCriteriaItem"
+     }
+    }
+   },
+   "redosled": [
+    "2026-10-02"
+   ]
+  },
+  {
+   "extra": "period=3",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "dani=3",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "days=3",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  },
+  {
+   "extra": "onlineAfterDate=2026-10-01",
+   "oglasa": 2,
+   "meta": {
+    "total": 2,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python",
+     "onlineAfterDate": {
+      "value": "2026-10-01",
+      "name": "oglasi postavljeni od 01.10.2026",
+      "__typename": "SearchCriteriaItem"
+     }
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-10-01"
+   ]
+  },
+  {
+   "extra": "online_after_date=2026-10-01",
+   "oglasa": 2,
+   "meta": {
+    "total": 2,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python",
+     "onlineAfterDate": {
+      "value": "2026-10-01",
+      "name": "oglasi postavljeni od 01.10.2026",
+      "__typename": "SearchCriteriaItem"
+     }
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-10-01"
+   ]
+  },
+  {
+   "extra": "from=2026-10-01",
+   "oglasa": 16,
+   "meta": {
+    "total": 16,
+    "page": 1,
+    "sort": null,
+    "params": {
+     "q": "Python"
+    }
+   },
+   "redosled": [
+    "2026-10-02",
+    "2026-09-25",
+    "2026-09-15",
+    "2026-10-01",
+    "2026-09-30",
+    "2026-09-21",
+    "2026-09-29",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-23"
+   ]
+  }
+ ],
  "infostud_strane": [
   {
    "upit": "python",
@@ -63,18 +459,7 @@
    "oglasa": 16,
    "novih_id": 16,
    "svezih": 2,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-10-02",
-    "2026-09-25",
-    "2026-09-15",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-21",
-    "2026-09-29",
-    "2026-09-28"
-   ]
+   "total": 16
   },
   {
    "upit": "data engineer",
@@ -82,18 +467,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 1,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-10-02",
-    "2026-09-22",
-    "2026-09-25",
-    "2026-09-15",
-    "2026-09-25",
-    "2026-09-18",
-    "2026-09-21",
-    "2026-09-25"
-   ]
+   "total": 49
   },
   {
    "upit": "data engineer",
@@ -101,18 +475,7 @@
    "oglasa": 19,
    "novih_id": 19,
    "svezih": 0,
-   "najnoviji": "2026-09-30",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-09",
-    "2026-09-10",
-    "2026-09-22",
-    "2026-09-23",
-    "2026-09-25",
-    "2026-09-30",
-    "2026-09-09",
-    "2026-09-22"
-   ]
+   "total": 49
   },
   {
    "upit": "data inzenjer",
@@ -120,16 +483,7 @@
    "oglasa": 6,
    "novih_id": 6,
    "svezih": 0,
-   "najnoviji": "2026-09-29",
-   "najstariji": "2026-09-09",
-   "redosled": [
-    "2026-09-25",
-    "2026-09-22",
-    "2026-09-29",
-    "2026-09-29",
-    "2026-09-09",
-    "2026-09-18"
-   ]
+   "total": 6
   },
   {
    "upit": "podaci",
@@ -137,18 +491,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 9,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-07",
-    "2026-09-07",
-    "2026-09-21",
-    "2026-09-29",
-    "2026-09-23",
-    "2026-09-22",
-    "2026-10-02",
-    "2026-10-01"
-   ]
+   "total": 130
   },
   {
    "upit": "podaci",
@@ -156,18 +499,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 6,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-17",
-   "redosled": [
-    "2026-10-01",
-    "2026-10-01",
-    "2026-09-29",
-    "2026-09-28",
-    "2026-09-28",
-    "2026-09-28",
-    "2026-09-25",
-    "2026-09-23"
-   ]
+   "total": 130
   },
   {
    "upit": "podaci",
@@ -175,18 +507,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 4,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-21",
-   "redosled": [
-    "2026-09-28",
-    "2026-09-22",
-    "2026-10-02",
-    "2026-10-02",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-28",
-    "2026-09-23"
-   ]
+   "total": 130
   },
   {
    "upit": "podaci",
@@ -194,18 +515,15 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 4,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-15",
-   "redosled": [
-    "2026-09-28",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-29",
-    "2026-09-29",
-    "2026-09-28",
-    "2026-09-24",
-    "2026-09-23"
-   ]
+   "total": 130
+  },
+  {
+   "upit": "podaci",
+   "strana": 5,
+   "oglasa": 10,
+   "novih_id": 10,
+   "svezih": 4,
+   "total": 130
   },
   {
    "upit": "etl",
@@ -213,13 +531,7 @@
    "oglasa": 3,
    "novih_id": 3,
    "svezih": 1,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-10",
-   "redosled": [
-    "2026-10-01",
-    "2026-09-10",
-    "2026-09-25"
-   ]
+   "total": 3
   },
   {
    "upit": "databricks",
@@ -227,11 +539,7 @@
    "oglasa": 1,
    "novih_id": 1,
    "svezih": 1,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-10-02",
-   "redosled": [
-    "2026-10-02"
-   ]
+   "total": 1
   },
   {
    "upit": "spark",
@@ -239,15 +547,7 @@
    "oglasa": 5,
    "novih_id": 5,
    "svezih": 0,
-   "najnoviji": "2026-09-28",
-   "najstariji": "2026-09-18",
-   "redosled": [
-    "2026-09-22",
-    "2026-09-18",
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-28"
-   ]
+   "total": 5
   },
   {
    "upit": "airflow",
@@ -255,12 +555,7 @@
    "oglasa": 2,
    "novih_id": 2,
    "svezih": 0,
-   "najnoviji": "2026-09-28",
-   "najstariji": "2026-09-23",
-   "redosled": [
-    "2026-09-23",
-    "2026-09-28"
-   ]
+   "total": 2
   },
   {
    "upit": "backend",
@@ -268,18 +563,7 @@
    "oglasa": 9,
    "novih_id": 9,
    "svezih": 1,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-04",
-    "2026-10-01",
-    "2026-09-28",
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-23",
-    "2026-09-15",
-    "2026-09-29"
-   ]
+   "total": 9
   },
   {
    "upit": "sql",
@@ -287,18 +571,7 @@
    "oglasa": 16,
    "novih_id": 16,
    "svezih": 2,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-11",
-   "redosled": [
-    "2026-10-02",
-    "2026-09-25",
-    "2026-09-11",
-    "2026-10-01",
-    "2026-09-29",
-    "2026-09-28",
-    "2026-09-28",
-    "2026-09-28"
-   ]
+   "total": 16
   },
   {
    "upit": "aws",
@@ -306,18 +579,7 @@
    "oglasa": 15,
    "novih_id": 15,
    "svezih": 1,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-15",
-   "redosled": [
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-21",
-    "2026-09-29",
-    "2026-09-29",
-    "2026-09-29",
-    "2026-09-28",
-    "2026-09-28"
-   ]
+   "total": 15
   },
   {
    "upit": "data platform",
@@ -325,18 +587,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 2,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-10-02",
-    "2026-09-30",
-    "2026-09-08",
-    "2026-09-08",
-    "2026-09-08",
-    "2026-09-25",
-    "2026-09-04",
-    "2026-09-24"
-   ]
+   "total": 43
   },
   {
    "upit": "data platform",
@@ -344,18 +595,7 @@
    "oglasa": 13,
    "novih_id": 13,
    "svezih": 1,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-11",
-   "redosled": [
-    "2026-09-24",
-    "2026-09-23",
-    "2026-10-01",
-    "2026-09-11",
-    "2026-09-29",
-    "2026-09-30",
-    "2026-09-21",
-    "2026-09-21"
-   ]
+   "total": 43
   },
   {
    "upit": "kubernetes",
@@ -363,18 +603,7 @@
    "oglasa": 12,
    "novih_id": 12,
    "svezih": 1,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-25",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-29",
-    "2026-09-29",
-    "2026-09-28",
-    "2026-09-28",
-    "2026-09-21"
-   ]
+   "total": 12
   },
   {
    "upit": "data analyst",
@@ -382,11 +611,7 @@
    "oglasa": 1,
    "novih_id": 1,
    "svezih": 0,
-   "najnoviji": "2026-09-25",
-   "najstariji": "2026-09-25",
-   "redosled": [
-    "2026-09-25"
-   ]
+   "total": 1
   },
   {
    "upit": "devops",
@@ -394,18 +619,7 @@
    "oglasa": 16,
    "novih_id": 16,
    "svezih": 1,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-25",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-30",
-    "2026-09-29",
-    "2026-09-29",
-    "2026-09-28",
-    "2026-09-23"
-   ]
+   "total": 16
   },
   {
    "upit": "junior",
@@ -413,18 +627,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 3,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-22",
-    "2026-09-29",
-    "2026-09-21",
-    "2026-09-28",
-    "2026-09-29",
-    "2026-09-25",
-    "2026-09-22",
-    "2026-09-30"
-   ]
+   "total": 47
   },
   {
    "upit": "junior",
@@ -432,18 +635,7 @@
    "oglasa": 17,
    "novih_id": 17,
    "svezih": 3,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-09",
-   "redosled": [
-    "2026-09-11",
-    "2026-09-11",
-    "2026-09-11",
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-22",
-    "2026-09-17",
-    "2026-10-01"
-   ]
+   "total": 47
   },
   {
    "upit": "cloud",
@@ -451,18 +643,7 @@
    "oglasa": 26,
    "novih_id": 26,
    "svezih": 1,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-04",
-    "2026-09-30",
-    "2026-09-25",
-    "2026-09-23",
-    "2026-09-18",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-30"
-   ]
+   "total": 26
   },
   {
    "upit": "linux",
@@ -470,18 +651,7 @@
    "oglasa": 18,
    "novih_id": 18,
    "svezih": 4,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-10-01",
-    "2026-09-25",
-    "2026-09-25",
-    "2026-10-01",
-    "2026-10-01",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-30"
-   ]
+   "total": 18
   },
   {
    "upit": "it tehnicar",
@@ -489,18 +659,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 9,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-07",
-    "2026-10-01",
-    "2026-09-25",
-    "2026-10-01",
-    "2026-09-28",
-    "2026-09-28",
-    "2026-10-02",
-    "2026-09-23"
-   ]
+   "total": 171
   },
   {
    "upit": "it tehnicar",
@@ -508,18 +667,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 2,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-21",
-    "2026-10-01",
-    "2026-10-01",
-    "2026-09-30"
-   ]
+   "total": 171
   },
   {
    "upit": "it tehnicar",
@@ -527,18 +675,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 1,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-22",
-    "2026-09-22",
-    "2026-09-21",
-    "2026-09-04",
-    "2026-09-17",
-    "2026-09-04",
-    "2026-09-29",
-    "2026-09-29"
-   ]
+   "total": 171
   },
   {
    "upit": "it tehnicar",
@@ -546,18 +683,23 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 4,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-28",
-    "2026-09-28",
-    "2026-09-25",
-    "2026-09-23",
-    "2026-09-23",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-04"
-   ]
+   "total": 171
+  },
+  {
+   "upit": "it tehnicar",
+   "strana": 5,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 2,
+   "total": 171
+  },
+  {
+   "upit": "it tehnicar",
+   "strana": 6,
+   "oglasa": 21,
+   "novih_id": 21,
+   "svezih": 1,
+   "total": 171
   },
   {
    "upit": "sistem administrator",
@@ -565,18 +707,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 5,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-09",
-   "redosled": [
-    "2026-09-29",
-    "2026-09-25",
-    "2026-09-25",
-    "2026-10-01",
-    "2026-09-28",
-    "2026-09-22",
-    "2026-09-09",
-    "2026-09-25"
-   ]
+   "total": 105
   },
   {
    "upit": "sistem administrator",
@@ -584,18 +715,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 4,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-30",
-    "2026-09-28",
-    "2026-09-28",
-    "2026-09-08",
-    "2026-09-29",
-    "2026-09-22",
-    "2026-09-21",
-    "2026-09-21"
-   ]
+   "total": 105
   },
   {
    "upit": "sistem administrator",
@@ -603,18 +723,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 5,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-06",
-   "redosled": [
-    "2026-09-25",
-    "2026-09-29",
-    "2026-09-30",
-    "2026-09-28",
-    "2026-09-23",
-    "2026-09-28",
-    "2026-09-22",
-    "2026-09-23"
-   ]
+   "total": 105
   },
   {
    "upit": "sistem administrator",
@@ -622,18 +731,7 @@
    "oglasa": 15,
    "novih_id": 15,
    "svezih": 3,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-10-02",
-    "2026-09-24",
-    "2026-09-29",
-    "2026-09-07",
-    "2026-09-30",
-    "2026-09-22",
-    "2026-09-25",
-    "2026-09-23"
-   ]
+   "total": 105
   },
   {
    "upit": "administrator",
@@ -641,18 +739,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 7,
-   "najnoviji": "2026-10-03",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-25",
-    "2026-09-22",
-    "2026-09-29",
-    "2026-09-26",
-    "2026-09-07",
-    "2026-10-01",
-    "2026-10-03",
-    "2026-10-01"
-   ]
+   "total": 330
   },
   {
    "upit": "administrator",
@@ -660,18 +747,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 2,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-29",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-09-22",
-    "2026-09-28",
-    "2026-09-25",
-    "2026-09-24",
-    "2026-09-30"
-   ]
+   "total": 330
   },
   {
    "upit": "administrator",
@@ -679,18 +755,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 1,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-30",
-    "2026-09-22",
-    "2026-09-21",
-    "2026-09-28",
-    "2026-09-25",
-    "2026-09-22",
-    "2026-09-22",
-    "2026-09-21"
-   ]
+   "total": 330
   },
   {
    "upit": "administrator",
@@ -698,18 +763,23 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 2,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-08",
-   "redosled": [
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-08",
-    "2026-09-25",
-    "2026-09-30",
-    "2026-09-29",
-    "2026-09-29",
-    "2026-09-30"
-   ]
+   "total": 330
+  },
+  {
+   "upit": "administrator",
+   "strana": 5,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 5,
+   "total": 330
+  },
+  {
+   "upit": "administrator",
+   "strana": 6,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 4,
+   "total": 330
   },
   {
    "upit": "it podrska",
@@ -717,18 +787,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 5,
-   "najnoviji": "2026-10-03",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-25",
-    "2026-09-30",
-    "2026-09-23",
-    "2026-10-01",
-    "2026-09-22",
-    "2026-09-21",
-    "2026-09-28",
-    "2026-10-03"
-   ]
+   "total": 590
   },
   {
    "upit": "it podrska",
@@ -736,18 +795,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 13,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-08",
-   "redosled": [
-    "2026-09-21",
-    "2026-09-28",
-    "2026-09-23",
-    "2026-10-01",
-    "2026-09-28",
-    "2026-09-25",
-    "2026-09-22",
-    "2026-09-08"
-   ]
+   "total": 590
   },
   {
    "upit": "it podrska",
@@ -755,18 +803,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 4,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-22",
-    "2026-09-21",
-    "2026-09-16",
-    "2026-09-14",
-    "2026-10-02",
-    "2026-09-30",
-    "2026-09-22",
-    "2026-09-22"
-   ]
+   "total": 590
   },
   {
    "upit": "it podrska",
@@ -774,18 +811,23 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 5,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-11",
-    "2026-10-01",
-    "2026-10-01",
-    "2026-09-25",
-    "2026-10-01",
-    "2026-09-29",
-    "2026-09-15",
-    "2026-10-01"
-   ]
+   "total": 590
+  },
+  {
+   "upit": "it podrska",
+   "strana": 5,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 7,
+   "total": 590
+  },
+  {
+   "upit": "it podrska",
+   "strana": 6,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 8,
+   "total": 590
   },
   {
    "upit": "help desk",
@@ -793,18 +835,7 @@
    "oglasa": 17,
    "novih_id": 17,
    "svezih": 1,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-09",
-   "redosled": [
-    "2026-09-22",
-    "2026-10-01",
-    "2026-09-29",
-    "2026-09-25",
-    "2026-09-30",
-    "2026-09-30",
-    "2026-09-30",
-    "2026-09-25"
-   ]
+   "total": 17
   },
   {
    "upit": "tehnicka podrska",
@@ -812,18 +843,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 7,
-   "najnoviji": "2026-10-03",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-10-01",
-    "2026-09-28",
-    "2026-10-02",
-    "2026-09-25",
-    "2026-09-24",
-    "2026-09-28",
-    "2026-09-11",
-    "2026-10-01"
-   ]
+   "total": 132
   },
   {
    "upit": "tehnicka podrska",
@@ -831,18 +851,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 7,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-09",
-   "redosled": [
-    "2026-09-30",
-    "2026-09-21",
-    "2026-09-28",
-    "2026-10-01",
-    "2026-10-02",
-    "2026-10-01",
-    "2026-09-30",
-    "2026-10-02"
-   ]
+   "total": 132
   },
   {
    "upit": "tehnicka podrska",
@@ -850,18 +859,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 7,
-   "najnoviji": "2026-10-03",
-   "najstariji": "2026-09-11",
-   "redosled": [
-    "2026-10-02",
-    "2026-09-23",
-    "2026-09-29",
-    "2026-09-30",
-    "2026-09-30",
-    "2026-09-21",
-    "2026-09-25",
-    "2026-10-02"
-   ]
+   "total": 132
   },
   {
    "upit": "tehnicka podrska",
@@ -869,18 +867,15 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 2,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-24",
-    "2026-09-21",
-    "2026-09-23",
-    "2026-09-16",
-    "2026-09-22",
-    "2026-09-17",
-    "2026-09-29",
-    "2026-09-23"
-   ]
+   "total": 132
+  },
+  {
+   "upit": "tehnicka podrska",
+   "strana": 5,
+   "oglasa": 12,
+   "novih_id": 12,
+   "svezih": 1,
+   "total": 132
   },
   {
    "upit": "it support",
@@ -888,18 +883,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 9,
-   "najnoviji": "2026-10-03",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-10-02",
-    "2026-09-14",
-    "2026-09-22",
-    "2026-10-01",
-    "2026-09-23",
-    "2026-09-07",
-    "2026-09-23",
-    "2026-09-28"
-   ]
+   "total": 267
   },
   {
    "upit": "it support",
@@ -907,18 +891,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 3,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-29",
-    "2026-09-25",
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-22",
-    "2026-09-25",
-    "2026-09-08",
-    "2026-09-08"
-   ]
+   "total": 267
   },
   {
    "upit": "it support",
@@ -926,18 +899,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 2,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-08",
-   "redosled": [
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-18",
-    "2026-09-09",
-    "2026-09-30",
-    "2026-09-30",
-    "2026-09-25",
-    "2026-09-15"
-   ]
+   "total": 267
   },
   {
    "upit": "it support",
@@ -945,18 +907,23 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 4,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-04",
-   "redosled": [
-    "2026-09-28",
-    "2026-09-30",
-    "2026-09-25",
-    "2026-09-11",
-    "2026-09-29",
-    "2026-09-23",
-    "2026-09-23",
-    "2026-09-22"
-   ]
+   "total": 267
+  },
+  {
+   "upit": "it support",
+   "strana": 5,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 5,
+   "total": 267
+  },
+  {
+   "upit": "it support",
+   "strana": 6,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 2,
+   "total": 267
   },
   {
    "upit": "serviser",
@@ -964,18 +931,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 3,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-14",
-   "redosled": [
-    "2026-10-02",
-    "2026-09-30",
-    "2026-09-29",
-    "2026-09-29",
-    "2026-09-28",
-    "2026-09-28",
-    "2026-09-28",
-    "2026-09-25"
-   ]
+   "total": 31
   },
   {
    "upit": "serviser",
@@ -983,11 +939,7 @@
    "oglasa": 1,
    "novih_id": 1,
    "svezih": 0,
-   "najnoviji": "2026-09-15",
-   "najstariji": "2026-09-15",
-   "redosled": [
-    "2026-09-15"
-   ]
+   "total": 31
   },
   {
    "upit": "mrezni",
@@ -995,18 +947,7 @@
    "oglasa": 17,
    "novih_id": 17,
    "svezih": 2,
-   "najnoviji": "2026-10-01",
-   "najstariji": "2026-09-21",
-   "redosled": [
-    "2026-09-25",
-    "2026-09-23",
-    "2026-09-29",
-    "2026-09-29",
-    "2026-09-28",
-    "2026-09-21",
-    "2026-10-01",
-    "2026-09-30"
-   ]
+   "total": 17
   },
   {
    "upit": "windows",
@@ -1014,18 +955,7 @@
    "oglasa": 18,
    "novih_id": 18,
    "svezih": 0,
-   "najnoviji": "2026-09-30",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-29",
-    "2026-09-25",
-    "2026-09-25",
-    "2026-09-22",
-    "2026-09-30",
-    "2026-09-30",
-    "2026-09-30",
-    "2026-09-30"
-   ]
+   "total": 18
   },
   {
    "upit": "racunari",
@@ -1033,18 +963,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 8,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-14",
-   "redosled": [
-    "2026-10-01",
-    "2026-09-25",
-    "2026-10-01",
-    "2026-09-24",
-    "2026-09-30",
-    "2026-09-29",
-    "2026-09-22",
-    "2026-09-21"
-   ]
+   "total": 507
   },
   {
    "upit": "racunari",
@@ -1052,18 +971,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 7,
-   "najnoviji": "2026-10-02",
-   "najstariji": "2026-09-08",
-   "redosled": [
-    "2026-10-02",
-    "2026-09-22",
-    "2026-09-22",
-    "2026-09-22",
-    "2026-09-30",
-    "2026-09-24",
-    "2026-09-22",
-    "2026-09-22"
-   ]
+   "total": 507
   },
   {
    "upit": "racunari",
@@ -1071,18 +979,7 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 8,
-   "najnoviji": "2026-10-03",
-   "najstariji": "2026-09-17",
-   "redosled": [
-    "2026-09-21",
-    "2026-09-21",
-    "2026-09-30",
-    "2026-09-21",
-    "2026-10-01",
-    "2026-10-03",
-    "2026-10-02",
-    "2026-10-02"
-   ]
+   "total": 507
   },
   {
    "upit": "racunari",
@@ -1090,28 +987,38 @@
    "oglasa": 30,
    "novih_id": 30,
    "svezih": 18,
-   "najnoviji": "2026-10-03",
-   "najstariji": "2026-09-07",
-   "redosled": [
-    "2026-09-16",
-    "2026-09-09",
-    "2026-09-08",
-    "2026-09-07",
-    "2026-10-02",
-    "2026-10-01",
-    "2026-09-25",
-    "2026-09-23"
-   ]
+   "total": 507
+  },
+  {
+   "upit": "racunari",
+   "strana": 5,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 0,
+   "total": 507
+  },
+  {
+   "upit": "racunari",
+   "strana": 6,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 7,
+   "total": 507
   }
  ],
  "helloworld": [
   {
    "url": "https://www.helloworld.rs/oglasi-za-posao?vreme_postavljanja=3",
-   "karaktera": 242417,
+   "karaktera": 239763,
    "kartica": 1,
    "naslov_strane": "IT Poslovi i Prakse | HelloWorld.rs HelloWorld Logo HelloWorld Logo",
    "job_id_atributa": 11,
-   "ga4_title_klasa": 1
+   "ga4_title_klasa": 1,
+   "isecci": [
+    "div>\n\n            </div>\n    </div>\n\n    <div class=\"relative z-1 flex flex-col gap-4 md:flex-row items-center \">\n        <div class=\"flex flex-col gap-4 flex-1 px-4 md:pl-4 mb-4 w-full\">\n            <div class=\"pr-10 md:pr-0\">\n                                \n                                <h3><a data-job-id=\"759254\" href=\"/posao/Data-Platform-Engineer/Keba-d.o.o/759254?vreme_postavljanja=3&amp;disable_saved_search=0&amp;show_more=1&amp;ilist=11&amp;item_index=0\" data-ec-search-pid=\"759254\" class=\"__ga4_job_title hover:opacity-50 font-bold text-lg\">Data Platform Engineer\n                    </a></h3>\n                \n                                <h4 class=\"font-semibold opacity-75\">\n                    <a data-job-id=\"759254\" href=https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319 class=__ga4_job_company hover:opacity-50>\n                        Keba d.o.o.\n                    </a>\n                </h4>\n\n                                    <div class=\" inline-flex items-center gap-2 mt-1 opacity-75\">\n                                                                                <div class=\"inline-flex items-end justify-center gap-1\">\n                            <span class=\"group inline-block text-sm font-medium\">\n                                <a data-job-id=\"759254\" href=\"https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319\" class=\"group-hover:opacity-50 __ga4_job_company_rating\">\n                                4.3\n                                    <i class=\"las la-star text-sm\" data-job-id=\"759254\"></i>\n                                </a>\n                            </span>\n                            </div>\n                                                                            <div class=\"inline-flex items-end justify-center\">\n     ",
+    "=0&amp;show_more=1&amp;ilist=11&amp;item_index=0\" data-ec-search-pid=\"759254\" class=\"__ga4_job_title hover:opacity-50 font-bold text-lg\">Data Platform Engineer\n                    </a></h3>\n                \n                                <h4 class=\"font-semibold opacity-75\">\n                    <a data-job-id=\"759254\" href=https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319 class=__ga4_job_company hover:opacity-50>\n                        Keba d.o.o.\n                    </a>\n                </h4>\n\n                                    <div class=\" inline-flex items-center gap-2 mt-1 opacity-75\">\n                                                                                <div class=\"inline-flex items-end justify-center gap-1\">\n                            <span class=\"group inline-block text-sm font-medium\">\n                                <a data-job-id=\"759254\" href=\"https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319\" class=\"group-hover:opacity-50 __ga4_job_company_rating\">\n                                4.3\n                                    <i class=\"las la-star text-sm\" data-job-id=\"759254\"></i>\n                                </a>\n                            </span>\n                            </div>\n                                                                            <div class=\"inline-flex items-end justify-center\">\n                            <span class=\"inline-block text-sm font-medium  border-l pl-2 \">\n                                <i class=\"las la-thumbs-up text-lg\"></i>\n                                <span class=\"relative\" style=\"top:-2px;\">Odgovara na prijave</span>\n                            </span>\n                            </div>\n                                            </div>\n                            </div>\n\n  ",
+    "ine-flex items-center gap-2 mt-1 opacity-75\">\n                                                                                <div class=\"inline-flex items-end justify-center gap-1\">\n                            <span class=\"group inline-block text-sm font-medium\">\n                                <a data-job-id=\"759254\" href=\"https://www.helloworld.rs/kompanija/Keba-d.o.o.-Novi-Sad/319\" class=\"group-hover:opacity-50 __ga4_job_company_rating\">\n                                4.3\n                                    <i class=\"las la-star text-sm\" data-job-id=\"759254\"></i>\n                                </a>\n                            </span>\n                            </div>\n                                                                            <div class=\"inline-flex items-end justify-center\">\n                            <span class=\"inline-block text-sm font-medium  border-l pl-2 \">\n                                <i class=\"las la-thumbs-up text-lg\"></i>\n                                <span class=\"relative\" style=\"top:-2px;\">Odgovara na prijave</span>\n                            </span>\n                            </div>\n                                            </div>\n                            </div>\n\n            \n                        <div class=\"grid gap-1\">\n            <div class=\"flex flex-wrap leading-relaxed text-sm md:leading-none lowercase opacity-75\">\n                                    <p class=\"after:content-['·'] after:mx-2 after:last:content-['']\">Dobrovoljno zdravstveno osiguranje</p>\n                                    <p class=\"after:content-['·'] after:mx-2 after:last:content-['']\">Fleksibilni rad</p>\n                                    <p class=\"after:content-['·'] after:mx-2 after:last:content-['']\">Edukacija i konferencije</p>\n         "
+   ]
   }
  ]
 }
