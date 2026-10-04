@@ -64,6 +64,9 @@ REMOTE_KEYWORDS = [
 # Koliko dugo se pamti kad je oglas prvi put vidjen.
 SEEN_KEEP_DAYS = 45
 
+# Dijagnostika o tome sta sajtovi vracaju; puni se samo uz --debug-out.
+DEBUG = None
+
 WWR_FEEDS = [
     "https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss",
     "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss",
@@ -115,7 +118,22 @@ def infostud_search(query, page=1):
         r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html_page, re.S)
     if not match:
         raise RuntimeError("nema __NEXT_DATA__ na %s" % url)
-    results = json.loads(match.group(1))["props"]["pageProps"].get("initialSearchResults")
+    props = json.loads(match.group(1))["props"]["pageProps"]
+    results = props.get("initialSearchResults")
+    if DEBUG is not None and "infostud_meta" not in DEBUG:
+        # Jednom po pokretanju: sta jos stoji uz rezultate, da se vidi kako sajt sortira
+        # i da li ima parametre za stranu ili datum.
+        meta = {k: v for k, v in (results or {}).items() if k != "jobs"}
+        jobs_meta = {k: (len(v) if isinstance(v, list) else v)
+                     for k, v in ((results or {}).get("jobs") or {}).items()}
+        DEBUG["infostud_meta"] = {
+            "url": url,
+            "pageProps_kljucevi": sorted(props.keys()),
+            "results_bez_jobs": json.dumps(meta, ensure_ascii=False)[:2500],
+            "jobs_kljucevi": jobs_meta,
+            "prvi_oglas_kljucevi": sorted((results or {}).get("jobs", {}).get("primary", [{}])[0].keys())
+            if results else None,
+        }
     if not results:
         return []
     return results["jobs"]["primary"]
@@ -125,21 +143,34 @@ def infostud_query(query, cutoff):
     """
     Sve strane jedne pretrage, dok god su svi oglasi na strani unutar prozora. Ako sajt
     ignorise parametar strane, druga strana vrati iste oglase i petlja stane.
+    U debug rezimu se citaju sve strane, da se vidi kako sajt sortira.
     """
-    found, seen, pages = [], set(), 0
+    found, seen, pages, stop = [], set(), 0, "limit"
     for page in range(1, INFOSTUD_MAX_PAGES + 1):
         batch = infostud_search(query, page)
         fresh_ids = [str(j.get("id")) for j in batch if str(j.get("id")) not in seen]
         if not fresh_ids:
+            stop = "ista strana" if batch else "kraj"
             break
         pages += 1
         seen.update(fresh_ids)
         found.extend(batch)
-        all_fresh = all(
-            (parse_sr_date(j.get("onlineViewDate") or "") or cutoff) >= cutoff for j in batch)
-        if len(batch) < INFOSTUD_PAGE or not all_fresh:
+        dates = [d for d in (parse_sr_date(j.get("onlineViewDate") or "") for j in batch) if d]
+        if DEBUG is not None:
+            DEBUG.setdefault("infostud_strane", []).append({
+                "upit": query, "strana": page, "oglasa": len(batch), "novih_id": len(fresh_ids),
+                "svezih": sum(1 for d in dates if d >= cutoff),
+                "najnoviji": max(dates).isoformat() if dates else None,
+                "najstariji": min(dates).isoformat() if dates else None,
+                "redosled": [d.isoformat() for d in dates[:8]],
+            })
+        if len(batch) < INFOSTUD_PAGE:
+            stop = "kraj"
             break
-    return found, pages
+        if DEBUG is None and any(d < cutoff for d in dates):
+            stop = "stare"
+            break
+    return found, pages, stop
 
 
 def looks_like_it(job):
@@ -153,11 +184,11 @@ def collect_infostud(cutoff, stats):
     jobs, errors = {}, []
     for query in INFOSTUD_QUERIES:
         try:
-            found, pages = infostud_query(query, cutoff)
+            found, pages, stop = infostud_query(query, cutoff)
         except Exception as exc:
             errors.append("infostud %s: %s" % (query, exc))
             continue
-        stats[query] = {"vraceno": len(found), "strane": pages}
+        stats[query] = {"vraceno": len(found), "strane": pages, "stop": stop}
         for job in found:
             it_tags = job.get("itTags") or []
             if not looks_like_it(job):
@@ -215,6 +246,16 @@ def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
             errors.append("helloworld %s: %s" % (cat or "sve", exc))
             continue
         cards = list(HW_CARD.finditer(page))
+        if not cards:
+            errors.append("helloworld %s: nijedna kartica na strani od %d karaktera (%s)"
+                          % (cat or "sve", len(page), url))
+        if DEBUG is not None:
+            DEBUG.setdefault("helloworld", []).append({
+                "url": url, "karaktera": len(page), "kartica": len(cards),
+                "naslov_strane": clean(" ".join(re.findall(r"<title>(.*?)</title>", page, re.S)))[:200],
+                "job_id_atributa": len(re.findall(r'data-job-id="', page)),
+                "ga4_title_klasa": len(re.findall(r"__ga4_job_title", page)),
+            })
         for index, card in enumerate(cards):
             # Kartica se zavrsava tamo gde pocinje sledeca, da tagovi ne pobegnu u susedni oglas.
             end = cards[index + 1].start() if index + 1 < len(cards) else card.end() + 6000
@@ -473,7 +514,13 @@ def main():
                         help="koliko karaktera teksta oglasa se cuva")
     parser.add_argument("--seen", default=None,
                         help="fajl sa datumima prvog vidjenja, podrazumevano videno.json pored izlaza")
+    parser.add_argument("--debug-out", default=None,
+                        help="JSON fajl sa dijagnostikom o tome sta sajtovi vracaju")
     args = parser.parse_args()
+
+    global DEBUG
+    if args.debug_out:
+        DEBUG = {}
 
     now = datetime.now(timezone.utc)
     cutoff = now.date() - timedelta(days=args.days)
@@ -538,6 +585,9 @@ def main():
     }
     with out_path.open("w", encoding="utf-8") as handle:
         json.dump(payload, handle, ensure_ascii=False, indent=1)
+    if DEBUG is not None:
+        with Path(args.debug_out).open("w", encoding="utf-8") as handle:
+            json.dump(DEBUG, handle, ensure_ascii=False, indent=1)
 
     print("ukupno %d jedinstvenih oglasa (%d prvi put vidjenih), upisano u %s"
           % (len(unique), new_count, args.out), file=sys.stderr)
