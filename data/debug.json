@@ -456,82 +456,34 @@
   {
    "upit": "python",
    "strana": 1,
-   "oglasa": 16,
-   "novih_id": 16,
+   "oglasa": 2,
+   "novih_id": 2,
    "svezih": 2,
-   "total": 16
+   "total": 2
   },
   {
    "upit": "data engineer",
    "strana": 1,
-   "oglasa": 30,
-   "novih_id": 30,
+   "oglasa": 1,
+   "novih_id": 1,
    "svezih": 1,
-   "total": 49
-  },
-  {
-   "upit": "data engineer",
-   "strana": 2,
-   "oglasa": 19,
-   "novih_id": 19,
-   "svezih": 0,
-   "total": 49
-  },
-  {
-   "upit": "data inzenjer",
-   "strana": 1,
-   "oglasa": 6,
-   "novih_id": 6,
-   "svezih": 0,
-   "total": 6
+   "total": 1
   },
   {
    "upit": "podaci",
    "strana": 1,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 9,
-   "total": 130
-  },
-  {
-   "upit": "podaci",
-   "strana": 2,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 6,
-   "total": 130
-  },
-  {
-   "upit": "podaci",
-   "strana": 3,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 4,
-   "total": 130
-  },
-  {
-   "upit": "podaci",
-   "strana": 4,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 4,
-   "total": 130
-  },
-  {
-   "upit": "podaci",
-   "strana": 5,
-   "oglasa": 10,
-   "novih_id": 10,
-   "svezih": 4,
-   "total": 130
+   "oglasa": 27,
+   "novih_id": 27,
+   "svezih": 27,
+   "total": 27
   },
   {
    "upit": "etl",
    "strana": 1,
-   "oglasa": 3,
-   "novih_id": 3,
+   "oglasa": 1,
+   "novih_id": 1,
    "svezih": 1,
-   "total": 3
+   "total": 1
   },
   {
    "upit": "databricks",
@@ -542,474 +494,389 @@
    "total": 1
   },
   {
-   "upit": "spark",
-   "strana": 1,
-   "oglasa": 5,
-   "novih_id": 5,
-   "svezih": 0,
-   "total": 5
-  },
-  {
-   "upit": "airflow",
-   "strana": 1,
-   "oglasa": 2,
-   "novih_id": 2,
-   "svezih": 0,
-   "total": 2
-  },
-  {
    "upit": "backend",
    "strana": 1,
-   "oglasa": 9,
-   "novih_id": 9,
+   "oglasa": 1,
+   "novih_id": 1,
    "svezih": 1,
-   "total": 9
+   "total": 1
   },
   {
    "upit": "sql",
    "strana": 1,
-   "oglasa": 16,
-   "novih_id": 16,
+   "oglasa": 2,
+   "novih_id": 2,
    "svezih": 2,
-   "total": 16
+   "total": 2
   },
   {
    "upit": "aws",
    "strana": 1,
-   "oglasa": 15,
-   "novih_id": 15,
+   "oglasa": 1,
+   "novih_id": 1,
    "svezih": 1,
-   "total": 15
+   "total": 1
   },
   {
    "upit": "data platform",
    "strana": 1,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 2,
-   "total": 43
-  },
-  {
-   "upit": "data platform",
-   "strana": 2,
-   "oglasa": 13,
-   "novih_id": 13,
-   "svezih": 1,
-   "total": 43
+   "oglasa": 3,
+   "novih_id": 3,
+   "svezih": 3,
+   "total": 3
   },
   {
    "upit": "kubernetes",
    "strana": 1,
-   "oglasa": 12,
-   "novih_id": 12,
-   "svezih": 1,
-   "total": 12
-  },
-  {
-   "upit": "data analyst",
-   "strana": 1,
    "oglasa": 1,
    "novih_id": 1,
-   "svezih": 0,
+   "svezih": 1,
    "total": 1
   },
   {
    "upit": "devops",
    "strana": 1,
-   "oglasa": 16,
-   "novih_id": 16,
+   "oglasa": 1,
+   "novih_id": 1,
    "svezih": 1,
-   "total": 16
+   "total": 1
   },
   {
    "upit": "junior",
    "strana": 1,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 3,
-   "total": 47
-  },
-  {
-   "upit": "junior",
-   "strana": 2,
-   "oglasa": 17,
-   "novih_id": 17,
-   "svezih": 3,
-   "total": 47
+   "oglasa": 6,
+   "novih_id": 6,
+   "svezih": 6,
+   "total": 6
   },
   {
    "upit": "cloud",
    "strana": 1,
-   "oglasa": 26,
-   "novih_id": 26,
+   "oglasa": 1,
+   "novih_id": 1,
    "svezih": 1,
-   "total": 26
+   "total": 1
   },
   {
    "upit": "linux",
    "strana": 1,
-   "oglasa": 18,
-   "novih_id": 18,
+   "oglasa": 4,
+   "novih_id": 4,
    "svezih": 4,
-   "total": 18
+   "total": 4
   },
   {
    "upit": "it tehnicar",
    "strana": 1,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 9,
-   "total": 171
-  },
-  {
-   "upit": "it tehnicar",
-   "strana": 2,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 2,
-   "total": 171
-  },
-  {
-   "upit": "it tehnicar",
-   "strana": 3,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 1,
-   "total": 171
-  },
-  {
-   "upit": "it tehnicar",
-   "strana": 4,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 4,
-   "total": 171
-  },
-  {
-   "upit": "it tehnicar",
-   "strana": 5,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 2,
-   "total": 171
-  },
-  {
-   "upit": "it tehnicar",
-   "strana": 6,
-   "oglasa": 21,
-   "novih_id": 21,
-   "svezih": 1,
-   "total": 171
+   "oglasa": 19,
+   "novih_id": 19,
+   "svezih": 19,
+   "total": 19
   },
   {
    "upit": "sistem administrator",
    "strana": 1,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 5,
-   "total": 105
-  },
-  {
-   "upit": "sistem administrator",
-   "strana": 2,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 4,
-   "total": 105
-  },
-  {
-   "upit": "sistem administrator",
-   "strana": 3,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 5,
-   "total": 105
-  },
-  {
-   "upit": "sistem administrator",
-   "strana": 4,
-   "oglasa": 15,
-   "novih_id": 15,
-   "svezih": 3,
-   "total": 105
+   "oglasa": 17,
+   "novih_id": 17,
+   "svezih": 17,
+   "total": 17
   },
   {
    "upit": "administrator",
    "strana": 1,
    "oglasa": 30,
    "novih_id": 30,
-   "svezih": 7,
-   "total": 330
+   "svezih": 30,
+   "total": 44
   },
   {
    "upit": "administrator",
    "strana": 2,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 2,
-   "total": 330
-  },
-  {
-   "upit": "administrator",
-   "strana": 3,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 1,
-   "total": 330
-  },
-  {
-   "upit": "administrator",
-   "strana": 4,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 2,
-   "total": 330
-  },
-  {
-   "upit": "administrator",
-   "strana": 5,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 5,
-   "total": 330
-  },
-  {
-   "upit": "administrator",
-   "strana": 6,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 4,
-   "total": 330
+   "oglasa": 14,
+   "novih_id": 14,
+   "svezih": 14,
+   "total": 44
   },
   {
    "upit": "it podrska",
    "strana": 1,
    "oglasa": 30,
    "novih_id": 30,
-   "svezih": 5,
-   "total": 590
+   "svezih": 30,
+   "total": 101
   },
   {
    "upit": "it podrska",
    "strana": 2,
    "oglasa": 30,
    "novih_id": 30,
-   "svezih": 13,
-   "total": 590
+   "svezih": 30,
+   "total": 101
   },
   {
    "upit": "it podrska",
    "strana": 3,
    "oglasa": 30,
    "novih_id": 30,
-   "svezih": 4,
-   "total": 590
+   "svezih": 30,
+   "total": 101
   },
   {
    "upit": "it podrska",
    "strana": 4,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 5,
-   "total": 590
-  },
-  {
-   "upit": "it podrska",
-   "strana": 5,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 7,
-   "total": 590
-  },
-  {
-   "upit": "it podrska",
-   "strana": 6,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 8,
-   "total": 590
+   "oglasa": 11,
+   "novih_id": 11,
+   "svezih": 11,
+   "total": 101
   },
   {
    "upit": "help desk",
    "strana": 1,
-   "oglasa": 17,
-   "novih_id": 17,
-   "svezih": 1,
-   "total": 17
-  },
-  {
-   "upit": "tehnicka podrska",
-   "strana": 1,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 7,
-   "total": 132
-  },
-  {
-   "upit": "tehnicka podrska",
-   "strana": 2,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 7,
-   "total": 132
-  },
-  {
-   "upit": "tehnicka podrska",
-   "strana": 3,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 7,
-   "total": 132
-  },
-  {
-   "upit": "tehnicka podrska",
-   "strana": 4,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 2,
-   "total": 132
-  },
-  {
-   "upit": "tehnicka podrska",
-   "strana": 5,
-   "oglasa": 12,
-   "novih_id": 12,
-   "svezih": 1,
-   "total": 132
-  },
-  {
-   "upit": "it support",
-   "strana": 1,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 9,
-   "total": 267
-  },
-  {
-   "upit": "it support",
-   "strana": 2,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 3,
-   "total": 267
-  },
-  {
-   "upit": "it support",
-   "strana": 3,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 2,
-   "total": 267
-  },
-  {
-   "upit": "it support",
-   "strana": 4,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 4,
-   "total": 267
-  },
-  {
-   "upit": "it support",
-   "strana": 5,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 5,
-   "total": 267
-  },
-  {
-   "upit": "it support",
-   "strana": 6,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 2,
-   "total": 267
-  },
-  {
-   "upit": "serviser",
-   "strana": 1,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 3,
-   "total": 31
-  },
-  {
-   "upit": "serviser",
-   "strana": 2,
    "oglasa": 1,
    "novih_id": 1,
-   "svezih": 0,
-   "total": 31
+   "svezih": 1,
+   "total": 1
+  },
+  {
+   "upit": "tehnicka podrska",
+   "strana": 1,
+   "oglasa": 24,
+   "novih_id": 24,
+   "svezih": 24,
+   "total": 24
+  },
+  {
+   "upit": "it support",
+   "strana": 1,
+   "oglasa": 30,
+   "novih_id": 30,
+   "svezih": 30,
+   "total": 33
+  },
+  {
+   "upit": "it support",
+   "strana": 2,
+   "oglasa": 3,
+   "novih_id": 3,
+   "svezih": 3,
+   "total": 33
+  },
+  {
+   "upit": "serviser",
+   "strana": 1,
+   "oglasa": 3,
+   "novih_id": 3,
+   "svezih": 3,
+   "total": 3
   },
   {
    "upit": "mrezni",
    "strana": 1,
-   "oglasa": 17,
-   "novih_id": 17,
+   "oglasa": 2,
+   "novih_id": 2,
    "svezih": 2,
-   "total": 17
-  },
-  {
-   "upit": "windows",
-   "strana": 1,
-   "oglasa": 18,
-   "novih_id": 18,
-   "svezih": 0,
-   "total": 18
+   "total": 2
   },
   {
    "upit": "racunari",
    "strana": 1,
    "oglasa": 30,
    "novih_id": 30,
-   "svezih": 8,
-   "total": 507
+   "svezih": 30,
+   "total": 87
   },
   {
    "upit": "racunari",
    "strana": 2,
    "oglasa": 30,
    "novih_id": 30,
-   "svezih": 7,
-   "total": 507
+   "svezih": 29,
+   "total": 87
   },
   {
    "upit": "racunari",
    "strana": 3,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 8,
-   "total": 507
+   "oglasa": 27,
+   "novih_id": 27,
+   "svezih": 27,
+   "total": 87
+  }
+ ],
+ "helloworld_probe": [
+  {
+   "params": "",
+   "karaktera": 496286,
+   "razlicitih_id": 30,
+   "kartica": 30,
+   "page_linkovi": [],
+   "prvih_id": [
+    "753708",
+    "755242",
+    "755921",
+    "755927",
+    "756595",
+    "756763"
+   ],
+   "poslednjih_id": [
+    "759103",
+    "759135",
+    "759144",
+    "759254"
+   ]
   },
   {
-   "upit": "racunari",
-   "strana": 4,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 18,
-   "total": 507
+   "params": "vreme_postavljanja=1",
+   "karaktera": 498536,
+   "razlicitih_id": 30,
+   "kartica": 30,
+   "page_linkovi": [],
+   "prvih_id": [
+    "753708",
+    "755242",
+    "755921",
+    "755927",
+    "756595",
+    "756763"
+   ],
+   "poslednjih_id": [
+    "759103",
+    "759135",
+    "759144",
+    "759254"
+   ]
   },
   {
-   "upit": "racunari",
-   "strana": 5,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 0,
-   "total": 507
+   "params": "vreme_postavljanja=2",
+   "karaktera": 442443,
+   "razlicitih_id": 30,
+   "kartica": 30,
+   "page_linkovi": [
+    "0"
+   ],
+   "prvih_id": [
+    "757701",
+    "757902",
+    "757995",
+    "758001",
+    "758034",
+    "758121"
+   ],
+   "poslednjih_id": [
+    "759103",
+    "759135",
+    "759144",
+    "759254"
+   ]
   },
   {
-   "upit": "racunari",
-   "strana": 6,
-   "oglasa": 30,
-   "novih_id": 30,
-   "svezih": 7,
-   "total": 507
+   "params": "vreme_postavljanja=3",
+   "karaktera": 242417,
+   "razlicitih_id": 1,
+   "kartica": 1,
+   "page_linkovi": [],
+   "prvih_id": [
+    "759254"
+   ],
+   "poslednjih_id": [
+    "759254"
+   ]
+  },
+  {
+   "params": "vreme_postavljanja=7",
+   "karaktera": 435397,
+   "razlicitih_id": 23,
+   "kartica": 23,
+   "page_linkovi": [],
+   "prvih_id": [
+    "756939",
+    "758191",
+    "758203",
+    "758236",
+    "758241",
+    "758330"
+   ],
+   "poslednjih_id": [
+    "759103",
+    "759135",
+    "759144",
+    "759254"
+   ]
+  },
+  {
+   "params": "vreme_postavljanja=2&page=2",
+   "karaktera": 443058,
+   "razlicitih_id": 30,
+   "kartica": 30,
+   "page_linkovi": [
+    "0",
+    "2"
+   ],
+   "prvih_id": [
+    "757701",
+    "757902",
+    "757995",
+    "758001",
+    "758034",
+    "758121"
+   ],
+   "poslednjih_id": [
+    "759103",
+    "759135",
+    "759144",
+    "759254"
+   ]
+  },
+  {
+   "params": "vreme_postavljanja=7&page=2",
+   "karaktera": 417233,
+   "razlicitih_id": 21,
+   "kartica": 21,
+   "page_linkovi": [
+    "2"
+   ],
+   "prvih_id": [
+    "756939",
+    "758191",
+    "758203",
+    "758236",
+    "758241",
+    "758330"
+   ],
+   "poslednjih_id": [
+    "759038",
+    "759086",
+    "759103",
+    "759144"
+   ]
+  },
+  {
+   "params": "page=2",
+   "karaktera": 492051,
+   "razlicitih_id": 30,
+   "kartica": 30,
+   "page_linkovi": [
+    "2"
+   ],
+   "prvih_id": [
+    "755242",
+    "755921",
+    "755927",
+    "756595",
+    "756763",
+    "756939"
+   ],
+   "poslednjih_id": [
+    "759086",
+    "759103",
+    "759135",
+    "759144"
+   ]
   }
  ],
  "helloworld": [
   {
    "url": "https://www.helloworld.rs/oglasi-za-posao?vreme_postavljanja=3",
-   "karaktera": 239763,
+   "karaktera": 242417,
    "kartica": 1,
    "naslov_strane": "IT Poslovi i Prakse | HelloWorld.rs HelloWorld Logo HelloWorld Logo",
    "job_id_atributa": 11,

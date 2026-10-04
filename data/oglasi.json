@@ -1,35 +1,33 @@
 {
- "generated_at": "2026-10-04T13:54:00+00:00",
+ "generated_at": "2026-10-04T13:59:01+00:00",
  "window_days": 3,
  "cutoff": "2026-10-01",
  "count": 9,
  "new_count": 0,
- "errors": [
-  "infostud: pretrage administrator, it podrska, it support, racunari su napunile svih 6 strana, mozda ima jos"
- ],
+ "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 16,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 49,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "data inzenjer": {
-   "vraceno": 6,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
+  "data inzenjer": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
   "podaci": {
-   "vraceno": 130,
-   "strane": 5,
+   "vraceno": 27,
+   "strane": 1,
    "stop": "kraj"
   },
   "etl": {
-   "vraceno": 3,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
@@ -39,37 +37,37 @@
    "stop": "kraj"
   },
   "spark": {
-   "vraceno": 5,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "airflow": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 9,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 16,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 15,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 43,
-   "strane": 2,
+   "vraceno": 3,
+   "strane": 1,
    "stop": "kraj"
   },
   "kubernetes": {
-   "vraceno": 12,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
@@ -79,84 +77,84 @@
    "stop": "kraj"
   },
   "data analyst": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "devops": {
    "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
-  "devops": {
-   "vraceno": 16,
+  "junior": {
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
-  "junior": {
-   "vraceno": 47,
-   "strane": 2,
-   "stop": "kraj"
-  },
   "cloud": {
-   "vraceno": 26,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 18,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 171,
-   "strane": 6,
+   "vraceno": 19,
+   "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 105,
-   "strane": 4,
+   "vraceno": 17,
+   "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 180,
-   "strane": 6,
-   "stop": "limit"
+   "vraceno": 44,
+   "strane": 2,
+   "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 180,
-   "strane": 6,
-   "stop": "limit"
+   "vraceno": 101,
+   "strane": 4,
+   "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 17,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 132,
-   "strane": 5,
+   "vraceno": 24,
+   "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 180,
-   "strane": 6,
-   "stop": "limit"
-  },
-  "serviser": {
-   "vraceno": 31,
+   "vraceno": 33,
    "strane": 2,
    "stop": "kraj"
   },
+  "serviser": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "mrezni": {
-   "vraceno": 17,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 18,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 180,
-   "strane": 6,
-   "stop": "limit"
+   "vraceno": 87,
+   "strane": 3,
+   "stop": "kraj"
   }
  },
  "jobs": [
@@ -264,6 +262,7 @@
     "linux",
     "sistem administrator",
     "administrator",
+    "it podrska",
     "tehnicka podrska",
     "mrezni"
    ],
@@ -376,7 +375,8 @@
     "aws",
     "data platform",
     "cloud",
-    "linux"
+    "linux",
+    "it support"
    ],
    "first_seen": "2026-10-04T13:44:55+00:00",
    "details": "O poslodavcu Love Laravel? Interested in e-commerce, cars, tires, and wheels? Come build with us. We’re looking for a Senior Laravel Developer to join our team and help us build, improve, and scale the systems behind our e-commerce business. You’ll work on real-world applications that handle products, vendors, orders, pricing, integrations, and large amounts of business data. You’ll have the opportunity to take ownership of projects, influence technical decisions, and work on systems that directly impact the business. And if you happen to love cars and want to learn more about tires and wheels, even better. What you'll be doing As a Senior Laravel Developer, you’ll be involved in the full development lifecycle — from architecture and technical decisions to implementation, optimization, and maintenance. Your responsibilities will include: Designing, developing, and maintaining Laravel/PHP applications Taking ownership of new features and larger development projects Designing scalable and maintainable application architecture Building and integrating REST APIs and third-party services Working with MySQL, including database design, complex queries, indexing, and performance optimization Developing both back-end and front-end functionality Investigating and resolving complex technical and production issues Identifying performance bottlenecks and improving application speed and reliability Working with large datasets and data integrations Reviewing code and helping maintain development standards and best practices Working closely with developers, product managers, and other teams to turn business requirements into technical solutions Estimating development work and helping break larger projects into manageable tasks Contributing to technical and architectural decisions Improving existing systems and gradually modernizing legacy code where appropriate Supporting the reliability, security, and scalability of our applications Reference: xAOBIZCjdJyWYPM6E1I5DeW6IXjmv6mVLT9QaUlVfKDxdnNJT3eSIuYfLzeo_7h1 What we're looking for Required 5+ years of professional PHP development experience 3+ years of hands-on Laravel experience Strong understanding of PHP and modern object-oriented programming Strong knowledge of Laravel fundamentals and ecosystem Solid experience with MySQL, including database design, optimization, indexing, and complex queries Strong experience building and consuming REST APIs Good understanding of HTML, CSS, JavaScript Experience with Git and modern development workflows Experience debugging and troubleshooting complex application issues Understanding of software architecture, design patterns, and clean code principles Ability to work independently, take ownership of tasks, and make sound technical decisions Strong problem-solving skills and attention to detail Nice to have Experience with Vue.js, React, or another modern JavaScript framework Experience with TypeScript Experience with Redis or other caching systems Experience with event-streaming/message-broker technologies Experience with queues, jobs, events, and background processing Experience with Docker Experience working with Linux servers Familiarity with CI/CD pipelines Experience with AWS or other cloud platforms Experience with automated testing, such as PHPUnit or Pest Experience working with e-commerce platforms or large product/catalog systems Familiarity with application security and common web security practices Why work with us? We’re a team that believes good sof"
