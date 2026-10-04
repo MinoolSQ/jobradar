@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-04T14:03:10+00:00",
+ "generated_at": "2026-10-04T22:23:25+00:00",
  "window_days": 3,
  "cutoff": "2026-10-01",
- "count": 13,
- "new_count": 4,
+ "count": 14,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 27,
+   "vraceno": 28,
    "strane": 1,
    "stop": "kraj"
   },
@@ -117,7 +117,7 @@
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 101,
+   "vraceno": 103,
    "strane": 4,
    "stop": "kraj"
   },
@@ -132,7 +132,7 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 33,
+   "vraceno": 34,
    "strane": 2,
    "stop": "kraj"
   },
@@ -152,12 +152,34 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 87,
+   "vraceno": 88,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "helloworld",
+   "id": "759403",
+   "title": "Biznis konsultant",
+   "company": "Flaner d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "erp"
+   ],
+   "posted": "2026-10-05",
+   "expires": "20.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Biznis-konsultant/Flaner-d.o.o/759403",
+   "summary": "Flaner d.o.o. 2.7 Beograd 20.10.2026. ERP Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Biznis konsultant Biznis konsultant Flaner d.o.o. 2.7 Beograd Beograd: Buleva Mihajla Pupina 115v 20.10.2026. ERP intermediate Mi smo Flaner – od 2014. godine pružamo različite vrste IT usluga sa posebnim fokusom na implementaciju, razvoj, konsalting i održavanje isplativih IT rešenja. U poslovanju koristimo sopstvenu ekspertizu, jaka partnerstva i strateške saveze sa vodećim dobavljačima tehnologija. Raspisujemo konkurs za poziciju Biznis konsultanta , poznavaoca svog posla. Opis posla Analiza poslovnih zahteva i njihovo prevođenje u IT rešenja Analiza i rešavanje problema i korisničkih zahteva Konfiguracija i unapređenje ERP-a Priprema funkcionalnih specifikacija i projektne dokumentacije Učešće u testiranju i puštanju rešenja u produkciju Saradnja sa korisnicima i članovima tima Podrška korisnicima i unapređenje postojećih rešenja Potrebno: Završene osnovne/master studije ekonomskog fakulteta 3-5 godina iskustva u finansijskim poslovima Odlično poznavanje ključnih procesa i razumevanje finansijskih i računovodstvenih procesa Dobre komunikacione veštine i orijentisanost ka korisniku Sposobnost samostalnog rada, ali i timske saradnje Nudimo: Rad na konkretnim i kompleksnim projektima velikih sistema Konkurentnu zaradu u skladu sa znanjem i iskustvom Mogućnost razvoja i usavršavanja Rad u profesionalnom okruženju, sa najboljima u regionu Prijatnu radnu i kolegijalnu atmosferu Dodatno dobrovoljno zdravstveno osiguranje Dodatne dane godišnjeg odmora Besplatan parking Konkuriši Upoznaj kompaniju O Kompaniji Iskustva Plate Mi smo Flaner – mlada kompanija koja posluje u Beogradu, od 2014. godine. Pružamo različite vrste IT usluga visokog kvaliteta, sa posebnim fokusom na implementaciju, razvoj, konsalting i održavanje isplativih IT rešenja. U poslovanju koristimo sosptvenu ekspertizu i strateške saveze sa vodećim dobavljačima tehnologija. Uz potpunu posvećenost svakom projektu i zajednički rad sa klijetnima pri svakom koraku projekta, pokretali smo digitalne transformacije, ubrzavali poslovne procese, ojačavali reputacije, unapređivali efikasnosti i kreirali konkurentne prednosti za njihova poslovanja. Primenjujući efikasne poslovne strategije i jaka partnerstva sa najeminentnijim IT kompanijama, znanje i iskustvo gradili smo kroz veoma uspešne projekte, stičući značajne kompetencije i ujedno gradeći stručni tim. Danas naš stručni tim odlično poznaje poslovne procese u različitim domenima poslovanja i poseduje veliko iskustvo na brojnim SAP projektima. Zato klijentima nudimo svoja rešenja, kao i rešenja zasnovana na svetski priznatim tehnologijama. Na tržištu smo poznati i cenjeni zahvaljujući implementaciji SAP rešenja, pa je i naš trenutni portfolio okrenut ka SAP proizvodima: SAP ISU, SAP ERP i SuccessFactors, kao i pomoć pri licenciranju i kupovini SAP licenci. Jednako uspešno se bavimo i procesima integracije SAP proizvoda sa ostalim non-SAP rešenjima, razvojem sopstvenih rešenja po SaaS modelu, izradom rešenja za određene delatnosti u skladu sa potrebama klijenata, kao i podrškom u IT segmentu u cilju smanjenja troškova. Izgradnja uspešnog tima za nas je mnogo više od pronalaženja grupe ljudi sa pravim miksom profesionalnih veština. Prihvatanjem velikih, kompleksnih projekata, i predanim i stručnim radom na njima, stvorili smo pozitivno radno okruženje u kojem negujemo zajedništvo, poštovanje i profesionalni razvoj. Pratimo potrebe svih članova tima, ulažemo u njihovo znanje i veštine kroz kontinuirane obuke, razmenu znanja i iskusta",
+   "first_seen": "2026-10-04T22:23:25+00:00"
+  },
   {
    "source": "helloworld",
    "id": "759038",
@@ -204,7 +226,7 @@
    "expires": "31.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Next.javascript-Developer/Codelogix/758992",
-   "summary": "Codelogix Novi Sad | Hibrid 31.10.2026. JavaScript CSS HTML Git AWS Azure REST QA TypeScript Intermediate",
+   "summary": "Codelogix Novi Sad | Hibrid 31.10.2026. JavaScript CSS HTML Git AWS Azure REST QA TypeScript Intermediate @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se",
    "matched": [
     "helloworld"
    ],
