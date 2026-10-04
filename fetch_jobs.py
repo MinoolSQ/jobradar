@@ -36,9 +36,9 @@ INFOSTUD_QUERIES = [
     "windows", "racunari",
 ]
 
-# Infostud vraca 30 oglasa po strani; vise strana se cita samo dok su svi oglasi svezi.
+# Infostud vraca 30 oglasa po strani, sortirano po relevantnosti.
 INFOSTUD_PAGE = 30
-INFOSTUD_MAX_PAGES = 4
+INFOSTUD_MAX_PAGES = 6
 
 # Oglas van IT kategorije prolazi ako mu naslov lici na IT posao (tehnicar u apoteci
 # i slicno stoji pod "Ostalo" ili "Administracija").
@@ -108,11 +108,16 @@ def parse_sr_date(value):
 
 # ---------------------------------------------------------------- Infostud
 
-def infostud_search(query, page=1):
+def infostud_search(query, page=1, extra=""):
     """Rezultati pretrage stoje kao JSON u __NEXT_DATA__ bloku stranice."""
     url = "https://poslovi.infostud.com/oglasi-za-posao-" + slugify(query)
+    params = []
     if page > 1:
-        url += "?page=%d" % page
+        params.append("page=%d" % page)
+    if extra:
+        params.append(extra)
+    if params:
+        url += "?" + "&".join(params)
     html_page = fetch(url)
     match = re.search(
         r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html_page, re.S)
@@ -135,19 +140,50 @@ def infostud_search(query, page=1):
             if results else None,
         }
     if not results:
-        return []
-    return results["jobs"]["primary"]
+        return [], {}
+    meta = {
+        "total": results.get("totalPrimaryItems"),
+        "page": results.get("page"),
+        "sort": results.get("sort"),
+        "params": {k: v for k, v in (results.get("params") or {}).items()
+                   if v is not None and k != "__typename"},
+    }
+    return results["jobs"]["primary"], meta
+
+
+# Kandidati za URL parametar kojim Infostud sortira ili filtrira po datumu. Sajt u
+# odgovoru vraca parsirane parametre, pa proba vidi koji je prepoznat.
+INFOSTUD_PROBES = [
+    "sort=date", "sort=newest", "sort=new", "sort=datum", "sort=latest", "sort=DATE",
+    "sortiranje=datum", "orderBy=date", "timeOfPosting=3", "time_of_posting=3",
+    "vreme_postavljanja=3", "period=3", "dani=3", "days=3",
+    "onlineAfterDate=2026-10-01", "online_after_date=2026-10-01", "from=2026-10-01",
+]
+
+
+def infostud_probe():
+    for extra in INFOSTUD_PROBES:
+        try:
+            batch, meta = infostud_search("python", 1, extra)
+            dates = [d for d in (parse_sr_date(j.get("onlineViewDate") or "") for j in batch) if d]
+            DEBUG.setdefault("infostud_probe", []).append({
+                "extra": extra, "oglasa": len(batch), "meta": meta,
+                "redosled": [d.isoformat() for d in dates[:10]],
+            })
+        except Exception as exc:
+            DEBUG.setdefault("infostud_probe", []).append({"extra": extra, "greska": str(exc)})
 
 
 def infostud_query(query, cutoff):
     """
-    Sve strane jedne pretrage, dok god su svi oglasi na strani unutar prozora. Ako sajt
+    Sve strane jedne pretrage. Sajt sortira po relevantnosti, ne po datumu, pa svez oglas
+    moze da bude na bilo kojoj strani; cita se dok ima strana, do limita. Ako sajt
     ignorise parametar strane, druga strana vrati iste oglase i petlja stane.
-    U debug rezimu se citaju sve strane, da se vidi kako sajt sortira.
     """
-    found, seen, pages, stop = [], set(), 0, "limit"
+    found, seen, pages, stop, total = [], set(), 0, "limit", None
     for page in range(1, INFOSTUD_MAX_PAGES + 1):
-        batch = infostud_search(query, page)
+        batch, meta = infostud_search(query, page)
+        total = meta.get("total") if total is None else total
         fresh_ids = [str(j.get("id")) for j in batch if str(j.get("id")) not in seen]
         if not fresh_ids:
             stop = "ista strana" if batch else "kraj"
@@ -159,16 +195,10 @@ def infostud_query(query, cutoff):
         if DEBUG is not None:
             DEBUG.setdefault("infostud_strane", []).append({
                 "upit": query, "strana": page, "oglasa": len(batch), "novih_id": len(fresh_ids),
-                "svezih": sum(1 for d in dates if d >= cutoff),
-                "najnoviji": max(dates).isoformat() if dates else None,
-                "najstariji": min(dates).isoformat() if dates else None,
-                "redosled": [d.isoformat() for d in dates[:8]],
+                "svezih": sum(1 for d in dates if d >= cutoff), "total": total,
             })
-        if len(batch) < INFOSTUD_PAGE:
+        if len(batch) < INFOSTUD_PAGE or (total is not None and len(seen) >= total):
             stop = "kraj"
-            break
-        if DEBUG is None and any(d < cutoff for d in dates):
-            stop = "stare"
             break
     return found, pages, stop
 
@@ -182,6 +212,8 @@ def looks_like_it(job):
 
 def collect_infostud(cutoff, stats):
     jobs, errors = {}, []
+    if DEBUG is not None:
+        infostud_probe()
     for query in INFOSTUD_QUERIES:
         try:
             found, pages, stop = infostud_query(query, cutoff)
@@ -255,6 +287,8 @@ def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
                 "naslov_strane": clean(" ".join(re.findall(r"<title>(.*?)</title>", page, re.S)))[:200],
                 "job_id_atributa": len(re.findall(r'data-job-id="', page)),
                 "ga4_title_klasa": len(re.findall(r"__ga4_job_title", page)),
+                "isecci": [page[max(0, m.start() - 300):m.start() + 1500]
+                           for m in list(re.finditer(r'data-job-id="', page))[:3]],
             })
         for index, card in enumerate(cards):
             # Kartica se zavrsava tamo gde pocinje sledeca, da tagovi ne pobegnu u susedni oglas.
@@ -567,8 +601,7 @@ def main():
         opened = add_details(unique, args.details_max, args.details_chars, previous)
         print("%-14s %3d otvorenih oglasa" % ("detalji", opened), file=sys.stderr)
 
-    saturated = sorted(q for q, s in infostud_stats.items()
-                       if s["strane"] >= INFOSTUD_MAX_PAGES)
+    saturated = sorted(q for q, s in infostud_stats.items() if s["stop"] == "limit")
     if saturated:
         errors.append("infostud: pretrage %s su napunile svih %d strana, mozda ima jos"
                       % (", ".join(saturated), INFOSTUD_MAX_PAGES))
