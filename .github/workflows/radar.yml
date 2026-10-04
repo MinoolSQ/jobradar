@@ -35,7 +35,7 @@ jobs:
           python-version: "3.12"
 
       - name: Skupi oglase
-        run: python fetch_jobs.py --days "${{ inputs.dana || 3 }}" --out data/oglasi.json --debug-out data/debug.json
+        run: python fetch_jobs.py --days "${{ inputs.dana || 3 }}" --out data/oglasi.json
 
       - name: Arhiviraj dan
         run: |

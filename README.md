@@ -36,8 +36,8 @@ Detalji su u `profil.md`, koji nije u repou.
 
 | Izvor | Kako se čita | Kako se zna šta je novo |
 |---|---|---|
-| poslovi.infostud.com | Sajt je Next.js, cela pretraga stoji kao JSON u `__NEXT_DATA__` bloku stranice. Trideset pretraga po ključnim rečima, svaka do četiri strane. | Polje `onlineViewDate` u samom oglasu |
-| helloworld.rs | Server-renderovan HTML, parsira se regexom | Grub filter `vreme_postavljanja`, pa tačan `datePosted` iz JSON-LD bloka na stranici oglasa |
+| poslovi.infostud.com | Sajt je Next.js, cela pretraga stoji kao JSON u `__NEXT_DATA__` bloku stranice. Trideset pretraga po ključnim rečima, sa `onlineAfterDate=<cutoff>` pa sajt sam vrati samo sveže. | `onlineAfterDate` na serveru, pa još `onlineViewDate` u samom oglasu |
+| helloworld.rs | Server-renderovan HTML, parsira se regexom. Čitaju se četiri liste (bez filtera i `vreme_postavljanja` 2, 3, 7) i spajaju po ID-u. | Tačan `datePosted` iz JSON-LD bloka na stranici oglasa |
 | remoteok.com | Javni JSON API | Polje `epoch` |
 | weworkremotely.com | RSS, dva feeda | Polje `pubDate` |
 
@@ -82,7 +82,9 @@ python fetch_jobs.py --days 3 --out proba.json --seen proba-videno.json
 
 Opcije: `--days N` za širi prozor, `--sources infostud,helloworld` za samo neke izvore,
 `--no-details` da preskoči otvaranje pojedinačnih oglasa (mnogo brže dok se testira),
-`--seen` da ne prlja pravi `data/videno.json`.
+`--seen` da ne prlja pravi `data/videno.json`, `--debug-out debug.json` da upiše šta
+sajtovi stvarno vraćaju (redosled, broj strana, parametri koje Infostud prepozna, HelloWorld
+filteri). Kad sajt promeni nešto, prvo to pokreni.
 
 Action se može pokrenuti ručno sa GitHub-a, dugme "Run workflow" na kartici Actions.
 
@@ -105,12 +107,15 @@ gleda `first_seen` a ne vreme fajla, sat tamo ili ovamo ne menja šta će biti j
 
 ## Ograničenja
 
-- Infostud vraća 30 oglasa po strani. Skripta čita do četiri strane po ključnoj reči, dok
-  su svi oglasi na strani unutar prozora. Ako neka pretraga napuni sve četiri, to se upiše
-  u `errors` i stigne u mejl.
-- HelloWorld ne daje datum objave u listi, a njihov filter prima samo 2, 3 i 7 dana. Zato
-  skripta uzme najuži prozor pa proveri tačan datum na stranici svakog oglasa. Sa
-  `--no-details` ta provera otpada i u rezultatu može biti oglasa starijih od traženog dana.
+- Infostud sortira po relevantnosti, ne po datumu, i vraća 30 oglasa po strani. Zato
+  pretraga ide sa `onlineAfterDate`, pa sajt vrati samo oglase od tog datuma, obično na
+  jednoj strani; skripta čita do šest strana ako treba. Ako neka pretraga napuni svih šest,
+  to se upiše u `errors` i stigne u mejl.
+- HelloWorld ne daje datum objave u listi, lista staje na 30 oglasa i `page=2` vraća istu
+  stranu. Filter `vreme_postavljanja` nudi "danas, 2, 3, 7 dana", ali ne radi po tome (3
+  vrati jedan oglas, 7 vrati manje nego 2). Zato se čitaju četiri liste i spajaju, a tačan
+  datum se proveri na stranici svakog oglasa. Pošto Action radi četiri puta dnevno, limit od
+  30 ne smeta. Sa `--no-details` provera datuma otpada i u rezultatu može biti starih oglasa.
 - Infostudov `summary` ponekad pripada drugom oglasu. Rutini je rečeno da ga ignoriše kad
   ima `details`.
 - LinkedIn nije uključen, traži prijavljivanje i blokira automatsko čitanje.

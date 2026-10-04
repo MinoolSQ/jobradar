@@ -53,11 +53,12 @@ IT_TITLE = re.compile(
 # Sekcije HelloWorld-a. Prazan string znaci sve IT kategorije.
 HELLOWORLD_CATS = [""]
 
-# Vrednosti filtera vreme_postavljanja na HelloWorld-u nisu dani nego opcije iz menija
-# (proba 04.10.2026: 1 se ignorise, 2 vrati 30 i to je limit strane, 3 vrati 1, 7 vrati
-# 23, a page=2 vrati isti skup). Zato se citaju sve tri i spajaju, a tacan datum se
-# posle proveri na stranici oglasa.
-HELLOWORLD_WINDOWS = ["2", "3", "7"]
+# Filter vreme_postavljanja na HelloWorld-u nudi "danas, 2, 3 i 7 dana", ali se sajt ne
+# drzi toga (proba 04.10.2026: 2 vrati 30, 3 vrati 1, 7 vrati 23, 1 se ignorise), lista
+# staje na 30 oglasa, a page=2 vrati istu stranu. Zato se cita lista bez filtera (nosi
+# najnovije) i sve tri vrednosti, pa se spoje po ID-u, a tacan datum se posle proveri na
+# stranici oglasa. Prazan string je lista bez filtera.
+HELLOWORLD_WINDOWS = ["", "2", "3", "7"]
 
 # Remote bordovi vracaju stotine oglasa, pa se filtriraju po ovim pojmovima.
 REMOTE_KEYWORDS = [
@@ -279,14 +280,18 @@ def collect_helloworld(cutoff, open_pages, char_limit, previous):
         helloworld_probe()
     lists = [(cat, window) for cat in HELLOWORLD_CATS for window in HELLOWORLD_WINDOWS]
     for cat, window in lists:
-        params = {"vreme_postavljanja": window}
+        params = {}
+        if window:
+            params["vreme_postavljanja"] = window
         if cat:
             params["cat"] = cat
-        url = "https://www.helloworld.rs/oglasi-za-posao?" + urllib.parse.urlencode(params)
+        url = "https://www.helloworld.rs/oglasi-za-posao"
+        if params:
+            url += "?" + urllib.parse.urlencode(params)
         try:
             page = fetch(url)
         except Exception as exc:
-            errors.append("helloworld %s/%s: %s" % (cat or "sve", window, exc))
+            errors.append("helloworld %s/%s: %s" % (cat or "sve", window or "bez filtera", exc))
             continue
         cards = list(HW_CARD.finditer(page))
         if DEBUG is not None:
@@ -316,7 +321,7 @@ def collect_helloworld(cutoff, open_pages, char_limit, previous):
                 "hybrid": "hibrid" in place.lower(),
                 "tags": [t.replace("-", " ") for t in tags],
                 "posted": None,
-                "posted_window": "helloworld filter %s" % window,
+                "posted_window": "helloworld filter %s" % (window or "bez filtera"),
                 "expires": clean(expires.group(1)) if expires else None,
                 "salary": None,
                 "url": "https://www.helloworld.rs" + href,
