@@ -3,3 +3,4 @@ profil.md
 prompt.txt
 proba*.json
 __pycache__/
+*.patch
