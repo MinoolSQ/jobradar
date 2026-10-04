@@ -2,24 +2,31 @@ name: radar
 
 on:
   schedule:
-    # 05:15 UTC je 07:15 po beogradskom vremenu dok traje letnje racunanje.
-    # Rutina koja ovo cita krece u 06:00 UTC. Razmak je 45 minuta jer GitHub-ov
-    # scheduler ume da kasni kad je guzva, nije garantovan na minut.
-    - cron: "15 5 * * *"
+    # GitHub-ov scheduler ovaj posao pusta 4 do 6 sati posle zakazanog vremena (svih
+    # dvanaest prvih pokretanja, zakazanih za 05:15, krenulo je izmedju 09:50 i 11:40).
+    # Jedno jutarnje pokretanje zato ne vredi: rutina u 06:00 UTC bi uvek citala
+    # jucerasnji fajl. Skuplja se cetiri puta dnevno, a sta je novo rutina vidi po
+    # polju first_seen u svakom oglasu, ne po tome kad je fajl nastao.
+    - cron: "23 1,7,13,19 * * *"
   workflow_dispatch:
     inputs:
       dana:
         description: "Koliko dana unazad da skupi oglase"
         required: false
-        default: "1"
+        default: "3"
 
 permissions:
   contents: write
 
+# Dva pokretanja istovremeno bi se sudarila na push-u.
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
 jobs:
   skupi:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v5
 
@@ -28,7 +35,7 @@ jobs:
           python-version: "3.12"
 
       - name: Skupi oglase
-        run: python fetch_jobs.py --days "${{ inputs.dana || 1 }}" --out data/oglasi.json
+        run: python fetch_jobs.py --days "${{ inputs.dana || 3 }}" --out data/oglasi.json
 
       - name: Arhiviraj dan
         run: |
@@ -41,5 +48,5 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data
           git diff --staged --quiet && echo "nema promena" && exit 0
-          git commit -m "oglasi $(date -u +%Y-%m-%d)"
+          git commit -m "oglasi $(date -u '+%Y-%m-%d %H:%M')"
           git push

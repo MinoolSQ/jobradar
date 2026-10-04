@@ -1,8 +1,5 @@
-__pycache__/
-*.pyc
-prompt.txt
-proba.json
-test*.json
-
-# Profil ne ide u repo, tamo pise sta ne znas i sta izbegavas.
+# profil ne ide u javan repo, u njemu pise sta kandidat ne zna i sta izbegava
 profil.md
+prompt.txt
+proba*.json
+__pycache__/

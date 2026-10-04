@@ -25,10 +25,30 @@ TIMEOUT = 45
 
 # Kljucne reci za pretragu Infostuda. Svaka je jedna pretraga.
 INFOSTUD_QUERIES = [
+    # struka
     "python", "data engineer", "data inzenjer", "podaci", "etl",
     "databricks", "spark", "airflow", "backend", "sql", "aws",
     "data platform", "kubernetes", "fastapi", "data analyst",
+    "devops", "junior", "cloud", "linux",
+    # premoscavanje dok se ne nadje posao u struci
+    "it tehnicar", "sistem administrator", "administrator", "it podrska",
+    "help desk", "tehnicka podrska", "it support", "serviser", "mrezni",
+    "windows", "racunari",
 ]
+
+# Infostud vraca 30 oglasa po strani; vise strana se cita samo dok su svi oglasi svezi.
+INFOSTUD_PAGE = 30
+INFOSTUD_MAX_PAGES = 4
+
+# Oglas van IT kategorije prolazi ako mu naslov lici na IT posao (tehnicar u apoteci
+# i slicno stoji pod "Ostalo" ili "Administracija").
+IT_TITLE = re.compile(
+    r"(^|\W)(it|ict|informati\w*|help ?desk|service ?desk|sysadmin|"
+    r"sistem\w* administrator\w*|system administrator|administrator\w* sistem\w*|"
+    r"mre[zž]n\w*|network|devops|linux|windows|ra[cč]unar\w*|computer|"
+    r"tehni[cč]ka podr[sš]ka|it support|support engineer|noc)(\W|$)",
+    re.I,
+)
 
 # Sekcije HelloWorld-a. Prazan string znaci sve IT kategorije.
 HELLOWORLD_CATS = [""]
@@ -38,7 +58,11 @@ REMOTE_KEYWORDS = [
     "python", "data engineer", "data engineering", "etl", "elt", "spark",
     "databricks", "airflow", "snowflake", "dbt", "backend", "back-end",
     "platform engineer", "analytics engineer", "data platform", "pipeline",
+    "devops", "sysadmin", "site reliability", "linux", "support engineer", "junior",
 ]
+
+# Koliko dugo se pamti kad je oglas prvi put vidjen.
+SEEN_KEEP_DAYS = 45
 
 WWR_FEEDS = [
     "https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss",
@@ -81,12 +105,14 @@ def parse_sr_date(value):
 
 # ---------------------------------------------------------------- Infostud
 
-def infostud_search(query):
+def infostud_search(query, page=1):
     """Rezultati pretrage stoje kao JSON u __NEXT_DATA__ bloku stranice."""
     url = "https://poslovi.infostud.com/oglasi-za-posao-" + slugify(query)
-    page = fetch(url)
+    if page > 1:
+        url += "?page=%d" % page
+    html_page = fetch(url)
     match = re.search(
-        r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', page, re.S)
+        r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html_page, re.S)
     if not match:
         raise RuntimeError("nema __NEXT_DATA__ na %s" % url)
     results = json.loads(match.group(1))["props"]["pageProps"].get("initialSearchResults")
@@ -95,18 +121,46 @@ def infostud_search(query):
     return results["jobs"]["primary"]
 
 
-def collect_infostud(cutoff):
+def infostud_query(query, cutoff):
+    """
+    Sve strane jedne pretrage, dok god su svi oglasi na strani unutar prozora. Ako sajt
+    ignorise parametar strane, druga strana vrati iste oglase i petlja stane.
+    """
+    found, seen, pages = [], set(), 0
+    for page in range(1, INFOSTUD_MAX_PAGES + 1):
+        batch = infostud_search(query, page)
+        fresh_ids = [str(j.get("id")) for j in batch if str(j.get("id")) not in seen]
+        if not fresh_ids:
+            break
+        pages += 1
+        seen.update(fresh_ids)
+        found.extend(batch)
+        all_fresh = all(
+            (parse_sr_date(j.get("onlineViewDate") or "") or cutoff) >= cutoff for j in batch)
+        if len(batch) < INFOSTUD_PAGE or not all_fresh:
+            break
+    return found, pages
+
+
+def looks_like_it(job):
+    category = (job.get("primaryCategory") or {}).get("name", "")
+    if category == "IT" or job.get("itTags"):
+        return True
+    return bool(IT_TITLE.search(job.get("title") or ""))
+
+
+def collect_infostud(cutoff, stats):
     jobs, errors = {}, []
     for query in INFOSTUD_QUERIES:
         try:
-            found = infostud_search(query)
+            found, pages = infostud_query(query, cutoff)
         except Exception as exc:
             errors.append("infostud %s: %s" % (query, exc))
             continue
+        stats[query] = {"vraceno": len(found), "strane": pages}
         for job in found:
-            category = (job.get("primaryCategory") or {}).get("name", "")
             it_tags = job.get("itTags") or []
-            if category != "IT" and not it_tags:
+            if not looks_like_it(job):
                 continue  # pretraga po kljucnoj reci vuce i proizvodnju i prodaju
             posted = parse_sr_date(job.get("onlineViewDate") or "")
             if posted and posted < cutoff:
@@ -141,11 +195,12 @@ HW_CARD = re.compile(
 )
 
 
-def collect_helloworld(days, cutoff, open_pages, char_limit):
+def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
     """
     Lista oglasa ne nosi datum objave, a filter na serveru prima samo 2, 3 i 7 dana,
     dok vrednost za danas tiho vraca nefiltriranu stranu. Zato se uzme najuzi ponudjeni
     prozor, pa se tacan datum procita iz JSON-LD bloka na stranici svakog oglasa.
+    Oglasi koje je prethodno pokretanje vec otvorilo se ne otvaraju ponovo.
     """
     window = "2" if days <= 2 else ("3" if days <= 3 else "7")
     jobs, errors = {}, []
@@ -195,12 +250,16 @@ def collect_helloworld(days, cutoff, open_pages, char_limit):
 
     svezi = []
     for job in jobs.values():
-        try:
-            body, posted = page_data(job["url"], char_limit)
-        except Exception as exc:
-            job["details_error"] = str(exc)
-            svezi.append(job)  # bez datuma je bolje pustiti oglas nego ga izgubiti
-            continue
+        old = previous.get(job["id"])
+        if old and old.get("details") and old.get("posted"):
+            body, posted = old["details"], old["posted"]
+        else:
+            try:
+                body, posted = page_data(job["url"], char_limit)
+            except Exception as exc:
+                job["details_error"] = str(exc)
+                svezi.append(job)  # bez datuma je bolje pustiti oglas nego ga izgubiti
+                continue
         job["details"] = body
         if posted:
             job["posted"] = posted
@@ -339,22 +398,64 @@ def page_data(url, limit):
     return text[:limit], posted.group(1) if posted else None
 
 
-def add_details(jobs, how_many, char_limit):
+def add_details(jobs, how_many, char_limit, previous):
     """Rutina koja ovo cita nema pristup internetu, pa uslovi moraju da udju u JSON."""
     done = 0
     for job in jobs:
-        if done >= how_many:
-            break
         if job.get("details") is not None or not job.get("url"):
             continue  # HelloWorld je svoje stranice vec otvorio
         if job["source"] != "infostud":
             continue
+        old = previous.get(job["id"])
+        if old and old.get("details"):
+            job["details"] = old["details"]
+            continue
+        if done >= how_many:
+            break
         try:
             job["details"], _ = page_data(job["url"], char_limit)
         except Exception as exc:
             job["details_error"] = str(exc)
         done += 1
     return done
+
+
+# ------------------------------------------------------- pamcenje vidjenog
+
+def load_json(path):
+    try:
+        with Path(path).open(encoding="utf-8") as handle:
+            return json.load(handle)
+    except Exception:
+        return None
+
+
+def previous_jobs(out_path):
+    """Oglasi iz prethodnog rezultata, po ID-u, da se njihov tekst ne skida ponovo."""
+    data = load_json(out_path) or {}
+    return {j["id"]: j for j in data.get("jobs", []) if isinstance(j, dict) and "id" in j}
+
+
+def mark_first_seen(jobs, seen_path, now):
+    """
+    Upisuje u svaki oglas kad ga je skripta prvi put videla, iz data/videno.json.
+    Rutina po tome zna sta je novo od poslednjeg mejla, bez obzira na to koliko puta
+    dnevno Action radi i koliko kasni.
+    """
+    seen = load_json(seen_path)
+    if not isinstance(seen, dict):
+        seen = {}
+    stamp = now.isoformat(timespec="seconds")
+    for job in jobs:
+        first = seen.get(job["id"])
+        if not first:
+            first = seen[job["id"]] = stamp
+        job["first_seen"] = first
+    keep_from = (now - timedelta(days=SEEN_KEEP_DAYS)).isoformat(timespec="seconds")
+    seen = {k: v for k, v in seen.items() if v >= keep_from}
+    with Path(seen_path).open("w", encoding="utf-8") as handle:
+        json.dump(seen, handle, indent=0, sort_keys=True)
+    return sum(1 for j in jobs if j["first_seen"] == stamp)
 
 
 # ------------------------------------------------------------------- glavni
@@ -366,21 +467,26 @@ def main():
     parser.add_argument("--sources", default="infostud,helloworld,remoteok,wwr")
     parser.add_argument("--details", action=argparse.BooleanOptionalAction, default=True,
                         help="da li da skine i tekst svakog oglasa")
-    parser.add_argument("--details-max", type=int, default=40,
-                        help="najvise oglasa cija se stranica otvara")
+    parser.add_argument("--details-max", type=int, default=60,
+                        help="najvise oglasa cija se stranica otvara u jednom pokretanju")
     parser.add_argument("--details-chars", type=int, default=3500,
                         help="koliko karaktera teksta oglasa se cuva")
+    parser.add_argument("--seen", default=None,
+                        help="fajl sa datumima prvog vidjenja, podrazumevano videno.json pored izlaza")
     args = parser.parse_args()
 
-    today = datetime.now(timezone.utc).date()
-    cutoff = today - timedelta(days=args.days)
+    now = datetime.now(timezone.utc)
+    cutoff = now.date() - timedelta(days=args.days)
     wanted = {s.strip() for s in args.sources.split(",")}
+    out_path = Path(args.out)
+    seen_path = Path(args.seen) if args.seen else out_path.parent / "videno.json"
+    previous = previous_jobs(out_path)
 
-    jobs, errors = [], []
+    jobs, errors, infostud_stats = [], [], {}
     plan = [
-        ("infostud", lambda: collect_infostud(cutoff)),
+        ("infostud", lambda: collect_infostud(cutoff, infostud_stats)),
         ("helloworld", lambda: collect_helloworld(
-            args.days, cutoff, args.details, args.details_chars)),
+            args.days, cutoff, args.details, args.details_chars, previous)),
         ("remoteok", lambda: collect_remoteok(cutoff)),
         ("wwr", lambda: collect_wwr(cutoff)),
     ]
@@ -404,26 +510,37 @@ def main():
         seen.add(job["id"])
         unique.append(job)
 
+    if out_path.parent != Path(""):
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+    new_count = mark_first_seen(unique, seen_path, now)
+    # Novi oglasi idu prvi, da njihov tekst sigurno stane u limit otvaranja.
+    unique.sort(key=lambda j: j["first_seen"], reverse=True)
+
     if args.details and unique:
-        opened = add_details(unique, args.details_max, args.details_chars)
+        opened = add_details(unique, args.details_max, args.details_chars, previous)
         print("%-14s %3d otvorenih oglasa" % ("detalji", opened), file=sys.stderr)
 
+    saturated = sorted(q for q, s in infostud_stats.items()
+                       if s["strane"] >= INFOSTUD_MAX_PAGES)
+    if saturated:
+        errors.append("infostud: pretrage %s su napunile svih %d strana, mozda ima jos"
+                      % (", ".join(saturated), INFOSTUD_MAX_PAGES))
+
     payload = {
-        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "generated_at": now.isoformat(timespec="seconds"),
         "window_days": args.days,
         "cutoff": cutoff.isoformat(),
         "count": len(unique),
+        "new_count": new_count,
         "errors": errors,
+        "infostud_queries": infostud_stats,
         "jobs": unique,
     }
-    out_path = Path(args.out)
-    if out_path.parent != Path(""):
-        out_path.parent.mkdir(parents=True, exist_ok=True)
     with out_path.open("w", encoding="utf-8") as handle:
         json.dump(payload, handle, ensure_ascii=False, indent=1)
 
-    print("ukupno %d jedinstvenih oglasa, upisano u %s" % (len(unique), args.out),
-          file=sys.stderr)
+    print("ukupno %d jedinstvenih oglasa (%d prvi put vidjenih), upisano u %s"
+          % (len(unique), new_count, args.out), file=sys.stderr)
     for problem in errors:
         print("greska: %s" % problem, file=sys.stderr)
     json.dump(payload, sys.stdout, ensure_ascii=False)
