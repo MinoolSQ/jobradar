@@ -53,6 +53,12 @@ IT_TITLE = re.compile(
 # Sekcije HelloWorld-a. Prazan string znaci sve IT kategorije.
 HELLOWORLD_CATS = [""]
 
+# Vrednosti filtera vreme_postavljanja na HelloWorld-u nisu dani nego opcije iz menija
+# (proba 04.10.2026: 1 se ignorise, 2 vrati 30 i to je limit strane, 3 vrati 1, 7 vrati
+# 23, a page=2 vrati isti skup). Zato se citaju sve tri i spajaju, a tacan datum se
+# posle proveri na stranici oglasa.
+HELLOWORLD_WINDOWS = ["2", "3", "7"]
+
 # Remote bordovi vracaju stotine oglasa, pa se filtriraju po ovim pojmovima.
 REMOTE_KEYWORDS = [
     "python", "data engineer", "data engineering", "etl", "elt", "spark",
@@ -261,18 +267,18 @@ HW_CARD = re.compile(
 )
 
 
-def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
+def collect_helloworld(cutoff, open_pages, char_limit, previous):
     """
-    Lista oglasa ne nosi datum objave, a filter na serveru prima samo 2, 3 i 7 dana,
-    dok vrednost za danas tiho vraca nefiltriranu stranu. Zato se uzme najuzi ponudjeni
-    prozor, pa se tacan datum procita iz JSON-LD bloka na stranici svakog oglasa.
-    Oglasi koje je prethodno pokretanje vec otvorilo se ne otvaraju ponovo.
+    Lista oglasa ne nosi datum objave i staje na 30 oglasa bez paginacije, pa se citaju
+    sve vrednosti filtera i spajaju, a tacan datum se procita iz JSON-LD bloka na
+    stranici svakog oglasa. Oglasi koje je prethodno pokretanje vec otvorilo se ne
+    otvaraju ponovo.
     """
-    window = "2" if days <= 2 else ("3" if days <= 3 else "7")
     jobs, errors = {}, []
     if DEBUG is not None:
         helloworld_probe()
-    for cat in HELLOWORLD_CATS:
+    lists = [(cat, window) for cat in HELLOWORLD_CATS for window in HELLOWORLD_WINDOWS]
+    for cat, window in lists:
         params = {"vreme_postavljanja": window}
         if cat:
             params["cat"] = cat
@@ -280,22 +286,15 @@ def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
         try:
             page = fetch(url)
         except Exception as exc:
-            errors.append("helloworld %s: %s" % (cat or "sve", exc))
+            errors.append("helloworld %s/%s: %s" % (cat or "sve", window, exc))
             continue
         cards = list(HW_CARD.finditer(page))
-        if not cards:
-            errors.append("helloworld %s: nijedna kartica na strani od %d karaktera (%s)"
-                          % (cat or "sve", len(page), url))
         if DEBUG is not None:
             DEBUG.setdefault("helloworld", []).append({
-                "url": url, "karaktera": len(page), "kartica": len(cards),
-                "naslov_strane": clean(" ".join(re.findall(r"<title>(.*?)</title>", page, re.S)))[:200],
-                "job_id_atributa": len(re.findall(r'data-job-id="', page)),
-                "ga4_title_klasa": len(re.findall(r"__ga4_job_title", page)),
-                "isecci": [page[max(0, m.start() - 300):m.start() + 1500]
-                           for m in list(re.finditer(r'data-job-id="', page))[:3]],
-            })
+                "url": url, "karaktera": len(page), "kartica": len(cards)})
         for index, card in enumerate(cards):
+            if card.group("id") in jobs:
+                continue
             # Kartica se zavrsava tamo gde pocinje sledeca, da tagovi ne pobegnu u susedni oglas.
             end = cards[index + 1].start() if index + 1 < len(cards) else card.end() + 6000
             body = page[card.end():end]
@@ -317,7 +316,7 @@ def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
                 "hybrid": "hibrid" in place.lower(),
                 "tags": [t.replace("-", " ") for t in tags],
                 "posted": None,
-                "posted_window": "poslednjih %s dana" % window,
+                "posted_window": "helloworld filter %s" % window,
                 "expires": clean(expires.group(1)) if expires else None,
                 "salary": None,
                 "url": "https://www.helloworld.rs" + href,
@@ -325,6 +324,8 @@ def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
                 "matched": ["helloworld"],
             }
 
+    if not jobs and not errors:
+        errors.append("helloworld: nijedna kartica ni na jednoj listi, markup se verovatno promenio")
     if not open_pages:
         return list(jobs.values()), errors
 
@@ -350,24 +351,32 @@ def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
     return svezi, errors
 
 
-HW_PROBES = ["", "vreme_postavljanja=1", "vreme_postavljanja=2", "vreme_postavljanja=3",
-             "vreme_postavljanja=7", "vreme_postavljanja=2&page=2", "vreme_postavljanja=7&page=2",
-             "page=2"]
+HW_PROBES = ["", "vreme_postavljanja=2", "vreme_postavljanja=2&strana=2",
+             "vreme_postavljanja=2&p=2", "vreme_postavljanja=2&offset=30",
+             "vreme_postavljanja=2&start=30"]
 
 
 def helloworld_probe():
-    """Koliko oglasa lista vraca za svaku vrednost filtera i da li ima vise strana."""
+    """Sta znace vrednosti filtera, koji parametri postoje u linkovima, ima li paginacije."""
     for params in HW_PROBES:
         url = "https://www.helloworld.rs/oglasi-za-posao" + ("?" + params if params else "")
         try:
             page = fetch(url)
             ids = sorted(set(re.findall(r'data-job-id="(\d+)"', page)))
-            DEBUG.setdefault("helloworld_probe", []).append({
+            info = {
                 "params": params, "karaktera": len(page), "razlicitih_id": len(ids),
                 "kartica": len(HW_CARD.findall(page)),
-                "page_linkovi": sorted(set(re.findall(r'[?&;]page=(\d+)', page)))[:12],
                 "prvih_id": ids[:6], "poslednjih_id": ids[-4:],
-            })
+                "param_imena": sorted(set(re.findall(r'[?&;]([a-zA-Z_]+)=', page)))[:60],
+            }
+            if not params:
+                spots = [m.start() for m in re.finditer(r"vreme_postavljanja", page)][:12]
+                info["filter_isecci"] = [
+                    clean(re.sub(r"<[^>]+>", " ", page[s - 200:s + 600])) for s in spots]
+                info["opcije"] = re.findall(
+                    r'(?:name="vreme_postavljanja"[^>]*>|vreme_postavljanja=)(\d+)[^<]{0,200}?>([^<]{1,80})<',
+                    page)[:20]
+            DEBUG.setdefault("helloworld_probe", []).append(info)
         except Exception as exc:
             DEBUG.setdefault("helloworld_probe", []).append({"params": params, "greska": str(exc)})
 
@@ -594,7 +603,7 @@ def main():
     plan = [
         ("infostud", lambda: collect_infostud(cutoff, infostud_stats)),
         ("helloworld", lambda: collect_helloworld(
-            args.days, cutoff, args.details, args.details_chars, previous)),
+            cutoff, args.details, args.details_chars, previous)),
         ("remoteok", lambda: collect_remoteok(cutoff)),
         ("wwr", lambda: collect_wwr(cutoff)),
     ]
