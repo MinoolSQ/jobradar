@@ -1,130 +1,162 @@
 {
- "generated_at": "2026-10-04T13:44:55+00:00",
+ "generated_at": "2026-10-04T13:49:29+00:00",
  "window_days": 3,
  "cutoff": "2026-10-01",
  "count": 9,
- "new_count": 9,
- "errors": [],
+ "new_count": 0,
+ "errors": [
+  "infostud: pretrage administrator, it podrska, it support, it tehnicar, podaci, racunari, sistem administrator, tehnicka podrska su napunile svih 4 strana, mozda ima jos"
+ ],
  "infostud_queries": {
   "python": {
    "vraceno": 16,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 49,
+   "strane": 2,
+   "stop": "kraj"
   },
   "data inzenjer": {
    "vraceno": 6,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 120,
+   "strane": 4,
+   "stop": "limit"
   },
   "etl": {
    "vraceno": 3,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "databricks": {
    "vraceno": 1,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "spark": {
    "vraceno": 5,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "airflow": {
    "vraceno": 2,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "backend": {
    "vraceno": 9,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "sql": {
    "vraceno": 16,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "aws": {
    "vraceno": 15,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 43,
+   "strane": 2,
+   "stop": "kraj"
   },
   "kubernetes": {
    "vraceno": 12,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "fastapi": {
    "vraceno": 0,
-   "strane": 0
+   "strane": 0,
+   "stop": "kraj"
   },
   "data analyst": {
    "vraceno": 1,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "devops": {
    "vraceno": 16,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "junior": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 47,
+   "strane": 2,
+   "stop": "kraj"
   },
   "cloud": {
    "vraceno": 26,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "linux": {
    "vraceno": 18,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 120,
+   "strane": 4,
+   "stop": "limit"
   },
   "sistem administrator": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 105,
+   "strane": 4,
+   "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 120,
+   "strane": 4,
+   "stop": "limit"
   },
   "it podrska": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 120,
+   "strane": 4,
+   "stop": "limit"
   },
   "help desk": {
    "vraceno": 17,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 120,
+   "strane": 4,
+   "stop": "limit"
   },
   "it support": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 120,
+   "strane": 4,
+   "stop": "limit"
   },
   "serviser": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 31,
+   "strane": 2,
+   "stop": "kraj"
   },
   "mrezni": {
    "vraceno": 17,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "windows": {
    "vraceno": 18,
-   "strane": 1
+   "strane": 1,
+   "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 30,
-   "strane": 1
+   "vraceno": 120,
+   "strane": 4,
+   "stop": "limit"
   }
  },
  "jobs": [
@@ -227,8 +259,11 @@
    "summary": "Rukovodilac IT sektora ima zadatak da organizuje i razvija IT funkciju i obezbedi pouzdan rad sistema koji podržavaju maloprodajnu mrežu. Kandidat će voditi i razvijati interni tim, koordinisati eksterne partnere i garantovati dostupnost i bezbednost poslovno kritičnih sistema.",
    "matched": [
     "python",
+    "podaci",
     "etl",
     "linux",
+    "sistem administrator",
+    "tehnicka podrska",
     "mrezni"
    ],
    "first_seen": "2026-10-04T13:44:55+00:00",
@@ -273,7 +308,8 @@
    "url": "https://poslovi.infostud.com/posao/junior-konsultant-za-transport-i-fleet-management-resenja/nts-doo/759393",
    "summary": "Junior konsultant podržava implementaciju i prilagođavanje softverskih rešenja za upravljanje transportom kako bi se unapredili logistički procesi klijenata. Kandidat prikuplja zahteve korisnika, obučava korisnike i doprinosi razvoju funkcionalnosti kroz saradnju sa timom.",
    "matched": [
-    "junior"
+    "junior",
+    "tehnicka podrska"
    ],
    "first_seen": "2026-10-04T13:44:55+00:00",
    "details": "O poslodavcu KO SMO MI? NTS International je regionalna kompanija koja od 2006. godine razvija softverska rešenja za upravljanje transportom i logistikom. Sve faze — od analize i razvoja do implementacije i održavanja — realizujemo interno, u bliskoj saradnji sa korisnicima. Naša rešenja koristi više od 2.000 kompanija, a naš Fleet Management System povezuje više od 25.000 vozila. Uspeh gradimo na stručnosti tima, stalnom razvoju i primeni savremenih tehnologija, kao i na dugogodišnjem iskustvu i timskom radu. Zbog širenja poslovanja i razvoja tržišta, tražimo novog člana tima na poziciji: Junior konsultant za transport i Fleet Management rešenja KOGA TRAŽIMO? Tražimo motivisanu osobu koja želi da razvija karijeru u oblastima transporta, logistike i informacionih tehnologija. Pozicija je namenjena kandidatima na početku profesionalnog puta, koji su spremni da uče, sarađuju sa klijentima i postepeno preuzimaju samostalnije zadatke. Dobrodošli su kandidati koji su završili ili privode kraju studije iz oblasti: Transporta i logistike Saobraćaja Informacionih tehnologija Ekonomije i srodnih oblasti Reference: KlzAvc7PHzLDZq-M_qwXf3_d15Cb0LNyygrPDqUfBEJw4aAHYW-69B5kAZ0eT2vW Diploma je prednost, ali su nam važniji proaktivnost, radoznalost, želja za učenjem i spremnost za timski rad. NEOPHODNE KVALIFIKACIJE Završene ili studije pri kraju iz relevantne oblasti Dobre komunikacione i organizacione veštine Proaktivan pristup radu i spremnost za učenje Odgovornost i sposobnost za timsku saradnju Zainteresovanost za transport, logistiku i softverska reše VAŠE ODGOVORNOSTI Učešće u implementaciji NTS softverskih rešenja za upravljanje transportom i logistikom Upoznavanje sa poslovnim procesima klijenata i pružanje konsultantske podrške Podrška klijentima u unapređenju logističkih procesa kroz digitalna rešenja Obučavanje korisnika za rad sa softverom Prikupljanje potreba i povratnih informacija korisnika Saradnja sa kolegama na unapređenju rešenja i funkcionalnosti ŠTA NUDIMO? Stalno zaposlenje Plaćenu obuku i podršku mentora Rad na stvarnim projektima Praktičnu obuku za razvoj tehničkih i komunikacionih veština Postepeno usavršavanje ka samostalnoj konsultantskoj ulozi Mogućnost napredovanja u stabilnom i dinamičnom okruženju ZA KOGA JE OVA POZICIJA? Ova pozicija je za tebe ako si na početku karijere i želiš da spojiš znanja iz transporta, logistike, saobraćaja, ekonomije ili IT-ja sa radom na savremenim softverskim rešenjima. Ako voliš da učiš, rešavaš konkretne izazove i sarađuješ sa ljudima, pružićemo ti podršku da razviješ znanje i postaneš samostalan konsultant. PRIJAVA Pošalji svoju prijavu elektronskim putem. Sajt: nts-international.net Adresa: Zmajeva 12V, Beograd, Srbija NTS d.o.o. NTS International je regionalni lider koji već 20 godina razvija inovativna informaciona rešenja za transport i logistiku. Prisutni smo na tržištima Slovenije, Srbije, BiH i Crne Gore. Naša rešenja pomažu hiljadama zadovoljnih korisnika da optimizuju flote, smanje troškove goriva i digitalizuju poslovanje. U centru našeg sistema su ljudi – stručan tim posvećen zajedničkom cilju i stalnom napretku. Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upo"
@@ -295,6 +331,7 @@
    "url": "https://poslovi.infostud.com/posao/moderator-customer-service-representative-for-a-video-livestreaming-platform/mebit-doo/759052",
    "summary": "Pozicija postoji da obezbedi bezbedno i kvalitetno iskustvo gledanja putem aktivne moderacije i efikasne korisničke podrške. Kandidat će doprinositi zadovoljstvu korisnika kroz rešavanje upita i saradnju sa timovima dok radi u smenskom režimu.",
    "matched": [
+    "it podrska",
     "help desk",
     "it support",
     "racunari"
