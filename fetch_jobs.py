@@ -181,8 +181,11 @@ def infostud_query(query, cutoff):
     ignorise parametar strane, druga strana vrati iste oglase i petlja stane.
     """
     found, seen, pages, stop, total = [], set(), 0, "limit", None
+    # Sajt prepoznaje onlineAfterDate i vraca samo oglase od tog datuma, pa je obicno
+    # dovoljna jedna strana. Datum se svejedno proverava i po oglasu.
+    since = "onlineAfterDate=%s" % cutoff.isoformat()
     for page in range(1, INFOSTUD_MAX_PAGES + 1):
-        batch, meta = infostud_search(query, page)
+        batch, meta = infostud_search(query, page, since)
         total = meta.get("total") if total is None else total
         fresh_ids = [str(j.get("id")) for j in batch if str(j.get("id")) not in seen]
         if not fresh_ids:
@@ -267,6 +270,8 @@ def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
     """
     window = "2" if days <= 2 else ("3" if days <= 3 else "7")
     jobs, errors = {}, []
+    if DEBUG is not None:
+        helloworld_probe()
     for cat in HELLOWORLD_CATS:
         params = {"vreme_postavljanja": window}
         if cat:
@@ -343,6 +348,28 @@ def collect_helloworld(days, cutoff, open_pages, char_limit, previous):
                 continue
         svezi.append(job)
     return svezi, errors
+
+
+HW_PROBES = ["", "vreme_postavljanja=1", "vreme_postavljanja=2", "vreme_postavljanja=3",
+             "vreme_postavljanja=7", "vreme_postavljanja=2&page=2", "vreme_postavljanja=7&page=2",
+             "page=2"]
+
+
+def helloworld_probe():
+    """Koliko oglasa lista vraca za svaku vrednost filtera i da li ima vise strana."""
+    for params in HW_PROBES:
+        url = "https://www.helloworld.rs/oglasi-za-posao" + ("?" + params if params else "")
+        try:
+            page = fetch(url)
+            ids = sorted(set(re.findall(r'data-job-id="(\d+)"', page)))
+            DEBUG.setdefault("helloworld_probe", []).append({
+                "params": params, "karaktera": len(page), "razlicitih_id": len(ids),
+                "kartica": len(HW_CARD.findall(page)),
+                "page_linkovi": sorted(set(re.findall(r'[?&;]page=(\d+)', page)))[:12],
+                "prvih_id": ids[:6], "poslednjih_id": ids[-4:],
+            })
+        except Exception as exc:
+            DEBUG.setdefault("helloworld_probe", []).append({"params": params, "greska": str(exc)})
 
 
 def url_company(href):
