@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-05T07:16:04+00:00",
+ "generated_at": "2026-10-05T16:14:09+00:00",
  "window_days": 3,
  "cutoff": "2026-10-02",
- "count": 5,
- "new_count": 1,
+ "count": 13,
+ "new_count": 8,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,17 +12,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 1,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 19,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
@@ -52,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 2,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
@@ -77,8 +77,8 @@
    "stop": "kraj"
   },
   "data analyst": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "devops": {
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 2,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
@@ -97,28 +97,28 @@
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 9,
+   "vraceno": 29,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 9,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 24,
-   "strane": 1,
+   "vraceno": 45,
+   "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 56,
-   "strane": 2,
+   "vraceno": 105,
+   "strane": 4,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,17 +127,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 15,
+   "vraceno": 26,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 19,
-   "strane": 1,
+   "vraceno": 33,
+   "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 3,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -147,17 +147,236 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 61,
-   "strane": 3,
+   "vraceno": 99,
+   "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "759637",
+   "title": ".NET developer",
+   "company": "YU Spin d.o.o.",
+   "location": "Novi Sad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "MySQL",
+    ".NET",
+    "C#",
+    "SQL",
+    "Programiranje"
+   ],
+   "posted": "2026-10-05",
+   "expires": "20.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/.net-developer/yu-spin-doo/759637",
+   "summary": "Pozicija .NET developera namenjena je razvoju i održavanju softverskih rešenja za različite projekte. Kandidat će primarno doprinositi implementaciji i unapređenju sistema dok stiče stručne veštine kroz saradnju sa iskusnim timom.",
+   "matched": [
+    "sql",
+    "it podrska"
+   ],
+   "first_seen": "2026-10-05T16:14:09+00:00",
+   "details": "O poslodavcu Yu Spin je softverska kompanija iz Novog Sada sa više od 25 godina iskustva u razvoju softvera. Tražimo programere koji bi se pridružili našem timu i zajedno sa nama radili na razvoju i održavanju softverskih rešenja. Godine radnog iskustva nisu presudne. Važnije je dobro osnovno znanje programiranja, logičko i analitičko razmišljanje, interesovanje za ovaj posao i želja za učenjem i napredovanjem. Pozicija: .NET Developer Početak rada: po dogovoru Lokacija: Novi Sad Šta očekujemo • dobro poznavanje osnova programiranja i objektno-orijentisanog programiranja • poznavanje C# i .NET tehnologija • poznavanje relacionih baza podataka i SQL-a • sposobnost analize i rešavanja problema • spremnost za učenje i usvajanje novih tehnologija i koncepata • odgovornost i samostalnost u radu • sposobnost rada i komunikacije u timu • dobro znanje engleskog jezika Tehnologije sa kojima radimo U zavisnosti od projekta, koristimo: • C#, .NET, .NET Core / .NET Framework • ASP.NET Web API, ASP.NET MVC • Entity Framework / Entity Framework Core • MS SQL Server, MySQL/MariaDB, SQLite • Angular, TypeScript, JavaScript • HTML, CSS, Bootstrap • Git, GitHub, GitLab • CI/CD i DevOps alate i prakse • Azure i AWS Ne očekujemo da kandidat/kinja poznaje sve navedene tehnologije. Šta nudimo: • zaposlenje sa ciljem dugoročne saradnje • rad sa iskusnim kolegama i podršku u stručnom razvoju • rad na različitim softverskim projektima za domaće i inostrane klijente • mogućnost rada na postojećim sistemima, kao i razvoja novih rešenja • fleksibilno radno vreme Ako ste zainteresovani, pošaljite nam svoj CV elektronskim putem. Reference: qVdW6Vwk5IKIhOC-cRiSP-DXue81I8GXtR1BkVHo3MpQkL6iP2JXkMYr6z14NDv6 Yu Spin doo Yu Spin je domaća IT firma iz Novog Sada, sa 22 godina dugim iskustvom u razvoju poslovnih informacionih sistema različitih vrsta i namene. Sarađujemo i imamo partnerski odnos sa domaćim i stranim kompanijama sa kojima smo realizovali mnogo projekata, kako u Srbiji tako i u raznim zemljama Evrope i USA. Uz prijatnu i dinamičnu atmosferu, dobre međuljudske odnose i zanimljivu tehnologiju, razvijamo programska rešenja najnovije generacije. Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad IT .NET Developer .NET developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuva"
+  },
+  {
+   "source": "infostud",
+   "id": "759601",
+   "title": "AI & IT Systems Lead",
+   "company": "The End of Line d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SAP",
+    "Menadžment",
+    "Magento",
+    "ERP",
+    "CRM",
+    "AI/ML"
+   ],
+   "posted": "2026-10-05",
+   "expires": "04.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ai-it-systems-lead/the-end-of-line-doo/759601",
+   "summary": "Cilj pozicije je da uspostavi i vodi primenu Claude AI platforme preko postojećih ERP CRM i ecommerce sistema kako bi se izvukla praktična dnevna vrednost za prodaju operacije finansije i marketing. Kandidat će biti vlasnik IT okvira na strani kompanije, koordinisati spoljne partnere i podizati usvajanje kroz obuke i merenje rezultata.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "administrator"
+   ],
+   "first_seen": "2026-10-05T16:14:09+00:00",
+   "details": "O poslodavcu WHO WE ARE The End of Line (TEOL) is a B2B distributor of packaging and palletizing materials and equipment, operating on the market since 2007. We operate in Serbia, Croatia, and Bosnia & Herzegovina with a team of 27 employees. We run on SAP Business One, Salesforce, Magento 2, and Microsoft 365. We have decided that Claude (Anthropic) will be the AI platform on top of all of them and part of how every colleague works. We are looking for the person who will make that happen. THE ROLE You will be responsible for the proper operation and development of TEOL’s IT infrastructure and, above all, for implementing Claude across the organization. You will report directly to the General Manager. Technical administration of SAP Business One, Microsoft 365, Magento 2, and Salesforce is handled by our external partners. You are the owner on our side. You understand how these systems work and how they connect, you decide what we need, and you make sure the partner delivers. Your main job is to make AI work on top of them and to bring the whole team along. WHAT YOU WILL DO Own the IT landscape (SAP Business One, Microsoft 365, Magento 2, Salesforce) on our side: set priorities, brief and manage the external partner, and check quality, deadlines, and costs. Lead the roll-out of Claude as our main AI platform: set-up, access, governance, rules for the safe use of company data, and phased adoption by the team. Connect AI with our platforms and data, so that sales, operations, finance, and marketing get real, daily value from it. Train and coach colleagues in Serbia, Croatia, and Bosnia & Herzegovina, and help them build prompts, workflows, and templates for their own work. Collect needs from colleagues, turn them into clear requirements, and prioritize them with the General Manager. Measure adoption and results, and keep improving. Be the first point of contact for IT and AI questions. Reference: o8Y6d69prxPFngWJNO3BsqGwMnaG_LjKRfL2qc5UihAjSAHTDkalnTuooQlDNTBN WHAT WE ARE LOOKING FOR 2–4 years of experience in IT, business systems (ERP/CRM/e-commerce), or digital projects, with strong potential to grow quickly. Solid understanding of how business systems work (ERP, CRM, e-commerce, collaboration tools) and how they exchange data. Deep expertise in any one of them is not required. Real hands-on experience with generative AI (Claude, ChatGPT, Copilot, or similar) and a clear view of how it can run on top of company systems. A natural ability to teach: you explain technology simply and patiently to non-technical colleagues, and you like helping others improve. Good organization and the ability to manage a third-party supplier. Fluent Serbian and English, written and spoken, are required. A degree in IT, engineering, economics, or equivalent practical experience. ADVANTAGES Experience with Microsoft Power Platform, automation, or API integrations. Basic knowledge of data protection and information security (GDPR). Experience in introducing new tools or ways of working in a team. WHAT WE OFFER A competitive salary and a performance bonus. A training budget for your own development. Hybrid work: 3 days in our Belgrade office, 2 days from home. Direct access to the General Manager and real influence in a mid-sized company where decisions are made quickly. The chance to lead one of the most important changes in the company, with full ownership. HOW TO APPLY Send your CV and a short note (a few lines) on how you already use AI in your work. All ap"
+  },
+  {
+   "source": "infostud",
+   "id": "759694",
+   "title": "Data Governance & AI Associate",
+   "company": "Banca Intesa a.d.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "BI",
+    "AI/ML"
+   ],
+   "posted": "2026-10-05",
+   "expires": "20.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-governance-ai-associate/banca-intesa-ad/759694",
+   "summary": "Softver developer razvija i odrzava aplikacije fokusirane na .NET Core REST API servise i mikroservisnu arhitekturu kako bi omogucio pouzdane poslovne funkcionalnosti. Kandidat ce implementirati poslovnu logiku, projektovati baze podataka i doprinositi razvoju front-end i back-end modula prema definisanim specifikacijama.",
+   "matched": [
+    "podaci",
+    "data analyst",
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-05T16:14:09+00:00",
+   "details": "O poslodavcu Postani deo ekipe Banca Intesa Data Governance & AI Associate Ko smo mi? Mi smo tim od gotovo 3000 koleginica i kolega širom Srbije. Slavimo jedinstvenost i negujemo kulturu otvorenog feedback-a, jer samo tako možemo rasti i razvijati se zajedno. Deo smo Intesa Sanpaolo, jedne od vodećih bankarskih grupa u Evropi, na tržištu Srbije smo 20 godina i poslujemo u više od 90 gradova naše zemlje. Verujemo da bez snažnih pojedinaca nema ni snažnih timova, ali i da samo jaki timovi mogu biti pravi oslonac i temelj za svaki individualni uspeh. Zajedno, svakodnevno brinemo o potrebama više od 1,3 miliona klijenata, gradeći čvrste odnose poverenja zasnovanih na ekspertizi i znanju. Naše vrednosti Verujemo u integritet i održivost našeg delovanja i poslovanja. Brinemo o klijentima kroz izvrsnost naših usluga i proizvoda negujući dugoročne odnose. Stvaramo inovacije i dodatnu vrednost za pojedince, kompanije i zajednice u kojima poslujemo. Gradimo održivu budućnost posvećenu očuvanju životne sredine, mladim generacijama i izgradnji istinski inkluzivnog društva. Zašto baš Banca Intesa? Svojim kolegama smo omogućili fleksibilno radno vreme i rad od kuće, kao i odlične prilike za razvoj kroz eksterne obuke, interne radionice i talent programe. Talentovanim kolegama pružamo priliku za internacionalnu karijeru. Brinemo o balansu, podstičemo zdrave životne navike i gradimo atmosferu dobre timske saradnje i podrške. Učestvujemo na brojnim sportskim aktivnostima i takmičenjima, kao i volonterskim aktivnostima u okviru programa „Intesa od srca“. Deci naših zaposlenih pružamo priliku da steknu dragocena međunarodna iskustva i razviju svoje veštine i talente, kroz učešće u sportskim takmičenjima i letnjim kampovima za decu. Zdravstveno osiguranje Zdravstveno osiguranje Fleksibilno radno vreme Fleksibilno radno vreme Rad od kuće Ti si odličan kandidat za ovu poziciju ako poseduješ: Visoku stručnu spremu Interesovanje za sisteme veštačke inteligencije, njihovu primenu i odgovorno upravljanje Radoznalost i želju za učenjem i razvojem u oblasti upravljanja podacima Izraženu sklonost ka timskom radu Proaktivnost, pouzdanost, komunikativnost i sistematičnost Analitičnost i kritički način razmišljanja Aktivno znanje engleskog jezika Reference: Pal5IsmRsoFbnzR7bsqf--FynwW77qbIqQ2UDTyrTJDc319l-VJz4rKJEBmNJzKL Tvoje prednosti bi mogle da budu: Napredno korišćenje AI alata i praktično razumevanje mogućnosti njihove primene u poslovnom okruženju Poznavanje alata, standarda i metodologija za upravljanje podacima, kvalitet podataka ili upravljanje metapodacima Osnovno razumevanje principa odgovorne i usklađene primene veštačke inteligencije Iskustvo u radu sa podacima i alatima za analizu i vizuelizaciju podataka Šta ova uloga podrazumeva? Istraživanje novih AI alata, pristupa i dobrih praksi i predlaganje mogućnosti njihove bezbedne i odgovorne primene, pre svega u oblasti upravljanja podacima Podršku u sprovođenju okvira, politika i procedura za upravljanje podacima i sistemima veštačke inteligencije Učešće u procesu upravljanja vlasništvom nad podacima i AI inicijativama Podršku u praćenju kvaliteta podataka, identifikovanju problema i koordinaciji aktivnosti za njihovo rešavanje Saradnju sa poslovnim, IT i bezbednosnim i drugim relevantnim timovima Pripremu analiza, pregleda, izveštaja i prezentacija iz oblasti Data Governance i AI Governance Učešće u edukaciji korisnika i podizanju svesti o odgovornom upravljanju podacima i primeni veštačke inteligencije U"
+  },
+  {
+   "source": "infostud",
+   "id": "759607",
+   "title": "Junior AI Filmmaker",
+   "company": "TeleTrader d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Adobe Photoshop",
+    "UX Dizajn",
+    "3D",
+    "Adobe",
+    "AI/ML"
+   ],
+   "posted": "2026-10-05",
+   "expires": "04.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-ai-filmmaker/teletrader-doo/759607",
+   "summary": "The Junior AI Filmmaker creates high quality visuals for AI generated and hybrid film and television projects and ensures cinematic composition and consistency across characters environments and shots. The role bridges AI driven workflows with live action and VFX to deliver achievable creative outcomes within schedule budget and technical limits.",
+   "matched": [
+    "junior",
+    "it support"
+   ],
+   "first_seen": "2026-10-05T16:14:09+00:00",
+   "details": "O poslodavcu TeleTrader d.o.o. is part of the baha Group, founded by Christian Baha, with businesses across finance, technology, and entertainment. We are announcing the following vacancy: Junior AI Filmmaker Responsibilities: Create high-quality visuals for AI-generated and hybrid film and television projects, including concept art, environments, characters, keyframes, and cinematic shots. Use AI tools to accelerate worldbuilding, character and environment design, while maintaining high aesthetic standards. Work across live-action, editorial, VFX, and AI-generated workflows to support seamless execution. Help determine the best production approach for specific scenes (fully AI-generated, hybrid live-action + AI, or traditional VFX). Maintain high standards for composition, lighting, texture, realism, and cinematic polish while ensuring consistency in character appearance, wardrobe, locations, tone, and visual language. Ensure creative goals remain achievable within schedule, budget, and technical constraints. Reference: pugCdNE7U67NqxavEniVcgd8TapZTsmp--6swbTRfOUmwsq25dLOhqAa8DeEx-5R Requirements: Strong background or professional understanding of traditional film production in one or more of the following areas: 3D/VFX artistry, directing, video editing, line producing, or post-production. Hands-on experience with traditional industry software such as 3ds Max, After Effects, Adobe Photoshop, Premiere Pro, or similar software. Hands-on experience using generative AI tools or AI-assisted workflows (e.g. Seedance 2.5, Kling 3.0, WAN 3.0, or similar) in a creative setting. Strong visual taste and an advanced understanding of cinematic composition, lighting, mood, and design. A portfolio demonstrating high-quality visual work in traditional filmmaking, VFX, and/or AI-assisted pieces. What we offer: Work in an established company with market leadership Be part of an experienced and dynamic team Flexible working hours Professional physiotherapist (massage and exercises) Fully equipped gym on company premises Fruit and hot beverages for employees Private health insurance (upon 1.5 years of employment) Team-building and sports activities Employee discounts https://www.baha.com/ TeleTrader d.o.o. Ko smo mi? TeleTrader je austrijska softverska kompanija, osnovana 1995. godine u Beču. Sa razvojem poslovanja 1997. godine osniva se ćerka kompanija u Beogradu, a danas je TeleTrader deo baha grupe i jedan je od vodećih distributera berzanskih podataka, tehnologije i web rešenja na svetskom tržištu kapitala, sa razvojnim timom od 160 stalno zaposlenih u Beogradu. Obezbeđuje finansijske informacije iz celog sveta za institucije poput banaka, brokerskih kuća, berzi, finansijskih… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT AI Engineer Junior AI Filmmaker Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopšt"
+  },
+  {
+   "source": "infostud",
+   "id": "759631",
+   "title": "QA Engineer",
+   "company": "FFTAE d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "JavaScript",
+    "Selenium",
+    "Jira",
+    "QA",
+    "SCRUM",
+    "qa",
+    "TypeScript",
+    "Agile",
+    "Cypress"
+   ],
+   "posted": "2026-10-05",
+   "expires": "20.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/qa-engineer/fftae-doo/759631",
+   "summary": "This QA Engineer ensures reliability and performance of digital products by designing and maintaining automated test suites and testing frameworks. The role collaborates with engineers and product teams to identify defects early and improve release quality.",
+   "matched": [
+    "data engineer",
+    "data platform"
+   ],
+   "first_seen": "2026-10-05T16:14:09+00:00",
+   "details": "O poslodavcu Do you have a keen eye for detail, enjoy solving complex problems, and are passionate about delivering high-quality digital experiences? We are looking for a QA Engineer to join our international team. You will be employed by FFTAE, an IT company based in Serbia, and work directly with Sporting Rock, a Hamburg-based company developing innovative digital solutions for the sports and outdoor industry. As a QA Engineer, you will play a key role in ensuring the quality, reliability, and performance of our products. You’ll work closely with software engineers, product managers, and designers throughout the development lifecycle, contributing to test automation, continuous improvement, and a seamless user experience. If you’re passionate about software quality, enjoy working in a collaborative international environment, and want to have a real impact on the products you help build, we’d love to hear from you. What you’ll do? Design, develop, and maintain automated test cases across our products using Playwright Continuously improve and expand our automated testing framework and testing strategy Build and maintain robust end-to-end, regression, integration, and API test suites Create comprehensive test plans and ensure test coverage aligns with product requirements Work closely with Software Engineers, Product Managers, and Designers throughout the development lifecycle Identify, document, and help drive the resolution of software defects Investigate issues and validate fixes using logs, monitoring, and error tracking tools (e.g. Datadog, Dash0, or similar) Improve the reliability and maintainability of automated tests within our CI/CD pipelines Contribute to QA best practices, engineering processes, and release quality Advocate for quality throughout the entire software development lifecycle Reference: 3pRJLb1OCGupudM5zoTZBFNq_jOYVno7X7T1Ya37w7diwB0UYtS8T1tfz_rr8LfE What you'll bring? Required Bachelor's degree in technical education related to software engineering 2+ professional experience in Software Quality Assurance or Software Testing. Hands-on experience with test automation using Playwright (experience with Cypress, Selenium, or similar frameworks is also welcome) Good proficiency in TypeScript or JavaScript Solid understanding of functional, regression, integration, end-to-end, and API testing Familiarity with bug tracking and test management tools such as ClickUp or Jira Experience working with monitoring, logging, or error tracking tools Understanding of Agile software development practices (Scrum or Kanban) Strong analytical thinking, attention to detail, and a proactive mindset Excellent communication skills in English (German is a plus) Nice to Have Experience working in a microservice-based architecture. Familiarity with Go (Golang). Experience with observability platforms (Dash0, Datadog) and modern CI/CD pipelines. German language skills. What we offer? Real ownership & impact - shape quality across innovative products used in the real world. Modern tech stack - work with modern tools including Go, React, Playwright, Docker, Kubernetes, and Terraform. Mentorship & growth - opportunities for continuous learning and professional development. Strong engineering culture - a collaborative, international team that values clean code and continuous improvement. Fair conditions - competitive compensation, location-specific benefits, and flexible working arrangements. Shared passion - sports, technology, and building excep"
+  },
+  {
+   "source": "infostud",
+   "id": "759552",
+   "title": "SAP CO Product Costing and CPQ Consultant",
+   "company": "PWO SEE d.o.o.",
+   "location": "Čačak | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SAP",
+    "Prodaja / konsultanti",
+    "ERP"
+   ],
+   "posted": "2026-10-05",
+   "expires": "20.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/sap-co-product-costing-and-cpq-consultant/pwo-see-doo/759552",
+   "summary": "The role exists to design and deliver an integrated product costing and CPQ solution that links SAP S/4HANA with PLM and analytics to enable traceable quotation and lifecycle calculations. The successful candidate will establish a scalable global template and ensure consistent end-to-end costing from inquiry through actual cost reconciliation.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-10-05T16:14:09+00:00",
+   "details": "O poslodavcu Your Mission As SAP CO-Product Costing & CPQ Consultant, you design and implement the future integrated product costing and Configure, Price, Quote (CPQ) solution. You connect SAP S/4HANA product costing with engineering and product data from PLM, quotation processes, lifecycle simulations, and relevant planning and analytics platforms. The objective is a consistent and traceable calculation process from customer inquiry and product design through quotation, product and lifecycle costing, site and manufacturing scenarios, and comparison with actual cost and profitability data in SAP. You combine strong functional knowledge with end-to-end solution delivery responsibility. Core mandate: Establish a scalable CPQ and product costing capability that uses SAP as the source for master and actual data while enabling quotation, simulation, lifecycle views, governance, and global reuse. Key Responsibilities SAP Product Costing and S/4HANA Act as the functional expert for SAP CO-PC and product cost controlling within the ongoing SAP S/4HANA program. Analyze and improve costing structures, costing variants, valuation strategies, overhead calculation, cost component structures, standard costs, and product cost roll-ups. Ensure consistent integration with SAP PP, MM, FI/CO, CO-PA, SD, and relevant master-data processes. Align bills of material, routings, work centers, activity rates, material prices, purchasing data, and overhead logic with the future CPQ architecture. Reference: b8PFA9TRsNEbPdU6VslYV3ttN5JD8B6ZXPCco5HRuauM1ir6mekYDOr-zXJ6bcTW CPQ and Product Lifecycle Costing Translate the existing quotation and calculation logic into a scalable CPQ target solution. Support product, project, assembly, and single-part calculations, including configurable blocks, detailed calculation drivers, machine and process costs, tooling, material, labor, logistics, and overheads. Design lifecycle, variant, and what-if simulations covering annual volumes, price development, ramp-up effects, locations, manufacturing concepts, capacity, investment, margin, and cash impact. Enable target costing, should costing, design-to-cost, quotation costing, and traceable commercial decision-making. Architecture, Data and Integration Design the end-to-end data flow between SAP S/4HANA, PLM/PDM, the CPQ solution, and planning or analytics platforms such as Jedox. Define system boundaries and ownership for engineering data, product structures, commercial assumptions, calculation logic, versions, released values, and actual results. Ensure consistency between engineering BOMs, manufacturing BOMs, routings, purchasing conditions, planning assumptions, standard costs, and actual costs. Specify functional interfaces, mappings, validation rules, error handling, and reconciliation controls. Contribute to solution evaluation and selection without prematurely limiting the target architecture to one specific product. Delivery, Testing and Adoption Lead or support the full delivery lifecycle from requirements and solution design through configuration, build coordination, migration, testing, deployment, and stabilization. Create functional specifications, process designs, test scenarios, acceptance criteria, operating documentation, and training materials. Coordinate external implementation partners and internal SAP, PLM, data, infrastructure, and security teams. Support key users and global sites through structured training, rollout preparation, and post-go-live support. RFQ"
+  },
+  {
+   "source": "infostud",
+   "id": "759677",
+   "title": "Specijalista za upravljanje sajber bezbednošću i BCM",
+   "company": "Banca Intesa a.d.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija",
+    "BI"
+   ],
+   "posted": "2026-10-05",
+   "expires": "20.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/specijalista-za-upravljanje-sajber-bezbednoscu-i-bcm/banca-intesa-ad/759677",
+   "summary": "DevOps inženjer će razvijati i održavati automatizovane procese deploymenta kako bi ubrzao isporuku aplikacija i smanjio rizike pri uvođenju izmena. Kandidat će upravljati aplikativnim konfiguracijama i podržavati testna okruženja u saradnji sa razvojnim timovima.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "racunari"
+   ],
+   "first_seen": "2026-10-05T16:14:09+00:00",
+   "details": "O poslodavcu Postani deo ekipe Banca Intesa Specijalista za upravljanje sajber bezbednošću i BCM Ko smo mi? Mi smo tim od gotovo 3000 koleginica i kolega širom Srbije. Slavimo jedinstvenost i negujemo kulturu otvorenog feedback-a, jer samo tako možemo rasti i razvijati se zajedno. Deo smo Intesa Sanpaolo, jedne od vodećih bankarskih grupa u Evropi, na tržištu Srbije smo 20 godina i poslujemo u više od 90 gradova naše zemlje. Verujemo da bez snažnih pojedinaca nema ni snažnih timova, ali i da samo jaki timovi mogu biti pravi oslonac i temelj za svaki individualni uspeh. Zajedno, svakodnevno brinemo o potrebama više od 1,3 miliona klijenata, gradeći čvrste odnose poverenja zasnovanih na ekspertizi i znanju. Naše vrednosti Verujemo u integritet i održivost našeg delovanja i poslovanja. Brinemo o klijentima kroz izvrsnost naših usluga i proizvoda negujući dugoročne odnose. Stvaramo inovacije i dodatnu vrednost za pojedince, kompanije i zajednice u kojima poslujemo. Gradimo održivu budućnost posvećenu očuvanju životne sredine, mladim generacijama i izgradnji istinski inkluzivnog društva. Zašto baš Banca Intesa? Svojim kolegama smo omogućili fleksibilno radno vreme i rad od kuće, kao i odlične prilike za razvoj kroz eksterne obuke, interne radionice i talent programe. Talentovanim kolegama pružamo priliku za internacionalnu karijeru. Brinemo o balansu, podstičemo zdrave životne navike i gradimo atmosferu dobre timske saradnje i podrške. Učestvujemo na brojnim sportskim aktivnostima i takmičenjima, kao i volonterskim aktivnostima u okviru programa „Intesa od srca“. Deci naših zaposlenih pružamo priliku da steknu dragocena međunarodna iskustva i razviju svoje veštine i talente, kroz učešće u sportskim takmičenjima i letnjim kampovima za decu. Zdravstveno osiguranje Zdravstveno osiguranje Fleksibilno radno vreme Fleksibilno radno vreme Rad od kuće Ti si odličan kandidat za ovu poziciju ako poseduješ: Diplomu ili si na završnoj godini fakulteta/visoke škole (prednost imaju diplomci/studenti Elektrotehničkog fakulteta, Fakulteta organizacionih nauka, Matematičkog fakulteta ili Visoke škole strukovnih studija za ICT) Napredno poznavanje računarskog hardvera, sistemskog softvera i komunikacionih protokola Napredno poznavanje rada na računaru (MS Office paket) Znanje engleskog jezika (govornog i pisanog) Reference: JF4uZRaHU6TNQVQPyCuGonL5jb3HfrjsjNTl-Xw3wUIVW1Aa9lsUkHmhrhFyKsku Tvoje prednosti bi mogle da budu: Sertifikat iz oblasti sajber bezbednosti Analitičnost, sistematičnost i organizovanost u radu Fleksibilnost, proaktivnost i motivisanost za učenje Orijentisanost ka timskom radu Šta ova uloga podrazumeva? Izradu dokumenata iz oblasti sajber bezbednosti Definisanje i kontinuirano održavanje administrativne bezbednosne kontrole (pravilnici, standardi, procedure, radne instrukcije) Obezbeđivanje stalne analize i procenu rizika, kao i mogućih uticaja na sigurnost poslovanja banke Obezbeđivanje kreiranja i održavanje plana sajber bezbednosti i kontinuirano sprovođenje procene stanja sajber bezbednosti Vođenje projekata iz domena sajber bezbednosti Učestvovanje u kreiranju, održavanju i nadgledanju primene disaster recovery i business continuity plana Učestvovanje u svim projektima implementacije ICT sistema u okviru banke Kontrolisanje primene implementiranih administrativnih i tehničkih kontrola Obezbeđivanje upravljanja identitetima u skladu sa definisanim pravilima Rešavanje bezbednosnih incidenata Sprovođenje forenzičke analize nakon incidenta"
+  },
+  {
+   "source": "infostud",
+   "id": "759619",
+   "title": "System Engineer",
+   "company": "Netlogic d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Linux",
+    "Windows Server",
+    "VMware",
+    "Windows",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-05",
+   "expires": "20.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/system-engineer/netlogic-doo/759619",
+   "summary": "Ova uloga postoji da obezbedi pouzdano funkcionisanje serverske i virtualizacijske infrastrukture te brz oporavak podataka kroz upravljanje backup sistemima. Kandidat će rešavati eskalirane probleme, vršiti patching i održavanje sistema i pratiti procedure i dokumentaciju radi stabilnosti usluga.",
+   "matched": [
+    "linux",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-10-05T16:14:09+00:00",
+   "details": "O poslodavcu What we will expect from you: Maintain servers, storage, and virtualization platforms Support VMware and Proxmox environments Operate backup systems and perform restore tasks Support hosting platforms (cPanel, email systems) Resolve escalated issues from Support team Perform patching and system maintenance Maintain documentation and follow procedures Reference: 0MevHURUD6tPrFfg9N_INsOIrBjRCia60T4PdeqpwnPX57wTzUcMT7omcSvdA7Ml For a good start you will need: Experience with server and virtualization technologies Knowledge of Linux and Windows Server Experience with backup systems Ability to troubleshoot system issues W hy we think you should apply: You will work in an environment that allows you to grow and develop 25 days of annual leave Participation in a bonus reward system Healthcare package Mobile phone with unlimited internet and Family Yettel tariff package Recreation or health program In-house training and development programs Career development opportunities Please include your references in your CV, as reference checks are an integral part of our selection process. We look forward to meeting you soon! Netlogic D.O.O. Milutina Milankovica 1 11070 Novi Beograd, Beograd, Srbija PIB: 106330646 Matični broj: 20579323 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Engineer System Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
   {
    "source": "infostud",
    "id": "759573",
