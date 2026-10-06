@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-06T07:42:06+00:00",
+ "generated_at": "2026-10-06T18:57:37+00:00",
  "window_days": 3,
  "cutoff": "2026-10-03",
- "count": 11,
- "new_count": 1,
+ "count": 22,
+ "new_count": 11,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 2,
+   "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 5,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 11,
+   "vraceno": 18,
    "strane": 1,
    "stop": "kraj"
   },
@@ -47,22 +47,22 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 4,
+   "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 2,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 3,
+   "strane": 1,
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 10,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
@@ -82,17 +82,17 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 7,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 1,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,62 +102,419 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 29,
-   "strane": 1,
+   "vraceno": 38,
+   "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 9,
+   "vraceno": 18,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 33,
+   "vraceno": 54,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 67,
+   "vraceno": 89,
    "strane": 3,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 1,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 19,
+   "vraceno": 25,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 23,
-   "strane": 1,
+   "vraceno": 37,
+   "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 6,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 65,
+   "vraceno": 85,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "759999",
+   "title": "AI Developer / Machine Learning Engineer",
+   "company": "e-Intelligence",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Git",
+    "Python",
+    "AWS",
+    "Azure",
+    "REST",
+    "Programiranje",
+    "Cloud",
+    "GCP",
+    "AI/ML"
+   ],
+   "posted": "2026-10-06",
+   "expires": "21.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ai-developer-machine-learning-engineer/e-intelligence/759999",
+   "summary": "Pozicija AI Developera je odgovorna za razvoj i implementaciju produkcionih AI rešenja zasnovanih na velikim jezičkim modelima i vektorskim bazama podataka. Kandidat će unapređivati pipeline-ove za obradu kompleksnih podataka, integrisati modele u backend servise i optimizovati performanse i troškove sistema.",
+   "matched": [
+    "python",
+    "backend",
+    "sql",
+    "aws",
+    "cloud",
+    "sistem administrator",
+    "administrator"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu E-Intelligence d.o.o . je softverska kompanija specijalizovana za razvoj digitalnih rešenja koja unapređuju svakodnevno kancelarijsko poslovanje. Naša misija je da modernim, intuitivnim i praktičnim alatima unapredimo poslovne procese i pomognemo korisnicima da efikasnije organizuju svoje vreme, resurse i dokumentaciju. Kompanija se ponosi inovativnim pristupom problemima koje male, srednje i velike firme svakodnevno susreću u kancelarijskom poslovanju. Uz kontinuiranu tehnološku evoluciju i posvećen tim, razvijamo alate koji olakšavaju administrativne zadatke kako bi se korisnici fokusirali na strateške prioritete. Glavni proizvod naše kompanije jeste Kancelarko – digitalna kancelarija , rešenje za elektronsko kancelarijsko poslovanje. Opis posla Tražimo AI Developera koji će se pridružiti razvoju naprednih AI rešenja u okviru Paragraf AI platforme, kao i razvoju novih AI proizvoda. Radićete na sistemima koji kombinuju velike jezičke modele (LLM), vektorske baze podataka i prilagođene pipeline-ove za obradu i razumevanje kompleksnih podataka. Pored postojećeg AI asistenta za pravnu oblast, tim aktivno razvija i nove funkcionalnosti i proizvode iz oblasti generativne veštačke inteligencije. Pozicija podrazumeva rad na celokupnom AI stack-u - od eksperimentisanja sa modelima, preko dizajna arhitekture, do implementacije i optimizacije u produkcionom okruženju. Ključne odgovornosti: Razvoj i unapređenje AI sistema baziranih na LLM modelima (RAG, agenti, prompt engineering) Dizajn i implementacija pipeline-ova za obradu podataka (tekst, dokumenti, slike, audio) Integracija AI modela u backend servise i postojeće proizvode Rad sa vektorskim bazama i sistemima za pretragu (semantic / hybrid search) Eksperimentisanje sa različitim modelima i pristupima (OpenAI, open-source modeli, fine-tuning...) Optimizacija performansi, troškova i kvaliteta AI sistema Saradnja sa ostatkom tima (backend, frontend, ostale službe) Učešće u razvoju novih AI funkcionalnosti i proizvoda (npr. generisanje dokumenata, speech-to-text, obrada slika) Reference: LIGaZTXxd-ZPQyehvtC4tqLYnMnN6EH-6LjrQwWmTOtVeVkzggBmMFiN_w8OTFUO Kvalifikacije: Obrazovanje i pravne veštine Fakultet iz oblasti računarstva, elektrotehnike, matematike ili srodnih disciplina Poželjno poznavanje pravne terminologije i sposobnost jasnog tumačenja i prilagođavanja pravnih koncepata za tehničke svrhe. Tehničke veštine: Iskustvo u radu sa Python-om (obavezno) Razumevanje rada velikih jezičkih modela (LLM) i generativne AI Iskustvo sa REST API servisima i backend razvojem Rad sa bazama podataka (SQL, poželjno PostgreSQL) Iskustvo sa AI/ML bibliotekama (npr. PyTorch, TensorFlow, Hugging Face) Razumevanje koncepta kao što su: embeddings, semantic search, Retrieval-Augmented Generation, promt engineering Osnovno razumevanje cloud okruženja (Azure, AWS ili GCP) Rad u Git okruženju Prednosti Iskustvo sa vektorskim bazama (npr. pgvector, Weaviate, Pinecone, Azure AI Search) Rad sa OpenAI / Azure OpenAI servisima Iskustvo sa obradom prirodnog jezika (NLP) Iskustvo sa speech-to-text ili computer vision projektima Iskustvo u optimizaciji AI sistema (latencija, token cost, caching) Razumevanje mikroservisne arhitekture i Docker okruženja Iskustvo sa fine-tuning-om ili treniranjem modela Interesovanje za razvoj produkcionih AI sistema (ne samo istraživački rad) Prednost će imati kandidati sa dokazivim praktičnim iskustvom u razvoju AI rešenja. Posebno cenimo rad na konkretnim projektima ili pilot "
+  },
+  {
+   "source": "infostud",
+   "id": "759529",
+   "title": "API Test Automation Engineer",
+   "company": "Allied Testing Serbia",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Java",
+    "Git",
+    "JUnit",
+    "TestNG",
+    "Maven",
+    "Jenkins",
+    "XML",
+    "JSON",
+    "REST",
+    "QA",
+    "SCRUM",
+    "HTTP",
+    "qa",
+    "Agile"
+   ],
+   "posted": "2026-10-06",
+   "expires": "21.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/api-test-automation-engineer/allied-testing-serbia/759529",
+   "summary": "The role exists to design and implement backend REST API test automation that ensures reliability of financial services integrations. The successful candidate will apply strong Java testing skills and validate backend data while collaborating daily with distributed international teams in English.",
+   "matched": [
+    "data engineer",
+    "backend",
+    "sql",
+    "junior"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu Allied Testing is a leading specialist QA and testing international firm with focus on the finance industry. We are looking to hire a Test automation engineer to work on an outsourcing project for a client. Both junior and senior level candidates will be considered. The job will require working in a distributed international environment with both local and remote teams. Successful candidates will have to communicate in English with other team members and management on a daily basis. Requirements: Experience in backend and REST API automation testing Strong knowledge of Java and object-oriented programming Hands-on experience with REST Assured and API automation frameworks Strong understanding of REST APIs, HTTP methods, status codes, headers, authentication, JSON, and XML Experience using modern AI tools, such as Claude Code, to accelerate test automation. Experience with JUnit or TestNG Experience validating backend data using SQL Familiarity with Git version control Understanding of CI/CD tools and pipelines, such as Jenkins Familiarity with Maven and dependency/build management Knowledge of functional, regression, integration, negative, and end-to-end testing Ability to troubleshoot API failures using logs and debugginFamiliarity with Agile/Scrum methodologies and defect tracking tools Fluent written and spoken English Strong problem solving and analytical skills Ability to understand technical requirements with complex logic Experience with UI test automation, and using tools such as Playwright is a plus. Experience in the financial industry is a plus. A bachelor’s degree in computer science or a related field is a plus. Conditions: We offer a pleasant, healthy, challenging but rewarding work environment and a base compensation depending on individual skills and experiences. The salary depends on the experience and skills of the candidate. Trial period: 2 months Financial and career opportunities. Only CVs in English will be considered. Reference: icV6vzvQ-Lk2f6jgzHYBXZ_Q-TytAKCo7nZnQ_N_9ucWVT8gEnostT7Os08HVj3y Allied Testing Serbia Jurija Gagarina 26v, Beograd, Srbija PIB: 106959377 Matični broj: 20714298 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Automation QA Engineer API Test Automation Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sa"
+  },
+  {
+   "source": "infostud",
+   "id": "759988",
+   "title": "IT & Process Support Specialist",
+   "company": "netcare d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-06",
+   "expires": "05.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-process-support-specialist/netcare-doo/759988",
+   "summary": "This role provides 1st to 3rd level support for web based systems used by international clients and ensures smooth operation and user assistance. The specialist diagnoses incidents implements solutions and produces documentation to support multinational rollout and support projects.",
+   "matched": [
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu At netcare we are taking care of international IT projects for some of the biggest companies in the world. We develop and test IT solutions, organize rollouts, conduct trainings and carry out support. We have four venues in Germany (Neustetten and Leinfelden-Echterdingen near Stuttgart, Frankfurt am Main and Berlin), one overseas in Chattanooga/USA and one in Belgrade/Serbia. Come join us and be part of our fast growing and thriving Belgrade team! IT & Process Support Specialist (m/f/d) We are looking for full-time 1st- to 3rd-level support specialists to join our Professional Services team in Belgrade as soon as possible. You are utterly web-savvy and love that wonderful moment when you crack a particularly hard nut? This job is perfect for you if you like helping others and have a lot of fun in tracking down tricky problems. Together with your team, you'll process requests from all over the world and assist users, for example, in maintaining websites (markets and dealers) of large companies - with technical as well as process questions. Your Tasks: Answering operating and process questions Development and implementation of solutions Analysing, assessing and solving (or forwarding) of bugs Incident Management, Monitoring Creation of manuals and reports Focus is on supporting web-based systems and applications Reference: 12CB6AY468dde5B8BEvXYG2DLVUjQ2ghagHr7OefLUJLocC6NsgMf8M6gMYymmDc We offer you: Private premium healthcare insurance for all our team members 24 days of vacation per calendar year Working hours that also leave You time for private activities, hobbies, raising kids, or whatever You like doing in Your free time Working in multinational teams in highly exciting international projects for our renowned customers such as Mercedes-Benz Hybrid work model with a mix of Office and remote work days Detailed trainings with a lot of patience and collegiality, since we want You to shine on Your new role An open, relaxed, at the same time constructive and goal-oriented, corporate culture with people helping and “can do” attitude Team events thought up with a lot of love, for example, city trips in Europe, team buildings in Serbia and Belgrade, Christmas Party events in Germany and much more to come Skills you should have: Fluent in spoken and written English Successfully completed studies with IT content, comparable IT education or work experience Very good MS Office skills (with focus on Outlook and Excel) Ability to work in a team and social competence Strong communication skills (telephone and e-mail) Ability to grasp things quickly and pleasure in learning fast as well as in taking part in training courses We absolutely don’t have anything against: Proficient in German language Experience in being a support specialist or with working at a user help desk Knowledge of web development and/or web content management systems ITIL knowledge and social media affinity Experience in giving webinars and/or face-to-face trainings Routine in dealing with ticket and/or issue tracking systems Passion for the automotive industry We also welcome career changers with strong communication and analytical skills, good foreign language skills and the willingness to quickly familiarize themselves with technical issues. What to expect: You will join a talented bunch of bright minds developing state-of-the-art solutions for some of the biggest companies in the world. We love what we do and therefore we do it very well. We also love our hands-o"
+  },
+  {
+   "source": "infostud",
+   "id": "759960",
+   "title": "IT specijalista",
+   "company": "Sani Optik d.o.o.",
+   "location": "Šabac",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "VPN",
+    "Podrška"
+   ],
+   "posted": "2026-10-06",
+   "expires": "21.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-specijalista/sani-optik-doo/759960",
+   "summary": "IT specijalista je zadužen za obezbeđivanje stabilnog rada IT sistema kroz korisničku podršku i održavanje infrastrukture. Cilj uloge je povećanje operativne pouzdanosti i bezbednosti sistema kroz administraciju naloga mreže i implementaciju IT rešenja.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu OPIS POSLA: IT SPECIJALISTA Pozicija: IT specijalista Sektor: IT / Podrška poslovanju Opis uloge IT specijalista je odgovoran za svakodnevno funkcionisanje IT sistema u kompaniji, pružanje tehničke podrške zaposlenima, održavanje računarske i mrežne infrastrukture, kao i unapređenje IT procesa u skladu sa poslovnim potrebama. Ključne odgovornosti Pružanje tehničke podrške zaposlenima (hardver, softver, mreža) Instalacija, konfiguracija i održavanje računara, servera i prateće IT opreme Održavanje i nadzor lokalne mreže, internet konekcije i bezbednosti sistema Administracija korisničkih naloga, prava pristupa i IT opreme Saradnja sa eksternim IT dobavljačima i servisima Redovno backup-ovanje podataka i briga o bezbednosti informacija Učestvovanje u implementaciji novih IT rešenja i sistema (programski jezici, SQL) Vođenje IT dokumentacije i evidencije opreme Praćenje i primena IT standarda, procedura i politika bezbednosti Reference: TW02AE21JTeI4EvqLJgUZ0ytpqIGH-O7X4_b8j7aX9EcN5ds1t9SnUXrRVdua4To Potrebne kvalifikacije i znanja Završena viša škola ili fakultet iz oblasti informacionih tehnologija (ili relevantno iskustvo) Iskustvo na sličnim poslovima (prednost, ali nije obavezno) Dobro poznavanje Windows okruženja i MS Office paketa Osnovno znanje mreža (LAN/WAN, VPN) Razumevanje IT bezbednosti i zaštite podataka Poznavanje engleskog jezika (tehnička dokumentacija) Poželjne veštine i osobine Analitičnost i sposobnost rešavanja problema Dobra organizacija i odgovornost Komunikativnost i spremnost za rad sa korisnicima Samostalnost, ali i timski duh Spremnost za učenje i usavršavanje Šta nudimo Stabilno zaposlenje u dinamičnom okruženju Rad na raznovrsnim IT projektima Mogućnost profesionalnog razvoja i edukacije Prijatno i podržavajuće radno okruženje Sanioptik d.o.o. Kompanija Sani Optik najveći je lanac optika u Srbiji sa mrežom od 77 poslovnih jedinica u 57 gradova Srbije i Republike Srpske. Iskustvo i tradicija dugi 73 godine, izdvajaju Sani Optik na domaćem i regionalnom tržištu, kao kompaniju čiji je brend sinonim za svet u kome svako uživa u gledanju i slušanju života, bez ograničenja, uz stilizovan i moderan izgled. Kompanija je ustrojena kao dinamičan sistem sa ciljem da se na zahteve potrošača odgovori odmah, vodeći računa o njihovom… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Šabac IT IT Help Desk / Support IT specijalista Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Inf"
+  },
+  {
+   "source": "infostud",
+   "id": "759819",
+   "title": "Lead Java Developer",
+   "company": "OIP Insurtech",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "Spring",
+    "Java",
+    "AWS",
+    "Azure",
+    "DevOps",
+    "Programiranje",
+    "Cloud",
+    "Microservices"
+   ],
+   "posted": "2026-10-06",
+   "expires": "05.11.2026",
+   "salary": "neto 3.000 - 3.300 EUR (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/lead-java-developer/oip-insurtech/759819",
+   "summary": "Senior technical leader responsible for defining architecture and delivering high quality Java microservices on cloud platforms. Primary impact is driving architectural direction ensuring performance and mentoring engineering teams to meet strategic goals.",
+   "matched": [
+    "backend",
+    "sql",
+    "aws",
+    "data platform",
+    "devops",
+    "junior",
+    "cloud"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu Join our team as a Lead Java Developer and play a pivotal role in shaping the architecture and driving the success of cutting-edge projects in a dynamic, innovative environment. Your advanced technical expertise, leadership skills, and deep knowledge of Java will be central to delivering impactful, strategic solutions. If you’re a seasoned professional ready to influence technical direction, mentor others, and take ownership of complex challenges, this is the opportunity for you. What We’re Looking For: Bachelor’s degree (or higher) or equivalent professional experience Azure or AWS certification with extensive hands-on experience Proven experience in leading technical teams, setting architectural direction, and guiding delivery Strong ability to build and maintain relationships with key stakeholders In-depth expertise in Java and modern development frameworks, especially Spring Boot Strong scripting skills across multiple languages (a plus) Exceptional verbal and written communication skills Familiarity with Azure services (Web Apps, Service Bus, CosmosDB, SQL, Data Factory, VNets, Storage Accounts, API Management, KeyVaults, Policies) Reference: DnRPSMlMmZYAwYjSBz4Q5Mi8hA73878kC7ZhFcOiOb-PZ1rFWlsWUCnZOCJvYuYM What You’ll Be Doing: Lead architectural decisions and define best practices to ensure scalable, secure, and high-performing solutions Deliver expert-level Java development for backend services within a microservices architecture Configure, optimize, and fine-tune Java-based applications for peak performance and efficiency Implement cloud security management and DevOps best practices Evaluate and integrate emerging platform features to strengthen system performance and capabilities Set up comprehensive monitoring and alerting systems to maintain system health Mentor, coach, and guide junior developers, helping them grow their technical expertise and confidence Provide technical leadership and oversight across the full development lifecycle, ensuring delivery aligns with strategic goals If you’re ready to drive innovation, make architectural decisions, and lead a high-performing team, we’d love to hear from you. Join us in shaping the future of technology while making a lasting impact. You can inquire about benefits on our careers page: https://careers.oipinsurtech.com/ OIP Insurtech OIP Insurtech streamlines insurance operations and optimizes workflows by combining deep industry knowledge with advanced technology. Established in 2012, OIP InsurTech partners with carriers, MGAs, program managers, and TPAs in the US, Canada, and Europe, especially the UK. With 1,200 professionals serving over 100 clients, we deliver insurance process automation, custom software development, high-quality underwriting services, and skilled tech staff to augment our clients. While saving time… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"As a fresh graduate, joining OIP Insurtech was an exciting start to my career. I immediately appreciated the team's approachability and open communication, which created a welcoming environment from…\" Pročitajte celo iskustvo Beneficije Flexible working hours Hybrid work model Private health insurance Health and wellbeing Additional days off Personalized benefits Family & Parenthood Trainings, courses, conferences Team building Sport and fitness Awards, bonuses, gifts Food and drinks Social responsibility Company shares Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite n"
+  },
+  {
+   "source": "infostud",
+   "id": "759953",
+   "title": "Maintenance & TPM Support Intern",
+   "company": "Robert Bosch d.o.o.",
+   "location": "Šimanovci",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-06",
+   "expires": "21.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/maintenance-tpm-support-intern/robert-bosch-doo/759953",
+   "summary": "This role supports the maintenance organization by handling administrative tasks data preparation and reporting to improve maintenance efficiency. The position enables maintenance digitalization and TPM activities by maintaining databases supporting engineers and preparing actionable reports.",
+   "matched": [
+    "data engineer",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. If so, join us as Maintenance & TPM Support Intern Job Description Support the Maintenance team with daily administrative and organizational tasks Work with SAP PM and other maintenance-related systems Support data preparation, data checking and data maintenance Help with Excel, Power BI and other reporting activities Support TPM activities, including preparation of TPM schedules, documentation and follow-up Help maintain and update maintenance-related databases and digital tools Prepare reports, lists, presentations and other documents Support engineers with collecting and organizing technical information Participate in improvement and digitalization activities within Maintenance Perform other tasks where additional support is needed Reference: dKQN64uqlFsBPP9NzSFXS3qju_zJxAIN7EUiSssoU_7N6poiw-4xRTod-4BULtw4 Qualification Recent Graduate or undergraduate student of: Mechanical Engineering, Electrical Engineering, Automation, IT, Industrial Engineering or a related field Good knowledge of MS Excel Basic knowledge of other Microsoft Office tools Interest in working with data, digital tools and industrial processes Willingness to learn and work with SAP and other company systems Good communication and organizational skills English language knowledge Reliable, proactive and willing to take responsibility for assigned tasks Previous industrial experience is an advantage, but not required Benefits Paid six-month internship An active role in projects and real business situations Work with experienced mentors who will support you International work environment where innovation and creativity are valued Canteen at the location and organized transport (to Pećinci plant) Various possibilities for sports activities Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch! At our Pecinci location we are manufacturing and developing wiper systems and wiper blades. By providing a wide product range since decades for our customers and clear view, no matter what weather we create smart solutions to bring safety and comfort to peoples lives. We are looking forward to your application! Interested? Get ready to Start #LikeA Bosch Simply complete the contact form and submit your CV in PDF format and in English . Bosch Srbija Bosch Grupa Grupa Bosch je vodeći dobavljač tehnologija i usluga. Zapošljava oko 412.400 saradnika širom sveta (od 31. decembra 2025. godine). Grupa Bosch sastoji se od firme Robert Bosch GmbH i oko 470 filijala i regionalnih društava u oko 60 zemalja. Delatnost kompanije podeljena je u četiri poslovna sektora: Mobility, Industrial Technology, Consumer Goods, i Energy and Building Technology. Strateški cilj Bosch grupe je da otkriva tehnologije za povezan život i da poboljšava kvalitet… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Na kojoj poziciji radiš i šta sve tvoja pozicija obuhvata? Trenutno sam na praktikantskoj poziciji Supply and Demand Planner Intern. Moj posao se najviše zasniva na podršci ostalim planerim"
+  },
+  {
+   "source": "infostud",
+   "id": "759925",
+   "title": "Predstavnik tehničke podrške - engleski jezik",
+   "company": "M Plus Serbia d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-06",
+   "expires": "21.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/predstavnik-tehnicke-podrske-engleski-jezik/m-plus-serbia-doo/759925",
+   "summary": "Pozicija prve linije tehničke podrške postoji da brzo i jasno rešava korisničke tehničke probleme i održava visok kvalitet usluge. Kandidat će primarno doprinositi efikasnom rešavanju softverskih i hardverskih kvarova i pružanju podrške putem poziva mejlova i tiketa.",
+   "matched": [
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu WE'RE HIRING! Predstavnik tehničke podrške - engleski jezik M Plus Serbia je kompanija za outsourcing poslovnih procesa i bavimo se pružanjem podrške korisnicima. Individualna posvećenost, stručnost i strast koje unosimo u svaku interakciju sa klijentima i njihovim korisnicima predstavljaju našu privrženost pouzdanom pružanju usluga. Da li si ti osoba kojoj se svi obraćaju kada nešto ne radi? Uživaš da pomažeš drugima i rešavaš tehničke zavrzlame? Ako si se prepoznao/la – možda si baš ti idealna osoba za naš tim! Šta te čeka u ovoj ulozi? Bićeš prva linija podrške korisnicima – onaj/ona koji/a strpljivo i jasno vodi ljude kroz tehničke izazove i pronalazi rešenja. Tvoj dan će uključivati: Pomoć korisnicima u rešavanju tehničkih problema (korak po korak) Analizu i brzo rešavanje raznih softverskih i hardverskih poteškoća Odgovaranje na pozive, mejlove i tikete Brigu da sve radi kako treba – na vreme i uz osmeh Podršku novim kolegama i deljenje korisnih saveta Brigu o kvalitetu usluge koju pružamo Reference: ZaYFjeJBA4TvBNHBFEwsgpJN0_hkWYaOPcH7tuRz5rNDwc466IqmvRaAogwdC0v5 Šta tražimo od tebe: Završena srednja škola (dodatni plus ako imaš tehničko obrazovanje ili IT znanje) Tečno znanje engleskog jezika, usmeno i pismeno Dobro poznavanje Windows operativnog sistema Sposobnost brzog i efikasnog rešavanja problema Sposobnost rešavanja hardverskih i softverskih problema Spremnost na rad u smenama (uključujući vikende i noćne smene) Šta nudimo: Strukturirane obuke za razvoj veština Rad u internacionalnom okruženju Moderne kancelarije u poslovnom centru Novog Beograda Mogućnost napredovanja i prelaska na ugovor sa klijentom, uz sve benefite Nemam iskustva – da li da se prijavim? Apsolutno da! Ako si spreman/na da učiš, razvijaš se i daješ najbolje od sebe – mi ćemo biti uz tebe na svakom koraku. Zvuči zanimljivo? Pošalji nam svoj CV na engleskom jeziku i čekaj naš poziv – jedva čekamo da te upoznamo! Napomena: Samo kandidati koji uđu u uži izbor biće kontaktirani. M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od 10 godina. Mplus mi je kroz godine dao prostora za razvoj karijere, to je ono što motiviše mene i…\" Pročitajte celo iskustvo Beneficije Obuke, konferencije Edukacija, profesionalni razvoj Zabavni sadržaj Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Timska druženja Zdravlje Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beo"
+  },
+  {
+   "source": "infostud",
+   "id": "757225",
+   "title": "Sales & Customer Service Consultant",
+   "company": "L3 Consulting",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Podrška",
+    "CRM"
+   ],
+   "posted": "2026-10-06",
+   "expires": "05.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/sales-customer-service-consultant/l3-consulting/757225",
+   "summary": "This role exists to provide a single point of contact that ensures consistent customer experience across service, sales and billing. The successful candidate will maintain client accounts, handle sales enquiries and manage billing to keep operations running smoothly and support business growth.",
+   "matched": [
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu L3 Consulting is one of Australia most progressive and fast-growing IT providers servicing the small and medium market. At L3 we pride ourselves on the quality of work we do, on building strong and lasting relationships with our customers, always having fun, and creating an environment where we balance work and personal lifestyle (ability to work from home, etc.). We are looking for a Sales & Customer Service Consultant to join our team. This varied role combines customer service, sales support, account management, administration, billing and invoicing. You will be a key point of contact for our clients, working closely with our technical and management teams to ensure a professional and seamless customer experience. Key Areas of Responsibility Customer Service & Account Management Acting as a key point of escalation contact for existing and prospective customers Responding to customer enquiries via phone and email in a professional and timely manner Building and maintaining strong, long-term relationships with clients Understanding customer needs and identifying opportunities to provide additional services or solutions Following up customer enquiries, requests, quotes and outstanding actions Coordinating with the technical team to ensure customer requests are followed through to completion Ensuring customers receive a consistently high level of service Reference: uivSNNc7sDzDxACxN57qfGjNK3sDyqFQGUL5y3-u3IC7UqXiYsOfq9CttbNn29e9 Sales & Business Development Managing incoming sales enquiries and following up leads Preparing and sending quotes and proposals Following up quotes and opportunities with prospective and existing clients Identifying opportunities to upsell or cross-sell L3 Consulting's IT services Maintaining accurate customer and sales information Supporting the management team with sales administration and reporting Developing strong knowledge of L3 Consulting's services so you can confidently explain solutions to customers Billing & Invoicing Preparing and issuing customer invoices Processing recurring and ad-hoc billing Monitoring outstanding invoices and following up overdue accounts Assisting with accounts receivable and payment reconciliation Reviewing billing information for accuracy before invoices are issued Managing customer billing queries and resolving discrepancies Maintaining accurate records of customer accounts, services and billing Assisting with monthly billing processes and reporting Administration Maintaining accurate customer records and documentation Managing customer contracts, service agreements and related documentation Assisting with supplier and vendor administration where required Supporting general office and business administration Maintaining accurate data within CRM, accounting and internal systems Assisting the management team with day-to-day operational tasks About You We are looking for someone who is organised, personable, commercially minded and genuinely enjoys helping customers. You will ideally have: Previous experience in customer service, sales support, account management, administration or a similar role Experience with billing, invoicing and accounts receivable Strong attention to detail and excellent organisational skills Excellent verbal and written English communication skills Confidence communicating with customers by phone and email The ability to build positive and professional customer relationships Strong follow-up and time management skills The ability to manage "
+  },
+  {
+   "source": "infostud",
+   "id": "759992",
+   "title": "Senior Backend Engineer (Go or Node.js)",
+   "company": "Thrive Talent Solutions d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Node",
+    "Node.js",
+    "iOS",
+    "Android",
+    "Python",
+    "AWS",
+    "Docker",
+    "Ansible",
+    "PostgreSQL",
+    "Redis",
+    "VPN",
+    "REST",
+    "Swift",
+    "Programiranje",
+    "DNS",
+    "TCP/IP",
+    "Proxy",
+    "SoC",
+    "MongoDB",
+    "Agile",
+    "Kotlin",
+    "Firebase",
+    "Oauth"
+   ],
+   "posted": "2026-10-06",
+   "expires": "21.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-backend-engineer-go-or-node.js/thrive-talent-solutions-doo/759992",
+   "summary": "Senior Backend Engineer will own and harden a consumer VPN backend and its Go networking engine to enable large scale reliable connectivity in restrictive environments. The role focuses on stabilizing existing systems, closing technical and security gaps, and building engineering foundations for confident product evolution.",
+   "matched": [
+    "python",
+    "data engineer",
+    "backend",
+    "aws",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu We are currently seeking an experienced Senior Backend Engineer (Go or Node.js) to join our team in support of our US-based partner company. Our partner operates a diversified, M&A-driven platform spanning mobile apps, device licensing, media, and financial services. As a Senior Backend Engineer, you will take ownership of the newly acquired VPN product and the additional apps our partner company will be acquiring. Your initial focus will be understanding and stabilizing the existing backend and Go networking engine, closing technical and security gaps, and establishing the engineering foundations needed to evolve the product confidently to a consumer VPN with 10M+ installs, 1,000+ servers in 45+ countries, and users in some of the most restrictive network environments in the world. That engine, a Go library cross-compiled for Android and iOS that embeds a userspace TCP/IP stack and drives the Shadowsocks and WireGuard clients, is the core of the product, and you will be the engineer who understands it, hardens it, and extends it. Responsibilities: Build and maintain secure, reliable backend systems for private and unrestricted internet access Develop and optimize Go services across a polyglot stack including Go, Python, and Node.js Work with networking and low-level technologies, including IP packets, userspace networking, proxies, tunnels, and mobile cross-compilation Design and evolve mobile APIs with clear contracts, versioning, graceful degradation, and OpenAPI/Swagger documentation Improve existing systems through reverse engineering, refactoring, testing, and documentation Use AI coding agents to accelerate development, testing, and code review while validating their output Collaborate with Product and users to identify problems, validate ideas, and deliver impactful solutions Build strong unit and integration test coverage and continuously ship reliable changes to production Monitor and improve key metrics such as connection success, API performance, errors, conversion, and retention Apply security and privacy best practices across secrets, encryption, cryptographic keys, access controls, and user data Reference: 0uyyDHYurUdIONhRBg-9qIDph-6ogFd10HUsPLFdYzKgvLYA0QeJOoR3bP9Nlr8q Qualifications: 5+ years of professional senior backend engineering experience in an agile environment delivering services that support native mobile applications, with hands-on production experience using: Go as a primary language: concurrency (goroutines, channels), networking (net, netstack-style packet handling), cgo/gomobile or similar cross-compilation for Android (.aar) and iOS (.framework/XCFramework) Python and Node.js for existing services, scripts, and integrations PostgreSQL (schema design, migrations, performance) and MongoDB or another document store, plus Redis or similar caching AWS: Lambda, S3, RDS, Route 53, IAM, and Docker-based services; familiarity with Terraform/Ansible-managed environments REST API design and documentation (OpenAPI/Swagger), authentication (JWT/OAuth), and rate limiting GitHub for version control and pull-request based workflows; SOLID, Clean Coding, Testing, and CI/CD (GitHub Actions or similar) VPN and networking expertise: working knowledge of WireGuard (peer/key management, configuration generation), Shadowsocks or other proxy/obfuscation protocols, OpenVPN, TCP/IP, DNS, TLS, and how packets flow from a mobile OS tunnel interface through a userspace stack (lwIP, gVisor netstack) to a VPN server. Expe"
+  },
+  {
+   "source": "infostud",
+   "id": "760021",
+   "title": "Senior Network Analyst",
+   "company": "Fabher LLC",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Senior",
+    "VMware",
+    "CISCO",
+    "BGP",
+    "OSPF",
+    "Azure",
+    "Sistemska administracija",
+    "Hardware",
+    "Cloud",
+    "TCP"
+   ],
+   "posted": "2026-10-06",
+   "expires": "05.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-network-analyst/fabher-llc/760021",
+   "summary": "The Senior Network Analyst designs implements and maintains enterprise LAN WAN and wireless infrastructure to ensure network performance security and stability. The role leads complex technical projects and mentors junior staff to reduce downtime and improve operational resilience.",
+   "matched": [
+    "junior",
+    "cloud",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu Company: FABHER LLC Job Title: Senior Network Analyst Location: Beogradskog Bataljona 4, Belgrade, Serbia (in-office) Hours: 7am – 4pm CST / 2pm – 11pm CET Reports To: IT Manager Employment Type: Contract Department: IT Please apply only if you have experience working in the same or similar position. Also, submission of CV in English is mandatory. Position Overview The Senior Network Analyst is a highly experienced IT professional responsible for designing, implementing, and maintaining the organization's network infrastructure. This role ensures the optimal performance, security, and stability of all network systems, including LAN, WAN, and wireless environments. The Senior Analyst serves as a technical expert, leads complex projects, and provides mentorship to junior team members. Key Responsibilities Design and Implementation Design, plan, and deploy complex network solutions that align with the organization's evolving needs, ensuring high availability and optimal performance. Reference: PBsavFNDwdUbdVp2_o2wJnedT1mErjKgTGARx3Jh-uzIRWqkL0JB8FF9bVKgVgIG Performance Monitoring Proactively monitor and analyze network performance, conduct network capacity planning, and optimize network traffic to identify and resolve potential issues before they become critical. Advanced Troubleshooting Lead efforts to diagnose and resolve complex network incidents, utilizing advanced diagnostic tools and techniques to minimize downtime. Network Security Implement, manage, and audit network security protocols, including firewalls, VPNs, and intrusion detection systems, to safeguard the network from cyber threats. Project Leadership Act as a technical project lead for small- to medium-sized network projects, coordinating with cross-functional teams and vendors to ensure projects are completed successfully. Documentation Create and maintain comprehensive documentation of network configurations, standard operating procedures (SOPs), and technical resolutions. Team Mentorship Guide and mentor junior analysts, providing expertise on technical standards, troubleshooting, and best practices. Research and Development Stay current with industry trends and emerging network technologies, evaluating and recommending new products and solutions. Qualifications & Requirements Language: English Level B2 or better Education: A bachelor's degree in Computer Science, Information Technology, or a related field, or equivalent experience is generally preferred. Experience: A minimum of 5–7 years of hands-on experience in enterprise-level network support and administration. Certifications: Professional-level network certifications, such as Cisco Certified Network Professional (CCNP), are strongly preferred. Other relevant certifications include CompTIA Security+ and Network+. Technical Skills: Deep expertise in networking protocols, including TCP/IP, BGP, and OSPF. Proficiency with enterprise-class network hardware, such as Cisco routers, switches, and firewalls. Experience with network monitoring and management tools like SolarWinds or Wireshark. Experience with virtualization technologies (e.g., VMware) and cloud networking (e.g., Azure). Soft Skills: Strong analytical and problem-solving skills. Excellent verbal and written communication abilities. Proven leadership and mentorship capabilities. Ability to work independently and as part of a team. Fabher LLC Company Overview At Fabher, our goal is simple: help manufacturing and logistics companies across the U.S."
+  },
+  {
+   "source": "infostud",
+   "id": "759910",
+   "title": "Senior Software Engineer",
+   "company": "Ametek d.o.o.",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    ".NET",
+    "C#",
+    "SQL",
+    "C++",
+    "Git",
+    "SQL Server",
+    "Foundation",
+    "C",
+    "Microsoft SQL Server",
+    "Programiranje",
+    "HTTP",
+    "TCP",
+    "MFC",
+    "TeamCity"
+   ],
+   "posted": "2026-10-06",
+   "expires": "21.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-software-engineer/ametek-doo/759910",
+   "summary": "Senior software engineer responsible for developing and maintaining customer and manufacturing test applications with emphasis on robust architectures and serial communication. The role delivers reliable deployable systems, mentors engineers, and advances productivity through modern automation and AI enabled practices.",
+   "matched": [
+    "sql",
+    "it support"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu About the Company: AMETEK, Inc. is a leading global manufacturer of electronic instruments and electromechanical devices with annual sales of approximately $7.4 billion. AMETEK has 21,000 colleagues at more than 150 operating locations, and a global network of sales, service and support locations in 31 countries around the world. The AMETEK Growth Model combines its four growth strategies of Operational Excellence, Strategic Acquisitions, Global & Market Expansion, and New Product Development, with a disciplined focus on cash generation and capital deployment. By executing the AMETEK Growth Model, the company seeks to generate shareholder value by doubling earnings per share over the course of each business cycle. AMETEK consists of two operating groups, both with highly differentiated technology and leading positions in niche markets: Electronic Instruments - a worldwide leader in the design and manufacture of advanced analytical, test and measurement instrumentation for the energy, aerospace, power, research, medical and industrial markets. Electromechanical - a differentiated supplier of automation and precision motion control solutions, and highly engineered electrical interconnects, specialty metals and thermal management systems. Key Responsibilities: Creating and maintaining customer applications Maintaining applications and services used to manage and monitor our TEST manufacturing system Developing strong serial communication code and libraries for RS232 and TCP to interface between our products and our software Providing new technology guidance to keep our systems relevant and able to leverage new automation techniques Designing robust software and system architectures that are easy to test and use clear patterns and practices. Mentoring less experienced software engineering colleagues Technologies (Microsoft .NET Framework and the C# language, Microsoft Foundation Class Library (MFC) and the C++ language, NuGet, Microsoft SQL Server, Git, TeamCity, HTTP, RS232, TCP) Reference: -xCWAgmAl1yLMAD2r84nwArM_V1ow7qPLpdNAuXZHFLptRDluDpuCCpf8dEmo9Z- Position Requirements: Bachelor’s degree in computer science, computer engineering, or related field 8+ years of experience in software engineering Experience with designing software architectures on large systems Understanding of system orchestration and how to deploy dependent versions across multiple systems in one release Ability to work effectively in a small team environment while taking ownership of individual responsibilities and projects Strong sense of accountability, with the capability to manage priorities and deliver results independently Ability to communicate work progress, discuss technical challenges, and contribute to problem-solving discussions within a collaborative team environment Ability to work effectively in a small team environment while taking ownership of individual responsibilities and projects Strong sense of accountability, with the capability to manage priorities and deliver results independently Ability to communicate work progress, discuss technical challenges, and contribute to problem-solving discussions within a collaborative team environment Demonstrated interest and practical ability to use AI tools to improve efficiency and quality of work while applying good judgment and responsible use Comfortable learning and adopting new AI-enabled ways of working and proactively identifying opportunities where AI can drive meaningful impact in daily"
+  },
   {
    "source": "infostud",
    "id": "759813",
