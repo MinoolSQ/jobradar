@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-06T18:57:37+00:00",
+ "generated_at": "2026-10-06T23:08:26+00:00",
  "window_days": 3,
  "cutoff": "2026-10-03",
  "count": 22,
- "new_count": 11,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 18,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 10,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,22 +102,22 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 38,
+   "vraceno": 40,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 18,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 54,
+   "vraceno": 55,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 89,
+   "vraceno": 90,
    "strane": 3,
    "stop": "kraj"
   },
@@ -814,7 +814,7 @@
    "expires": "20.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Biznis-konsultant/Flaner-d.o.o/759403",
-   "summary": "Flaner d.o.o. 2.7 Beograd 20.10.2026. ERP Intermediate Novo",
+   "summary": "Flaner d.o.o. 2.7 Beograd 20.10.2026. ERP Intermediate",
    "matched": [
     "helloworld"
    ],
