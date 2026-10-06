@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-06T00:53:17+00:00",
+ "generated_at": "2026-10-06T07:42:06+00:00",
  "window_days": 3,
  "cutoff": "2026-10-03",
- "count": 10,
- "new_count": 0,
+ "count": 11,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 10,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 7,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
@@ -92,8 +92,8 @@
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "linux": {
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 25,
+   "vraceno": 29,
    "strane": 1,
    "stop": "kraj"
   },
@@ -112,13 +112,13 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 29,
-   "strane": 1,
+   "vraceno": 33,
+   "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 60,
-   "strane": 2,
+   "vraceno": 67,
+   "strane": 3,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,12 +127,12 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 17,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 18,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
@@ -142,8 +142,8 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "windows": {
@@ -152,12 +152,51 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 60,
-   "strane": 2,
+   "vraceno": 65,
+   "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "759813",
+   "title": "Senior Native Mobile Engineer (Android & iOS)",
+   "company": "Thrive Talent Solutions d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "iOS",
+    "Android",
+    "Java",
+    "VPN",
+    "XML",
+    "Swift",
+    "Programiranje",
+    "DNS",
+    "TCP/IP",
+    "Proxy",
+    "TypeScript",
+    "Cloud",
+    "Agile",
+    "Kotlin",
+    "Firebase"
+   ],
+   "posted": "2026-10-06",
+   "expires": "21.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-native-mobile-engineer-android-ios/thrive-talent-solutions-doo/759813",
+   "summary": "Senior native mobile engineer will own end to end Android and iOS consumer VPN products and incoming acquired apps, focusing on reliability security and release quality. The role resolves complex connectivity and networking issues, elevates engineering standards, and ships product improvements that directly impact user experience and business metrics.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-06T07:42:06+00:00",
+   "details": "O poslodavcu We are currently seeking an experienced Senior Native Mobile Engineer (Android & iOS) to join our team in support of our US-based partner company. Our partner operates a diversified, M&A-driven platform spanning mobile apps, device licensing, media, and financial services. As a Senior Native Mobile Engineer, you will take ownership of the newly acquired VPN product and the additional apps our partner company will be acquiring. You will own the Android and iOS mobile domain end-to-end: a consumer VPN with 10M+ installs, 1,000+ servers in 45+ countries, and users in some of the most restrictive network environments in the world. This is an ownership-heavy role: you will inherit existing mobile codebases, understand how the apps interact with the VPN networking stack, close knowledge gaps from the acquired team, improve engineering quality and release processes, and ship product improvements that directly impact users and the business. Responsibilities: Build and maintain high-quality Android and iOS applications focused on privacy, security, and reliable connectivity Develop and debug VPN tunnels, network extensions, and platform networking APIs. Integrate and troubleshoot native libraries and SDKs across mobile and Go/native boundaries Investigate complex connectivity issues by reverse-engineering existing systems and improving them through testing, refactoring, and documentation Use AI coding agents to accelerate development, testing, debugging, and code review. Collaborate with Product and users to validate ideas and deliver impactful mobile experiences Optimize key metrics including connection success, time-to-connect, crash-free sessions, and subscription conversion Build comprehensive unit, integration, and automated UI tests and continuously ship reliable releases to both app stores Apply strong security and privacy practices, including secure credential/key storage, certificate handling, and protection of user data Reference: G8ubf2AQFU18I2YxdN6yuXe5rxsd6QxwTe_1HIXBbTLEnDaBjc-AdxMe0o-RTqK3 Qualifications: 5+ years of professional senior mobile engineering experience in an agile environment delivering native applications to end-users on both Android and iOS, with hands-on production experience using: Android: Kotlin (and Java), Jetpack Compose and XML views (including migrating legacy XML to Compose), Coroutines, Flow, Koin, Dagger/Hilt, Retrofit, Room, WorkManager, foreground services iOS: Swift, UIKit and SwiftUI (including incremental UIKit-to-SwiftUI migration), Swift Concurrency (async/await), RxSwift + RxCocoa, Combine, Core Data or equivalent, Keychain Platform networking and VPN APIs: Android VpnService, iOS NetworkExtension / Packet Tunnel Provider, always-on VPN, kill switch, split tunneling, and integrating native libraries (.aar / .framework / XCFramework) into mobile apps GitHub for version control and pull-request based workflows SOLID, Clean Coding, Testing, experience with automation and instrumentation (Espresso/UI Automator, XCTest/XCUITest) Publishing and maintaining apps on Google Play and the Apple App Store, including release management, store compliance for VPN apps, and handling review rejections Working knowledge of VPN protocols and networking fundamentals: WireGuard, OpenVPN, Shadowsocks or similar, TCP/IP, DNS, TLS, and how packets flow from a mobile OS tunnel interface to a proxy or VPN server Experience with subscription and in-app purchase flows (StoreKit 2, Google Play Billing, RevenueCa"
+  },
   {
    "source": "infostud",
    "id": "759637",
