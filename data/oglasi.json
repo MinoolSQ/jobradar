@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-07T07:22:33+00:00",
+ "generated_at": "2026-10-07T14:39:20+00:00",
  "window_days": 3,
  "cutoff": "2026-10-04",
- "count": 25,
- "new_count": 3,
+ "count": 32,
+ "new_count": 7,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 11,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 20,
+   "vraceno": 30,
    "strane": 1,
    "stop": "kraj"
   },
@@ -52,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 6,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 14,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,12 +87,12 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 12,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,62 +102,261 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 41,
+   "vraceno": 50,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 20,
+   "vraceno": 28,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 57,
-   "strane": 2,
+   "vraceno": 78,
+   "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 93,
-   "strane": 4,
+   "vraceno": 125,
+   "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 22,
+   "vraceno": 29,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 43,
+   "vraceno": 58,
    "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 9,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 2,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 83,
-   "strane": 3,
+   "vraceno": 117,
+   "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "760168",
+   "title": "IT Specialist",
+   "company": "Ocsial Balkan d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows Server",
+    "Windows",
+    "Azure",
+    "Sistemska administracija",
+    "Cloud",
+    "Active Directory"
+   ],
+   "posted": "2026-10-07",
+   "expires": "22.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-specialist/ocsial-balkan-doo/760168",
+   "summary": "This role provides second and third line support to corporate users while maintaining Microsoft onpremises and Azure infrastructure. The position configures and supports productivity and collaboration tools and contributes to IT upgrades and modernization initiatives.",
+   "matched": [
+    "cloud",
+    "administrator",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-10-07T14:39:20+00:00",
+   "details": "O poslodavcu About OCSiAl Group: OCSiAl is the world’s largest producer of graphene nanotubes. Our team consists of more than 500 employees located in Europe, USA and Asia. OCSiAl’s mission is to improve the specific properties of all base materials, making the world a better place for all living beings. We are pursuing this mission by developing universal nanotube solutions and introducing them into the manufacturing industry. This is leading to the creation of a new generation of nano augmented materials and end products, whose previously unobtainable properties will become the standard for consumer expectations. About Position: OCSiAl is looking for an experienced IT Specialist to join our corporate IT team and to provide support to company users, including solving more complex 2nd/3rd line requests, and maintain IT infrastructure and systems in Belgrade, Serbia. The ideal candidate brings strong Microsoft infrastructure experience, has experience supporting business productivity tools, and enjoys working directly with users as well as on infrastructure. Job Responsibilities: Work with users, resolving IT-related problems, including 2nd/3rd line issues. Work with Microsoft on-premises infrastructure, including Active Directory, as well as Microsoft Azure cloud services like Entra ID or Office 365. Manage backup and MDM tools and policies. Configure and support corporate productivity and collaboration tools, including workflows that support business processes - for example, HR-system approval. Contribute to IT upgrades, new deployments and modernization initiatives. Reference: HgPow8qGoOFfjpldF8z77ryE--ahBRmcXQnYCPayM0Nh5pT2l6y7P7nPR4M-xvTZ Skills/Experience/Qualification: 4+ years in a corporate IT environment as an IT Specialist, IT Administrator, or a similar role Hands-on experience with Microsoft on-premises and Azure (Windows Server, AD, Entra ID, O365) Experience with backup and MDM solutions Experience supporting corporate productivity/collaboration software and business workflows Excellent communication and documentation skills Strong troubleshooting and problem-solving skills Ability to work independently and manage multiple priorities Fluent in English (written and spoken) What we offer: An attractive position in a global and dynamic company; Opportunity for professional and personal development; Competitive employment conditions. Side notes: CV in English is required; Only shortlisted candidates will be contacted. Ocsial Balkan d.o.o. Više od polovine materijala koje svakodnevno koristimo može se unaprediti uz pomoć grafenskih nanocevi. One pomažu u stvaranju lakših aviona, ekonomočnijihautomobila, dugotrajnijih guma i pametnog tekstila. OCSiAl je jedina kompanija na svetu koja može da proizvodi grafenske nanocevi u količinama dovoljno velikim za globalnu industriju. Osnovana 2010. godine u Luksemburgu, gde se nalazi i njeno sedište, OCSiAl posluje širom Azije, Evrope I Amerike. Srbija ima ključnu ulogu u rastu kompanije:… Više o poslodavcu Iskustva zaposlenih \"„Kao mlada osoba, istinski sam zahvalna što sam svoje razvojno putovanje započela u OCSiAl-u. Od prvog dana imala sam priliku da učim, rastem i razvijam se zajedno sa kompanijom koja brzo raste i…\" Pročitajte celo iskustvo Beneficije Finansijske beneficije Nagrade, bonusi, pokloni Edukacija, profesionalni razvoj Obezbeđen parking Poslovna putovanja Radno okruženje Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši p"
+  },
+  {
+   "source": "infostud",
+   "id": "760253",
+   "title": "IT System Administrator",
+   "company": "Skill Vision",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "VPN",
+    "Sistemska administracija",
+    "DNS",
+    "TCP/IP",
+    "VOIP",
+    "CRM",
+    "MikroTik"
+   ],
+   "posted": "2026-10-07",
+   "expires": "22.10.2026",
+   "salary": "neto 1.200 - 1.500 EUR (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/it-system-administrator/skill-vision/760253",
+   "summary": "Pozicija sistemskog administratora postoji da obezbedi stabilan rad IT infrastrukture i pouzdanu tehničku podršku timu. Kandidat će održavati mrešne i serverske komponente i brzo rešavati tehničke probleme zaposlenih.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "windows"
+   ],
+   "first_seen": "2026-10-07T14:39:20+00:00",
+   "details": "O poslodavcu Skill Vision je međunarodna kompanija koja traži sistemskog administratora koji će pomoći u održavanju stabilnog rada IT infrastrukture kompanije i pružati kvalitetnu tehničku podršku našem timu. Odgovornosti: kreiranje i podešavanje korisničkih naloga; rad sa CRM sistemima, korporativnom elektronskom poštom i RDP-om (Remote Desktop Protocol); kreiranje i podešavanje naloga na platformama Telegram, Skype, Slack i Signal; osnovno podešavanje MikroTik rutera; razumevanje principa rada TCP/IP, DNS, DHCP, VPN i VLAN tehnologija; instalacija i podešavanje VoIP telefonije (MicroSIP); podešavanje i tehnička podrška radnih mesta zaposlenih; instalacija, podešavanje i administracija Windows operativnih sistema; osnovno poznavanje Ubuntu sistema (instalacija i podešavanje); rad sa CRM sistemima; podešavanje i povezivanje multifunkcionalnih uređaja (MFP) i druge kancelarijske opreme; sklapanje, podešavanje i tehničko održavanje računara. Reference: TZgydjzhMl_OOQJABbPEnNso72hnwTDQOoKeUOH8Ot21wL2O8pQNRhVCDrv5ejrm Važno nam je: najmanje 1 godina iskustva na poziciji sistemskog administratora; znanje ruskog jezika na nivou koji omogućava svakodnevnu komunikaciju; odgovornost, iskrenost, sposobnost timskog rada i usmerenost na rezultate; pažljivost i spremnost za brzo rešavanje tehničkih problema. Šta nudimo: rad u prijatnoj i modernoj kancelariji i prijateljski tim profesionalaca; konkurentnu zaradu od 1.200 do 1.500 EUR, u zavisnosti od iskustva i profesionalnih veština; radno vreme od 10:00 do 19:00, od ponedeljka do petka; mogućnosti za profesionalni razvoj i usavršavanje; stabilno zaposlenje u međunarodnoj kompaniji. Pridružite se timu Skill Vision! Ako se dobro snalazite u IT svetu, volite da pronalazite rešenja i želite da se profesionalno razvijate zajedno sa međunarodnom kompanijom, biće nam drago da vas upoznamo! Skill Vision Ukrajina, Inostranstvo, вул. Антоновича 172, офіс 53 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator IT System Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "760129",
+   "title": "Junior Dynamics NAV Support Analyst",
+   "company": "Ametek d.o.o.",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Microsoft Dynamics NAV",
+    "QA",
+    "Podrška",
+    "ERP"
+   ],
+   "posted": "2026-10-07",
+   "expires": "22.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-dynamics-nav-support-analyst/ametek-doo/760129",
+   "summary": "This role exists to maintain and improve ERP and Business Central functionality and to deliver reliable reporting for business users. The successful candidate will act as the primary functional contact for change requests while ensuring quality assurance and enhancing ERP usage through reporting and process improvements.",
+   "matched": [
+    "junior",
+    "it support"
+   ],
+   "first_seen": "2026-10-07T14:39:20+00:00",
+   "details": "O poslodavcu About the Company: AMETEK, Inc. is a leading global manufacturer of electronic instruments and electromechanical devices with annual sales of approximately $7.4 billion. AMETEK has 21,000 colleagues at more than 150 operating locations, and a global network of sales, service and support locations in 31 countries around the world. The AMETEK Growth Model combines its four growth strategies of Operational Excellence, Strategic Acquisitions, Global & Market Expansion, and New Product Development, with a disciplined focus on cash generation and capital deployment. By executing the AMETEK Growth Model, the company seeks to generate shareholder value by doubling earnings per share over the course of each business cycle. AMETEK consists of two operating groups, both with highly differentiated technology and leading positions in niche markets: Electronic Instruments - a worldwide leader in the design and manufacture of advanced analytical, test and measurement instrumentation for the energy, aerospace, power, research, medical and industrial markets. Electromechanical - a differentiated supplier of automation and precision motion control solutions, and highly engineered electrical interconnects, specialty metals and thermal management systems. Key Responsibilities: Support and manage AMETEK’s existing NAV/Business Central and future ERP implementations Act as point of contact for any change requests coming from the business. Analyse and define such requests, and convert them into a technical specification Test and QA all developments Monitor corporate ticketing system and provide functional support for any ERP related tasks Identify ways in which our use of ERP/Business Apps can be enhanced Become the subject expert and key resource for developing Fabric/Power BI and SSRS Reports Run and review monthly/quarterly ticket reports to identify and monitor process inconsistencies, determine actions needed and perform those actions Reference: J8MmgmbrKMKBNDrzK2rQfPJhz3k-fmxfXe9R0NyF0PGB9_FOPoWCCAoI0zVudx8a Position Requirements: Bachelor’s degree or equivalent senior year Fluent in English Knowledge of Microsoft Dynamics NAV/Business Central Problem-solving/analytical mindset Great communication and customer-handling skills Excellent written and verbal communication skills Understanding of the basic principles of reporting Ability to provide excellent customer service to a variety of customers (location, language, nationality, ability) Ability to work independently with minimal oversight Ability to prioritize tasks based on department objectives and deliverables Demonstrated ability and willingness to use AI tools to improve productivity, decision-making, work quality, and to reduce costs. The successful candidate must be able to identify appropriate AI use cases and critically evaluate AI-generated outputs What we offer you? Work in a dynamic international environment and pleasant and supporting team Opportunities for learning and personal growth Private Additional Health Insurance Employee Assistance Program And many other perks and benefits Ametek d.o.o. AMETEK je vodeći svetski proizvođač elektronskih instrumenata i elektromehaničkih uređaja sa godišnjom prodajom od oko 5 milijardi dolara. AMETEK ima preko 22.000 kolega na više od 150 operativnih lokacija i globalnu mrežu prodaje, servisa i podrške u 30 zemalja širom sveta. AMETEK se sastoji od dve operativne grupe (Elektronski instrumenti i Elektromehanika), obe sa visoko diferencir"
+  },
+  {
+   "source": "infostud",
+   "id": "760195",
+   "title": "Software Developer",
+   "company": "Muehlbauer Technologies d.o.o.",
+   "location": "Stara Pazova",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "SOAP",
+    "Java",
+    "Oracle",
+    "AngularJS",
+    "Git",
+    "SQL Server",
+    "MS SQL",
+    "XML",
+    "JSON",
+    "SOA",
+    "Programiranje",
+    "ReactJS",
+    "Vue.js",
+    "RESTful",
+    "React Native"
+   ],
+   "posted": "2026-10-07",
+   "expires": "22.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/software-developer/muehlbauer-technologies-doo/760195",
+   "summary": "The role delivers modular web application features by implementing frontend components from design mockups to production ready interfaces. The developer ensures responsive cross device user experiences and supports integration with backend services.",
+   "matched": [
+    "data engineer",
+    "sql"
+   ],
+   "first_seen": "2026-10-07T14:39:20+00:00",
+   "details": "O poslodavcu Muehlbauer Group is a global leader in the production of biometric documents and related solutions. If you are passionate about cutting-edge technology, you might have found the right place. For more than 40 years, Muehlbauer has been driving innovation, leveraging state-of-the-art technologies to deliver the highest levels of security and precision. Muehlbauer Serbia Group is seeking for motivated Software Developer to join our team! Responsibilities: Develop modular, reusable code components to streamline development and maintenance Collaborate with UX/UI designers to translate design mockups into interactive web applications Ensure designs are visually appealing, user-friendly, and responsive across various devices and screen sizes Reference: hRA0B3HeFG51P14stPHyiepDYwnx_Zl6mwiXvuWOlFrBo_olSDrIEvGDiatnz8nL Skills: Knowledge of an object-oriented programming language (knowledge of Java is a plus). Knowledge of SQL, ORM and experience with database management systems (e.g., Oracle, MS SQL Server) is a plus Knowledge of JavaScript, HTML, CSS Knowledge of one of the JS frameworks (ReactJS, AngularJS, Vue.js); React Native is a plus Understanding RESTful and SOAP protocols A solid understanding of JSON/XML, including its structure and usage in data representation and integration Experience with version control system (e.g. Git) Interest in learning about service-oriented architecture (SOA) and micro-services Minimum 1 year of experience. Your profile: Personal Attributes: A structured work approach and attention to quality Eagerness to learn and grow Team-oriented mindset, eager to collaborate in international environment Excellent level of English Education: Master/ Bachelor degree or diploma in computer science, IT, or a related field. Candidates nearing the completion of their studies may also be considered. Experience: Previous working experience, internships or academic projects in software development are plus. What we offer: Private health insurance + annual wellness check-up for our employees 25 days of vacation Competitive salary Lunch catering in the company canteen Coffee lounge where you can spend quality time with colleagues and share ideas Opportunity to travel worldwide Additional ( New year’s party; present for children, presents for national woman’s day). Muehlbauer Technologies d.o.o. Evropska 17, Stara Pazova, Srbija PIB: 107155413 Matični broj: 20764422 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Stara Pazova IT Software Developer / Programmer / Engineer Software Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i"
+  },
+  {
+   "source": "helloworld",
+   "id": "760224",
+   "title": "Data Engineer",
+   "company": "Bel-Dev d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "sql",
+    "python",
+    "batch",
+    "kubernetes"
+   ],
+   "posted": "2026-10-07",
+   "expires": "22.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Engineer/Bel-Dev-d.o.o/760224",
+   "summary": "Bel-Dev d.o.o. 5 Beograd | Hibrid 22.10.2026. SQL Python Batch Kubernetes Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Data Engineer 2 izvršioca Data Engineer Bel-Dev d.o.o. 5 Beograd | Hibrid Beograd: Cara Dušana 48 22.10.2026. SQL Python Batch Kubernetes senior About the Role We're seeking a talented Senior Data Engineer to join our team in a cross-cutting role that will help define and implement our next-generation data platform. In this pivotal position, you'll lead the design and implementation of scalable, self-service data pipelines with a strong emphasis on data quality and governance. This is an opportunity to shape our data engineering practice from the ground up, working directly with key stakeholders to build mission-critical ML and AI data workflows. Key Responsibilities Design, build, and maintain our on-premises data orchestration platform using the bestin-breed open source tools Create self-service capabilities that empower teams across the organization to build and deploy data pipelines without extensive engineering support Implement robust data quality testing frameworks that ensure data integrity throughout the entire data lifecycle Establish data engineering best practices, including version control, CI/CD for data pipelines, and automated testing Collaborate with ML/AI teams to build scalable feature engineering pipelines that support both batch and real-time data processing Develop reusable patterns for common data integration scenarios that can be leveraged across the organization Work closely with infrastructure teams to optimize our Kubernetes-based data platform for performance and reliability Mentor junior engineers and advocate for engineering excellence in data practices Qualifications At least a Bachelor’s degree in Computer Science, Computer Engineering, Data Science, Mathematics, Engineering, or related disciplines. 5+ years of professional experience in data engineering, with at least 2 years working on enterprise-scale data platforms Deep expertise with orchestrating workflows, performance optimization, and operational management Strong understanding of data transformation techniques, including experience with testing frameworks and deployment strategies Experience with stream processing frameworks and technologies Proficiency with SQL and Python for data transformation and pipeline development Familiarity with containerized application deployment Experience implementing data quality frameworks and automated testing for data pipelines Ability to work cross-functionally with data scientists, ML engineers, and business stakeholders Preferred Qualifications Experience with self-hosted data orchestration platforms (rather than managed services) Background in implementing data contracts or schema governance Knowledge of ML/AI data pipeline requirements and feature engineering Experience with real-time data processing and streaming architectures Familiarity with data modeling and warehouse design principles Prior experience in a technical leadership role We emphasize building systems that are maintainable, scalable, and focused on enabling selfservice data access while maintaining high standards for data quality and governance. About You The ideal candidate is a problem-solver who enjoys working on complex data systems and is passionate about data quality. You thrive in collaborative environments but can also work independently to deliver solutions. You're comfortable working directly with technical and nontechnical stakeholders and can communicate complex technical concepts clearly. Most importantly, you're excited about cre",
+   "first_seen": "2026-10-07T14:39:20+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "760041",
+   "title": "Junior IT Seurity Engineer",
+   "company": "Finductive Ltd",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-10-07",
+   "expires": "22.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Junior-IT-Seurity-Engineer/Finductive-Ltd/760041",
+   "summary": "Finductive Ltd Beograd | Hibrid online intervju 22.10.2026. 1.400,00 - 1.500,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima Junior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Junior IT Seurity Engineer Junior IT Seurity Engineer Finductive Ltd Beograd | Hibrid online intervju 22.10.2026. 1.400,00 - 1.500,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima junior Finductive Ltd combines strong payment know-how with high technical capabilities, making it a leader in delivering exceptional quality. We take pride in our dedicated and passionate team, which strives to provide a remarkable experience for our clients. Junior IT Security Engineer As a Junior IT Security Engineer, you will play a vital role in supporting the organization's information security efforts. You will assist in identifying, mitigating, and responding to security threats, ensuring the integrity, confidentiality, and availability of our systems and data as a first line of defense. Key Responsibilities: Monitoring & Analysis: Monitor security systems and tools for anomalies and potential threats. Analyze security alerts and escalate incidents as necessary. Research new cyber security technologies that will improve cyber security posture of the company. Incident Response: Assist in investigating and responding to security incidents. Document incidents and lessons learned. Take a proactive approach in identifying potential security risks and developing strategies to mitigate them. Vulnerability Management: Conduct vulnerability scans and support remediation efforts. Assist in patch management and configuration reviews. Perform day-to-day security tasks related to Firewall approvals, vetting on user access requests and troubleshooting. Access Control: Support the implementation and enforcement of access control policies. Review and manage user access permissions. Security Awareness: Collaborate on training programs to educate staff on security best practices. Participate in phishing simulations and awareness campaigns. Follow the principle of Security by Design and provide security feedback on new initiatives. Documentation & Reporting: Maintain accurate and up-to-date documentation of security processes. Generate periodic security reports for review. Liaise with auditors and regulators as required. Qualifications: 2+ years experience in similar roles. Bachelor’s degree in Computer Science, Information Security, or a related field (or equivalent experience). Basic knowledge of information security principles, tools, and best practices. Familiarity with network protocols, firewalls, and intrusion detection systems. Understanding of common vulnerabilities and exploitation techniques. Strong analytical and problem-solving skills. Excellent written and verbal communication skills. Preferred Qualifications: Certifications such as CompTIA Security+, Certified Ethical Hacker (CEH), or equivalent. Experience with SIEM tools, antivirus solutions, and endpoint protection platforms. Exposure to scripting languages (e.g., Python, Bash) or basic programming. Apply Here Upoznaj kompaniju O Kompaniji Poslovi 07.10.2026 Junior IT Seurity Engineer Beograd | Hibrid 22.10.2026. Junior 07.10.2026 Data Engineer Beograd | Hibrid 22.10.2026. SQL Intermediate Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je",
+   "first_seen": "2026-10-07T14:39:20+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "760157",
+   "title": "Measurement Specialist",
+   "company": "s360",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "javascript",
+    "qa",
+    "cloud"
+   ],
+   "posted": "2026-10-07",
+   "expires": "22.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Measurement-Specialist/s360/760157",
+   "summary": "s360 Beograd | Hibrid 22.10.2026. JavaScript QA Cloud Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Measurement Specialist Measurement Specialist s360 Beograd | Hibrid Beograd: Bulevar Milutina Milankovića 1i 22.10.2026. JavaScript QA Cloud intermediate Do you enjoy finding out why a conversion stopped firing, and then fixing it properly? Want to turn tracking data into decisions clients can trust? At s360, you will help Danish clients build measurement setups that make their marketing more reliable and useful. You will be working closely with the Measurement team across Europe to make sure the data our clients use to run their marketing is correct. Deliver tracking that holds up You will work across quick fixes and larger implementations, making sure setups are technically sound, well documented, and ready for client use. On smaller tasks, you will own the process from start to finish, including client contact. On larger builds, a Denmark-based lead will handle scoping and the client relationship while you own the delivery. Your main responsibilities will be: Troubleshooting: Find and fix tracking issues across Google Ads, GA4, Meta and other ad platforms for Danish clients. Implementation projects: Build and configure GA4 and Google Tag Manager setups, client-side and server-side, including Consent Mode v2, Enhanced Conversions and conversion APIs. dataLayer specifications: Write dataLayer specifications for client developers and validate their implementation before go-live. Ownership: Own small tasks end to end, including direct client contact, and deliver the build on larger projects scoped by a Denmark-based lead. Quality assurance: Test every setup before handover so it passes Quality Assurance checks without rework. Documentation: Document each implementation so a colleague can take it over without a handover meeting. Join our international Measurement team You will be joining our growing and international Measurement team, made up of specialists from different countries, all sharing the same passion for making data come alive and turning numbers into real impact. Most of your work will be for Danish clients, together with colleagues in Denmark and Barcelona who know these accounts well. We talk through difficult setups in our weekly team meeting, and you'll always have someone to spar with when a problem doesn't make sense. Your day-to-day base will be our office in central Belgrade, which you'll share with s360 colleagues from other teams. You'll be one of the first Measurement specialists in Belgrade, so you'll have a real say in how we set up the work there. Bring hands-on tracking skills and technical depth We are looking for a colleague who can work independently, communicate clearly, and keep quality high across both quick fixes and longer builds. You are the kind of person who tests before you hand anything over, and you speak up when something in a setup doesn't add up. You'll probably be a good fit if you recognise the following about yourself: Hands-on experience with Google Tag Manager and GA4: You have spent two or more years implementing in both, and you are at home with custom events, ecommerce tracking and debugging. Experience with server-side tagging: You have set up or maintained server-side GTM, for example on Stape or Google Cloud. Experience with ad platform tracking: You have built conversion tracking for Google Ads, Meta and other platforms, including Enhanced Conversions and the Meta Conversions API. Working knowledge of consent and privacy: You know how Consent Mode v2, consent management platforms and",
+   "first_seen": "2026-10-07T14:39:20+00:00"
+  },
   {
    "source": "infostud",
    "id": "760091",
@@ -197,7 +396,7 @@
    "expires": "22.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Data-Engineer/Finductive-Ltd/760040",
-   "summary": "Finductive Ltd Beograd | Hibrid online intervju 22.10.2026. 2.600,00 - 2.700,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima SQL Intermediate konkuriši među prvima",
+   "summary": "Finductive Ltd Beograd | Hibrid online intervju 22.10.2026. 2.600,00 - 2.700,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima SQL Intermediate Novo",
    "matched": [
     "helloworld"
    ],
@@ -223,7 +422,7 @@
    "expires": "22.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Software-Developer/DevDepot/760051",
-   "summary": "DevDepot Rad od kuće online intervju 22.10.2026. 14,00 - 18,00 EUR (net) SQL ERP TypeScript Cloud CRM Intermediate @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
+   "summary": "DevDepot Rad od kuće online intervju 22.10.2026. 14,00 - 18,00 EUR (net) SQL ERP TypeScript Cloud CRM Intermediate konkuriši među prvima",
    "matched": [
     "helloworld"
    ],
