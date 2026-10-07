@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-07T14:39:20+00:00",
+ "generated_at": "2026-10-07T23:38:27+00:00",
  "window_days": 3,
  "cutoff": "2026-10-04",
  "count": 32,
- "new_count": 7,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 50,
+   "vraceno": 51,
    "strane": 2,
    "stop": "kraj"
   },
@@ -112,12 +112,12 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 78,
+   "vraceno": 79,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 125,
+   "vraceno": 127,
    "strane": 5,
    "stop": "kraj"
   },
@@ -127,7 +127,7 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 29,
+   "vraceno": 30,
    "strane": 1,
    "stop": "kraj"
   },
@@ -137,7 +137,7 @@
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 10,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 117,
+   "vraceno": 118,
    "strane": 4,
    "stop": "kraj"
   }
@@ -306,7 +306,7 @@
    "expires": "22.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Data-Engineer/Bel-Dev-d.o.o/760224",
-   "summary": "Bel-Dev d.o.o. 5 Beograd | Hibrid 22.10.2026. SQL Python Batch Kubernetes Senior Novo",
+   "summary": "Bel-Dev d.o.o. 5 Beograd | Hibrid 22.10.2026. SQL Python Batch Kubernetes Senior",
    "matched": [
     "helloworld"
    ],
