@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-08T07:37:56+00:00",
+ "generated_at": "2026-10-08T19:20:02+00:00",
  "window_days": 3,
  "cutoff": "2026-10-05",
- "count": 32,
- "new_count": 0,
+ "count": 38,
+ "new_count": 6,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,18 +12,18 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 13,
+   "vraceno": 18,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 1,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 30,
-   "strane": 1,
+   "vraceno": 40,
+   "strane": 2,
    "stop": "kraj"
   },
   "etl": {
@@ -37,8 +37,8 @@
    "stop": "kraj"
   },
   "spark": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "airflow": {
@@ -47,12 +47,12 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 4,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 7,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,13 +62,13 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 17,
+   "vraceno": 20,
    "strane": 1,
    "stop": "kraj"
   },
   "kubernetes": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "fastapi": {
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 14,
+   "vraceno": 18,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,23 +102,23 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 52,
-   "strane": 2,
+   "vraceno": 65,
+   "strane": 3,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 32,
+   "vraceno": 41,
    "strane": 2,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 85,
-   "strane": 3,
+   "vraceno": 115,
+   "strane": 4,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 138,
-   "strane": 5,
+   "vraceno": 175,
+   "strane": 6,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,37 +127,214 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 35,
+   "vraceno": 41,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 61,
+   "vraceno": 79,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 11,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 124,
-   "strane": 5,
+   "vraceno": 158,
+   "strane": 6,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "760406",
+   "title": "Change Manager",
+   "company": "Stakelogic",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Jira",
+    "QA",
+    "Menadžment",
+    "qa",
+    "Hardware"
+   ],
+   "posted": "2026-10-08",
+   "expires": "23.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/change-manager/stakelogic/760406",
+   "summary": "This role ensures that all production changes across Remote Slots and Live Casino are centrally tracked, communicated, and aligned with regulatory and licensing requirements. The Change Manager coordinates stakeholders, maintains the change register, and prepares release documentation to reduce risk and support regulatory audits.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-08T19:20:02+00:00",
+   "details": "O poslodavcu About the Role Stakelogic is searching for a dedicated Change Manager function to bring structured coordination to how changes reach production across both our Remote Slots and Live Casino product lines. This is a newly created, company-wide role sitting between Delivery Management, Development, QA, IT, legal, Technical Account Management team and Regulatory and Technical Compliance. The Change Manager does not implement changes directly — the role exists to make sure every change to production is properly tracked, communicated, and handled in line with Stakelogic's Change Management Policy and applicable regulatory and license requirements. Key Responsibilities Responsibilities include, but are not limited to, the following: Own end-to-end tracking of all front-end and back-end releases to production, across both Remote Slots and Live Casino. Maintain an accurate, up-to-date change/version register — current production version, staging/dev versions, per game and per environment. Prepare and distribute release notes for production updates, coordinating timing and content with Development, QA, and Operations. Act as the central coordination point between Delivery Management, Development, QA, Operations, IT, legal, Regulatory and Technical Compliance for change-related activity, without being the person implementing the technical change. Liaise with IT to capture and log infrastructure, server, and hardware changes, and help route anything with regulatory reporting implications to Compliance. Support periodic regulatory audit calls (e.g. quarterly submissions for jurisdictions including, but not limited to, Denmark, UK, Greece, and Malta), compiling supporting materials together with Delivery Managers. Stay aware of jurisdiction-specific technical/regulatory expectations relevant to change activity (e.g. including but not limited to regulatory authorities such as the HGC, UKGC, MGA) and flag compliance implications early to the relevant teams. Operate within Stakelogic's current Change Management Policy, and flag gaps or practical issues encountered — including areas not yet reflected in the policy, such as Live Casino coverage — to the ISMS Manager responsible for maintaining that policy. Provide backup support on delivery coordination tasks, given the natural overlap between this role and Delivery Management. Reference: AMVLh3UezlC0aNz7xVfDWzSlKKIUhZbj8h4raFpX2IC9Ru2S4BXwhW31Gn6s6rvy What We're Looking For Proven experience in change management, release management, or IT service management (ITIL Change Management practice is a strong plus), ideally gained in a regulated industry. Experience in iGaming, gambling, or another tightly regulated technology sector is strongly preferred — familiarity with regulator interactions (e.g. regulatory authorities such as but not limited to the HGC, UKGC, MGA) is a real advantage. Comfortable owning detailed tracking and documentation (spreadsheets, Jira, or similar tools) with high attention to accuracy. Strong cross-functional communicator, able to coordinate Development, QA, Operations, IT, legal, Regulatory and Technical Compliance stakeholders. Working understanding of software release lifecycles (dev/staging/production environments, versioning) — deep engineering background is not required, but technical literacy is. Fluent, professional English (written and spoken); additional languages relevant to our regulated markets are a plus. Comfortable working independently and taking owner"
+  },
+  {
+   "source": "infostud",
+   "id": "760361",
+   "title": "IT Administrator",
+   "company": "Tesla Panels d.o.o.",
+   "location": "Šimanovci",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija",
+    "ERP"
+   ],
+   "posted": "2026-10-08",
+   "expires": "07.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-administrator/tesla-panels-doo/760361",
+   "summary": "Pozicija postoji da obezbedi stabilan i efikasan rad ERP MES WMS sistema koji podržavaju proizvodnju i ključne poslovne procese. Kandidat će optimizovati aplikativna rešenja, dizajnirati izveštaje i pružati pravovremenu IT podršku krajnjim korisnicima.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska"
+   ],
+   "first_seen": "2026-10-08T19:20:02+00:00",
+   "details": "O poslodavcu TESLA PANELS d.o.o. kompanija koja se bavi proizvodnjom visokokvalitetnih sendvič panela i predstavlja jednog od lidera u oblasti savremene industrijske gradnje, zbog proširenja obima poslovanja i daljeg razvoja proizvodnih kapaciteta raspisuje konkurs za poziciju: IT ADMINISTRATOR Mesto rada: Beograd – Šimanovci Kao ERP/MES/WMS Administrator bićete odgovorni za stabilan, efikasan i kontinuiran rad informacionih sistema koji podržavaju proizvodnju i poslovne procese kompanije. Vaše ključne odgovornosti su: administracija, održavanje i unapređenje ERP, MES i WMS sistema; pružanje podrške korisnicima iz proizvodnje, finansija i logistike; praćenje rada sistema, identifikovanje i rešavanje problema i sistemskih zastoja; unapređenje aplikativnih rešenja u skladu sa potrebama proizvodnje i poslovanja; praćenje realizacije zahteva korisnika i obezbeđivanje kvalitetne i pravovremene IT podrške; praćenje zaduživanja i rasknjižavanja radnih naloga u saradnji sa proizvodnjom; dizajniranje izveštaja i razvoj korisničkih funkcionalnosti; konfigurisanje ERP/MES/WMS aplikacija, kao i pisanje prilagođenih programa i skripti; saradnja sa eksternim dobavljačima ERP/MES/WMS rešenja; priprema i implementacija ažuriranja i novih verzija sistema; testiranje, dijagnostika i optimizacija performansi sistema; obuka krajnjih korisnika i izrada dokumentacije za ERP/MES/WMS procese. Reference: cbx9gFBQ5JllrlaUV0VwG7lnkactpgXut6dq1guFsEmBO-G5DsI6TX4t91Em0mah Potrebne kvalifikacije i specifična znanja: minimum VI stepen stručne spreme, informatičkog smera; minimum 1 godinu iskustva na sličnim poslovima; iskustvo u radu sa ERP, MES ili WMS sistemima; iskustvo u upravljanju projektima; dobro poznavanje engleskog jezika; osnovno poznavanje finansijskih parametara i izveštaja; izražene analitičke i organizacione sposobnosti; vozačku dozvolu B kategorije i aktivno vozačko iskustvo. Šta nudimo: Rad u stabilnoj i brzo rastućoj proizvodnoj kompaniji. Direktni uticaj na unapređenje proizvodnih i poslovnih procesa i priliku za razvoj i unapređenje informacionih rešenja u realnom poslovnom okruženju; saradnju sa različitim poslovnim funkcijama – proizvodnjom, logistikom, finansijama i menadžmentom; Stimulativna i redovna primanja. Napomena: Biće kontaktirani samo kandidati koji uđu u uži krug selekcije. Zahvaljujemo svim kandidatima na interesovanju za zaposlenje u kompaniji TESLA PANELS d.o.o. TESLA PANELS DOO TESLA PANELS d.o.o., kompanija koja se bavi proizvodnjom visokokvalitetnih sendvič panela i predstavlja jednog od lidera u oblasti savremene industrijske gradnje na Srpskom tržištu koji se takođe uspešno pozicionirao i na inostranim tržištima. Klijentima pružamo vrhunsku uslugu, visoko kvalitetne proizvode, podršku u prodaji i razvoju, prateći i vodeći računa o njihovim očekivanjima. Reagujemo proaktivno, inovativno i fleksibilno. Zaposlenima pružamo sigurno, kvalitetno i prijatno radno… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Šimanovci IT IT Administrator IT Administrator"
+  },
+  {
+   "source": "infostud",
+   "id": "760412",
+   "title": "Java Developer",
+   "company": "Stakelogic",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Spring",
+    "Java",
+    "Docker",
+    "PostgreSQL",
+    "Programiranje",
+    "Microservices",
+    "Kafka",
+    "Kubernetes"
+   ],
+   "posted": "2026-10-08",
+   "expires": "23.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/java-developer/stakelogic/760412",
+   "summary": "This backend role builds and operates a high-load Live Casino platform that combines streaming and real-time interactivity. The developer will implement and maintain Java microservices and integrations to ensure scalable event driven performance.",
+   "matched": [
+    "data engineer",
+    "backend",
+    "data platform",
+    "kubernetes",
+    "it support"
+   ],
+   "first_seen": "2026-10-08T19:20:02+00:00",
+   "details": "O poslodavcu Stakelogic is looking for a Java Back-end Developer to join our backend development team. We are developing a new high-load platform for launching Live Casino games, combining streaming video solutions with real-time interactive features. You will work on a platform built using a microservice, event-driven architecture, contributing to the development and maintenance of scalable Live Casino components and supporting the continued growth of our technology platform. Essential Duties Develop and maintain high-load Live Casino components using Java and related technologies and frameworks such as Spring. Follow engineering best practices, including cross-code reviews and unit testing. Design and develop improvements to the system architecture. Design and implement microservices. Develop custom integrations with casino providers. Participate in and conduct code reviews. Maintain and support existing microservices. Analyse requirements and estimate the implementation of new features. Reference: M0aYQy_J916ozUlbQNTR4p3EiTfBScClWYIXA_mrcWUD8AvMNVutzWnwZwgwuZkV Qualifications & Requirements 4+ years of experience with Java. All current projects use Java 21+. 2+ years of experience with the Spring Framework. 2+ years of experience with Kafka. 1+ year of experience with Docker and Kubernetes. 1+ year of experience with PostgreSQL or another relational database engine. Upper-Intermediate level of English or higher. Strong knowledge of commonly used algorithms, object-oriented programming, and design patterns. Considered a Plus Experience within the iGaming industry. Experience with Redis. Experience with WebSockets. Experience with ClickHouse. Experience with Hibernate. Experience with Bash scripting. Experience with reactive programming. Experience with Event Sourcing and event-driven architectures. Stakelogic Stakelogic is one of the fastest-growing game suppliers in the online gaming industry, serving 500+ online casinos worldwide with a game portfolio of 100+ games. Stakelogic employs over 500 staff and has offices in The Netherlands, Serbia, Ukraine, Malta and the Isle of Man. Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Java Developer Java Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "760426",
+   "title": "KICKSTART - BSS & Digital Software Developer - Intern",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "Java",
+    "Git",
+    "Programiranje",
+    "OOP",
+    "Prakse",
+    "Express"
+   ],
+   "posted": "2026-10-08",
+   "expires": "23.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/kickstart-bss-digital-software-developer-intern/yettel-doo/760426",
+   "summary": "The role supports delivery of reliable back-end software by producing clean testable code and executing testing and debugging activities. The position also contributes to team documentation and cross‑department collaboration to ensure stable deployments and knowledge sharing.",
+   "matched": [
+    "data engineer",
+    "sql",
+    "data platform"
+   ],
+   "first_seen": "2026-10-08T19:20:02+00:00",
+   "details": "O poslodavcu What we will expect from you: Develop clean, well-formed, testable and maintainable code following the accepted coding standards Identify, troubleshoot and debug defects in software and related systems on a basic level Perform tests, both manual and automated, and use our current management tools to document all results/details Help team with their documentation needs Collaborate closely with other team members and departments Reference: 4zB5RYsJ6M-qAX05NMG5VNIfxjNir3If-nhbjKxKPRgp8vN9iSoCm4ZnRJwiaAKE For a good start, you will need: University degree (or in your final year of studies) from Electrical Engineering Faculty, Mathematics Faculty, Faculty of Organizational Science – IT Program or related Familiarity with general concepts in programming: algorithms, data structures, OOP Familiarity with APIs and web services will be considered as a big plus Experience with one or more back-end programming languages/platforms , knowledge of Java is a plus Experience with SQL/database is a plus Familiarity with source code versioning systems (Git) will be considered as a plus Fluent in English Personal traits: Team player Excellent communication skills Good time-management skills Ability to handle multiple tasks simultaneously Ability to work with minimal supervision Why we think you should apply: Paid internship & career development opportunities Mobile phone and tariff package with unlimited internet Opportunity to participate in business decision making process of a large multinational company Working in a dynamic environment which allows you to freely express opinions, ideas and inspire new ways of doing things A unique and inspiring atmosphere full of talented people willing to share their professional knowledge Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Odabrao sam Yettel kako bih se upoznao sa radom korporacije. Zanimalo me je kako funkcioniše komunikacija i rad u tako velikom sistemu. Najviše me je iznenadila posvećenost ljudi u timu da mi na…\" Pročitajte celo iskustvo Beneficije Edukacija, profesionalni razvoj Wellness Sport i rekreacija Dobrovoljno zdravstveno osiguranje Dodatni slobodni dani Fleksibilno radno vreme Nagrade, bonusi, pokloni Obezbeđena oprema za rad Porodica i roditeljstvo Obuke, konferencije Hrana i piće Otkup opreme Rad od kuće Društvena odgovornost Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beo"
+  },
+  {
+   "source": "infostud",
+   "id": "760431",
+   "title": "KICKSTART - Test and Quality Assurance Junior Specialist - Intern",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Android",
+    "REST",
+    "QA",
+    "qa",
+    "Express"
+   ],
+   "posted": "2026-10-08",
+   "expires": "23.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/kickstart-test-and-quality-assurance-junior-specialist-intern/yettel-doo/760431",
+   "summary": "This internship exists to ensure high quality of TV and streaming applications by executing manual tests and validating core media features on real devices. The role supports release readiness through defect documentation verification and collaboration with developers and product stakeholders.",
+   "matched": [
+    "backend",
+    "junior",
+    "it support"
+   ],
+   "first_seen": "2026-10-08T19:20:02+00:00",
+   "details": "O poslodavcu As a Test & QA Junior Specialist intern, you will join the team responsible for the quality of our TV applications used daily on Smart TVs, set-top boxes and streaming devices. You will gain hands-on experience in testing live TV, video on demand and interactive features, working alongside experienced QA engineers on real devices in a dedicated test lab. What we will expect from you: Prepare, maintain and execute manual test cases based on business requirements, acceptance criteria and user stories Test TV applications on different platforms and devices (Android TV / Google TV, Samsung Tizen, LG webOS, Apple tvOS, set-top boxes) Validate core TV features such as live TV, EPG (TV guide), catch-up, recordings, VOD, search, profiles and parental control Verify video playback quality, including startup time, buffering, stream switching, audio tracks, subtitles and resolution/HDR support Test remote control navigation, focus behavior and overall user experience on large screens Perform regression, smoke and exploratory testing before each release Test application behavior under different network conditions (slow connection, connection loss, Wi-Fi vs Ethernet) Document defects with clear reproduction steps, device details, logs, screenshots and video recordings Monitor the defect lifecycle and verify implemented fixes Validate backend services and APIs that support the TV applications Create and maintain test documentation, including test cases, test reports and release summaries Collaborate with developers, Product Owners, Business Analysts and other stakeholders Reference: C4LpqSSCf3nXKQiDlXjnTo349W6VY4lzltRDH9dKXH5YeO9ATQ_xBh70MeXA8jMK For a good start you will need: Final-year student or recent graduate, preferably in Computer Science, Software Engineering, Information Technologies, Telecommunications or related fields Basic knowledge of software testing concepts and QA methodologies Good understanding of the software development lifecycle (SDLC) Interest in TV, streaming and media technologies Basic understanding of how mobile or TV applications work Familiarity with REST APIs and tools like Postman is an advantage Strong attention to detail and patience for repetitive, precise work on devices Analytical thinking and problem-solving skills Good communication and teamwork skills Fluent English (written and spoken) Why we think you should apply: Paid internship in duration of 9 months & career development opportunities Work equipment: laptop, mobile phone and tariff package with unlimited internet Opportunity to participate in the business decision-making process of a large multinational company Opportunity to develop new skills and meet new people Working in a lively environment which allows you to freely express opinions, and ideas and inspire new ways of doing things A unique and inspiring atmosphere full of talented people willing to share their professional knowledge Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srb"
+  },
+  {
+   "source": "infostud",
+   "id": "760428",
+   "title": "Sistem administrator",
+   "company": "Astra Telekom d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SharePoint",
+    "Windows Server",
+    "Windows",
+    "VPN",
+    "Sistemska administracija",
+    "Podrška",
+    "ESXi",
+    "Active Directory",
+    "MikroTik"
+   ],
+   "posted": "2026-10-08",
+   "expires": "23.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/sistem-administrator/astra-telekom-doo/760428",
+   "summary": "Tehnička podrška obezbeđuje funkcionalnost IT okruženja biznis korisnika kroz otklanjanje hardverskih i softverskih problema i L1 podršku mrežnim servisima. Kandidat će upravljati backup i Microsoft 365 servisima te nadzirati on premise servere i mrežne konekcije radi održavanja dostupnosti i bezbednosti sistema.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-08T19:20:02+00:00",
+   "details": "O poslodavcu Opis posla: Troubleshooting hardverskih problema kod biznis korisnika (računari, periferni uređaji, storage uređaji, printeri, skeneri) Troubleshooting softverskih problema (operativni sistemi, protokoli, ažuriranja, elektronski sertifikati, Autodesk i Adobe softveri, problemi u radu mejl servisa na klijentskom nivou) L1 podrška za mrežne servise Dijagnostika problema u lokalnoj mreži Problemi u VPN konekcijama Kreiranje i podešavanje VPN parametara (Mikrotik, Fortigate, EdgeX) Reference: COvOBgC5iL8Ik69Vrt0iMG1Rm2AC6z40W4Jp5aZD6lXnnamgub--VNdFa8_dbWOo • Implementacija i monitoring bekap rešenja: Bekap radnih stanica Bekap VM-ova (ESXi, Hyper-V) Bekap Exchange naloga Rad sa Veeam i Cobian Backup rešenjima • Administracija Microsoft 365 servisa: Exchange Online OneDrive SharePoint Teams Nabavka i administracija licenci: Microsoft 365 (Crayon) PCSM AD360 EPP+ Evidencija, obaveštavanje korisnika o isteku i obnova licenci Administracija i monitoring bezbednosnih rešenja (Panda antivirus) Monitoring storage uređaja (storage kontroleri, QNAP – on-premise) Administracija i monitoring on-premise servera (ESXi, Hyper-V) Administracija Microsoft Windows Server okruženja: Active Directory File Server DHCP Komunikacija sa dobavljačima i kreiranje ponuda za nabavku softverske i hardverske opreme Poželjne kvalifikacije: Minimalno završena srednja škola tehničkog usmerenja (IV stepen) Prednost imaju kandidati sa minimum dve godine iskustva u IT podršci Iskustvo u radu sa biznis korisnicima Iskustvo sa virtuelizacionim platformama Dobro poznavanje Windows Server okruženja Odlično poznavanje Windows klijentskih operativnih sistema Iskustvo sa Microsoft 365 servisima Osnovno poznavanje mrežnih tehnologija i VPN konfiguracija Odgovornost, samostalnost i sposobnost organizacije rada Vozačka dozvola B kategorije (zbog povremenog terenskog rada) Uslovi rada: I smena Rad u dinamičnom timu Rad sa raznovrsnim tehnologijama Poštovanje vašeg vremena, truda i zalaganja Prilika za sticanje novih iskustava Astra Telekom d.o.o. Omladinskih brigada 21, Beograd, Srbija PIB: 107597046 Matični broj: 20833378 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator Sistem administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Posl"
+  },
   {
    "source": "infostud",
    "id": "760168",
@@ -350,7 +527,7 @@
    "expires": "22.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Measurement-Specialist/s360/760157",
-   "summary": "s360 Beograd | Hibrid 22.10.2026. JavaScript QA Cloud Intermediate Istaknuti poslodavci Novo",
+   "summary": "s360 Beograd | Hibrid 22.10.2026. JavaScript QA Cloud Intermediate Novo",
    "matched": [
     "helloworld"
    ],
