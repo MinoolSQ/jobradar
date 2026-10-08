@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-08T19:20:02+00:00",
+ "generated_at": "2026-10-08T23:50:35+00:00",
  "window_days": 3,
  "cutoff": "2026-10-05",
  "count": 38,
- "new_count": 6,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 65,
+   "vraceno": 66,
    "strane": 3,
    "stop": "kraj"
   },
@@ -112,12 +112,12 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 115,
+   "vraceno": 116,
    "strane": 4,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 175,
+   "vraceno": 178,
    "strane": 6,
    "stop": "kraj"
   },
@@ -127,7 +127,7 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 41,
+   "vraceno": 43,
    "strane": 2,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 158,
+   "vraceno": 161,
    "strane": 6,
    "stop": "kraj"
   }
@@ -503,7 +503,7 @@
    "expires": "22.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Junior-IT-Seurity-Engineer/Finductive-Ltd/760041",
-   "summary": "Finductive Ltd Beograd | Hibrid online intervju 22.10.2026. 1.400,00 - 1.500,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima Junior Novo",
+   "summary": "Finductive Ltd Beograd | Hibrid online intervju 22.10.2026. 1.400,00 - 1.500,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima Junior",
    "matched": [
     "helloworld"
    ],
@@ -527,7 +527,7 @@
    "expires": "22.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Measurement-Specialist/s360/760157",
-   "summary": "s360 Beograd | Hibrid 22.10.2026. JavaScript QA Cloud Intermediate Novo",
+   "summary": "s360 Beograd | Hibrid 22.10.2026. JavaScript QA Cloud Intermediate Istaknuti poslodavci",
    "matched": [
     "helloworld"
    ],
@@ -573,7 +573,7 @@
    "expires": "22.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Data-Engineer/Finductive-Ltd/760040",
-   "summary": "Finductive Ltd Beograd | Hibrid online intervju 22.10.2026. 2.600,00 - 2.700,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima SQL Intermediate Novo",
+   "summary": "Finductive Ltd Beograd | Hibrid online intervju 22.10.2026. 2.600,00 - 2.700,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima SQL Intermediate",
    "matched": [
     "helloworld"
    ],
