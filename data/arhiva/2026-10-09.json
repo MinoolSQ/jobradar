@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-09T07:33:35+00:00",
+ "generated_at": "2026-10-09T18:53:06+00:00",
  "window_days": 3,
  "cutoff": "2026-10-06",
- "count": 29,
- "new_count": 1,
+ "count": 33,
+ "new_count": 4,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,17 +12,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 14,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 31,
+   "vraceno": 43,
    "strane": 2,
    "stop": "kraj"
   },
@@ -52,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 6,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 13,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,23 +102,23 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 44,
+   "vraceno": 56,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 33,
+   "vraceno": 34,
    "strane": 2,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 91,
+   "vraceno": 105,
    "strane": 4,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 132,
-   "strane": 5,
+   "vraceno": 160,
+   "strane": 6,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,22 +127,22 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 33,
+   "vraceno": 38,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 65,
+   "vraceno": 77,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 10,
+   "vraceno": 12,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 5,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,114 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 114,
-   "strane": 4,
+   "vraceno": 142,
+   "strane": 5,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "760680",
+   "title": "Prodavac - rad na računaru (Online i maloprodaja)",
+   "company": "Tehnokrug d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-09",
+   "expires": "24.10.2026",
+   "salary": "neto 70.000 - 80.000 RSD (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/prodavac-rad-na-racunaru-online-i-maloprodaja/tehnokrug-doo/760680",
+   "summary": "Pozicija obezbeđuje direktnu prodaju i podršku kupcima na prodajnoj lokaciji i kroz digitalne kanale uz održavanje ažurnog inventara. Kandidat će pripremati uređaje za prodaju, obavljati administrativne poslove i doprinositi unapređenju procesa prodaje.",
+   "matched": [
+    "administrator",
+    "it podrska",
+    "racunari"
+   ],
+   "first_seen": "2026-10-09T18:53:06+00:00",
+   "details": "O poslodavcu Radno vreme : pon-pet 13–20h, subota 10-15h O nama : TehnoKrug je prva online platforma za prodaju i otkup polovnih mobilnih telefona u Srbiji, posvećena razvoju cirkularne ekonomije i povećanju dostupnosti pametnih telefona. Ako voliš tehnologiju i želiš da radiš u dinamičnom okruženju, pridruži se našem timu! Šta ćeš raditi na ovoj poziciji? Komuniciraćeš s kupcima – uživo, putem telefona i društvenih mreža Prodavati i pružati informacije o našim proizvodima, cenama i reklamacijama Postavljati artikle na sajt i ažurirati inventar Pripremati uređaje za prodaju (pakovanje, slanje, popis zaliha) Pružati podršku u administrativnim poslovima Ukoliko se dokažeš, možeš napredovati u radu s B2B partnerima Reference: N8wrPZe4yoPtvSRof0ORTmK8UV2bkG2FE-LEXX32XEEYj2f4y1BsHREgWPTQbR_P Koji profil kandidata tražimo? Organizovana si, pedantna i komunikativna osoba Brzo razmišljaš i efikasno završavaš zadatke Lako se snalaziš na računaru i sa online alatima Znaš da koristiš društvene mreže, MS Office i OneDrive/Sharepoint Osnovno poznaješ engleski jezik Prednost: iskustvo u call centru, maloprodaji ili radu s mobilnim telefonima Šta nudimo? Stabilan posao u centru Beograda Mogućnost profesionalnog razvoja i bonusa Rad u mladom, podržavajućem i motivišućem timu Ako smatraš da si prava osoba za ovaj posao, pošalji nam svoj CV, a mi ćemo te kontaktirati što pre! Vidimo se! Tehnokrug d.o.o. Kosovska 17, Beograd-Stari Grad PIB: 112449118 Matični broj: 21676616 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd Trgovina, prodaja Prodavac Prodavac - rad na računaru (Online i maloprodaja) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "760669",
+   "title": "Senior Database Administrator (Microsoft SQL)",
+   "company": "Inovatec by Solifi",
+   "location": "Beograd, Kragujevac",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "SQL Server",
+    "Azure",
+    "Microsoft SQL Server",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-09",
+   "expires": "08.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-database-administrator-microsoft-sql/inovatec-by-solifi/760669",
+   "summary": "Senior SQL Server Database Administrator responsible for ensuring availability performance and recoverability of mission critical SQL Server and Azure database platforms. The role focuses on proactive performance tuning HA DR implementation and rapid incident resolution to minimize production impact. The specialist will also drive architecture improvements and mentor junior database engineers.",
+   "matched": [
+    "data engineer",
+    "sql",
+    "data platform",
+    "administrator"
+   ],
+   "first_seen": "2026-10-09T18:53:06+00:00",
+   "details": "O poslodavcu About Inovatec by Solifi Inovatec, now part of Solifi following its recent acquisition, is a growth company based in Vancouver, BC, established in 2006. We are North America's leading provider of cloud-based software solutions for the automotive, motorcycle, powersports, and equipment financing industries. Our solutions are used by some of the largest banks, credit unions, and finance companies in Canada and the U.S. At Inovatec, we foster a diverse and inclusive environment that encourages collaboration where we grow together and win as a team. We thrive by challenging the status quo to push the industry forward, and we know when to have fun! With team members across North America and Europe, we're committed to investing in the development of our team, no matter where they're located. Key Responsibilities Administration and maintenance of Microsoft SQL Server and Azure SQL Database environments in production and non-production systems Installation, configuration, patching, upgrading, and lifecycle management of SQL Server environments Monitoring database performance, availability, and health, and proactively resolving issues Database performance tuning, query optimization, and troubleshooting using T-SQL and Microsoft performance tools Investigating and resolving database performance incidents, including blocking, deadlocks, long-running queries, wait statistics analysis, Extended Events tracing, Query Store analysis, and SQL Server trace flag-based troubleshooting where applicable Managing backup, recovery, and business continuity procedures Planning, implementing, and maintaining High Availability (HA) and Disaster Recovery (DR) solutions Working with SQL Server Always On Availability Groups, Failover Cluster Instances (FCI), Azure SQL Failover Groups, and other Microsoft technologies for high availability and business continuity Managing database security, users, roles, permissions, encryption, and access control Collaborating with system administrators, cloud engineers, network and security teams, developers, and other IT teams Participating in database migration, consolidation, modernization, and infrastructure improvement projects Creating and maintaining technical documentation, operational procedures, and standards Reference: cehQMBWjQadav6oHh66vuRYvC-9yC6UJJjROiNBkvHpYTVr7raO_bWjn5AIxqlcM What We Expect from the Candidate We are looking for someone who can independently take ownership of the database platform's operation while also collaborating with other IT teams on complex projects. From a Senior DBA, we expect the ability to: Propose improvements to database architecture, scalability, security, and performance Participate in defining technical standards, governance policies, and operational procedures Identify and mitigate potential issues before they impact production systems Mentor less experienced team members and share knowledge across teams Required Experience and Knowledge Minimum 5 years of experience as a Database Administrator, with significant experience in Microsoft SQL Server Advanced knowledge of Microsoft SQL Server and related Microsoft data platform technologies Experience administering large-scale and mission-critical SQL Server production environments Strong knowledge of T-SQL, database design principles, and query optimization Experience with SQL Server backup and recovery strategies and tools Experience with SQL Server performance troubleshooting, including deadlock analysis, blocking inves"
+  },
+  {
+   "source": "helloworld",
+   "id": "760687",
+   "title": "Fullstack Developer",
+   "company": "Proximus d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "mysql",
+    "sql",
+    "javascript",
+    "node",
+    "angular",
+    "java",
+    "oracle",
+    "couchbase",
+    "typescript",
+    "restful"
+   ],
+   "posted": "2026-10-09",
+   "expires": "24.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Fullstack-Developer/Proximus-d.o.o/760687",
+   "summary": "Proximus d.o.o. 4 Rad od kuće online intervju 24.10.2026. MySQL SQL JavaScript Node Node.js Angular Java Oracle Couchbase TypeScript RESTful Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Fullstack Developer Fullstack Developer Proximus d.o.o. 4 Rad od kuće online intervju 24.10.2026. MySQL SQL JavaScript Node Node.js Angular Java Oracle Couchbase TypeScript RESTful intermediate We are Team Possible! We are Team possible – the people behind Proximus, Proximus NXT, Proximus Ada, and more. Nice to see you here! United by a shared purpose, we’re building a smarter, trustful and more connected world. That means embracing technology and celebrating change. We think possible and then make it possible. And of course, we love what we do. Sounds like your kind of place? Summary For our parent company, Proximus Group, an international telecommunication company, we are looking for a proactive individual to fill in the following position: Medior Full Stack Developer , who will be working on developing and maintaining our new web shop application. Your Job You support the design and development of high-quality backend applications, following best practices to ensure high availability, scalability, and resilience. You develop and maintain high-quality, well-documented RESTful APIs using Node.js and NestJS. You write unit and integration tests and develop automation tools for daily tasks. You work closely with frontend developers to design and develop functional and performant APIs. You collaborate with cross-functional teams to identify and prioritize product features. You troubleshoot and debug applications to ensure high uptime and good performance. You challenge ideas and opinions to avoid pitfalls and unnecessarily complex or inefficient solutions. You create and maintain technical documentation for code changes and updates. You stay up to date with emerging trends and technologies and suggest new approaches to improve efficiency and productivity. You participate in code reviews to maintain code quality and identify opportunities for improvement. You participate in and contribute to the integration testing of developed features. Your Profile You have a Bachelor’s degree in Computer Science, Software Engineering, or a related field. You have 2 to 5 years of professional experience in backend development using Node.js / Next.js (experience with Java is considered a plus), as well as frontend web development. You have 2 to 3+ years of experience working with SQL and non-SQL databases such as MySQL, Oracle, and Couchbase, and with web development using Angular. You have experience building performant RESTful APIs using JavaScript and/or TypeScript (experience with GraphQL is considered a plus). You have experience with building and maintaining Java µservices (considered a plus). You have experience using, building, and maintaining a standalone component library (considered a plus). You are able to create effective documentation and write unit, integration, and API tests. You possess strong problem-solving skills and are able to work both independently and collaboratively. You are a team player with excellent interpersonal, written, and verbal communication skills. You are fluent in English (mandatory). This is what to expect Drive positive change with confidence, turning bold ideas into solutions to remain at the forefront of technology. Keep on learning, evolving, and building your career in a digital space that truly supports your growth journey. Real connections power real progress. Collaboration is how you will transform challenges into new opportunities. Be welcomed for exactly who you are. Your unique perspective and identity wi",
+   "first_seen": "2026-10-09T18:53:06+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "760676",
+   "title": "IT Department Manager",
+   "company": "Sava Neživotno Osiguranje a.d.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-09",
+   "expires": "24.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Department-Manager/Sava-Nezivotno-Osiguranje-a.d.o/760676",
+   "summary": "Sava Neživotno Osiguranje a.d.o. Beograd 24.10.2026. Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "IT Department Manager IT Department Manager Sava Neživotno Osiguranje a.d.o. Beograd 24.10.2026. senior SAVA NON-LIFE INSURANCE a.d.o. BEOGRAD is an insurance company with more than four decades of experience. We are part of the Sava Re Group, one of the leading insurance groups in the region. SAVA NON-LIFE INSURANCE a.d.o. BEOGRAD strives to stand out through its values and to be recognized as a company that cares about its clients, follows trends and introduces innovations across all areas of its business. Above all, we are committed to understanding and addressing the needs of our employees, placing great trust in them and recognizing their contribution as one of the key drivers of our success. If you see yourself as part of a team that is constantly developing and where you can contribute to its growth while pursuing your own personal and professional development, we would be delighted to welcome you to our team. We are looking for: IT DEPARTMENT MANAGER Key Responsibilities: Lead and manage the IT Department and IT team; Develop and implement the IT strategy in line with business objectives and Group standards; Ensure reliable, secure and efficient IT infrastructure, systems and services; Lead IT projects and digital transformation initiatives; Manage IT risks, information security and business continuity; Manage external IT providers, vendors and technology partners; Identify opportunities for process improvement, automation and the adoption of new technologies; Ensure compliance with relevant regulations, policies and security standards; Act as a strategic partner to business functions on technology-related matters. Requirements: University degree in IT, Computer Science, Engineering or a related field; At least 5 years of relevant IT experience, including managerial or leadership experience; Experience in the insurance industry and/or financial institutions is preferred; Strong knowledge of IT infrastructure, systems and information security is preferred; Experience in IT project management and digital transformation; Strong leadership, communication and organizational skills; Strategic and solution-oriented mindset. What We Offer: A key leadership role in a dynamic insurance environment; Opportunity to drive digital transformation and technology development within a renowned insurance company; Professional development and continuous learning; Competitive compensation and a comprehensive benefits package. Apply Here Upoznaj kompaniju O Kompaniji Plate Sava neživotno osiguranje a.d.o. Beograd sa tradicijom poslovanja dužom od četiri decenije, postalo je sastavni deo Osiguravajuće grupe SAVA 2006. godine. Brojne promene i razlike doprinele su unapređenju poslovnih procesa, bogatijoj ponudi proizvoda osiguranja i niz drugih pozitivnih karakteristika za Društvo. Veća stabilnost i pouzdanost kompanije omogućle su pružanje kvalitetnije i raznovrsnije ekonomske zaštite od brojnih rizika koji nas okružuju. Sava neživotno osiguranje ima u ponudi brojne pakete imovinskih osiguranja čime se osiguranicima, kako pravnim tako i fizičkim licima, pruža sigurnost i ekonomska zaštita od štetnih dejstava i ekonomskih poremećaja do kojih dolazi kada se ostvari određeni rizik, odnosno nastane osigurani slučaj. U ovom momentu Sava neživotno osiguranje ima poslovne jedinice u skoro 30 gradova u Republici Srbiji i veliki broj partnerskih kompanija koje se bave ponudom i zaključivanjem ugovora o osiguranju. Tokom višedecenijskog poslovanja Sava neživotn",
+   "first_seen": "2026-10-09T18:53:06+00:00"
+  },
   {
    "source": "infostud",
    "id": "760498",
@@ -502,10 +604,10 @@
     "kubernetes"
    ],
    "posted": "2026-10-07",
-   "expires": "22.10.2026.",
+   "expires": "25.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Data-Engineer/Bel-Dev-d.o.o/760224",
-   "summary": "Bel-Dev d.o.o. 5 Beograd | Hibrid 22.10.2026. SQL Python Batch Kubernetes Senior",
+   "summary": "Bel-Dev d.o.o. 5 Beograd | Hibrid 25.10.2026. SQL Python Batch Kubernetes Senior Premium",
    "matched": [
     "helloworld"
    ],
@@ -549,7 +651,7 @@
    "expires": "22.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Measurement-Specialist/s360/760157",
-   "summary": "s360 Beograd | Hibrid 22.10.2026. JavaScript QA Cloud Intermediate Istaknuti poslodavci",
+   "summary": "s360 Beograd | Hibrid 22.10.2026. JavaScript QA Cloud Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -621,7 +723,7 @@
    "expires": "22.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Software-Developer/DevDepot/760051",
-   "summary": "DevDepot Rad od kuće online intervju 22.10.2026. 14,00 - 18,00 EUR (net) SQL ERP TypeScript Cloud CRM Intermediate konkuriši među prvima",
+   "summary": "DevDepot Rad od kuće online intervju 22.10.2026. 14,00 - 18,00 EUR (net) SQL ERP TypeScript Cloud CRM Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -726,6 +828,30 @@
    ],
    "first_seen": "2026-10-06T18:57:37+00:00",
    "details": "O poslodavcu At netcare we are taking care of international IT projects for some of the biggest companies in the world. We develop and test IT solutions, organize rollouts, conduct trainings and carry out support. We have four venues in Germany (Neustetten and Leinfelden-Echterdingen near Stuttgart, Frankfurt am Main and Berlin), one overseas in Chattanooga/USA and one in Belgrade/Serbia. Come join us and be part of our fast growing and thriving Belgrade team! IT & Process Support Specialist (m/f/d) We are looking for full-time 1st- to 3rd-level support specialists to join our Professional Services team in Belgrade as soon as possible. You are utterly web-savvy and love that wonderful moment when you crack a particularly hard nut? This job is perfect for you if you like helping others and have a lot of fun in tracking down tricky problems. Together with your team, you'll process requests from all over the world and assist users, for example, in maintaining websites (markets and dealers) of large companies - with technical as well as process questions. Your Tasks: Answering operating and process questions Development and implementation of solutions Analysing, assessing and solving (or forwarding) of bugs Incident Management, Monitoring Creation of manuals and reports Focus is on supporting web-based systems and applications Reference: 12CB6AY468dde5B8BEvXYG2DLVUjQ2ghagHr7OefLUJLocC6NsgMf8M6gMYymmDc We offer you: Private premium healthcare insurance for all our team members 24 days of vacation per calendar year Working hours that also leave You time for private activities, hobbies, raising kids, or whatever You like doing in Your free time Working in multinational teams in highly exciting international projects for our renowned customers such as Mercedes-Benz Hybrid work model with a mix of Office and remote work days Detailed trainings with a lot of patience and collegiality, since we want You to shine on Your new role An open, relaxed, at the same time constructive and goal-oriented, corporate culture with people helping and “can do” attitude Team events thought up with a lot of love, for example, city trips in Europe, team buildings in Serbia and Belgrade, Christmas Party events in Germany and much more to come Skills you should have: Fluent in spoken and written English Successfully completed studies with IT content, comparable IT education or work experience Very good MS Office skills (with focus on Outlook and Excel) Ability to work in a team and social competence Strong communication skills (telephone and e-mail) Ability to grasp things quickly and pleasure in learning fast as well as in taking part in training courses We absolutely don’t have anything against: Proficient in German language Experience in being a support specialist or with working at a user help desk Knowledge of web development and/or web content management systems ITIL knowledge and social media affinity Experience in giving webinars and/or face-to-face trainings Routine in dealing with ticket and/or issue tracking systems Passion for the automotive industry We also welcome career changers with strong communication and analytical skills, good foreign language skills and the willingness to quickly familiarize themselves with technical issues. What to expect: You will join a talented bunch of bright minds developing state-of-the-art solutions for some of the biggest companies in the world. We love what we do and therefore we do it very well. We also love our hands-o"
+  },
+  {
+   "source": "infostud",
+   "id": "757225",
+   "title": "IT Customer Service & Sales Consultant",
+   "company": "L3 Consulting",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Podrška",
+    "CRM"
+   ],
+   "posted": "2026-10-06",
+   "expires": "05.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-customer-service-sales-consultant/l3-consulting/757225",
+   "summary": "This role exists to provide a single point of contact that ensures consistent customer experience across service, sales and billing. The successful candidate will maintain client accounts, handle sales enquiries and manage billing to keep operations running smoothly and support business growth.",
+   "matched": [
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-06T18:57:37+00:00",
+   "details": "O poslodavcu L3 Consulting is one of Australia most progressive and fast-growing IT providers servicing the small and medium market. At L3 we pride ourselves on the quality of work we do, on building strong and lasting relationships with our customers, always having fun, and creating an environment where we balance work and personal lifestyle (ability to work from home, etc.). We are looking for a Sales & Customer Service Consultant to join our team. This varied role combines customer service, sales support, account management, administration, billing and invoicing. You will be a key point of contact for our clients, working closely with our technical and management teams to ensure a professional and seamless customer experience. Key Areas of Responsibility Customer Service & Account Management Acting as a key point of escalation contact for existing and prospective customers Responding to customer enquiries via phone and email in a professional and timely manner Building and maintaining strong, long-term relationships with clients Understanding customer needs and identifying opportunities to provide additional services or solutions Following up customer enquiries, requests, quotes and outstanding actions Coordinating with the technical team to ensure customer requests are followed through to completion Ensuring customers receive a consistently high level of service Reference: uivSNNc7sDzDxACxN57qfGjNK3sDyqFQGUL5y3-u3IC7UqXiYsOfq9CttbNn29e9 Sales & Business Development Managing incoming sales enquiries and following up leads Preparing and sending quotes and proposals Following up quotes and opportunities with prospective and existing clients Identifying opportunities to upsell or cross-sell L3 Consulting's IT services Maintaining accurate customer and sales information Supporting the management team with sales administration and reporting Developing strong knowledge of L3 Consulting's services so you can confidently explain solutions to customers Billing & Invoicing Preparing and issuing customer invoices Processing recurring and ad-hoc billing Monitoring outstanding invoices and following up overdue accounts Assisting with accounts receivable and payment reconciliation Reviewing billing information for accuracy before invoices are issued Managing customer billing queries and resolving discrepancies Maintaining accurate records of customer accounts, services and billing Assisting with monthly billing processes and reporting Administration Maintaining accurate customer records and documentation Managing customer contracts, service agreements and related documentation Assisting with supplier and vendor administration where required Supporting general office and business administration Maintaining accurate data within CRM, accounting and internal systems Assisting the management team with day-to-day operational tasks About You We are looking for someone who is organised, personable, commercially minded and genuinely enjoys helping customers. You will ideally have: Previous experience in customer service, sales support, account management, administration or a similar role Experience with billing, invoicing and accounts receivable Strong attention to detail and excellent organisational skills Excellent verbal and written English communication skills Confidence communicating with customers by phone and email The ability to build positive and professional customer relationships Strong follow-up and time management skills The ability to manage "
   },
   {
    "source": "infostud",
@@ -841,30 +967,6 @@
    ],
    "first_seen": "2026-10-06T18:57:37+00:00",
    "details": "O poslodavcu WE'RE HIRING! Predstavnik tehničke podrške - engleski jezik M Plus Serbia je kompanija za outsourcing poslovnih procesa i bavimo se pružanjem podrške korisnicima. Individualna posvećenost, stručnost i strast koje unosimo u svaku interakciju sa klijentima i njihovim korisnicima predstavljaju našu privrženost pouzdanom pružanju usluga. Da li si ti osoba kojoj se svi obraćaju kada nešto ne radi? Uživaš da pomažeš drugima i rešavaš tehničke zavrzlame? Ako si se prepoznao/la – možda si baš ti idealna osoba za naš tim! Šta te čeka u ovoj ulozi? Bićeš prva linija podrške korisnicima – onaj/ona koji/a strpljivo i jasno vodi ljude kroz tehničke izazove i pronalazi rešenja. Tvoj dan će uključivati: Pomoć korisnicima u rešavanju tehničkih problema (korak po korak) Analizu i brzo rešavanje raznih softverskih i hardverskih poteškoća Odgovaranje na pozive, mejlove i tikete Brigu da sve radi kako treba – na vreme i uz osmeh Podršku novim kolegama i deljenje korisnih saveta Brigu o kvalitetu usluge koju pružamo Reference: ZaYFjeJBA4TvBNHBFEwsgpJN0_hkWYaOPcH7tuRz5rNDwc466IqmvRaAogwdC0v5 Šta tražimo od tebe: Završena srednja škola (dodatni plus ako imaš tehničko obrazovanje ili IT znanje) Tečno znanje engleskog jezika, usmeno i pismeno Dobro poznavanje Windows operativnog sistema Sposobnost brzog i efikasnog rešavanja problema Sposobnost rešavanja hardverskih i softverskih problema Spremnost na rad u smenama (uključujući vikende i noćne smene) Šta nudimo: Strukturirane obuke za razvoj veština Rad u internacionalnom okruženju Moderne kancelarije u poslovnom centru Novog Beograda Mogućnost napredovanja i prelaska na ugovor sa klijentom, uz sve benefite Nemam iskustva – da li da se prijavim? Apsolutno da! Ako si spreman/na da učiš, razvijaš se i daješ najbolje od sebe – mi ćemo biti uz tebe na svakom koraku. Zvuči zanimljivo? Pošalji nam svoj CV na engleskom jeziku i čekaj naš poziv – jedva čekamo da te upoznamo! Napomena: Samo kandidati koji uđu u uži izbor biće kontaktirani. M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od 10 godina. Mplus mi je kroz godine dao prostora za razvoj karijere, to je ono što motiviše mene i…\" Pročitajte celo iskustvo Beneficije Obuke, konferencije Edukacija, profesionalni razvoj Zabavni sadržaj Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Timska druženja Zdravlje Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beo"
-  },
-  {
-   "source": "infostud",
-   "id": "757225",
-   "title": "Sales & Customer Service Consultant",
-   "company": "L3 Consulting",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "Podrška",
-    "CRM"
-   ],
-   "posted": "2026-10-06",
-   "expires": "05.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/sales-customer-service-consultant/l3-consulting/757225",
-   "summary": "This role exists to provide a single point of contact that ensures consistent customer experience across service, sales and billing. The successful candidate will maintain client accounts, handle sales enquiries and manage billing to keep operations running smoothly and support business growth.",
-   "matched": [
-    "administrator",
-    "it support"
-   ],
-   "first_seen": "2026-10-06T18:57:37+00:00",
-   "details": "O poslodavcu L3 Consulting is one of Australia most progressive and fast-growing IT providers servicing the small and medium market. At L3 we pride ourselves on the quality of work we do, on building strong and lasting relationships with our customers, always having fun, and creating an environment where we balance work and personal lifestyle (ability to work from home, etc.). We are looking for a Sales & Customer Service Consultant to join our team. This varied role combines customer service, sales support, account management, administration, billing and invoicing. You will be a key point of contact for our clients, working closely with our technical and management teams to ensure a professional and seamless customer experience. Key Areas of Responsibility Customer Service & Account Management Acting as a key point of escalation contact for existing and prospective customers Responding to customer enquiries via phone and email in a professional and timely manner Building and maintaining strong, long-term relationships with clients Understanding customer needs and identifying opportunities to provide additional services or solutions Following up customer enquiries, requests, quotes and outstanding actions Coordinating with the technical team to ensure customer requests are followed through to completion Ensuring customers receive a consistently high level of service Reference: uivSNNc7sDzDxACxN57qfGjNK3sDyqFQGUL5y3-u3IC7UqXiYsOfq9CttbNn29e9 Sales & Business Development Managing incoming sales enquiries and following up leads Preparing and sending quotes and proposals Following up quotes and opportunities with prospective and existing clients Identifying opportunities to upsell or cross-sell L3 Consulting's IT services Maintaining accurate customer and sales information Supporting the management team with sales administration and reporting Developing strong knowledge of L3 Consulting's services so you can confidently explain solutions to customers Billing & Invoicing Preparing and issuing customer invoices Processing recurring and ad-hoc billing Monitoring outstanding invoices and following up overdue accounts Assisting with accounts receivable and payment reconciliation Reviewing billing information for accuracy before invoices are issued Managing customer billing queries and resolving discrepancies Maintaining accurate records of customer accounts, services and billing Assisting with monthly billing processes and reporting Administration Maintaining accurate customer records and documentation Managing customer contracts, service agreements and related documentation Assisting with supplier and vendor administration where required Supporting general office and business administration Maintaining accurate data within CRM, accounting and internal systems Assisting the management team with day-to-day operational tasks About You We are looking for someone who is organised, personable, commercially minded and genuinely enjoys helping customers. You will ideally have: Previous experience in customer service, sales support, account management, administration or a similar role Experience with billing, invoicing and accounts receivable Strong attention to detail and excellent organisational skills Excellent verbal and written English communication skills Confidence communicating with customers by phone and email The ability to build positive and professional customer relationships Strong follow-up and time management skills The ability to manage "
   },
   {
    "source": "infostud",
