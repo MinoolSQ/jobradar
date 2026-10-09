@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-09T18:53:06+00:00",
+ "generated_at": "2026-10-09T23:22:25+00:00",
  "window_days": 3,
  "cutoff": "2026-10-06",
  "count": 33,
- "new_count": 4,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -112,12 +112,12 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 105,
+   "vraceno": 107,
    "strane": 4,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 160,
+   "vraceno": 161,
    "strane": 6,
    "stop": "kraj"
   },
@@ -132,7 +132,7 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 77,
+   "vraceno": 78,
    "strane": 3,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 142,
+   "vraceno": 144,
    "strane": 5,
    "stop": "kraj"
   }
@@ -253,7 +253,7 @@
    "expires": "24.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/IT-Department-Manager/Sava-Nezivotno-Osiguranje-a.d.o/760676",
-   "summary": "Sava Neživotno Osiguranje a.d.o. Beograd 24.10.2026. Senior Novo",
+   "summary": "Sava Neživotno Osiguranje a.d.o. Beograd 24.10.2026. Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se",
    "matched": [
     "helloworld"
    ],
