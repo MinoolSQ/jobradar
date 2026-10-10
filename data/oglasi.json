@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-10T07:20:55+00:00",
+ "generated_at": "2026-10-10T13:54:46+00:00",
  "window_days": 3,
  "cutoff": "2026-10-07",
- "count": 21,
- "new_count": 0,
+ "count": 23,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 35,
+   "vraceno": 36,
    "strane": 2,
    "stop": "kraj"
   },
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 42,
+   "vraceno": 43,
    "strane": 2,
    "stop": "kraj"
   },
@@ -117,7 +117,7 @@
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 131,
+   "vraceno": 132,
    "strane": 5,
    "stop": "kraj"
   },
@@ -158,6 +158,38 @@
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137475",
+   "title": "Senior React Full stack Developer",
+   "company": "Lemon.io",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "engineer",
+    "remote",
+    "python",
+    "aws",
+    "gcp",
+    "javascript",
+    "react",
+    "node",
+    "ruby",
+    "typescript",
+    "full time"
+   ],
+   "posted": "2026-10-09",
+   "expires": null,
+   "salary": "80000-200000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+   "summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or n",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-10T13:54:46+00:00"
+  },
   {
    "source": "infostud",
    "id": "760680",
@@ -729,6 +761,34 @@
    ],
    "details": "Software Developer 2 izvršioca Software Developer DevDepot Rad od kuće online intervju 22.10.2026. 14,00 - 18,00 EUR (net) SQL ERP TypeScript Cloud CRM intermediate About us DevDepot is a Belgrade-based software company building for Nordic customers, and we're now growing our core engineering team here. We are developing an integrated system for managing healthcare staffing in Sweden, used daily by our Swedish customer. We also develop and implement our own AI-focused business automation platform. We're hiring Software Developers to build and ship across both: web applications, APIs, integrations with the customer's business systems, and AI features. You'll work closely with the solution architect, the delivery manager and QA, with one goal: rapid delivery of quality software that keeps our customers happy. Our code is about 90% TypeScript and 10% Python, on React / Next.js, NestJS, PostgreSQL, MongoDB, Docker and Azure. We write a lot of end-to-end tests and grow the system step by step, using AI coding tools every day. We are rebuilding the engineering organization from the ground up. As the number of customers and workstreams grows, so does the room to take on ownership and lead. What you will do Deliver features end to end: understand the need, build, cover with e2e tests, ship, and follow up in production Build and maintain web applications and APIs for the Swedish customer and for our own product Design and build integrations with third-party and customer systems (ERP, CRM, support tools, data sources) Build AI features: LLM-powered workflows, agents, MCP servers and tools Work directly with client representatives when needed to clarify requirements and solve problems Help improve how the team builds with AI tools What we expect Understanding the requirements and thinking in terms of the customer's business, not just the ticket 3+ years of professional software development Strong TypeScript Good understanding of relational databases: data modelling, SQL, performance Hands-on experience with cloud environments (Azure is a plus) Hands-on experience building with AI tools and LLMs, and an insatiable desire to automate as much as possible Ability to own a problem and deliver without being micromanaged Being comfortable working with Nordic customers: direct communication, clear expectations, steady pace Good written and spoken English Nice to have: experience with ERP / CRM or other data-heavy business systems; building MCP servers or agent-based systems How we hire One 1.5-hour video call, in two parts: 20–30 minutes: your experience, what you're looking for, what we expect, and how we work About 1 hour: live coding. You implement a small feature in a demo project, using your own setup and any tools you like, AI included. We care about how you clarify the requirements, structure the work and test it, not about a perfect result. The demo project will be sent 1 days before. What we offer B2B contract with our Serbian entity — preduzetnik or your own DOO €14–18 per hour, invoiced bi-weekly, depending on experience Full-time Optionally hybrid: work from our office in New Belgrade (Bulevar Milutina Milankovića) whenever you like Long-term engagement Real impact: a production system used every day in Swedish healthcare, plus an AI product built from scratch Apply Here Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. ",
    "first_seen": "2026-10-07T07:22:33+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "759999",
+   "title": "AI Developer / Machine Learning Engineer",
+   "company": "e Intelligence",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "git",
+    "python",
+    "aws",
+    "azure",
+    "rest",
+    "cloud"
+   ],
+   "posted": "2026-10-07",
+   "expires": "22.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/AI-Developer-Machine-Learning-Engineer/e-Intelligence/759999",
+   "summary": "e-Intelligence Fleksibilni rad Dodatni slobodni dani Timska druženja Beograd 22.10.2026. SQL Git Python AWS Azure REST Cloud Intermediate Premium",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "AI Developer / Machine Learning Engineer AI Developer / Machine Learning Engineer e-Intelligence Beograd 22.10.2026. SQL Git Python AWS Azure REST Cloud intermediate E-Intelligence d.o.o . je softverska kompanija specijalizovana za razvoj digitalnih rešenja koja unapređuju svakodnevno kancelarijsko poslovanje. Naša misija je da modernim, intuitivnim i praktičnim alatima unapredimo poslovne procese i pomognemo korisnicima da efikasnije organizuju svoje vreme, resurse i dokumentaciju. Kompanija se ponosi inovativnim pristupom problemima koje male, srednje i velike firme svakodnevno susreću u kancelarijskom poslovanju. Uz kontinuiranu tehnološku evoluciju i posvećen tim, razvijamo alate koji olakšavaju administrativne zadatke kako bi se korisnici fokusirali na strateške prioritete. Glavni proizvod naše kompanije jeste Kancelarko – digitalna kancelarija , rešenje za elektronsko kancelarijsko poslovanje. Opis posla Tražimo AI Developera koji će se pridružiti razvoju naprednih AI rešenja u okviru Kancel ar ko platforme, kao i razvoju novih AI proizvoda. Radićete na sistemima koji kombinuju velike jezičke modele (LLM), vektorske baze podataka i prilagođene pipeline-ove za obradu i razumevanje kompleksnih podataka. Pored postojećeg AI asistenta za pravnu oblast, tim aktivno razvija i nove funkcionalnosti i proizvode iz oblasti generativne veštačke inteligencije. Pozicija podrazumeva rad na celokupnom AI stack-u - od eksperimentisanja sa modelima, preko dizajna arhitekture, do implementacije i optimizacije u produkcionom okruženju. Ključne odgovornosti: Razvoj i unapređenje AI sistema baziranih na LLM modelima (RAG, agenti, prompt engineering) Dizajn i implementacija pipeline-ova za obradu podataka (tekst, dokumenti, slike, audio) Integracija AI modela u backend servise i postojeće proizvode Rad sa vektorskim bazama i sistemima za pretragu (semantic / hybrid search) Eksperimentisanje sa različitim modelima i pristupima (OpenAI, open-source modeli, fine-tuning...) Optimizacija performansi, troškova i kvaliteta AI sistema Saradnja sa ostatkom tima (backend, frontend, ostale službe) Učešće u razvoju novih AI funkcionalnosti i proizvoda (npr. generisanje dokumenata, speech-to-text, obrada slika) Kvalifikacije: Obrazovanje i tehničke veštine: Fakultet iz oblasti računarstva, elektrotehnike, matematike ili srodnih disciplina Iskustvo u radu sa Python-om (obavezno) Razumevanje rada velikih jezičkih modela (LLM) i generativne AI Iskustvo sa REST API servisima i backend razvojem Rad sa bazama podataka (SQL, poželjno PostgreSQL) Iskustvo sa AI/ML bibliotekama (npr. PyTorch, TensorFlow, Hugging Face) Razumevanje koncepta kao što su: embeddings, semantic search, Retrieval-Augmented Generation, promt engineering Osnovno razumevanje cloud okruženja (Azure, AWS ili GCP) Rad u Git okruženju Prednosti Iskustvo sa vektorskim bazama (npr. pgvector, Weaviate, Pinecone, Azure AI Search) Rad sa OpenAI / Azure OpenAI servisima Iskustvo sa obradom prirodnog jezika (NLP) Iskustvo sa speech-to-text ili computer vision projektima Iskustvo u optimizaciji AI sistema (latencija, token cost, caching) Razumevanje mikroservisne arhitekture i Docker okruženja Iskustvo sa fine-tuning-om ili treniranjem modela Interesovanje za razvoj produkcionih AI sistema (ne samo istraživački rad) Prednost će imati kandidati sa dokazivim praktičnim iskustvom u razvoju AI rešenja. Posebno cenimo rad na konkretnim projektima ili pilot implementacijama koje su dale merljive i relevantne rezultate.",
+   "first_seen": "2026-10-06T18:57:37+00:00"
   }
  ]
 }
