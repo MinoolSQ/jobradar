@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-10T13:54:46+00:00",
+ "generated_at": "2026-10-10T22:44:31+00:00",
  "window_days": 3,
  "cutoff": "2026-10-07",
  "count": 23,
- "new_count": 1,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 43,
+   "vraceno": 44,
    "strane": 2,
    "stop": "kraj"
   },
@@ -112,7 +112,7 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 83,
+   "vraceno": 84,
    "strane": 3,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 117,
+   "vraceno": 118,
    "strane": 4,
    "stop": "kraj"
   }
@@ -285,7 +285,7 @@
    "expires": "24.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/IT-Department-Manager/Sava-Nezivotno-Osiguranje-a.d.o/760676",
-   "summary": "Sava Neživotno Osiguranje a.d.o. Beograd 24.10.2026. Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se",
+   "summary": "Sava Neživotno Osiguranje a.d.o. Beograd 24.10.2026. Senior",
    "matched": [
     "helloworld"
    ],
