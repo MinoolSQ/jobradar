@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T18:12:01+00:00",
+ "generated_at": "2026-10-11T23:00:22+00:00",
  "window_days": 3,
  "cutoff": "2026-10-08",
- "count": 14,
+ "count": 15,
  "new_count": 1,
  "errors": [],
  "infostud_queries": {
@@ -117,7 +117,7 @@
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 92,
+   "vraceno": 94,
    "strane": 4,
    "stop": "kraj"
   },
@@ -127,7 +127,7 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 24,
+   "vraceno": 25,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,36 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 81,
+   "vraceno": 84,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "760436",
+   "title": "ERP konsultant",
+   "company": "Docus d.o.o.",
+   "location": "Beograd, Čačak | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prodaja / konsultanti",
+    "ERP"
+   ],
+   "posted": "2026-10-12",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/erp-konsultant/docus-doo/760436",
+   "summary": "Ova pozicija postoji da vodi implementaciju i prilagođavanje ERP rešenja koja unapređuju poslovne procese klijenata i obezbeđuju stabilnu podršku tokom i nakon projekta. Kandidat će direktno doprinositi uspehu projekata kroz analizu zahteva implementaciju rešenja i obuku korisnika.",
+   "matched": [
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-11T23:00:22+00:00",
+   "details": "O poslodavcu Docus d.o.o. je renomirana kompanija sa sedištem u Čačku i Beogradu, specijalizovana za implementaciju i podršku ERP sistema. Trenutno tražimo ERP konsultanta koji će se pridružiti našem timu i doprineti uspešnoj realizaciji projekata za naše klijente širom Srbije. Odgovornosti: Analiza poslovnih procesa klijenata i identifikacija potreba za ERP rešenjima Implementacija i prilagođavanje ERP sistema prema zahtevima korisnika Obuka korisnika za efikasno korišćenje ERP softvera Podrška i održavanje ERP sistema tokom i nakon implementacije Saradnja sa timom za razvoj i tehničku podršku radi rešavanja problema Priprema tehničke dokumentacije i izveštaja o projektima Praćenje trendova u ERP tehnologijama i predlaganje unapređenja Reference: aZUhMiikHZx5tRP0JhqOiucGdtAOUL2fRmENtctddi4fmo5Cdw6jdOpQK6h1HG4X Kvalifikacije: Visoka stručna sprema, po mogućstvu fakultet tehničkog ili ekonomskog usmerenja Iskustvo u radu sa ERP sistemima i implementaciji poslovnih rešenja, minimum 3 godine Razumevanje poslovnih procesa u proizvodnji, distribuciji ili finansijama Veštine analize i rešavanja problema Dobre komunikacione i prezentacione sposobnosti Znanje engleskog jezika na nivou koji omogućava rad sa tehničkom dokumentacijom Spremnost na rad u timskom okruženju i na terenu (Čačak, Beograd) Šta nudimo: Rad u dinamičnom i profesionalnom okruženju u Čačku i Beogradu Mogućnost stručnog usavršavanja i napredovanja Konkurentna plata u skladu sa iskustvom i znanjem Fleksibilno radno vreme i podrška u balansiranju poslovnih i privatnih obaveza Prijava na puno radno vreme u skladu sa zakonima Republike Srbije Ukoliko ste spremni da se pridružite našem timu u kompaniji Docus d.o.o. i doprinesete uspehu kroz svoje znanje i iskustvo u oblasti ERP sistema, pozivamo vas da se prijavite i postanete deo dinamičnog i profesionalnog radnog okruženja. Radujemo se vašoj prijavi i mogućnosti zajedničkog razvoja. Docus d.o.o. Miloša Ćosića 8, Čačak, Srbija PIB: 100899125 Matični broj: 17342401 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT ERP/SAP/ABAP Consultant ERP konsultant Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
   {
    "source": "remoteok",
    "id": "remoteok-1137481",
@@ -329,7 +353,7 @@
    "expires": "24.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Fullstack-Developer/Proximus-d.o.o/760687",
-   "summary": "Proximus d.o.o. 4 Rad od kuće online intervju 24.10.2026. MySQL SQL JavaScript Node Node.js Angular Java Oracle Couchbase TypeScript RESTful Intermediate",
+   "summary": "Proximus d.o.o. 4 Rad od kuće online intervju 24.10.2026. MySQL SQL JavaScript Node Node.js Angular Java Oracle Couchbase TypeScript RESTful Intermediate konkuriši među prvima",
    "matched": [
     "helloworld"
    ],
