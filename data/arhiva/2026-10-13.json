@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-13T07:52:52+00:00",
+ "generated_at": "2026-10-13T19:54:21+00:00",
  "window_days": 3,
  "cutoff": "2026-10-10",
- "count": 9,
- "new_count": 1,
+ "count": 16,
+ "new_count": 7,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 2,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 23,
+   "vraceno": 30,
    "strane": 1,
    "stop": "kraj"
   },
@@ -37,8 +37,8 @@
    "stop": "kraj"
   },
   "spark": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "airflow": {
@@ -52,8 +52,8 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "aws": {
@@ -62,8 +62,8 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 3,
+   "strane": 1,
    "stop": "kraj"
   },
   "kubernetes": {
@@ -77,87 +77,267 @@
    "stop": "kraj"
   },
   "data analyst": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 7,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 2,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 15,
+   "vraceno": 28,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 13,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 45,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "it podrska": {
    "vraceno": 74,
    "strane": 3,
    "stop": "kraj"
   },
+  "it podrska": {
+   "vraceno": 106,
+   "strane": 4,
+   "stop": "kraj"
+  },
   "help desk": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 11,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 27,
-   "strane": 1,
+   "vraceno": 44,
+   "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 2,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 1,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 69,
-   "strane": 3,
+   "vraceno": 105,
+   "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "761361",
+   "title": "AI Performance Analytics Specialist",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "AI/ML"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ai-performance-analytics-specialist/yettel-doo/761361",
+   "summary": "The AI Performance & Analytics Specialist measures and optimizes AI customer channel solutions to ensure operational efficiency and business value realization. The role delivers dashboards and reports, analyzes interactions and performance metrics, and provides data driven recommendations to improve customer experience and enable automation opportunities.",
+   "matched": [
+    "sql",
+    "data analyst",
+    "it support"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu We are looking for an AI Performance & Analytics Specialist to help measure, analyze and optimize the performance of AI-powered customer channel solutions, including chatbots, voicebots, interaction intelligence and future AI products. The role focuses on tracking the performance of AI-powered customer channel solutions, providing clear visibility into operational and business metrics, and evaluating the realization of expected business value through data-driven analysis and reporting. What we will expect from you: Develop and maintain performance dashboards and reporting frameworks for AI-powered customer solutions. Analyze customer interactions with AI solutions, usage patterns and channel performance to identify optimization opportunities. Track key AI performance metrics, including automation rates, intent recognition, containment and resolution quality. Conduct root cause analysis and provide recommendations to improve customer experience and business outcomes. Support business, product and technology teams with data-driven insights and performance assessments. Prepare executive reports and presentations for management and key stakeholders. Identify opportunities for automation, advanced analytics and AI-driven optimization across customer channels. Reference: SbnUeKIYzjOsviXk95Tp8bjS7bLibZv0c3AGZR8HzyTa6om-jABb7bdWlh81FRa6 For a good start you will need: University degree in Data Analytics, Information Technology, Economics, Mathematics, Statistics, Organizational Sciences or a related field. Experience in data analytics, business intelligence, performance management, customer experience analytics or digital products. Experience creating dashboards and automated reporting solutions. Strong analytical skills, including trend analysis, data interpretation and root cause analysis. Experience with SQL and data visualization or business intelligence tools, preferably Power BI. Knowledge of mobile and fixed telecommunications services and related customer processes is a plus. Fluent English, both written and spoken. Strong analytical and critical-thinking mindset. Structured and systematic approach to problem solving. Attention to detail and commitment to data quality. Ability to identify trends, patterns and performance drivers. Ability to manage multiple priorities in a dynamic environment. Interest in applying AI tools and techniques to enhance analytics and reporting. Why we think you should apply: Environment which allows you to grow and develop Flexible working hours and hybrid work model Participation in bonus system 25 days off per year Heathcare package Mobile phone with unlimited internet and Family Yettel tariff package Recreation or health program In-house training and development programs Career development opportunities Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"O"
+  },
+  {
+   "source": "infostud",
+   "id": "761388",
+   "title": "AI Solution Expert (Agentic AI & Business Process Automation)",
+   "company": "Robert Bosch d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Python",
+    "Cloud",
+    "AI/ML"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ai-solution-expert-agentic-ai-business-process-automation/robert-bosch-doo/761388",
+   "summary": "This internship is focused on ensuring data integrity and enabling reliable reporting for the MA division through dataset validation preprocessing and stakeholder coordination. The intern will support ETL and analytics tasks while researching AI driven improvements to optimize business processes.",
+   "matched": [
+    "python",
+    "data engineer",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu Do you want to shape beneficial technologies with your ideas? If so, join us as AI Solution Expert (Agentic AI & Business Process Automation) Job Description AI Solution Development: Design and develop AI agents supporting business processes across Mobility Aftermarket. Define scalable and robust AI architecture enabling rapid deployment of new business use cases. Translate business requirements into AI-driven solutions and technical implementations. Develop reusable deterministic software components that can be leveraged across different business domains. Evaluate emerging AI technologies and recommend their application within Mobility Aftermarket. Reference: 6LYdhQeZBmi2Ra2QA_gMLLMjCAwkSzLQL0c_bVboprhFGXTYTRDR4TkjMtnXminI Business Collaboration: Collaborate with business experts to understand processes, terminology, and decision logic. Identify and prioritize new AI use cases with measurable business value. Work closely with business stakeholders, data experts, and software developers to deliver end-to-end AI solutions. Governance and Continuous Improvement: Ensure AI solutions follow Bosch governance, compliance, and data security requirements. Support continuous improvement of existing and future AI solutions. Qualifications Education & Experience: University degree in Computer Science, Artificial Intelligence, Data Science, Software Engineering, Mathematics, or a related field. Relevant experience in AI/ML solution development, Data Analytics, and Python Development. Prior experience translating business requirements into technical AI solutions is considered an advantage. Technical Skills & Systems: AI Architecture Design, Agentic AI, Software Architecture, Solution Design, and Ontology Design. Strong experience with object-oriented software development, scalable software design, Python development, and modern AI frameworks. Strong understanding of APIs (API Integration), databases, and cloud-based AI services. Deep understanding of Generative AI, LLMs, AI Agents, and Agentic AI concepts, alongside experience working with structured and unstructured data. Experience with Graph Databases, retrieval-augmented generation (RAG), and AI workflow orchestration is considered an advantage. Business Capabilities: Ability to quickly understand complex business processes and perform business process modelling. Proven ability to translate business terminology into scalable AI solutions. Strong analytical, conceptual, and solution-oriented thinking. Personal Traits: Curiosity, passion for emerging AI technologies, and a continuous learning mindset. Strong communication skills with the ability to work in cross-functional international teams. High degree of ownership, self-driven, and proactive approach. Benefits Flexibile working time* Hybrid work model* Extra days off Private health insurance Opportunities for learning and development *In agreement with team and leader Do you want to shape beneficial technologies with your ideas? Whether in mobility solutions, consumer goods, industrial technology, or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. As part of the Mobility Aftermarket division, you will work on product marketing, quality management, trade marketing, purchasing, and engineering to drive business excellence while collaborating closely with international teams ! Welcome to Bosch. Interested? Get ready to Work #LikeA Bosch Simply complete the contact fo"
+  },
+  {
+   "source": "infostud",
+   "id": "761369",
+   "title": "Customer Channels AI Product and Delivery Expert",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Menadžment"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/customer-channels-ai-product-and-delivery-expert/yettel-doo/761369",
+   "summary": "The role leads delivery and adoption of AI powered customer channel solutions to improve customer experience and deliver measurable business value. It coordinates cross functional teams and stakeholders to implement chatbots voicebots and interaction intelligence and to drive continuous performance optimization.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu We are looking for a Customer Channels AI Product & Delivery Expert to drive the delivery, adoption and continuous improvement of AI-powered customer channel solutions, including chatbots, voicebots, interaction intelligence and future AI initiatives. This role combines product ownership, project delivery and stakeholder management, ensuring AI solutions deliver measurable business value and enhance customer experience across Yettel customer channels. What we will expect from you: Lead AI initiatives from idea and business requirements through implementation, go-live and value realization. Translate business needs into clear product roadmaps, requirements and delivery plans. Coordinate cross-functional teams and external partners to ensure successful delivery of AI-powered solutions. Monitor solution performance and identify opportunities for optimization, automation and customer experience improvements. Track key business and operational metrics and provide actionable insights and recommendations. Prepare and present materials and recommendations to support management decision-making. Monitor AI market trends and emerging technologies relevant to customer channels and digital transformation. Reference: TPMElpPj4FV_mhQElKG78PRKnOSUiKSbil8SfnzxRx1hxAtSlyTzbyjcMmjEHBqB For a good start you will need: University degree in Business, Organizational Sciences, Information Technology or a related field. Experience in project, product or delivery management. Experience working with digital products, customer channels or AI-powered solutions is considered an advantage. Good understanding of telecommunications industry, customer support and sales processes, ideally within Yettel or similar telecom environments. Fluent English, both written and spoken. Strong ownership and accountability. Results-oriented mindset. Excellent communication and stakeholder management skills. Collaborative and team-oriented approach. Ability to manage ambiguity and changing priorities. Why we think you should apply: Environment which allows you to grow and develop Flexible working hours and hybrid work model Participation in bonus system 25 days off per year Heathcare package Mobile phone with unlimited internet and Family Yettel tariff package Recreation or health program In-house training and development programs Career development opportunities Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Odabrao sam Yettel kako bih se upoznao sa radom korporacije. Zanimalo me je kako funkcioniše komunikacija i rad u tako velikom sistemu. Najviše me je iznenadila posvećenost ljudi u timu da mi na…\" Pročitajte celo iskustvo Beneficije Edukacija, profesionalni razvoj Wellness Sport i rekreacija Dobrovoljno zdravstveno osiguranje Dodatni slobodni dani Fleksibilno radno vreme Nagrade, bonusi, pokloni Obezbeđena oprema za rad Poro"
+  },
+  {
+   "source": "infostud",
+   "id": "761344",
+   "title": "Junior Software Engineer",
+   "company": "AviComp d.o.o.",
+   "location": "Beograd, Niš | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Programiranje",
+    "Hardware"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-software-engineer/avicomp-doo/761344",
+   "summary": "Pozicija junior softverskog inženjera namenjena je podršci i razvoju automatizacijskih rešenja za projekte u naftnoj, petrohemijskoj i elektroenergetskoj industriji. Kandidat će doprinositi implementaciji PLC i HMI sistema kroz učenje na projektu, testiranje i učešće u puštanju u rad.",
+   "matched": [
+    "junior"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu AviComp Controls GmbH - A viComp d.o.o. Head office: Bulevar Vojvode Bojovića 6-8, 11000 Belgrade, Serbia Branch office: Bulevar Cara Konstantina 80-86, 18000 Niš, Serbia for the implementation of demanding projects in oil & gas, petrochemical and power generation industries is looking for JUNIOR SOFTWARE ENGINEERS (M/F) for a position in our Belgrade or Niš office. The ideal candidate should have the following qualifications: A degree in electrical engineering, automation or a related field (recent graduates are welcome) Familiarity with P&IDs, instrument lists, electrical schematics and other project documents is an advantage Basic knowledge of process instrumentation Basic knowledge of PLC programming according to IEC 61131-3 (hardware platform independent) Knowledge of Siemens and Rockwell PLC hardware platforms is an advantage Knowledge of any of the following tools for PLC programming or visualization is an advantage: Siemens TIA Portal Siemens PCS7 9.x, 10.x Rockwell Studio 5000 Reference: ycY6BB9Ysj2rMU09LV2rU3oI38VeaOTMq3v7Lmhl3-Jp3Vypc2ygJO2O2ax0jrTR Good analytical skills and a structured way of working Basic knowledge of alarm and messaging standards in industrial HMIs is an advantage Basic knowledge of closed-loop control structures and setups Proficiency in English and good MS Office skills Mobility for business trips and commissioning jobs worldwide Willingness to work at our test center in Belgrade for extended periods Communicative, team-oriented, self-motivated, eager to learn and responsible person All candidates are required to complete two qualification periods of 6 months each before a permanent employment contract is concluded. Upon conclusion of a permanent employment contract, the company offers an attractive benefits package: private pension insurance, supplementary health insurance, a fitness package and other benefits. If you believe you are the right person for this position, please send electronically your CV in English, preferably with photo. Only shortlisted candidates will be contacted. Learn more about us at www.avicomp.com . AviComp doo Zvečanska 38 11000 Beograd, Srbija PIB: 107525326 Matični broj: 20820667 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Software Developer / Programmer / Engineer Junior Software Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge s"
+  },
+  {
+   "source": "infostud",
+   "id": "761290",
+   "title": "Level 2 Support Engineer (English & French speaker)",
+   "company": "NCR d.o.o. - NCR Voyix",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Linux",
+    "Windows",
+    "DevOps",
+    "Podrška",
+    "Hardware",
+    "Cloud"
+   ],
+   "posted": "2026-10-13",
+   "expires": "12.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/level-2-support-engineer-english-french-speaker/ncr-doo-ncr-voyix/761290",
+   "summary": "Level 2 Support Engineer provides advanced technical troubleshooting and root cause analysis across retail hardware software payment and cloud systems for multinational customers. The role owns escalated cases and delivers clear bilingual technical communication while contributing to service improvements and knowledge sharing.",
+   "matched": [
+    "data engineer",
+    "devops",
+    "cloud",
+    "linux",
+    "help desk",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu Role Overview As a Level 2 Support Engineer, you will provide advanced technical support within a multi-tier support organization, handling complex troubleshooting, root cause analysis, and technical investigations across retail hardware, software, payment services, cloud solutions, store applications, and Windows/Linux environments. You will support customers and partners in English and French, delivering high-quality technical assistance and communication across multiple regions. Working within rotating product pods, you will develop expertise across retail devices, payment and cloud services, store applications, and operating systems while building broader product knowledge. Key Responsibilities Investigate and resolve incidents escalated from Level 1 across software, hardware, networking, and cloud-based systems. Perform root cause analysis using logs, telemetry, remote access tools, and diagnostic data. Provide clear technical support and customer communication in English and French. Own and manage escalated cases through resolution or handover to Level 3. Collaborate with Level 1, Level 3, Engineering, DevOps, and Product teams to deliver efficient customer outcomes. Validate solutions, provide temporary workarounds when needed, and ensure proper escalation documentation. Create and maintain technical documentation, troubleshooting guides, and knowledge base articles. Identify recurring issues and contribute to problem management, service improvements, automation initiatives, and new product readiness activities. Support and mentor Level 1 teams through knowledge sharing, coaching, and investigative guidance. Assist with Level 1 activities during peak periods to maintain service levels and customer satisfaction. Reference: AjSqpLycrlIRZXj0F65AkvwD4teGrwOsUTHy3W9-B2WE4xfHKNXAq6XZXKhgbNYl Career Progression This role is part of a structured support model: Level 1: Customer support, issue resolution, and service ownership Level 2: Advanced troubleshooting, technical investigation, and root cause analysis Level 3: Product expertise, complex defect resolution, and advanced RCA Clear opportunities for progression are available as technical expertise and service maturity develop. Skills & Experience High School diploma or equivalent Fluent English and French (written and verbal) Minimum 2 years of experience in a technical service desk or support role Strong experience supporting Windows operating systems Proven troubleshooting, analytical, and customer support skills Ability to work in a structured, high-volume, process-driven environment Strong organizational skills and attention to detail Preferred Experience with Linux environments Previous Level 2 or advanced service desk experience Exposure to payment systems, cloud services, retail hardware, or store applications Experience supporting multilingual or international customers Core Competencies Strong customer focus and ownership mindset Advanced analytical and investigative skills Ability to interpret logs, diagnostic data, and system outputs Comfortable learning new technologies and working across multiple product domains Professional communication skills in English and French Collaborative, team-oriented approach NCR Voyix NCR Voyix Corporation (NYSE: VYX) is a global platform-powered leader in unified commerce for shopping and dining. Combining a flexible, intelligent platform with end-to-end payments capabilities and services developed through its deep industry expe"
+  },
+  {
+   "source": "infostud",
+   "id": "761356",
+   "title": "OT Cyber Security Tehnicians",
+   "company": "AviComp d.o.o.",
+   "location": "Beograd, Niš",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "Sistemska administracija",
+    "TCP/IP",
+    "TCP"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ot-cyber-security-tehnicians/avicomp-doo/761356",
+   "summary": "The role secures and validates OT networks and control systems within a hands-on test center to support industrial project implementations. The technician will implement network and device hardening, manage patches and support security testing to ensure resilient and compliant control system operations.",
+   "matched": [
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu AviComp Controls GmbH - AviComp d.o.o. Head office: Bulevar Vojvode Bojovića 6-8, 11000 Belgrade, Serbia Branch office: Bulevar Cara Konstantina 80-86, 18000 Niš, Serbia for the implementation of demanding projects in oil & gas, petrochemical and power generation industries is looking for OT CYBER SECURITY TECHNICIANS (M/F) for a position in our test center in Belgrade. The ideal candidate should have the following qualifications: Completed secondary or higher technical education in electrical engineering, electronics, automation or IT Experience with industrial automation or industrial networks is an advantage, recent graduates are welcome Basic knowledge of networking (Ethernet, TCP/IP, VLANs, switches, routers, firewalls) Basic knowledge of industrial protocols (PROFINET, Modbus TCP, EtherNet/IP, OPC UA) Familiarity with PLC, HMI/SCADA systems and Windows-based engineering workstations Basic knowledge of OT cyber security principles and IEC 62443 is an advantage Certifications such as CCNA or CompTIA Security+ are an advantage Good analytical skills and a structured way of working Proficiency in English and good MS Office skills Willingness to work primarily hands-on in our test center in Belgrade, not in an office environment Mobility for business trips and site work worldwide Communicative, team-oriented, self-motivated, eager to learn and responsible person Reference: JupFoc5T24WS7vcZQjC0jh3wEkg_UzyqzC8QrojHgfGKFGDjFQ_CkjofGST8B3Oj Duties: Installation and configuration of OT network components (industrial switches, routers, firewalls) Implementation of hardening measures on control system components (PLC, HMI, engineering workstations) according to project specifications Patch management, antivirus / application whitelisting updates, backup and recovery of control systems Configuration of user accounts, access rights and secure remote access Support during security testing in our test center and on site (FAT, SAT) Documentation of configurations and test results Support to OT cyber security engineers All candidates are required to complete two qualification periods of 6 months each before a permanent employment contract is concluded. Upon conclusion of a permanent employment contract, the company offers an attractive benefits package: private pension insurance, supplementary health insurance, a fitness package and other benefits. If you believe you are the right person for this position, please send electronically your CV in English, preferably with photo. Only shortlisted candidates will be contacted. Learn more about us at www.avicomp.com . AviComp doo Zvečanska 38 11000 Beograd, Srbija PIB: 107525326 Matični broj: 20820667 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Security Expert OT Cyber Security Tehnicians Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslo"
+  },
+  {
+   "source": "infostud",
+   "id": "761185",
+   "title": "Technical & Field Services Coordinator",
+   "company": "HILL International d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Menadžment",
+    "Active Directory"
+   ],
+   "posted": "2026-10-13",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/technical-field-services-coordinator/hill-international-doo/761185",
+   "summary": "The role exists to lead Technical Services and IT operations to ensure reliable systems and consistently high customer experience. The incumbent will drive operational excellence through team leadership, SLA oversight, and hands-on system administration.",
+   "matched": [
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu Our client is multinational company with a wide range of products and technical solutions. In order to ensure of their successful business and further growth in Serbia, we are looking for a: Technical & Field Services Coordinator We are seeking an experienced professional to lead our Technical Services and IT Department. The successful candidate will be responsible for managing a team of technical support specialists, ensuring internal operational excellence and external high level of customer experience. Key responsibilities: Lead and mentor technical team members. Oversee SLA performance of our Technical Services operations (POS, QMS). Project management for POS operations. Stakeholder Communication - ability to align technical operations with business goals. Oversee IT system performance, security, and compliance. 1st level System & Network Administration: Hands-on expertise with Active Directory, VPNs, applications monitoring, Web server and file transfer. Reference: vaosdrvD_qD6dkXIhPAmPkDsw4oZvBR7c6UXSooW3jzCigsdvTYvmPwvUBdX0b-A Qualifications & Technical Background: Proven leadership experience in technical support services or IT operations management. Previous experience in Technical and/or IT support roles with an advantage of team management included. Higher education – preferably in technical field Business fluent English. Proven ability to mentor, coach, and evaluate team members. Experience in managing diverse teams and resolving operational challenges. Skilled in resource planning, KPI monitoring and cross-functional collaboration. Excellent communication and organizational skills. Strong knowledge of IT systems, networks, and security protocols. We Offer: Competitive compensation and benefits Private health insurance coverage Special performance-based recognition and rewards Professional growth opportunities and further personal development Work in a multinational company Apply now to take the next step in your career and help shape our technology future. If you are motivated by this position and believe you could bring an added value to their team, please send us your CV and application letter in English, with full confidentiality. Hill International, Beograd, Ruzveltova 45 HILL International d.o.o. Ruzveltova 45, Beograd, Srbija PIB: 101011936 Matični broj: 07514395 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Manager Technical & Field Services Coordinator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infos"
+  },
   {
    "source": "infostud",
    "id": "761170",
