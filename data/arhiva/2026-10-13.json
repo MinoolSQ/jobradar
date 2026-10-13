@@ -1,0 +1,413 @@
+{
+ "generated_at": "2026-10-13T07:52:52+00:00",
+ "window_days": 3,
+ "cutoff": "2026-10-10",
+ "count": 9,
+ "new_count": 1,
+ "errors": [],
+ "infostud_queries": {
+  "python": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data engineer": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data inzenjer": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "podaci": {
+   "vraceno": 23,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "etl": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "databricks": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "spark": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "airflow": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "backend": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "sql": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "aws": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data platform": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "kubernetes": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "fastapi": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data analyst": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "devops": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "junior": {
+   "vraceno": 7,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 15,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 13,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 45,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 74,
+   "strane": 3,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 11,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 27,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "serviser": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "mrezni": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "windows": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "racunari": {
+   "vraceno": 69,
+   "strane": 3,
+   "stop": "kraj"
+  }
+ },
+ "jobs": [
+  {
+   "source": "infostud",
+   "id": "761170",
+   "title": "Junior sistem administrator",
+   "company": "PSH d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "Windows",
+    "VPN",
+    "Azure",
+    "Sistemska administracija",
+    "DNS",
+    "TCP/IP",
+    "Cloud",
+    "MikroTik"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-sistem-administrator/psh-doo/761170",
+   "summary": "Pozicija je namenjena osobi koja će podržavati i održavati IT infrastrukturu fokusirano na administraciju naloga, radnih stanica i mrežne opreme. Kandidat će doprinositi stabilnosti sistema kroz tehničku podršku korisnicima i osnovno upravljanje mrežom i serverima.",
+   "matched": [
+    "junior",
+    "cloud",
+    "linux",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-13T07:52:52+00:00",
+   "details": "O poslodavcu Junior sistem administrator Tražimo odgovornu, pouzdanu i motivisanu osobu za poziciju Junior sistem administratora, koja želi da razvija svoje znanje i karijeru u oblasti IT infrastrukture, sistemske administracije i cloud tehnologija. Odgovornosti kreiranje, podešavanje i administracija korisničkih naloga i prava pristupa administracija i tehnička podrška za korporativnu elektronsku poštu i RDP (Remote Desktop Protocol) osnovno podešavanje i administracija MikroTik mrežne opreme razumevanje osnovnih principa TCP/IP, DNS, DHCP, VPN i VLAN tehnologija instalacija, konfiguracija i tehnička podrška za radne stanice zaposlenih instalacija, podešavanje i osnovna administracija Windows operativnih sistema osnovno poznavanje Linux sistema, uključujući instalaciju i osnovno podešavanje instalacija, konfiguracija i povezivanje multifunkcionalnih uređaja (MFP) i druge kancelarijske opreme sklapanje, konfiguracija, dijagnostika i osnovno održavanje računara rešavanje svakodnevnih hardverskih, softverskih i mrežnih problema korisnika kroz helpdesk tiketing praćenje i održavanje IT infrastrukture i učestvovanje u unapređenju postojećih sistema. Reference: 3g4s8P9YrkTJWoUTNJjtL93jZjB97ZX7dHwgzD8YZGoPoY31OMxSCyLZvIsMDrja Važno nam je najmanje 6 meseci iskustva u sistemskoj administraciji ili tehničkoj IT podršci osnovno razumevanje računarskih mreža i sistemske administracije znanje engleskog jezika koje omogućava svakodnevnu komunikaciju i rad sa tehničkom dokumentacijom B kategorija i aktivno vozačko iskustvo odgovornost, pouzdanost i samostalnost u radu sposobnost timskog rada i usmerenost na rešavanje problema pažljivost, sistematičnost i spremnost za brzo reagovanje želja za kontinuiranim učenjem, usavršavanjem i praćenjem novih tehnologija. Prednost imaju kandidati koji imaju iskustvo sa Microsoft 365 okruženjem osnovno iskustvo sa Microsoft Azure cloud servisima iskustvo sa cloud servisima iskustvo sa Linux serverima i osnovnom administracijom Linux okruženja iskustvo sa MikroTik uređajima i mrežnom infrastrukturom poznavanje osnovnih principa rada sa virtuelizacijom, backup sistemima i monitoringom interesovanje za cloud, automatizaciju i moderne IT infrastrukture. Šta nudimo konkurentnu zaradu od 800 do 1.500 EUR, u zavisnosti od iskustva i nivoa znanja radno vreme 8:00–16:00, ponedeljak–petak rad u prijatnoj i modernoj kancelariji i prijateljskom timu IT profesionalaca mogućnost kontinuiranog profesionalnog razvoja i usavršavanja rad sa savremenim tehnologijama i modernom IT infrastrukturom mogućnost proširivanja znanja u oblastima cloud tehnologija, Microsoft 365, Azure, Linux, mrežne infrastrukture i automatizacije mogućnost napredovanja i preuzimanja većih odgovornosti u skladu sa razvojem znanja i iskustva PSH d.o.o. Srbija, Beograd, Nede Spasojević 20 PIB: 102297059 Matični broj: 06051197 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator Junior sistem administrator Blog O nama Česta pitanja Kontakt"
+  },
+  {
+   "source": "infostud",
+   "id": "760854",
+   "title": "AI & Data Quality Improvement Internship",
+   "company": "Robert Bosch d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-12",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ai-data-quality-improvement-internship/robert-bosch-doo/760854",
+   "summary": "The Electronics Hardware Support Engineer creates and maintains CAD symbols footprints and modular design blocks to enable accurate electronic designs. The role supports design engineers by setting up and executing schematic and layout design rule checks and contributing to theoretical analysis of design issues.",
+   "matched": [
+    "data engineer",
+    "etl",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-12T21:47:21+00:00",
+   "details": "O poslodavcu Do you want to shape beneficial technologies with your ideas? If so, join us as AI & Data Quality Improvement Internship Job Description Database Administration & Data Quality Control – Ensuring data integrity and accuracy through systematic data validation, cleaning, and system maintenance. Stakeholder Communication & Requirements Alignment – Serving as a communication link for the MA division, aligning project requirements and coordinating with key business stakeholders. Data Preparation & Process Reporting (Data Analytics) – Conducting data preprocessing (ETL) and analyzing process-related datasets to support regular reporting and dashboard creation. AI Exploration & Process Optimization – Researching emerging AI/ML technologies and proposing innovative, tech-driven enhancements to streamline existing workflows. Reference: hHv6H-nXIN_FNgIJS2E57VGGpYuTvE2326sukvJ1I5HVvuGRQ7D663BUPDnM8Plg Qualification Undergraduate student in Computer Science, Information Technology, Data Science, Engineering, or a related field. Knowledge and proficiency in MS Office (Excel, PowerPoint, Word, Outlook). Basic understanding of databases and data analytics. Interest in AI and emerging technologies. Fluency in English, both spoken and written. Strong analytical skills and attention to detail. Ability to work independently and collaborate with different stakeholders. Benefits Paid six-month internship An active role in projects and real business situations Work with experienced mentors who will support you International work environment where innovation and creativity are valued Canteen at the location and organized transport (to Pećinci plant) Various possibilities for sports activities Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch. As part of the Mobility Aftermarket division (MA), you will work on product marketing, quality management, trade marketing, purchasing, and engineering to drive business excellence while collaborating closely with international teams. We offer you the opportunity to work in a very global and agile team within a future oriented division of Bosch. Interested? Get ready to Start #LikeA Bosch Simply complete the contact form and submit your CV in PDF format and in English . Bosch Srbija Bosch Grupa Grupa Bosch je vodeći dobavljač tehnologija i usluga. Zapošljava oko 412.400 saradnika širom sveta (od 31. decembra 2025. godine). Grupa Bosch sastoji se od firme Robert Bosch GmbH i oko 470 filijala i regionalnih društava u oko 60 zemalja. Delatnost kompanije podeljena je u četiri poslovna sektora: Mobility, Industrial Technology, Consumer Goods, i Energy and Building Technology. Strateški cilj Bosch grupe je da otkriva tehnologije za povezan život i da poboljšava kvalitet… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Na kojoj poziciji radiš i šta sve tvoja pozicija obuhvata? Trenutno sam na praktikantskoj poziciji Supply and Demand Planner Intern. Moj posao se najviše zasniva na podršci ostalim planerima i…\" Pročitajte celo iskustvo Beneficije Edukacija, profesionalni razvoj Organizovan prevoz Obezbeđen parking Zdravlje Nagrade, bonusi, pokloni Hrana i piće Timska druženja Fleksibilno radno vreme Obuke, konferencije Sport i rekreacija Konkurišite Sačuvajte Podelit"
+  },
+  {
+   "source": "infostud",
+   "id": "760908",
+   "title": "Customer Support Agent",
+   "company": "Crae Group Ltd",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-12",
+   "expires": "11.11.2026",
+   "salary": "bruto 1.400 - 2.000 EUR (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/customer-support-agent/crae-group-ltd/760908",
+   "summary": "Customer Support Representative delivers primary live chat and email assistance to resolve customer issues and maintain service continuity. The role conducts first step investigations escalates complex cases and preserves up to date product knowledge to improve customer satisfaction.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-12T21:47:21+00:00",
+   "details": "O poslodavcu CRAE GROUP is one of the fastest-growing B2B service providers based in Cyprus. We develop, maintain and deploy various IT and customer based services to numerous businesses in various industries around the world. Founded in 2018, our continuous energy and efforts aim towards becoming a leading service provider, with an already impressive growth since our launch. We are a young, dynamic team who enjoy working in tech among creative and talented individuals. Our asset is the great people within our company with a unique approach on how to properly maintain our services and products. We are looking for talented Customer Support Representative to join our team remotely. Monthly salary range: €1,400-€2,000 (gross) + performance bonus Depending on experience and performance. Work schedule: 4 days on, 4 days off. An option of 2 shifts to be permanently put on: 10:00-22:00 or 22:00-10:00 (Cyprus local time). Job Description & Responsibilities: Communication with customers through live chat and e-mails. Maintain prompt and empathetic attitude towards customers. Acknowledge and resolve customers’ issues and queries. Keeping up to date with products terms, offers and functions. Report and escalate advanced customer queries to the relevant departments. Perform first-step investigations on queries and issues. Reference: IoAe6jGuEgmTP__rn8ey1LCmQBM13h_1UxG1HOyOcfjhl751et9B4XvZJLh0LPDp Experience and qualifications: Proficiency in both written and verbal English, with excellent language skills. Strong communication abilities, enabling effective interaction and collaboration. Solid computer literacy and adept typing skills. Ability to perform effectively within a multitasking work environment. 2+ years experience in online customer support is mandatory. What We Offer: A competitive and attractive remuneration package that values your skills and contributions. The chance to join a dynamic, forward-thinking European company and play a key role in its success. Performance-based monthly bonuses. Flexible remote work. We look forward to hearing from you! Please note: Due to the high volume of applications, only shortlisted candidates will be contacted. Thank you for your understanding. Crae Group Ltd CRAE GROUP is one of the fastest-growing B2B service providers based in Cyprus. We develop, maintain and deploy various IT and customer based services to numerous businesses in various industries around the world. Founded in 2018, our continuous energy and efforts aim towards becoming a leading service provider, with an already impressive growth since our launch. We are a young, dynamic team who enjoy working in tech among creative and talented individuals. Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Pozivni centri Telefonski operater Customer Support Agent Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopšten"
+  },
+  {
+   "source": "infostud",
+   "id": "761005",
+   "title": "IT Help Desk",
+   "company": "Cortech d.o.o.",
+   "location": "Kragujevac",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "VPN",
+    "Telematics",
+    "Podrška",
+    "Hardware",
+    "Active Directory"
+   ],
+   "posted": "2026-10-12",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-help-desk/cortech-doo/761005",
+   "summary": "This IT Help Desk role exists to maintain employee productivity by resolving hardware software and access issues and by ensuring reliable account and policy administration. The specialist will administer Active Directory and manage support workflows to secure access maintain operational continuity and meet agreed service timelines.",
+   "matched": [
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-10-12T21:47:21+00:00",
+   "details": "O poslodavcu Cortech is a technology-driven company building a complete digital ecosystem for modern logistics. We develop and scale software solutions for the transportation, telematics, and fleet management, while providing support across key business areas, from software development and operations to HR, marketing, sales, analytics, and business development. At Cortech, real results happen when modern technology connects with the right people. That's why we not only build solutions, but we also build teams, knowledge, and systems that last. We encourage people to bring ideas, take ownership, and grow through projects that have real business impact, supported by a culture of collaboration, trust, and shared knowledge. We are hiring a IT help desk to join our team in Kragujevac. If you are looking for an opportunity to work in a dynamic, collaborative, and friendly work environment, we want to hear from you. What You’ll Be Doing: Providing daily technical support to employees (on-site and remote) Troubleshooting issues related to computers, software, networks, and peripheral devices Managing user accounts, privileges, and access rights (e-mail, VPN, Active Directory) Administering and maintaining the Microsoft Active Directory environment (creating, modifying, and deactivating user accounts, groups, and policies) Managing Group Policy Objects (GPOs) to implement security and operational policies within the IT environment Monitoring and resolving issues related to authentication, access to network resources, and integration with other systems connected to Active Directory Installing and configuring hardware and software Monitoring support tickets and ensuring their timely resolution Updating technical documentation and knowledge bases Collaborating with higher-level support teams and other IT departments within the company Responsible for completing planned activities within agreed deadlines and according to established procedures Responsible for the effective and efficient functioning of processes related to the position and associated business processes Responsible for safeguarding the Company's assets Applying occupational health and safety measures, fire protection measures, and environmental protection measures, as defined by the Company's internal policies and applicable legal regulations Performing other duties within the scope of expertise, knowledge, and capabilities, as assigned by the direct supervisor and/or other authorized managers, while respecting the established hierarchical structure Reference: _xQeJtZDAGJqRJsY3QTIm9dsTP21x3vPjbJ-55ka27-tNdLEjF5GXqLN0Ats1_uA What You Bring: High school diploma Excellent command of the English language Experience in the same or similar role is preferred We are looking for someone who: Has excellent verbal and written communication skills Demonstrates patience, professionalism, and composure in challenging situations Has a problem-solving mindset with strong logical and critical thinking skills Pays strong attention to detail and quality Is curious, adaptable, and eager to continuously learn new technologies and processes Can effectively multitask and manage priorities in a dynamic environment Takes initiative proactively and contributes ideas for process and workflow improvements What we offer: Full-time employment Onboarding process with experienced mentors Performance-based bonuses Loyalty program Additional annual leave days Weekly fresh fruit day - not a benefit, but a good way to s"
+  },
+  {
+   "source": "infostud",
+   "id": "761126",
+   "title": "Team Leader - IT infrastructure",
+   "company": "BMTS Technology",
+   "location": "Novi Sad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "VPN",
+    "Azure",
+    "Menadžment",
+    "Cloud",
+    "Active Directory"
+   ],
+   "posted": "2026-10-12",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/team-leader-it-infrastructure/bmts-technology/761126",
+   "summary": "Lead a global IT infrastructure team to ensure secure reliable and high performing network compute and cloud services across locations. Establish operational standards and drive capacity planning and delivery of infrastructure work packages to support business continuity and scalability.",
+   "matched": [
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-12T21:47:21+00:00",
+   "details": "O poslodavcu We are looking for IT Infrastructure Team Leader Novi Sad YOUR TASKS WILL BE: Lead specialists responsible for Network, but also Compute, Cloud and related Infrastructure services across BMTS Technology globally. Ensure reliable, secure and high-performing infrastructure operations across all locations. Define and implement infrastructure standards, procedures, documentation and operational guidelines. Support the global IT strategy, infrastructure roadmap, resource planning and investment planning. Build backup coverage, knowledge sharing and cross-functional capability within the team. Network: LAN, WLAN, WAN, internet services, firewalls, VPN, routing and switching, monitoring, security controls, documentation and CMDB maintenance. Compute and Cloud: physical servers, virtualization, storage, backup and recovery, Active Directory, Microsoft Azure, Microsoft 365 infrastructure, cloud services, monitoring and disaster recovery components. Set priorities, allocate resources and coach team members through mentoring, feedback and development planning. Maintain skills and qualification matrices, support onboarding, succession planning and backup planning. Participate in global IT projects, lead infrastructure work packages, review technical solutions and coordinate external suppliers. Support business continuity, disaster recovery and infrastructure architecture/capacity planning. Drive infrastructure-related ITSM processes including incident, problem, change, capacity, availability and configuration management, request fulfilment and continual service improvement. Reference: BmuRHxLpuvXG0LPB7YvFgvOSuXbLcoga1p2UuhHjMD_df2nGkvF1K1EsaKUFuIOc WE EXPECT FROM YOU: University degree in IT, Telecommunications, Computer Science or a related technical discipline or Higher school, VI educational degree. Minimum 5 years of experience in IT Infrastructure, including at least 3 years in Enterprise Networking. Strong experience with enterprise network environments, infrastructure operations and technical troubleshooting. Experience leading technical teams and/or infrastructure projects. Manufacturing and multinational company experience are an advantage. Fluent English is required; German is an advantage. We are very glad that you see BMTS Technology as a future employer. Please, be patient as it is very important for us to review each application in detail. Also, we would like to inform you that only shortlisted candidates will be contacted TURBO YOUR CAREER BMTS Novi Sad offer: Development opportunities Competitive salary Private health insurance BMTS Technology d.o.o. Novi Sad BMTS Technology je globalni proizvođač automobilskih proizvoda. Naša kompanija postavlja najviše standarde za kvalitet, efikasnost i održivost više od jedne decenije. Uspeli smo da uspostavimo prisustvo širom sveta kao kompetentan i pouzdan partner za industriju automobilskih i komercijalnih vozila. Imamo snažno nasleđe u proizvodima pogonskih agregata kao što su visokokvalitetni turbo punjači visokih performansi. Konstantno težimo poboljšanju i daljem razvoju novih tehnologija koje optimizuju… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotreblj"
+  },
+  {
+   "source": "infostud",
+   "id": "761151",
+   "title": "Virtual Games Department Manager",
+   "company": "MaxBet d.o.o.",
+   "location": "Novi Sad, Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Menadžment",
+    "CRM",
+    "Flutter"
+   ],
+   "posted": "2026-10-12",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/virtual-games-department-manager/maxbet-doo/761151",
+   "summary": "This role exists to own and grow the Virtual Games segment by combining strategic planning with data driven decision making and operational execution. The successful candidate will drive portfolio performance through new game launches promotions and customer experience improvements.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-12T21:47:21+00:00",
+   "details": "O poslodavcu MaxBet is part of Flutter Entertainment (NYSE: FLUT) - the world’s largest online gambling operator, publicly listed on the New York Stock Exchange . As a truly global leader in sports betting and gaming, Flutter shapes the future of the industry. MaxBet is a rapidly growing company specializing in sports betting, gaming and gambling. Headquartered in Serbia, we have a strong presence in Bosnia and Herzegovina, Montenegro and North Macedonia . We are committed to setting new industry standards, delivering top-tier entertainment while upholding the highest integrity. Our success is built on our people - we foster a culture of teamwork, clear communication and mutual respect. As we continue to grow, we are looking for a: Virtual Games Department Manager City: Belgrade/Novi Sad Fixed-Term Contract (covering a maternity leave) Role Summary: We are looking for a person to take ownership of the development and success of our Virtual Games segment, combining strategic thinking, data-driven analysis and operational excellence to ensure our game portfolio remains attractive, competitive and aligned with our customers’ needs. In this role, you will have a significant impact on the development of the segment, from monitoring performance and market trends, to launching new games, creating promotions and continuously improving the customer experience. Responsibilities: Develop and execute the growth strategy for the Virtual Games segment, with a focus on revenue growth, content performance and customer experience. Take ownership of the segment by making independent decisions and proactively initiating activities that contribute to its commercial success. Monitor game performance and key KPIs, provide regular reporting and recommend concrete actions and improvements. Monitor the market, competitors, emerging trends and the evolving Virtual Games offering. Manage the Virtual Games portfolio and ensure the strategic positioning of individual games. Monitor day-to-day operations and game performance through providers’ back-office systems. Plan and coordinate the launch of new Virtual Games, including managing the release calendar and collaborating with regulatory authorities across relevant markets. Ensure the quality of the offering and continuously identify opportunities for improvement. Create attractive and competitive promotional activities in collaboration with Marketing, CRM and other relevant teams. Work closely with Customer Support to resolve customer issues and identify opportunities to improve the overall customer experience. Monitor customer behavior and identify unusual patterns, ensuring appropriate escalation and collaboration with relevant teams. Reference: W7pt4mpff6Sm6-1RWKCMI306isvgmd9OxW5frFOxmsy_RBse52-EIKG9zkGs17kl Qualifications: Previous experience in the gaming industry, online gaming, or a related field. Ability to turn data and insights into clear conclusions and actionable initiatives. Strong strategic thinking combined with a hands-on approach and willingness to get involved in operational details. Ability to work independently and take ownership of results. Ability to collaborate effectively with cross-functional teams and external partners. Strong analytical and organizational skills. Excellent communication and presentation skills. Good command of English, both written and spoken. Perks and benefits: Health & Well-being: Private health insurance. Up to 6 days of 100% paid leave without a certificate. Sports "
+  },
+  {
+   "source": "infostud",
+   "id": "760436",
+   "title": "ERP konsultant",
+   "company": "Docus d.o.o.",
+   "location": "Beograd, Čačak | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prodaja / konsultanti",
+    "ERP"
+   ],
+   "posted": "2026-10-12",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/erp-konsultant/docus-doo/760436",
+   "summary": "Ova pozicija postoji da vodi implementaciju i prilagođavanje ERP rešenja koja unapređuju poslovne procese klijenata i obezbeđuju stabilnu podršku tokom i nakon projekta. Kandidat će direktno doprinositi uspehu projekata kroz analizu zahteva implementaciju rešenja i obuku korisnika.",
+   "matched": [
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-11T23:00:22+00:00",
+   "details": "O poslodavcu Docus d.o.o. je renomirana kompanija sa sedištem u Čačku i Beogradu, specijalizovana za implementaciju i podršku ERP sistema. Trenutno tražimo ERP konsultanta koji će se pridružiti našem timu i doprineti uspešnoj realizaciji projekata za naše klijente širom Srbije. Odgovornosti: Analiza poslovnih procesa klijenata i identifikacija potreba za ERP rešenjima Implementacija i prilagođavanje ERP sistema prema zahtevima korisnika Obuka korisnika za efikasno korišćenje ERP softvera Podrška i održavanje ERP sistema tokom i nakon implementacije Saradnja sa timom za razvoj i tehničku podršku radi rešavanja problema Priprema tehničke dokumentacije i izveštaja o projektima Praćenje trendova u ERP tehnologijama i predlaganje unapređenja Reference: aZUhMiikHZx5tRP0JhqOiucGdtAOUL2fRmENtctddi4fmo5Cdw6jdOpQK6h1HG4X Kvalifikacije: Visoka stručna sprema, po mogućstvu fakultet tehničkog ili ekonomskog usmerenja Iskustvo u radu sa ERP sistemima i implementaciji poslovnih rešenja, minimum 3 godine Razumevanje poslovnih procesa u proizvodnji, distribuciji ili finansijama Veštine analize i rešavanja problema Dobre komunikacione i prezentacione sposobnosti Znanje engleskog jezika na nivou koji omogućava rad sa tehničkom dokumentacijom Spremnost na rad u timskom okruženju i na terenu (Čačak, Beograd) Šta nudimo: Rad u dinamičnom i profesionalnom okruženju u Čačku i Beogradu Mogućnost stručnog usavršavanja i napredovanja Konkurentna plata u skladu sa iskustvom i znanjem Fleksibilno radno vreme i podrška u balansiranju poslovnih i privatnih obaveza Prijava na puno radno vreme u skladu sa zakonima Republike Srbije Ukoliko ste spremni da se pridružite našem timu u kompaniji Docus d.o.o. i doprinesete uspehu kroz svoje znanje i iskustvo u oblasti ERP sistema, pozivamo vas da se prijavite i postanete deo dinamičnog i profesionalnog radnog okruženja. Radujemo se vašoj prijavi i mogućnosti zajedničkog razvoja. Docus d.o.o. Miloša Ćosića 8, Čačak, Srbija PIB: 100899125 Matični broj: 17342401 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT ERP/SAP/ABAP Consultant ERP konsultant Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137481",
+   "title": "Manager Clinical Data Management",
+   "company": "EDETEK",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "exec",
+    "design",
+    "sys admin",
+    "education",
+    "customer support",
+    "dev",
+    "testing",
+    "travel",
+    "junior",
+    "ops",
+    "medical",
+    "recruiter"
+   ],
+   "posted": "2026-10-10",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
+   "summary": "Manager, Clinical Data Management leads clinical data management team to handle project management documentation, preform clinical data management activities and system implementations for EDETEKâs CONFORM eClinical, write design specifications for the system (forms, reports, etc.), and facilitate testing of system implementations. In addition to stay hands-on with clinical data management opera",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-11T18:12:01+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137480",
+   "title": "Junior Sales Development Representative IT Industry",
+   "company": "Huzzle",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "saas",
+    "technical",
+    "marketing",
+    "finance",
+    "c",
+    "cloud",
+    "microsoft",
+    "senior",
+    "junior",
+    "ops",
+    "sales",
+    "ecommerce"
+   ],
+   "posted": "2026-10-10",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+   "summary": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative c",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-11T07:25:06+00:00"
+  }
+ ]
+}

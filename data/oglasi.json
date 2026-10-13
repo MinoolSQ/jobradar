@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-12T21:47:21+00:00",
+ "generated_at": "2026-10-13T07:52:52+00:00",
  "window_days": 3,
- "cutoff": "2026-10-09",
- "count": 14,
- "new_count": 5,
+ "cutoff": "2026-10-10",
+ "count": 9,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,17 +12,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 3,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 29,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
@@ -52,8 +52,8 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "aws": {
@@ -62,8 +62,8 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "kubernetes": {
@@ -87,57 +87,57 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 6,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 0,
-   "strane": 0,
-   "stop": "kraj"
-  },
-  "it tehnicar": {
-   "vraceno": 28,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "sistem administrator": {
-   "vraceno": 12,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "administrator": {
-   "vraceno": 54,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "it podrska": {
-   "vraceno": 98,
-   "strane": 4,
-   "stop": "kraj"
-  },
-  "help desk": {
    "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
+  "it tehnicar": {
+   "vraceno": 15,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 13,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 45,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 74,
+   "strane": 3,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "tehnicka podrska": {
-   "vraceno": 18,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 38,
-   "strane": 2,
+   "vraceno": 27,
+   "strane": 1,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 6,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -147,17 +147,57 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 89,
+   "vraceno": 69,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "761170",
+   "title": "Junior sistem administrator",
+   "company": "PSH d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "Windows",
+    "VPN",
+    "Azure",
+    "Sistemska administracija",
+    "DNS",
+    "TCP/IP",
+    "Cloud",
+    "MikroTik"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-sistem-administrator/psh-doo/761170",
+   "summary": "Pozicija je namenjena osobi koja će podržavati i održavati IT infrastrukturu fokusirano na administraciju naloga, radnih stanica i mrežne opreme. Kandidat će doprinositi stabilnosti sistema kroz tehničku podršku korisnicima i osnovno upravljanje mrežom i serverima.",
+   "matched": [
+    "junior",
+    "cloud",
+    "linux",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-13T07:52:52+00:00",
+   "details": "O poslodavcu Junior sistem administrator Tražimo odgovornu, pouzdanu i motivisanu osobu za poziciju Junior sistem administratora, koja želi da razvija svoje znanje i karijeru u oblasti IT infrastrukture, sistemske administracije i cloud tehnologija. Odgovornosti kreiranje, podešavanje i administracija korisničkih naloga i prava pristupa administracija i tehnička podrška za korporativnu elektronsku poštu i RDP (Remote Desktop Protocol) osnovno podešavanje i administracija MikroTik mrežne opreme razumevanje osnovnih principa TCP/IP, DNS, DHCP, VPN i VLAN tehnologija instalacija, konfiguracija i tehnička podrška za radne stanice zaposlenih instalacija, podešavanje i osnovna administracija Windows operativnih sistema osnovno poznavanje Linux sistema, uključujući instalaciju i osnovno podešavanje instalacija, konfiguracija i povezivanje multifunkcionalnih uređaja (MFP) i druge kancelarijske opreme sklapanje, konfiguracija, dijagnostika i osnovno održavanje računara rešavanje svakodnevnih hardverskih, softverskih i mrežnih problema korisnika kroz helpdesk tiketing praćenje i održavanje IT infrastrukture i učestvovanje u unapređenju postojećih sistema. Reference: 3g4s8P9YrkTJWoUTNJjtL93jZjB97ZX7dHwgzD8YZGoPoY31OMxSCyLZvIsMDrja Važno nam je najmanje 6 meseci iskustva u sistemskoj administraciji ili tehničkoj IT podršci osnovno razumevanje računarskih mreža i sistemske administracije znanje engleskog jezika koje omogućava svakodnevnu komunikaciju i rad sa tehničkom dokumentacijom B kategorija i aktivno vozačko iskustvo odgovornost, pouzdanost i samostalnost u radu sposobnost timskog rada i usmerenost na rešavanje problema pažljivost, sistematičnost i spremnost za brzo reagovanje želja za kontinuiranim učenjem, usavršavanjem i praćenjem novih tehnologija. Prednost imaju kandidati koji imaju iskustvo sa Microsoft 365 okruženjem osnovno iskustvo sa Microsoft Azure cloud servisima iskustvo sa cloud servisima iskustvo sa Linux serverima i osnovnom administracijom Linux okruženja iskustvo sa MikroTik uređajima i mrežnom infrastrukturom poznavanje osnovnih principa rada sa virtuelizacijom, backup sistemima i monitoringom interesovanje za cloud, automatizaciju i moderne IT infrastrukture. Šta nudimo konkurentnu zaradu od 800 do 1.500 EUR, u zavisnosti od iskustva i nivoa znanja radno vreme 8:00–16:00, ponedeljak–petak rad u prijatnoj i modernoj kancelariji i prijateljskom timu IT profesionalaca mogućnost kontinuiranog profesionalnog razvoja i usavršavanja rad sa savremenim tehnologijama i modernom IT infrastrukturom mogućnost proširivanja znanja u oblastima cloud tehnologija, Microsoft 365, Azure, Linux, mrežne infrastrukture i automatizacije mogućnost napredovanja i preuzimanja većih odgovornosti u skladu sa razvojem znanja i iskustva PSH d.o.o. Srbija, Beograd, Nede Spasojević 20 PIB: 102297059 Matični broj: 06051197 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator Junior sistem administrator Blog O nama Česta pitanja Kontakt"
+  },
   {
    "source": "infostud",
    "id": "760854",
@@ -368,162 +408,6 @@
     "remoteok"
    ],
    "first_seen": "2026-10-11T07:25:06+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137475",
-   "title": "Senior React Full stack Developer",
-   "company": "Lemon.io",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "dev",
-    "engineer",
-    "remote",
-    "python",
-    "aws",
-    "gcp",
-    "javascript",
-    "react",
-    "node",
-    "ruby",
-    "typescript",
-    "full time"
-   ],
-   "posted": "2026-10-09",
-   "expires": null,
-   "salary": "80000-200000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
-   "summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or n",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-10T13:54:46+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "760680",
-   "title": "Prodavac - rad na računaru (Online i maloprodaja)",
-   "company": "Tehnokrug d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-09",
-   "expires": "24.10.2026",
-   "salary": "neto 70.000 - 80.000 RSD (mesečno) ",
-   "url": "https://poslovi.infostud.com/posao/prodavac-rad-na-racunaru-online-i-maloprodaja/tehnokrug-doo/760680",
-   "summary": "Pozicija obezbeđuje direktnu prodaju i podršku kupcima na prodajnoj lokaciji i kroz digitalne kanale uz održavanje ažurnog inventara. Kandidat će pripremati uređaje za prodaju, obavljati administrativne poslove i doprinositi unapređenju procesa prodaje.",
-   "matched": [
-    "administrator",
-    "it podrska",
-    "racunari"
-   ],
-   "first_seen": "2026-10-09T18:53:06+00:00",
-   "details": "O poslodavcu Radno vreme : pon-pet 13–20h, subota 10-15h O nama : TehnoKrug je prva online platforma za prodaju i otkup polovnih mobilnih telefona u Srbiji, posvećena razvoju cirkularne ekonomije i povećanju dostupnosti pametnih telefona. Ako voliš tehnologiju i želiš da radiš u dinamičnom okruženju, pridruži se našem timu! Šta ćeš raditi na ovoj poziciji? Komuniciraćeš s kupcima – uživo, putem telefona i društvenih mreža Prodavati i pružati informacije o našim proizvodima, cenama i reklamacijama Postavljati artikle na sajt i ažurirati inventar Pripremati uređaje za prodaju (pakovanje, slanje, popis zaliha) Pružati podršku u administrativnim poslovima Ukoliko se dokažeš, možeš napredovati u radu s B2B partnerima Reference: N8wrPZe4yoPtvSRof0ORTmK8UV2bkG2FE-LEXX32XEEYj2f4y1BsHREgWPTQbR_P Koji profil kandidata tražimo? Organizovana si, pedantna i komunikativna osoba Brzo razmišljaš i efikasno završavaš zadatke Lako se snalaziš na računaru i sa online alatima Znaš da koristiš društvene mreže, MS Office i OneDrive/Sharepoint Osnovno poznaješ engleski jezik Prednost: iskustvo u call centru, maloprodaji ili radu s mobilnim telefonima Šta nudimo? Stabilan posao u centru Beograda Mogućnost profesionalnog razvoja i bonusa Rad u mladom, podržavajućem i motivišućem timu Ako smatraš da si prava osoba za ovaj posao, pošalji nam svoj CV, a mi ćemo te kontaktirati što pre! Vidimo se! Tehnokrug d.o.o. Kosovska 17, Beograd-Stari Grad PIB: 112449118 Matični broj: 21676616 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd Trgovina, prodaja Prodavac Prodavac - rad na računaru (Online i maloprodaja) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
-  },
-  {
-   "source": "infostud",
-   "id": "760669",
-   "title": "Senior Database Administrator (Microsoft SQL)",
-   "company": "Inovatec by Solifi",
-   "location": "Beograd, Kragujevac",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "SQL",
-    "SQL Server",
-    "Azure",
-    "Microsoft SQL Server",
-    "Sistemska administracija"
-   ],
-   "posted": "2026-10-09",
-   "expires": "08.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/senior-database-administrator-microsoft-sql/inovatec-by-solifi/760669",
-   "summary": "Senior SQL Server Database Administrator responsible for ensuring availability performance and recoverability of mission critical SQL Server and Azure database platforms. The role focuses on proactive performance tuning HA DR implementation and rapid incident resolution to minimize production impact. The specialist will also drive architecture improvements and mentor junior database engineers.",
-   "matched": [
-    "data engineer",
-    "sql",
-    "data platform",
-    "administrator"
-   ],
-   "first_seen": "2026-10-09T18:53:06+00:00",
-   "details": "O poslodavcu About Inovatec by Solifi Inovatec, now part of Solifi following its recent acquisition, is a growth company based in Vancouver, BC, established in 2006. We are North America's leading provider of cloud-based software solutions for the automotive, motorcycle, powersports, and equipment financing industries. Our solutions are used by some of the largest banks, credit unions, and finance companies in Canada and the U.S. At Inovatec, we foster a diverse and inclusive environment that encourages collaboration where we grow together and win as a team. We thrive by challenging the status quo to push the industry forward, and we know when to have fun! With team members across North America and Europe, we're committed to investing in the development of our team, no matter where they're located. Key Responsibilities Administration and maintenance of Microsoft SQL Server and Azure SQL Database environments in production and non-production systems Installation, configuration, patching, upgrading, and lifecycle management of SQL Server environments Monitoring database performance, availability, and health, and proactively resolving issues Database performance tuning, query optimization, and troubleshooting using T-SQL and Microsoft performance tools Investigating and resolving database performance incidents, including blocking, deadlocks, long-running queries, wait statistics analysis, Extended Events tracing, Query Store analysis, and SQL Server trace flag-based troubleshooting where applicable Managing backup, recovery, and business continuity procedures Planning, implementing, and maintaining High Availability (HA) and Disaster Recovery (DR) solutions Working with SQL Server Always On Availability Groups, Failover Cluster Instances (FCI), Azure SQL Failover Groups, and other Microsoft technologies for high availability and business continuity Managing database security, users, roles, permissions, encryption, and access control Collaborating with system administrators, cloud engineers, network and security teams, developers, and other IT teams Participating in database migration, consolidation, modernization, and infrastructure improvement projects Creating and maintaining technical documentation, operational procedures, and standards Reference: cehQMBWjQadav6oHh66vuRYvC-9yC6UJJjROiNBkvHpYTVr7raO_bWjn5AIxqlcM What We Expect from the Candidate We are looking for someone who can independently take ownership of the database platform's operation while also collaborating with other IT teams on complex projects. From a Senior DBA, we expect the ability to: Propose improvements to database architecture, scalability, security, and performance Participate in defining technical standards, governance policies, and operational procedures Identify and mitigate potential issues before they impact production systems Mentor less experienced team members and share knowledge across teams Required Experience and Knowledge Minimum 5 years of experience as a Database Administrator, with significant experience in Microsoft SQL Server Advanced knowledge of Microsoft SQL Server and related Microsoft data platform technologies Experience administering large-scale and mission-critical SQL Server production environments Strong knowledge of T-SQL, database design principles, and query optimization Experience with SQL Server backup and recovery strategies and tools Experience with SQL Server performance troubleshooting, including deadlock analysis, blocking inves"
-  },
-  {
-   "source": "helloworld",
-   "id": "760687",
-   "title": "Fullstack Developer",
-   "company": "Proximus d.o.o.",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "mysql",
-    "sql",
-    "javascript",
-    "node",
-    "angular",
-    "java",
-    "oracle",
-    "couchbase",
-    "typescript",
-    "restful"
-   ],
-   "posted": "2026-10-09",
-   "expires": "24.10.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Fullstack-Developer/Proximus-d.o.o/760687",
-   "summary": "Proximus d.o.o. 4 Rad od kuće online intervju 24.10.2026. MySQL SQL JavaScript Node Node.js Angular Java Oracle Couchbase TypeScript RESTful Intermediate konkuriši među prvima",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Fullstack Developer Fullstack Developer Proximus d.o.o. 4 Rad od kuće online intervju 24.10.2026. MySQL SQL JavaScript Node Node.js Angular Java Oracle Couchbase TypeScript RESTful intermediate We are Team Possible! We are Team possible – the people behind Proximus, Proximus NXT, Proximus Ada, and more. Nice to see you here! United by a shared purpose, we’re building a smarter, trustful and more connected world. That means embracing technology and celebrating change. We think possible and then make it possible. And of course, we love what we do. Sounds like your kind of place? Summary For our parent company, Proximus Group, an international telecommunication company, we are looking for a proactive individual to fill in the following position: Medior Full Stack Developer , who will be working on developing and maintaining our new web shop application. Your Job You support the design and development of high-quality backend applications, following best practices to ensure high availability, scalability, and resilience. You develop and maintain high-quality, well-documented RESTful APIs using Node.js and NestJS. You write unit and integration tests and develop automation tools for daily tasks. You work closely with frontend developers to design and develop functional and performant APIs. You collaborate with cross-functional teams to identify and prioritize product features. You troubleshoot and debug applications to ensure high uptime and good performance. You challenge ideas and opinions to avoid pitfalls and unnecessarily complex or inefficient solutions. You create and maintain technical documentation for code changes and updates. You stay up to date with emerging trends and technologies and suggest new approaches to improve efficiency and productivity. You participate in code reviews to maintain code quality and identify opportunities for improvement. You participate in and contribute to the integration testing of developed features. Your Profile You have a Bachelor’s degree in Computer Science, Software Engineering, or a related field. You have 2 to 5 years of professional experience in backend development using Node.js / Next.js (experience with Java is considered a plus), as well as frontend web development. You have 2 to 3+ years of experience working with SQL and non-SQL databases such as MySQL, Oracle, and Couchbase, and with web development using Angular. You have experience building performant RESTful APIs using JavaScript and/or TypeScript (experience with GraphQL is considered a plus). You have experience with building and maintaining Java µservices (considered a plus). You have experience using, building, and maintaining a standalone component library (considered a plus). You are able to create effective documentation and write unit, integration, and API tests. You possess strong problem-solving skills and are able to work both independently and collaboratively. You are a team player with excellent interpersonal, written, and verbal communication skills. You are fluent in English (mandatory). This is what to expect Drive positive change with confidence, turning bold ideas into solutions to remain at the forefront of technology. Keep on learning, evolving, and building your career in a digital space that truly supports your growth journey. Real connections power real progress. Collaboration is how you will transform challenges into new opportunities. Be welcomed for exactly who you are. Your unique perspective and identity wi",
-   "first_seen": "2026-10-09T18:53:06+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "760676",
-   "title": "IT Department Manager",
-   "company": "Sava Neživotno Osiguranje a.d.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-09",
-   "expires": "24.10.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/IT-Department-Manager/Sava-Nezivotno-Osiguranje-a.d.o/760676",
-   "summary": "Sava Neživotno Osiguranje a.d.o. Beograd 24.10.2026. Senior",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "IT Department Manager IT Department Manager Sava Neživotno Osiguranje a.d.o. Beograd 24.10.2026. senior SAVA NON-LIFE INSURANCE a.d.o. BEOGRAD is an insurance company with more than four decades of experience. We are part of the Sava Re Group, one of the leading insurance groups in the region. SAVA NON-LIFE INSURANCE a.d.o. BEOGRAD strives to stand out through its values and to be recognized as a company that cares about its clients, follows trends and introduces innovations across all areas of its business. Above all, we are committed to understanding and addressing the needs of our employees, placing great trust in them and recognizing their contribution as one of the key drivers of our success. If you see yourself as part of a team that is constantly developing and where you can contribute to its growth while pursuing your own personal and professional development, we would be delighted to welcome you to our team. We are looking for: IT DEPARTMENT MANAGER Key Responsibilities: Lead and manage the IT Department and IT team; Develop and implement the IT strategy in line with business objectives and Group standards; Ensure reliable, secure and efficient IT infrastructure, systems and services; Lead IT projects and digital transformation initiatives; Manage IT risks, information security and business continuity; Manage external IT providers, vendors and technology partners; Identify opportunities for process improvement, automation and the adoption of new technologies; Ensure compliance with relevant regulations, policies and security standards; Act as a strategic partner to business functions on technology-related matters. Requirements: University degree in IT, Computer Science, Engineering or a related field; At least 5 years of relevant IT experience, including managerial or leadership experience; Experience in the insurance industry and/or financial institutions is preferred; Strong knowledge of IT infrastructure, systems and information security is preferred; Experience in IT project management and digital transformation; Strong leadership, communication and organizational skills; Strategic and solution-oriented mindset. What We Offer: A key leadership role in a dynamic insurance environment; Opportunity to drive digital transformation and technology development within a renowned insurance company; Professional development and continuous learning; Competitive compensation and a comprehensive benefits package. Apply Here Upoznaj kompaniju O Kompaniji Plate Sava neživotno osiguranje a.d.o. Beograd sa tradicijom poslovanja dužom od četiri decenije, postalo je sastavni deo Osiguravajuće grupe SAVA 2006. godine. Brojne promene i razlike doprinele su unapređenju poslovnih procesa, bogatijoj ponudi proizvoda osiguranja i niz drugih pozitivnih karakteristika za Društvo. Veća stabilnost i pouzdanost kompanije omogućle su pružanje kvalitetnije i raznovrsnije ekonomske zaštite od brojnih rizika koji nas okružuju. Sava neživotno osiguranje ima u ponudi brojne pakete imovinskih osiguranja čime se osiguranicima, kako pravnim tako i fizičkim licima, pruža sigurnost i ekonomska zaštita od štetnih dejstava i ekonomskih poremećaja do kojih dolazi kada se ostvari određeni rizik, odnosno nastane osigurani slučaj. U ovom momentu Sava neživotno osiguranje ima poslovne jedinice u skoro 30 gradova u Republici Srbiji i veliki broj partnerskih kompanija koje se bave ponudom i zaključivanjem ugovora o osiguranju. Tokom višedecenijskog poslovanja Sava neživotn",
-   "first_seen": "2026-10-09T18:53:06+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "760498",
-   "title": "Head of ERP Support",
-   "company": "Atlantic Grupa",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Podrška"
-   ],
-   "posted": "2026-10-09",
-   "expires": "08.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/head-of-erp-support/atlantic-grupa/760498",
-   "summary": "Pozicija je namenjena kandidatu koji želi praktično iskustvo u regrutaciji i selekciji kroz saradnju sa TA timom. Cilj je osposobljavanje za prepoznavanje talenata kroz analizu CV i vođenje intervjua zasnovanih na kompetencijama.",
-   "matched": [
-    "it support"
-   ],
-   "first_seen": "2026-10-09T07:33:35+00:00",
-   "details": "O poslodavcu Začini svoju karijeru @ Atlantic Grupa Head of ERP Support Ključne odgovornosti: Vodite SAP/ ERP Support funkcije Vodite ERP Support tim i koordinišete saradnju sa eksternim SAP partnerima Osiguravate stabilnost, dostupnost i sigurnost SAP produkcijskog sistema Upravljate incidentima, problemima i promenama prema ITIL principima Planirate i koordinišete SAP S/4HANA nadogradnje, sigurnosne aktivnosti i tehnički lifecycle sistema (SAP, OS, middleware) Aktivno učestvujete u SAP projektima (go-live, hypercare, rollout, regulatorne promene) Upravljate kritičnim incidentima i osiguravate njihovo pravovremeno rešavanje Sarađujete sa poslovnim korisnicima i IT arhitektima Kontinuirano unapređujete procese i standarde ERP Support funkcije Koordinišete procese eksterne revizije Budete vlasnik incident response-a i procesa upravljanja promenama na ERP sistemima Upravljate ERP licencama Učestvujete u planiranju i upravljanju budžetom Reference: MVoLL2mZSr-WgzgVcsMefMcXazEeUgof579FFmvjLleWqXxzfSarWQzvGY3xnXqV Zašto je ovo jedinstvena prilika za tebe Bićete odgovorni za tim i sisteme koji podržavaju ključne poslovne procese Atlantic Grupe. Ovo je uloga sa jasnim ovlašćenjima, visokim stepenom autonomije i stvarnim uticajem na dalji razvoj ERP Support funkcije. Radićete u kompleksnom SAP S/4HANA okruženju koje povezuje finansijske, logističke, prodajne i proizvodne procese širom Grupe i obuhvata različita integraciona rešenja. Imaćete priliku da spojite svoje SAP iskustvo sa vođenjem tima, unapređenjem procesa i saradnjom sa internim i eksternim partnerima. + Tražimo iskusnog ERP profesionalca koji razume izazove rada u produkcionom okruženju i ima iskustvo u vođenju timova i koordinaciji složenih SAP okruženja. Osobu koja dobro poznaje SAP lifecycle, nadogradnje i obezbeđivanje stabilnosti sistema, uspešno sarađuje sa eksternim partnerima i preuzima odgovornost za donošenje odluka kada su u pitanju kritični poslovni sistemi. Prijavi se, sačuvali smo ti mesto! Pripremi se za selekcijski proces Istraži benefite koje nudimo Prati nas na Linkedinu Atlantic Grupa je najbolji FMCG poslodavac u Srbiji prema nezavisnom istraživanju portala Infostud. Nosilac smo sertifikata “Equal Pay” za jednakost u platama, kao i sertifikata “Poslodavac partner” za izvrsnost u upravljanju ljudskim resursima. Uz proizvodnju vlastitih brendova, Atlantic je i vodeći regionalni distributer svetskih brendova, a u Hrvatskoj upravljamo najvećim privatnim lancem apoteka i specijalizovanih prodavnica. Atlantic Grupa ATLANTIC GRUPA U SRBIJI U sklopu Atlantic Grupe u Srbiji uspešno posluju proizvodne kompanije Atlantic Štark, Atlantic Grand i Foodland, čiji se proizvodni pogoni nalaze u Beogradu, Ljuboviji i Igrošu, podno Kopaonika. Distribuciju vlastitih i principalskih brendova obavljamo kroz 4 distribuciona centra – Šimanovci, Niš, Novi Sad i Čačak kojima upravlja naša distributivna kompanija Atlantic Brands. Atlantic Grupa je najbolji FMCG poslodavac u Srbiji prema nezavisnom istraživanju portala… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Posao u Atlanticu može se uporediti s putovanjem na tropskoostrvo iz snova – nije lako do njega doći, ali kad stigneš, ne želiš da odeš. Uz odlične uslove na poslu, posebno sam srećna što me…\" Pročitajte celo iskustvo Beneficije Hrana i piće Zdravlje Sport i rekreacija Porodica i roditeljstvo Fleksibilno radno vreme Edukacija, profesionalni razvoj Nagrade, bonusi, pokloni Timska druženja Organizovan prevo"
   }
  ]
 }
