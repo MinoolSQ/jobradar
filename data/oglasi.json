@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-14T06:19:02+00:00",
+ "generated_at": "2026-10-14T12:57:19+00:00",
  "window_days": 3,
  "cutoff": "2026-10-11",
- "count": 15,
- "new_count": 1,
+ "count": 18,
+ "new_count": 3,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,17 +12,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 6,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 2,
+   "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 31,
+   "vraceno": 36,
    "strane": 2,
    "stop": "kraj"
   },
@@ -57,18 +57,18 @@
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 3,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
   "kubernetes": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "fastapi": {
@@ -82,43 +82,43 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 1,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "junior": {
-   "vraceno": 14,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "cloud": {
-   "vraceno": 4,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "linux": {
    "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
+  "junior": {
+   "vraceno": 18,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 5,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "it tehnicar": {
-   "vraceno": 26,
+   "vraceno": 29,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 14,
+   "vraceno": 21,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 71,
+   "vraceno": 89,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 105,
-   "strane": 4,
+   "vraceno": 140,
+   "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,17 +127,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 17,
+   "vraceno": 28,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 44,
+   "vraceno": 55,
    "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 4,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,110 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 103,
-   "strane": 4,
+   "vraceno": 130,
+   "strane": 5,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "761603",
+   "title": "Junior iOS Developer",
+   "company": "TeleTrader d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "iOS",
+    "XML",
+    "JSON",
+    "WEB API",
+    "REST",
+    "Cocoa",
+    "Swift",
+    "Programiranje",
+    "OOP"
+   ],
+   "posted": "2026-10-14",
+   "expires": "29.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-ios-developer/teletrader-doo/761603",
+   "summary": "Junior iOS Developer will implement and maintain features for a high usage financial markets iOS app, focusing on data integration and reliable performance. The role requires solid Swift experience and multithreading expertise to ensure responsive and accurate market data and news presentation.",
+   "matched": [
+    "data platform",
+    "junior"
+   ],
+   "first_seen": "2026-10-14T12:57:19+00:00",
+   "details": "O poslodavcu TeleTrader d.o.o. is part of baha Group, a software company specialized in stock market data and financial analysis, offering a broad portfolio of tools for the processing, visualization and analysis of stock market data. As a global company, active on the international market and headquartered in Vienna, Austria, baha develops its software in Belgrade, while selling its products globally across Europe, North America, and Asia. TeleTrader is announcing the following vacancy within its iOS department: Junior iOS Developer About the project: You will be working on one of the leading financial markets apps with over one million downloads and a 4.6 star rating. You will also be involved in other projects on iOS platforms focused on market data analysis, financial news presentation and other financial market-related content. You are expected to develop and build new features as well as maintain the existing code base. For more details, please download our apps. What are we looking for: Experience in iOS development using Swift Strong understanding of OOP and its main principles Proficiency in multi-threading and performance tuning Experience with XML, JSON and REST APIs Experience with CocoaPods/Carthage/Swift Package Manager Excellent communication and collaboration skills Problem solving skills Proficiency in written and spoken English Reference: iM-T_ZCKzDm3PQ1mg-Dq24z9GLGClZNvmnJMaTZOAbBKsAFjjYNBinI2kCSXBqJR Optional but highly valued; Knowledge of the open-source iOS ecosystem and libraries Hands-on experience with multiplatform development tools What we offer: Work in an established company with market leadership Be part of an experienced and dynamic team Internal education Flexible working hours Professional physiotherapist (massage and exercises) Fully equipped gym in company premises Fruit and hot beverages for employees Private health insurance (upon 1.5 years of employment) Team-building and sports activities Employee discounts TeleTrader d.o.o. Ko smo mi? TeleTrader je austrijska softverska kompanija, osnovana 1995. godine u Beču. Sa razvojem poslovanja 1997. godine osniva se ćerka kompanija u Beogradu, a danas je TeleTrader deo baha grupe i jedan je od vodećih distributera berzanskih podataka, tehnologije i web rešenja na svetskom tržištu kapitala, sa razvojnim timom od 160 stalno zaposlenih u Beogradu. Obezbeđuje finansijske informacije iz celog sveta za institucije poput banaka, brokerskih kuća, berzi, finansijskih… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IOS Developer Junior iOS Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj "
+  },
+  {
+   "source": "infostud",
+   "id": "761569",
+   "title": "Senior DevOps Platform Engineer",
+   "company": "Erste Bank a.d.",
+   "location": "Beograd, Novi Sad | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Linux",
+    "Git",
+    "AWS",
+    "DevOps",
+    "Sistemska administracija",
+    "Cloud",
+    "Kubernetes",
+    "IAM"
+   ],
+   "posted": "2026-10-14",
+   "expires": "23.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-devops-platform-engineer/erste-bank-ad/761569",
+   "summary": "",
+   "matched": [
+    "aws",
+    "kubernetes",
+    "devops",
+    "cloud",
+    "linux",
+    "administrator"
+   ],
+   "first_seen": "2026-10-14T12:57:19+00:00",
+   "details": "O poslodavcu Reference: 5QUYqQDCTGGZDCKbyaBTl_CBX1ZO_Pd2vTtPVbMUwt3KyYNWmx-Pr-PE2KBrSyGr Erste Bank a.d. Mi smo ERSTE, gde Mogućnosti počinju sa MOGU Zamisli sebe u svetu mogućnosti uz ljude koji te podržavaju, inspirišu i gde možeš da da iskažeš svoju jedinstvenost kreirajući posebnu vrednost za sve naše klijente. To je ERSTE. Mi verujemo u radno okruženje u kojem se neguje zajedništvo, sloboda da stvaramo i gde se slave uspesi. Otvoreni smo prema novim idejama, jer izazove vidimo kao priliku za učenje i razvoj. Kada si deo našeg tima onda uvek imaš nekoga koga možeš da pitaš kako i zašto.… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"U Erste porodici sam od 2017. godine. Početak karijere sam ozvaničila kao deo tima na Projektu implementacije SAP Success Factors aplikacije u ulozi poslovnog analitičara. Nakon uspešnog Projekta…\" Pročitajte celo iskustvo Beneficije Dobrovoljno zdravstveno osiguranje Edukacija, profesionalni razvoj Porodica i roditeljstvo Fleksibilno radno vreme Rad od kuće Nagrade, bonusi, pokloni Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT DevOps System Administrator / Engineer Senior DevOps Platform Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "helloworld",
+   "id": "761365",
+   "title": "Android Developer",
+   "company": "Blinking d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "android",
+    "java",
+    "git",
+    "maven",
+    "jenkins",
+    "jira",
+    "confluence",
+    "rest",
+    "mvvm",
+    "scrum",
+    "agile",
+    "kotlin"
+   ],
+   "posted": "2026-10-14",
+   "expires": "29.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Android-Developer/Blinking-d.o.o/761365",
+   "summary": "Blinking d.o.o. Beograd | Hibrid 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin Intermediate @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Android Developer Android Developer Blinking d.o.o. Beograd | Hibrid Beograd: Karađorđeva 89 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin intermediate U potrazi smo za Android developerom za rad na Blinking mobilnim aplikacijama. O nama Razvijamo rešenja za digitalnu verifikaciju identiteta i online onboarding klijenata za banke, osiguravajuća društva, telekom operatere i priređivače igara na sreću. Opis posla Razvoj novih Android aplikacija Održavanje i unapređenje postojećih aplikacija i SDK-ova Saradnja sa ostatkom tima na planiranju i realizaciji projekata Obavezno 2+ godine profesionalnog iskustva u Android razvoju Dobro poznavanje Kotlina, Java je plus Rad sa kamerom na Androidu, CameraX ili Camera2: preview, analiza frejmova u realnom vremenu, fotografisanje Osnove obrade slike: rad sa Bitmap/ImageProxy, rotacija, isecanje, kompresija Moderan Android razvoj: korutine, ViewModel, MVVM arhitektura REST API integracija, Retrofit/OkHttp Gradle i rad sa multi-modul projektima, Android library moduli Git i objavljivanje aplikacija na Google Play Samostalnost u pravljenju aplikacije od nule Prednost Iskustvo sa ML modelima na uređaju: ONNX Runtime, TensorFlow Lite, ML Kit OpenCV ili slično iskustvo u računarskom vidu, detekcija ivica, prepoznavanje oblika Iskustvo sa skeniranjem dokumenata, OCR-om, čitanjem MRZ zone ili barkodova Jetpack Compose Iskustvo sa razvojem i održavanjem Android SDK-a/biblioteke, AAR, Maven repozitorijum, verzionisanje, ProGuard/R8 pravila za biblioteke NFC, IsoDep i osnove kriptografije, sertifikati, potpisivanje Iskustvo sa KYC/onboarding aplikacijama Osnove mobilne bezbednosti Tehnologije i alati Android: Kotlin, Java, CameraX, ONNX Runtime/TensorFlow Lite, Retrofit, OkHttp, Material Design, NFC Build i SDK: Gradle, Android library moduli, AAR, Maven Alati i procesi: Git, Bitbucket, pull request-ovi, code review, Jira, Confluence, CI/CD, Jenkins, Agile/Scrum Nudimo Rad na zanimljivim projektima: ML na uređaju, kamera, NFC, razvoj SDK-a Priliku da napraviš novi proizvod od početka i da sam/sama biraš arhitekturu Konkurentnu platu, u skladu sa iskustvom Redovne revizije plate i povišice Privatno zdravstveno osiguranje Rad pretežno iz kancelarije u Beogradu, uz mogućnost rada od kuće Fleksibilno radno vreme Stručan tim i kratak put od ideje do realizacije Konkuriši Upoznaj kompaniju O Kompaniji Plate Blinking pomaže kompanijama da identifikuju i potvrde svoje korisnike. Naša platforma vam pruža pouzdan i siguran način da potvrdite identitet vaših korisnika. UI/UX Designer 1 plata 900 € Prosečna neto plata min 900 Prosek i medijana 900 max 900 Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail",
+   "first_seen": "2026-10-14T12:57:19+00:00"
+  },
   {
    "source": "remoteok",
    "id": "remoteok-1137508",
@@ -193,7 +291,7 @@
   {
    "source": "infostud",
    "id": "761361",
-   "title": "AI Performance Analytics Specialist",
+   "title": "AI Performance & Analytics Specialist for Customer Channels",
    "company": "Yettel d.o.o.",
    "location": "Beograd | Hibrid",
    "remote": false,
@@ -205,7 +303,7 @@
    "posted": "2026-10-13",
    "expires": "28.10.2026",
    "salary": null,
-   "url": "https://poslovi.infostud.com/posao/ai-performance-analytics-specialist/yettel-doo/761361",
+   "url": "https://poslovi.infostud.com/posao/ai-performance-analytics-specialist-for-customer-channels/yettel-doo/761361",
    "summary": "The AI Performance & Analytics Specialist measures and optimizes AI customer channel solutions to ensure operational efficiency and business value realization. The role delivers dashboards and reports, analyzes interactions and performance metrics, and provides data driven recommendations to improve customer experience and enable automation opportunities.",
    "matched": [
     "sql",
