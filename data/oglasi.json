@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-13T19:54:21+00:00",
+ "generated_at": "2026-10-14T06:19:02+00:00",
  "window_days": 3,
- "cutoff": "2026-10-10",
- "count": 16,
- "new_count": 7,
+ "cutoff": "2026-10-11",
+ "count": 15,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -22,8 +22,8 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 30,
-   "strane": 1,
+   "vraceno": 31,
+   "strane": 2,
    "stop": "kraj"
   },
   "etl": {
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 28,
+   "vraceno": 26,
    "strane": 1,
    "stop": "kraj"
   },
@@ -112,12 +112,12 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 74,
+   "vraceno": 71,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 106,
+   "vraceno": 105,
    "strane": 4,
    "stop": "kraj"
   },
@@ -152,12 +152,44 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 105,
+   "vraceno": 103,
    "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137508",
+   "title": "Principal Software Engineer",
+   "company": "Vytalize Health",
+   "location": "Kansas",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "design",
+    "infosec",
+    "python",
+    "docker",
+    "technical",
+    "recruiter",
+    "customer support",
+    "testing",
+    "marketing",
+    "quality assurance",
+    "finance"
+   ],
+   "posted": "2026-10-13",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
+   "summary": "Your Opportunity As a Principal Engineer , you will help design, build, and operate the clinical decision support and API-driven data delivery platform that enables Vytalize Health to embed timely, actionable clinical insights directly into provider workflows. Working cross-functionally with Data Engineering, Product, Clinical Operations, and EMR partners, your solutions will transform how clinici",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-14T06:19:02+00:00"
+  },
   {
    "source": "infostud",
    "id": "761361",
@@ -524,70 +556,6 @@
    ],
    "first_seen": "2026-10-11T23:00:22+00:00",
    "details": "O poslodavcu Docus d.o.o. je renomirana kompanija sa sedištem u Čačku i Beogradu, specijalizovana za implementaciju i podršku ERP sistema. Trenutno tražimo ERP konsultanta koji će se pridružiti našem timu i doprineti uspešnoj realizaciji projekata za naše klijente širom Srbije. Odgovornosti: Analiza poslovnih procesa klijenata i identifikacija potreba za ERP rešenjima Implementacija i prilagođavanje ERP sistema prema zahtevima korisnika Obuka korisnika za efikasno korišćenje ERP softvera Podrška i održavanje ERP sistema tokom i nakon implementacije Saradnja sa timom za razvoj i tehničku podršku radi rešavanja problema Priprema tehničke dokumentacije i izveštaja o projektima Praćenje trendova u ERP tehnologijama i predlaganje unapređenja Reference: aZUhMiikHZx5tRP0JhqOiucGdtAOUL2fRmENtctddi4fmo5Cdw6jdOpQK6h1HG4X Kvalifikacije: Visoka stručna sprema, po mogućstvu fakultet tehničkog ili ekonomskog usmerenja Iskustvo u radu sa ERP sistemima i implementaciji poslovnih rešenja, minimum 3 godine Razumevanje poslovnih procesa u proizvodnji, distribuciji ili finansijama Veštine analize i rešavanja problema Dobre komunikacione i prezentacione sposobnosti Znanje engleskog jezika na nivou koji omogućava rad sa tehničkom dokumentacijom Spremnost na rad u timskom okruženju i na terenu (Čačak, Beograd) Šta nudimo: Rad u dinamičnom i profesionalnom okruženju u Čačku i Beogradu Mogućnost stručnog usavršavanja i napredovanja Konkurentna plata u skladu sa iskustvom i znanjem Fleksibilno radno vreme i podrška u balansiranju poslovnih i privatnih obaveza Prijava na puno radno vreme u skladu sa zakonima Republike Srbije Ukoliko ste spremni da se pridružite našem timu u kompaniji Docus d.o.o. i doprinesete uspehu kroz svoje znanje i iskustvo u oblasti ERP sistema, pozivamo vas da se prijavite i postanete deo dinamičnog i profesionalnog radnog okruženja. Radujemo se vašoj prijavi i mogućnosti zajedničkog razvoja. Docus d.o.o. Miloša Ćosića 8, Čačak, Srbija PIB: 100899125 Matični broj: 17342401 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT ERP/SAP/ABAP Consultant ERP konsultant Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137481",
-   "title": "Manager Clinical Data Management",
-   "company": "EDETEK",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "exec",
-    "design",
-    "sys admin",
-    "education",
-    "customer support",
-    "dev",
-    "testing",
-    "travel",
-    "junior",
-    "ops",
-    "medical",
-    "recruiter"
-   ],
-   "posted": "2026-10-10",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
-   "summary": "Manager, Clinical Data Management leads clinical data management team to handle project management documentation, preform clinical data management activities and system implementations for EDETEKâs CONFORM eClinical, write design specifications for the system (forms, reports, etc.), and facilitate testing of system implementations. In addition to stay hands-on with clinical data management opera",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-11T18:12:01+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137480",
-   "title": "Junior Sales Development Representative IT Industry",
-   "company": "Huzzle",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "saas",
-    "technical",
-    "marketing",
-    "finance",
-    "c",
-    "cloud",
-    "microsoft",
-    "senior",
-    "junior",
-    "ops",
-    "sales",
-    "ecommerce"
-   ],
-   "posted": "2026-10-10",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
-   "summary": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative c",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-11T07:25:06+00:00"
   }
  ]
 }
