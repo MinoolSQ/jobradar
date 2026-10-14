@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-14T12:57:19+00:00",
+ "generated_at": "2026-10-14T18:04:46+00:00",
  "window_days": 3,
  "cutoff": "2026-10-11",
- "count": 18,
+ "count": 21,
  "new_count": 3,
  "errors": [],
  "infostud_queries": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 9,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 36,
+   "vraceno": 37,
    "strane": 2,
    "stop": "kraj"
   },
@@ -62,12 +62,12 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 6,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
   "kubernetes": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -82,7 +82,7 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -92,7 +92,7 @@
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 5,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,8 +102,8 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 29,
-   "strane": 1,
+   "vraceno": 32,
+   "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
@@ -112,27 +112,27 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 89,
-   "strane": 3,
+   "vraceno": 94,
+   "strane": 4,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 140,
+   "vraceno": 148,
    "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 3,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 28,
+   "vraceno": 30,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 55,
+   "vraceno": 58,
    "strane": 2,
    "stop": "kraj"
   },
@@ -152,12 +152,100 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 130,
+   "vraceno": 133,
    "strane": 5,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "761195",
+   "title": "Senior Full Stack Developer",
+   "company": "Veriest Venture Serbia d.o.o. part of Aman Group",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "JavaScript",
+    "Spring",
+    "Java",
+    "JUnit",
+    "Selenium",
+    "Jenkins",
+    "DevOps",
+    "Programiranje",
+    "TypeScript",
+    "Cloud",
+    "RESTful",
+    "Microservices",
+    "Kubernetes",
+    "Kotlin"
+   ],
+   "posted": "2026-10-14",
+   "expires": "13.11.2026",
+   "salary": "bruto 40 - 65 USD (satnica) ",
+   "url": "https://poslovi.infostud.com/posao/senior-full-stack-developer/veriest-venture-serbia-doo-par/761195",
+   "summary": "This role exists to own and deliver end to end enterprise scale software including back end services front end interfaces and cloud deployments. The senior engineer will drive architecture decisions raise engineering quality and mentor the team to ensure reliable testable and production ready solutions.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "kubernetes",
+    "devops",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-14T18:04:46+00:00",
+   "details": "O poslodavcu Job Title: Senior Full Stack Developer Location: Remote Employment type: B2B contract, indefinite basis (Freelance or Contract) For our client, ZIM Integrated Shipping Services , a global shipping and logistics company, we are seeking a Senior Full Stack Developer to join ZIMLABS , ZIM's technology innovation hub. In this role, you'll help design and build cutting-edge digital products while taking ownership of the full software development lifecycle, from solution design and architecture to development, testing, and deployment. You'll collaborate in a highly engineering-driven environment that embraces Extreme Programming (XP), remote pair programming, TDD, and continuous improvement. Role description: Hands on expert level fullstack development of innovative, business-critical applications. Own and lead the full engineering lifecycle: technical discovery, solution design, architecture, implementation, testing strategy, DevOps, production readiness, and continuous improvement. Act as a technical authority for complex Java/Spring, React, microservices, cloud/hybrid, and container-based solutions. Drive XP practices with remote pairing, TDD/BDD, continuous integration, evolutionary design, fast feedback loops, and high-quality engineering standards. Use AI-assisted development capabilities responsibly to accelerate delivery, improve design quality, generate tests, review code, support refactoring, and enhance engineering productivity. Reference: qWeIwnCTytxFOlgbGrPOUZUOowaH-OMplVO2beuDJf5m9ETajQblhovHM58TjEHy Key responsibilities: Lead architecture and design decisions for complex services, APIs, front-end capabilities, integration flows, and cloud-ready components. Guide other developers through pairing, code reviews, design reviews, mentoring, and hands-on technical leadership. Translate business needs into scalable, maintainable, secure, and testable technical solutions. Identify modernization opportunities, reduce technical debt, and improve system reliability, observability, performance, and deployment quality. Promote engineering excellence across teams: clean code, automation, testability, secure coding, reusable components, and clear technical documentation. Role requirements: BSc in Software Engineering or BS degree in Computer Science, or equivalent practical engineering experience. 8+ years of hands-on software engineering experience, including significant experience in enterprise-scale systems. Expert-level Java experience, including Spring / Spring Boot / Spring Cloud, microservices, RESTful APIs, and integration-oriented architecture. 4+ years of front-end development experience, mainly React, with strong knowledge of modern JavaScript / TypeScript frameworks, component design, state management, and reactive UI patterns. Strong experience in distributed systems design, API-first architecture, service resilience, service discovery, circuit breaker patterns, scalability, observability, and performance tuning. Strong experience with TDD/BDD and automated testing using frameworks such as JUnit, Jasmine, Mockito, Protractor/Selenium, or equivalent modern tools. Solid DevOps mindset and hands-on experience with CI/CD, Jenkins or equivalent pipelines, automated quality gates, deployment automation, and production-readiness practices. Experience designing, developing, and deploying cloud/hybrid solutions in container-based environments such as Kubernetes or Cloud Foundry. Experience with Kotlin, functional programming,"
+  },
+  {
+   "source": "infostud",
+   "id": "761749",
+   "title": "Support Specialist (Night Shift)",
+   "company": "M Plus Serbia d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Podrška",
+    "Hardware"
+   ],
+   "posted": "2026-10-14",
+   "expires": "29.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/support-specialist-night-shift/m-plus-serbia-doo/761749",
+   "summary": "The Support Specialist provides night shift technical and on call assistance to ensure customer sites operate smoothly. The role centers on hardware and software troubleshooting, supporting new customer launches, and communicating technical information in user friendly terms.",
+   "matched": [
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-10-14T18:04:46+00:00",
+   "details": "O poslodavcu WE'RE HIRING! Support Specialist (Night shift) M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. We are seeking a passionate and tech-savvy Support Specialist to join us. This role involves providing on-call support, managing and troubleshooting hardware and software, and supporting new customer launches. We're committed to bringing passion and customer focus to the business. Primary Responsibilities: On-call responsiveness to support inquiries, both virtually and in-person Managing, maintaining, and troubleshooting hardware and software across sites Setting up and installing hardware Inputting data for client sites New customer launch support Leading training sessions Creating templates to make communication more efficient Communicating technical details to users in layman’s terms Reference: 1rcX7GMulRCQQdeM5b1YiH38pWjBsUIvcBXI_EJ19bumqQyS6RSJPNS6VlWr9PFL What we expect from you: Excellent English communication skills, both written and verbal Communicate effectively with customers to identify needs and provide solutions Strong critical thinking skills Self-driven, can operate independently, and respond to unexpected situations with confidence Able to manage multiple competing priorities Must have good Microsoft office skills with a working knowledge of Teams, Word and Excel Experience with various operating systems and POS systems is a plus Willingness to work primarily during night shifts, including weekends What you will get from us: Remote model of work Paid training Opportunity to work with a dynamic, fast-growing team Private health insurance Benefit package available to all our employees (day off for a birthday, discounts with our partners from different industries) If you are ready to contribute to this position, apply now with your CV in English. We look forward to your application! Note: Only shortlisted candidates will be contacted. Best of luck! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od 10 godina. Mplus mi je kroz godine dao prostora za razvoj karijere, to je ono što motiviše mene i…\" Pročitajte celo iskustvo Beneficije Obuke, konferencije Edukacija, profesionalni razvoj Zabavni sadržaj Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Timska druženja Zdravlje Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ž"
+  },
+  {
+   "source": "infostud",
+   "id": "761733",
+   "title": "Technical Support Representative - French speaker",
+   "company": "NCR d.o.o. - NCR Voyix",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-14",
+   "expires": "13.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/technical-support-representative-french-speaker/ncr-doo-ncr-voyix/761733",
+   "summary": "This role delivers technical support and incident management for clients and field engineers to ensure continuous service delivery. The specialist will diagnose and escalate complex issues while maintaining SLA compliance and contributing to knowledge documentation.",
+   "matched": [
+    "data engineer",
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-10-14T18:04:46+00:00",
+   "details": "O poslodavcu Job Title: Technical Support Representative - French Speaker Location: Belgrade, Serbia Working time: 1st, 2nd and 3rd shift Position Summary & Key Responsibilities The position provides technical support to NCR Voyix’s clients, Customer Engineers, and partners by identifying, analyzing, diagnosing, and resolving issues. The role requires strong problem-solving skills, customer focus, and the ability to manage incidents while ensuring contractual service levels are maintained. Key Responsibilities: Provide remote support to NCR Voyix clients, Customer Engineers, and partners, including problem identification, analysis, diagnosis, and resolution. Lead problem isolation activities and present recommended solutions and implementation plans, ensuring alignment with relevant stakeholders. Respond to incoming phone calls, emails, and support tickets from clients and field engineers. Monitor notification and ticket queues, remotely resolve issues where possible, and dispatch tickets to the appropriate teams when further assistance is required. Manage incidents to ensure contractual Service Level Agreements (SLAs) are achieved. Follow established escalation procedures when SLAs are at risk. Utilize NCR and vendor-provided knowledge systems to identify solutions for known issues and ensure successful resolution. Contribute to knowledge management by customizing and providing business data, updating knowledge applications, and preparing standard reports. Escalate complex issues to specialized support teams when no known solution is available, while maintaining ownership of escalated incidents through final resolution. Keep NCR Management informed of issues that may require extended resolution times beyond contractual commitments. Proactively anticipate internal and external customer needs while maintaining a strong commitment to customer satisfaction. Monitor and respond to customer-impacting events to ensure timely resolution and service continuity. Reference: 6b_AJgMgdJMszCrKcgj0ytC-V1oDqvAuoQNHXE52Ij1WcdQwhONKi-fYSXB7Mb41 Qualifications & Requirements: Minimum high school diploma or equivalent required. Excellent verbal and written communication skills in English and French. Ability and willingness to work rotating shifts across 1st, 2nd, and 3rd shifts in a 24/7 operational environment. Ability to manage multiple priorities, handle incidents, and work effectively in a fast-paced support environment. Flexibility to work weekends as part of the rotating schedule. NCR Voyix NCR Voyix Corporation (NYSE: VYX) is a global platform-powered leader in unified commerce for shopping and dining. Combining a flexible, intelligent platform with end-to-end payments capabilities and services developed through its deep industry experience, NCR Voyix empowers retailers and restaurants to accelerate new possibilities for their operations, experiences and business outcomes. NCR Voyix is headquartered in Atlanta, Georgia, and serves customers in more than 35 countries worldwide.… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"I have been part of NCR Voyix for almost three years, currently working as a Senior Finance Analyst. What I value the most is the opportunity to collaborate with colleagues around the world in…\" Pročitajte celo iskustvo Beneficije Flexible working hours Private health insurance Education, professional development Awards, bonuses, gifts Sport and fitness Food and drinks Trainings, courses, conferences Konk"
+  },
   {
    "source": "infostud",
    "id": "761603",
@@ -249,7 +337,7 @@
    "expires": "29.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Android-Developer/Blinking-d.o.o/761365",
-   "summary": "Blinking d.o.o. Beograd | Hibrid 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin Intermediate @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
+   "summary": "Blinking d.o.o. Beograd | Hibrid 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin Intermediate Novo",
    "matched": [
     "helloworld"
    ],
