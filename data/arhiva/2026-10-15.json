@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-10-15T06:00:53+00:00",
+ "generated_at": "2026-10-15T12:44:32+00:00",
  "window_days": 3,
  "cutoff": "2026-10-12",
- "count": 21,
- "new_count": 0,
- "errors": [],
+ "count": 28,
+ "new_count": 7,
+ "errors": [
+  "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
+ ],
  "infostud_queries": {
   "python": {
    "vraceno": 1,
@@ -12,17 +14,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 12,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 2,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 37,
+   "vraceno": 40,
    "strane": 2,
    "stop": "kraj"
   },
@@ -77,7 +79,7 @@
    "stop": "kraj"
   },
   "data analyst": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +89,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 18,
+   "vraceno": 22,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,62 +104,246 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 32,
+   "vraceno": 45,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 21,
-   "strane": 1,
+   "vraceno": 34,
+   "strane": 2,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 96,
-   "strane": 4,
-   "stop": "kraj"
-  },
-  "it podrska": {
-   "vraceno": 150,
+   "vraceno": 124,
    "strane": 5,
    "stop": "kraj"
   },
+  "it podrska": {
+   "vraceno": 180,
+   "strane": 6,
+   "stop": "limit"
+  },
   "help desk": {
-   "vraceno": 5,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 30,
-   "strane": 1,
+   "vraceno": 37,
+   "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 62,
+   "vraceno": 77,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 6,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 2,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 134,
-   "strane": 5,
+   "vraceno": 166,
+   "strane": 6,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "761921",
+   "title": "Data Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-analyst/maxbet-doo/761921",
+   "summary": "The Data Analyst role exists to transform large and complex datasets into accurate actionable insights that guide promotional and business decisions. The position focuses on ensuring data quality building automated reporting and collaborating with BI and cross-functional teams to support analytics driven improvements.",
+   "matched": [
+    "data analyst",
+    "it support"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu MaxBet is part of Flutter Entertainment (NYSE: FLUT) - the world’s largest online gambling operator, publicly listed on the New York Stock Exchange . As a truly global leader in sports betting and gaming, Flutter shapes the future of the industry. MaxBet is a rapidly growing company specializing in sports betting, gaming and gambling. Headquartered in Serbia, we have a strong presence in Bosnia and Herzegovina, Montenegro and North Macedonia . We are committed to setting new industry standards, delivering top-tier entertainment while upholding the highest integrity. Our success is built on our people - we foster a culture of teamwork, clear communication and mutual respect. As we continue to grow, we are looking for a: Data Analyst City: Belgrade Role Summary: This position will be part of our Promo team, reporting directly to the Flutter Group. The role focuses on collecting, analyzing, and processing large datasets, ensuring data quality and accuracy, and transforming complex data into clear, actionable insights that support informed business decision-making. Responsibilities: Collecting and interpreting trends or patterns in complex data sets, analyzing results using advanced statistical techniques. Creating data dashboards, graphs, and visualizations, as well as building automated reports, alerts, and subscriptions to ensure the continuous delivery of requested data using Tableau Server. Conducting research, writing reports, providing advice and projections, and identifying areas for improving efficiency and automating processes. Participating in cross-departmental projects to meet business needs. Working closely with the BI Development team to create and optimize database objects required to support reporting systems (e.g., creating cubes in Tableau and creating or adjusting specific fields). Ensuring the accurate, intentional, and responsible use of users’ personal data when working with the AML, Legal, or Risk departments. Reference: fJILGsve0tM8zGaE9m_GIPKFfbY0CDf0vujx6p25OcmXzmCzu8WOTjC4yk2KMnfS Qualifications: Proven working experience as a data analyst. Working Knowledge of statistics. Working knowledge of Tableau/SQL. Ability to analyze and interpret data and to translate data insights into business recommendations. Accuracy and attention to detail. Professional working proficiency in English. Perks and benefits: Health & Well-being: Private health insurance. Up to 6 days of 100% paid leave without a certificate. Sports membership. Work Environment & Comfort: Modern workspace with relaxation areas. Hybrid work model with flexible working hours. Remote work up to 30 days/year. Work-Life Balance: 24+ days of annual leave. Birthday off. Reduced hours for moms with kids starting kindergarten. Fully covered maternity leave (according to company policy). Day off for parents of first graders. Growth & Development: Paid training, workshops, and educational opportunities. Team-building events and sports activities. Additional Perks: Daily transportation between Novi Sad & Belgrade for Novi Sad colleagues working in Belgrade. Role-based bonus opportunities. Referral bonuses for recommending new hires. Full equipment and onboarding for every role. MaxBet MaxBet, deo međunarodnog lidera Flutter International, izdvaja se u svetu igara na sreću kao kompanija posvećena inovacijama i naprednim tehnološkim rešenjima. Od svojih početaka 1993. godine, MaxBet je postao prisutan u preko 200 gradova širom Srbije i regiona, uključujuć"
+  },
+  {
+   "source": "infostud",
+   "id": "761790",
+   "title": "IT tehničar - korisnička i terenska IT podrška",
+   "company": "Autokomerc d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "Podrška",
+    "TCP/IP",
+    "BI",
+    "TCP",
+    "Active Directory"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar-korisnicka-i-terenska-it-podrska/autokomerc-doo/761790",
+   "summary": "Pozicija služi za obezbeđivanje stabilnog rada korisničke IT opreme i pružanje efikasne tehničke podrške zaposlenima. Kandidat će rešavati svakodnevne tehničke probleme na lokaciji i voditi evidenciju i održavanje IT inventara.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu Kompanija Autokomerc d.o.o., ovlašćeni partner za Audi i VW vozila, nudi širok asortiman novih putničkih i privrednih vozila, rezervnih delova i profesionalnih servisnih usluga. Kao najstarija domaća privatna kompanija iz automobilske industrije, od 1992. godine smo specijalizovani za prodaju novih i polovnih vozila, flotna rešenja za kompanije, kao i kompletnu postprodajnu podršku. Naše dugogodišnje tržišno iskustvo nudi stabilnu poslovnu saradnju zasnovanu na stručnom kadru, kvalitetu, pouzdanosti i savremenim poslovnim rešenjima. U cilju podizanja kvaliteta naših usluga, potrebna nam je ambiciozna i organizovana osoba za sledeću poziciju: IT tehničar - korisnička i terenska IT podrška Mesto rada: Beograd (1 izvršilac) Da li voliš praktičan rad, rešavanje tehničkih problema i svakodnevnu komunikaciju sa korisnicima? Da li želiš da budeš ključni oslonac stabilnog IT sistema u renomiranoj kompaniji? Tražimo osoblje koje će obezbediti efikasnu tehničku podršku zaposlenima i besprekorno funkcionisanje korisničke opreme. Šta će biti tvoja zaduženja? Kao član naše IT službe, tvoj fokus biće na pružanju kvalitetne tehničke podrške i održavanju opreme: Instalacija i održavanje: Instaliranje, podešavanje i održavanje desktop i laptop računara, Windows operativnih sistema i standardnih programa. Rešavanje problema: Otklanjanje smetnji sa štampačima, skenerima, monitorima, perifernom opremom i drugim korisničkim uređajima. Aplikativna podrška: Podešavanje Outlook-a, korisničkih Microsoft 365 aplikacija, kao i instalacija klijentskih verzija poslovnih aplikacija prema uputstvima IT službe. Upravljanje opremom i inventarom: Priprema opreme za nove zaposlene, vođenje evidencije zaduženja i razduženja, kao i vođenje inventara IT opreme. Mrežna dijagnostika i teren: Obavljanje osnovne mrežne dijagnostike, terenskih intervencija i rada na različitim lokacijama kompanije po potrebi. Administracija i dokumentacija: Evidentiranje korisničkih zahteva, eskalacija složenijih problema administratoru i priprema jednostavnih korisničkih uputstava. Reference: iWsgIHnHwxNwXswJHRG0wArOANBzE8G-v1lfisqqGX3ig_rwu11ic2lHOdYrRPP8 Profil idealnog kandidata: Tražimo profesionalca koji poseduje tehničko znanje, odgovornost i pedantnost u radu: Obrazovanje i znanje: Dobro poznavanje Windows operativnih sistema i PC hardvera. Iskustvo: Iskustvo sa instalacijom softvera, drajvera, štampača i rešavanjem uobičajenih korisničkih problema (prethodno iskustvo u helpdesk/desktop support poslovima, poznavanje Active Directory osnova, Microsoft 365 i ticketing sistema predstavlja prednost, ali nije uslov). Tehničke veštine: Osnovno razumevanje TCP/IP mreža, Wi-Fi i rada u domenskom okruženju. Lične osobine: Odgovornost, organizovanost, strpljenje i izražena komunikativnost. Vozačka dozvola: B kategorija. Šta Autokomerc nudi tebi? Stabilnost i tradiciju: Rad u organizovanoj IT službi i renomiranoj kompaniji uz podršku iskusnog IT Managera. Razvoj karijere: Priliku za usavršavanje u korisničkoj podršci, računarskim mrežama i poslovnom IT okruženju kroz raznovrsne zadatke. Okruženje: Rad u dinamičnom i profesionalnom timu. Uslovi i naknada: Uslovi zaposlenja i finansijska naknada definisani su prema dogovoru i dosadašnjem iskustvu kandidata. Kako da se prijaviš? Ako prepoznaješ sebe u ovom opisu i želiš da razvijaš svoju IT karijeru u uspešnom sistemu, pošalji nam svoj CV! Biće kontaktirani samo kandidati koji uđu u uži izbor. Zahvaljujemo se svim kandidatima na interesov"
+  },
+  {
+   "source": "infostud",
+   "id": "761949",
+   "title": "IT tehničar/System Administrator",
+   "company": "Electus d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar-system-administrator/electus-doo/761949",
+   "summary": "Pozicija ima zadatak da obezbedi pouzdanu tehničku podršku i kontinuirano održavanje IT opreme kako bi poslovni procesi funkcionisali bez zastoja. Kandidat će dijagnostikovati i rešavati hardverske softverske i mrežne probleme i upravljati pristupima i nalozima prema definisanim procedurama.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu Opis posla: Pružanje tehničke podrške zaposlenima Instalacija, konfiguracija i održavanje računara, mobilnih uređaja, štampača i druge IT opreme Dijagnostika i rešavanje hardverskih, softverskih i mrežnih problema Instalacija i osnovno održavanje mrežne opreme Administracija korisničkih naloga, pristupa i korisničkih prava Podešavanje korisničkih menija i pristupa poslovnim aplikacijama Podrška korisnicima ERP, POS i drugih poslovnih aplikacija Osnovna administracija poslovnih sistema prema definisanim procedurama Podrška IT sistemima i opremi kod klijenata Vođenje evidencije IT opreme, intervencija i servisiranja Komunikacija i koordinacija sa eksternim servisima i dobavljačima IT opreme i usluga Dokumentovanje IT procedura, konfiguracija i rešenja učestalih problema Primena definisanih pravila IT bezbednosti i upravljanja pristupima Reference: mm0gDt9xQBpTQbuFoBQytLOT8uPDm6VL2aymwy9SK59riTBAFOUCO_0kRdl-WDjC Potrebne kvalifikacije SSS/VŠS/VSS tehničkog ili IT usmerenja Minimum godinu dana iskustva na poslovima IT podrške, IT administracije ili sličnoj poziciji Dobro poznavanje Windows 10/11 operativnih sistema Dobro poznavanje računarskog hardvera i periferne opreme Osnovno poznavanje računarskih mreža, TCP/IP protokola, Wi-Fi mreža, rutera i switch-eva Osnovno poznavanje administracije korisničkih naloga i prava pristupa Sposobnost samostalnog dijagnostikovanja i rešavanja tehničkih problema Engleski jezik na nivou potrebnom za korišćenje tehničke dokumentacije Vozačka dozvola B kategorije, aktivan vozač Profesionalan i odgovoran pristup radnim obavezama Spremnost za usvajanje novih znanja i veština. Šta vam nudimo Stalni radni odnos, uz probni rad od 3 meseca Rad u odličnim uslovima i prijatnoj radnoj atmosferi Dobrovoljno zdravstveno osiguranje Budžet za dodatnu edukaciju Prednost imaju kandidati sa iskustvom u radu sa ERP, POS ili drugim poslovnim informacionim sistemima Windows Server okruženju remote support alatima administraciji poslovnih aplikacija Molimo da Vaše biografije dostavite elektronskim putem. U najkraćem roku će biti kontaktirani kandidati koji uđu u najuži izbor. Electus d.o.o. Ivana Sarica 4, Beograd, Srbija PIB: 108975255 Matični broj: 21103853 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support IT tehničar/System Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim"
+  },
+  {
+   "source": "infostud",
+   "id": "761950",
+   "title": "KICKSTART - Digital Implementation Support Specialist - intern",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prakse",
+    "Express"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/kickstart-digital-implementation-support-specialist-intern/yettel-doo/761950",
+   "summary": "The role exists to manage ordering and delivery of devices for business customers while ensuring contractual terms are implemented and budgets are controlled. The successful candidate will maintain accurate order processing, monitor budgets and provide regular reporting to improve operational efficiency.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu What we will expect from you: Manage the device ordering process for business customers, including smartphones, USB and GPS modems, laptops, tablets and new SIM cards. Provide support throughout the ordering process by creating orders and order forms and monitoring the available budget. Review key elements of signed agreements with business customers and ensure the implementation of agreed terms in relevant systems. Implement changes to tariff plans, approved benefits, discounts, add-ons and other contractual conditions. Maintain records of contract amendments and update customer information across relevant systems. Conduct initial online checks of business customers in line with defined procedures and coordinate with relevant stakeholders when needed. Manage pre-orders for flagship device models, ensuring timely procurement based on availability. Monitor and manage device budgets, including reporting, adjustments, corrections, alternative pricing and budget overruns. Create delivery orders for devices, SIM cards and additional equipment through relevant business systems. Monitor device management trends and prepare weekly, monthly and quarterly reports. Classify customer interactions to support service improvements. Monitor orders placed through digital sales channels, analyse results and propose process and system improvements. Reference: qjCYmsezlov6H_Bt2TqeSTxjBXn0EIRHYsFGXkUL4H3POM3SVhTl0nMFRZcVhXyb For a good start you will need: Minimum secondary education. Good knowledge of Microsoft Office, especially Excel. Good understanding of general business processes and practices. Strong attention to detail. Excellent verbal and presentation skills. Why we think you should apply: Paid internship & career development opportunities Mobile phone and tariff package with unlimited internet Opportunity to participate in business decision making process of a large multinational company Working in a dynamic environment which allows you to freely express opinions, ideas and inspire new ways of doing things A unique and inspiring atmosphere full of talented people willing to share their professional knowledge Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Odabrao sam Yettel kako bih se upoznao sa radom korporacije. Zanimalo me je kako funkcioniše komunikacija i rad u tako velikom sistemu. Najviše me je iznenadila posvećenost ljudi u timu da mi na…\" Pročitajte celo iskustvo Beneficije Edukacija, profesionalni razvoj Wellness Sport i rekreacija Dobrovoljno zdravstveno osiguranje Dodatni slobodni dani Fleksibilno radno vreme Nagrade, bonusi, pokloni Obezbeđena oprema za rad Porodica i roditeljstvo Obuke, konferencije Hrana i piće Otkup opreme Rad od kuće Društvena odgovornost Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapo"
+  },
+  {
+   "source": "infostud",
+   "id": "761914",
+   "title": "Senior IT sistem inženjer",
+   "company": "JAFFA DOO CRVENKA",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-it-sistem-inzenjer/jaffa-doo-crvenka/761914",
+   "summary": "Senior IT sistem inženjer odgovoran je za projektovanje održavanje i unapređenje serverske infrastrukture radi obezbeđivanja stabilnosti dostupnosti i bezbednosti kritičnih servisa. Kandidat će automatizovati administrativne zadatke podržavati backup i recovery procese i rešavati kompleksne infrastrukturne incidente.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu Kappa Star Group (www.kappastar.com) je investiciona grupa koju čini veliki broj članica od kojih su najznačajnije Jaffa doo Crvenka, Umka d.o.o. Umka, Kappa Star Recycling doo, Ekostar Pak doo i KSG Logistics. Članice Kappa Star Grupe svrstavaju se u vodeće proizvođače u okviru delatnosti u kojima posluju. Tražimo iskusnog Senior IT sistem inženjera koji će učestvovati u projektovanju, implementaciji, administraciji i unapređenju serverske i prateće IT infrastrukture kompanije. Lokacija: Beograd Opis posla Učešće u projektovanju, instalaciji, konfigurisanju, monitoringu, održavanju i unapređenju serverske infrastrukture bazirane na Windows Server, Linux i BSD/Unix platformama. Administracija i održavanje ključnih infrastrukturnih servisa i obezbeđivanje njihove stabilnosti, dostupnosti i performansi. Planiranje i sprovođenje redovnog ažuriranja operativnih sistema, infrastrukturnog softvera i servisa, uključujući primenu bezbednosnih i funkcionalnih zakrpa. Automatizacija administratorskih i operativnih zadataka korišćenjem skript jezika i odgovarajućih alata za automatizaciju. Implementacija i kontinuirano unapređenje IT bezbednosnih mera i primena dobre prakse u domenu serverske i infrastrukturne bezbednosti u saradnji sa timom za informacionu bezbednost. Administracija i održavanje infrastrukture za hostovanje web aplikacija i servisa. Planiranje, implementacija i održavanje sistema za izradu rezervnih kopija podataka i sistema, kao i sprovođenje i testiranje procedura za oporavak. Praćenje raspoloživosti, kapaciteta i performansi infrastrukturnih sistema, identifikovanje potencijalnih problema i proaktivno predlaganje unapređenja. Analiza i rešavanje kompleksnih incidenata i problema u domenu serverske infrastrukture. Kreiranje i redovno održavanje tehničke dokumentacije, konfiguracione dokumentacije i operativnih procedura za sisteme iz domena odgovornosti. Učešće u internim IT projektima vezanim za implementaciju novih i unapređenje postojećih IT rešenja. Tehnička procena i predlaganje infrastrukturnih rešenja u skladu sa poslovnim i tehničkim zahtevima. Saradnja sa ostalim IT timovima i eksternim partnerima na implementaciji, održavanju i unapređenju IT infrastrukture. Prenos znanja i pružanje stručne podrške drugim članovima IT tima. Reference: 37sFqAWVlkzdsr2prBVEWC7ks4cxpegvFDZQZKItSKCYS2jS0P9hallGDDc84ce9 Potrebna znanja i iskustvo Visoko obrazovanje odgovarajućeg tehničkog usmerenja ili ekvivalentno višegodišnje relevantno profesionalno iskustvo. Višegodišnje iskustvo u administraciji i održavanju serverske infrastrukture u kompleksnim korporativnim IT okruženjima. Odlično poznavanje Microsoft Windows Server operativnih sistema i pripadajućih infrastrukturnih servisa. Napredno praktično iskustvo u administraciji Windows serverskih servisa, kao što su Active Directory, Group Policy, DNS, DHCP, PKI/Certificate Services i File Services. Dobro poznavanje Linux i drugih Unix-like serverskih operativnih sistema, uz praktično iskustvo u njihovoj instalaciji, konfigurisanju, administraciji i održavanju. Iskustvo u administraciji i održavanju virtualizovanih serverskih okruženja. Poznavanje najmanje jednog skript jezika, uz praktično iskustvo u automatizaciji administratorskih zadataka, prvenstveno PowerShell i/ili Bash. Iskustvo u administraciji i optimizaciji infrastrukture za hostovanje web aplikacija, poželjno u okruženjima zasnovanim na Linux, Nginx, MySQL/MariaDB i PHP/Laravel tehnologijama. Dobro razumevanje mrež"
+  },
+  {
+   "source": "helloworld",
+   "id": "761956",
+   "title": "Senior Full Stack Web Software Developer (Contract)",
+   "company": "Schedulink",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "python",
+    "aws",
+    "devops",
+    "typescript"
+   ],
+   "posted": "2026-10-15",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Web-Software-Developer-Contract/Schedulink/761956",
+   "summary": "Schedulink Rad od kuće online intervju 14.11.2026. 40.000,00 - 50.000,00 USD (gross) JavaScript Python AWS DevOps TypeScript Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior Full Stack Web Software Developer (Contract) Senior Full Stack Web Software Developer (Contract) Schedulink Rad od kuće online intervju 14.11.2026. 40.000,00 - 50.000,00 USD (gross) JavaScript Python AWS DevOps TypeScript senior About Us We are a young, highly profitable startup shaking up the photography industry. While our flagship product was released less than a year ago, we have already found strong product-market fit and are scaling fast. Because we are a small team, there is a tremendous amount of room for growth and leadership opportunities as we expand. About the Codebase & Engineering Culture Engineers thrive when they can focus. With us, you will work on a single product —no agency-style codebase hopping. Our tech stack is modern, structured, and developer-friendly: Backend: Ruby on Rails (RoR) Frontend: React with TypeScript Infrastructure: Everything runs in AWS, fully containerized DevOps: Automated CI/CD pipelines Quality: Decent test coverage currently sitting at ~55% (and we’d love your help to improve it!) The Role We are looking for an experienced, self-motivated Senior Full Stack Developer to takeownership of major technical initiatives. You will be working independently for the most part, checking in via weekly sync meetings, which means you get the deep, uninterrupted focus time you need to build great software. Your Responsibilities: Write clean, scalable, and maintainable backend and frontend code. Draft system design documents and architecture plans for new features. Lead root cause analysis and implement permanent fixes for complex bugs. Conduct code reviews, uphold engineering standards, and mentor junior developers. Requirements Experience & Education: A Graduate degree in Computer Science with 5+ years of software development experience, OR A Graduate degree in another STEM field with 10+ years of software development experience. Technical Skills: 3+ years of professional experience with Ruby OR Python. (Note: Our backend is RoR, but we welcome Python experts willing to adapt!). 3+ years of professional experience with React (JavaScript or TypeScript). Comfortable with basic AWS concepts, operations, and containerized deployments. Soft Skills & Work Style: Highly comfortable working independently and asynchronously, with minimal micromanagement (weekly syncs). Fluent in written and spoken English. Professional fluency is a must! Compensation & Benefits Salary: $40,000 - $50,000 USD gross annually. Time Off : 3 weeks of Paid Time Off (PTO). Impact: The chance to get in on the ground floor of a profitable, fast-growing startup and directly shape its technical direction. How to Apply: Please send your resume and a link to your GitHub/Portfolio electronically. Konkuriši Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačići",
+   "first_seen": "2026-10-15T12:44:32+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762008",
+   "title": "Senior Marketing Manager",
+   "company": "CREATEQ",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "figma",
+    "adobe",
+    "canva"
+   ],
+   "posted": "2026-10-15",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Marketing-Manager/CREATEQ/762008",
+   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Premium",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior Marketing Manager Senior Marketing Manager CREATEQ 3 Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva senior Apply Here Upoznaj kompaniju O Kompaniji Iskustva Plate Beneficije Tech Stack CxO Brief Dobrodošli u svet CREATEQ-a! Mi smo švajcarska kompanija koja se bavi razvojem softvera za razne industrije – od avijacije i finansija, preko energetike i e-učenja, pa sve do telekomunikacija. U Švajcarskoj smo prisutni još od 1996. godine, dok smo prvi razvojni centar u Srbiji otvorili 2004. godine. Počeli smo u Beogradu, proširili se na Niš, a zatim i na Kragujevac. Paralelno s razvojem u Srbiji, širili smo svoja tržišta i u Rumuniji i Moldaviji. Danas se ponosimo timom od oko 200 ljudi koji svakodnevno oblikuju našu kulturu i već više od dve decenije čine CREATEQ sjajnim mestom za rad. Verujemo u timski duh, podržavamo razmenu znanja i brinemo o balansu između posla i privatnog života. Naša strast je razvoj softvera! Uz stručnjake za .NET, JAVA, PHP, Mobile i Web tehnologije, naš tim čine i Scrum Masteri, Business Analisti, Product Owneri, DevOps inženjeri i mnogi drugi. Zajedno kreiramo, razvijamo i održavamo jedinstvena rešenja za klijente iz Ujedinjenog Kraljevstva, Nemačke, Švajcarske i Austrije. Želite da zavirite još dublje u naš svet? Uvek smo u potrazi za novim talentima – pogledajte naše otvorene pozicije na: https://www.createq.com/en/careers 3 60% Menadžment kompanije 2.6 Beneficije 3.2 Balans karijere i privatnog života 2.6 Timska atmosfera 4.2 Zadovoljstvo projektima 3.2 Mogućnost napredovanja 2.6 Iskustvo o radu Iskustvo 04.12.2025 2 Ne preporučuje Qa Prethodno zaposlen/a na neodređeno 7-10 godina Pozitivno Dobre kolege, dobra atmosfera, dobri uslovi za rad, dobra oprema Zamerke Ne vode računa o zaposlenima, na zaposlene gledaju samo kao na resurs i broj Korisno? 4 Pročitaj sva iskustva o kompaniji Software Developer/Engineer 24 plate 1.502 € Prosečna neto plata min 600 medijana 1.350 prosek 1.502 max 3.400 DevOps Engineer 2 plate 2.200 € Prosečna neto plata min 2.000 Prosek i medijana 2.200 max 2.400 QA Specialist 4 plate 1.125 € Prosečna neto plata min 700 medijana 1.075 prosek 1.125 max 1.650 Test Engineer 2 plate 1.075 € Prosečna neto plata min 500 Prosek i medijana 1.075 max 1.650 Business Analyst 3 plate 2.050 € Prosečna neto plata min 1.100 medijana 1.900 prosek 2.050 max 3.150 Technical Lead 1 plata 2.200 € Prosečna neto plata min 2.200 Prosek i medijana 2.200 max 2.200 IT Technician 1 plata 700 € Prosečna neto plata min 700 Prosek i medijana 700 max 700 Software Developer/Engineer 1 plata 8 € /satnica Prosečna satnica min 8 Prosek i medijana 8 max 8 Graphics Designer 1 plata 800 € Prosečna neto plata min 800 Prosek i medijana 800 max 800 Backend developer 1 plata 2.000 € Prosečna neto plata min 2.000 Prosek i medijana 2.000 max 2.000 Full stack developer 1 plata 1.150 € Prosečna neto plata min 1.150 Prosek i medijana 1.150 max 1.150 Delivery Manager 1 plata 2.554 € Prosečna neto plata min 2.554 Prosek i medijana 2.554 max 2.554 Porodica i roditeljstvo Timska druženja Hibridni model rada Edukacija, profesionalni razvoj Sport i rekreacija Dobrovoljno zdravstveno osiguranje Nagrade, bonusi, pokloni Poslovna putovanja Java C# React .NET JavaScript PHP SCRUM NodeJS Docker Kubernetes Groovy Scala Python HTML5 Azure AWS RabbitMQ Kafka IT kompanije iz prve ruke Ivan Kun, General Manager CREATEQ Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, pod",
+   "first_seen": "2026-10-15T12:44:32+00:00"
+  },
   {
    "source": "infostud",
    "id": "761195",
