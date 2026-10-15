@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-15T17:49:18+00:00",
+ "generated_at": "2026-10-15T22:31:27+00:00",
  "window_days": 3,
  "cutoff": "2026-10-12",
  "count": 29,
- "new_count": 1,
+ "new_count": 0,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
@@ -114,7 +114,7 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 129,
+   "vraceno": 130,
    "strane": 5,
    "stop": "kraj"
   },
@@ -134,7 +134,7 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 81,
+   "vraceno": 82,
    "strane": 3,
    "stop": "kraj"
   },
@@ -346,7 +346,7 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Web-Software-Developer-Contract/Schedulink/761956",
-   "summary": "Schedulink Rad od kuće online intervju 14.11.2026. 40.000,00 - 50.000,00 USD (gross) JavaScript Python AWS DevOps TypeScript Senior Novo",
+   "summary": "Schedulink Rad od kuće online intervju 14.11.2026. 40.000,00 - 50.000,00 USD (gross) JavaScript Python AWS DevOps TypeScript Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se",
    "matched": [
     "helloworld"
    ],
@@ -556,7 +556,7 @@
    "expires": "29.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Android-Developer/Blinking-d.o.o/761365",
-   "summary": "Blinking d.o.o. Beograd | Hibrid 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin Intermediate Novo",
+   "summary": "Blinking d.o.o. Beograd | Hibrid 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin Intermediate",
    "matched": [
     "helloworld"
    ],
