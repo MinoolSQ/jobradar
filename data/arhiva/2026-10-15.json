@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-15T12:44:32+00:00",
+ "generated_at": "2026-10-15T17:49:18+00:00",
  "window_days": 3,
  "cutoff": "2026-10-12",
- "count": 28,
- "new_count": 7,
+ "count": 29,
+ "new_count": 1,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
  "infostud_queries": {
   "python": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -24,7 +24,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 40,
+   "vraceno": 42,
    "strane": 2,
    "stop": "kraj"
   },
@@ -59,7 +59,7 @@
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -94,7 +94,7 @@
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 6,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -104,7 +104,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 45,
+   "vraceno": 46,
    "strane": 2,
    "stop": "kraj"
   },
@@ -114,7 +114,7 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 124,
+   "vraceno": 129,
    "strane": 5,
    "stop": "kraj"
   },
@@ -129,17 +129,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 37,
+   "vraceno": 38,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 77,
+   "vraceno": 81,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 7,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
@@ -154,12 +154,45 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 166,
+   "vraceno": 169,
    "strane": 6,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "761815",
+   "title": "IT Operations and Support Intern",
+   "company": "Robert Bosch d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Python",
+    "AWS",
+    "Azure",
+    "PowerShell",
+    "Bash",
+    "Cloud",
+    "Prakse",
+    "Embedded"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-operations-and-support-intern/robert-bosch-doo/761815",
+   "summary": "This internship is focused on ensuring data integrity and supporting regular reporting for the MA division. The intern will prepare and analyze data, coordinate requirements with stakeholders and explore AI driven process optimizations.",
+   "matched": [
+    "python",
+    "aws",
+    "cloud",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-15T17:49:18+00:00",
+   "details": "O poslodavcu Do you want to shape beneficial technologies with your ideas? If so, join us as IT Operations and Support Intern Job Description During your internship: You will support the daily operations of a cloud-based integration platform used for developing and updating vehicle software and services. You will assist with handling incidents and service requests in our ticketing system, including collecting relevant information, updating tickets, and escalating issues to the appropriate teams under guidance. You will learn how to monitor cloud-based applications and connected devices, review alerts, and support initial troubleshooting using dashboards, logs, and documented procedures. You will assist with application, device, and customer service administration, following established processes and access permissions. You will help maintain operational documentation, knowledge articles, and step-by-step support instructions. You will work as part of an international team across Serbia and Germany, collaborating with support specialists, development teams, system architects, product owners, and service managers. You will develop practical skills in cloud operations, monitoring, troubleshooting, and IT service management, with support and guidance from experienced colleagues. Reference: He2qUqzY3AFn6mxZOt9huxlcmtRkUDX3ZUUENjKqdIN6ulnPz7RSBlp6jQE1FxX8 Qualifications What we’re looking for: Currently enrolled in a university degree program, preferably in information technology, computer science, communication technologies, or a related field. Interest in cloud technologies, IT operations, and technical troubleshooting, together with a willingness to learn. A structured approach to problem-solving, attention to detail, and the ability to follow documented procedures. Clear communication skills and a collaborative approach to working with others. Strong English language skills, both written and verbal. What can separate you from the crowd: Basic understanding of cloud concepts or exposure to cloud platforms such as AWS or Azure through coursework, personal projects, or previous experience. Basic scripting knowledge, for example in Python, Bash, or PowerShell, or an interest in automating repetitive tasks. Previous professional experience is not required. Relevant coursework, personal projects, and a demonstrated willingness to learn are welcome. Benefits Paid six-month internship An active role in projects and real business situations Work with experienced mentors who will support you International work environment where innovation and creativity are valued Canteen at the location and organized transport (to Pećinci plant) Various possibilities for sports activities Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch. In Bosch Engineering Center we’re building innovative solutions for a connected world. While our roots are in the connected vehicle, we’ve expanded our expertise to include cutting-edge AI and the implementation of solutions for complex problems for our clients across industries. Our portfolio spans smartphone integration, cloud services, and embedded technology. Driven by creativity, our spirit of innovation-combined with Bosch’s legacy of engineering excellence-gives us a unique edge in shaping the f"
+  },
   {
    "source": "infostud",
    "id": "761921",
