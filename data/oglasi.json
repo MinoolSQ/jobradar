@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T22:25:38+00:00",
+ "generated_at": "2026-10-15T06:00:53+00:00",
  "window_days": 3,
- "cutoff": "2026-10-11",
+ "cutoff": "2026-10-12",
  "count": 21,
  "new_count": 0,
  "errors": [],
@@ -112,7 +112,7 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 95,
+   "vraceno": 96,
    "strane": 4,
    "stop": "kraj"
   },
