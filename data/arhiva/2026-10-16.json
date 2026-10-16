@@ -1,0 +1,823 @@
+{
+ "generated_at": "2026-10-16T05:59:16+00:00",
+ "window_days": 3,
+ "cutoff": "2026-10-13",
+ "count": 23,
+ "new_count": 1,
+ "errors": [],
+ "infostud_queries": {
+  "python": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data engineer": {
+   "vraceno": 12,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data inzenjer": {
+   "vraceno": 4,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "podaci": {
+   "vraceno": 29,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "etl": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "databricks": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "spark": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "airflow": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "backend": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "sql": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "aws": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data platform": {
+   "vraceno": 7,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "kubernetes": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "fastapi": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data analyst": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "devops": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "junior": {
+   "vraceno": 16,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 6,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 38,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 23,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 94,
+   "strane": 4,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 134,
+   "strane": 5,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 6,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 32,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 60,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "serviser": {
+   "vraceno": 6,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "mrezni": {
+   "vraceno": 6,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "windows": {
+   "vraceno": 4,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "racunari": {
+   "vraceno": 121,
+   "strane": 5,
+   "stop": "kraj"
+  }
+ },
+ "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137523",
+   "title": "Sr REACT NATIVE",
+   "company": "Somnio Software",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "react native",
+    "react",
+    "dev",
+    "python",
+    "javascript",
+    "c",
+    "flutter",
+    "node",
+    "node.js",
+    "digital nomad"
+   ],
+   "posted": "2026-10-15",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+   "summary": "QuÃ© es Deazy Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia como Somnio para ejecutarlo. BÃ¡sicamente son un intermediario entre el cliente final y nosotros. CÃ³mo funciona el modelo Deazy factura al cliente final a su p",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-16T05:59:16+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "761815",
+   "title": "IT Operations and Support Intern",
+   "company": "Robert Bosch d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Python",
+    "AWS",
+    "Azure",
+    "PowerShell",
+    "Bash",
+    "Cloud",
+    "Prakse",
+    "Embedded"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-operations-and-support-intern/robert-bosch-doo/761815",
+   "summary": "This internship is focused on ensuring data integrity and supporting regular reporting for the MA division. The intern will prepare and analyze data, coordinate requirements with stakeholders and explore AI driven process optimizations.",
+   "matched": [
+    "python",
+    "aws",
+    "cloud",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-15T17:49:18+00:00",
+   "details": "O poslodavcu Do you want to shape beneficial technologies with your ideas? If so, join us as IT Operations and Support Intern Job Description During your internship: You will support the daily operations of a cloud-based integration platform used for developing and updating vehicle software and services. You will assist with handling incidents and service requests in our ticketing system, including collecting relevant information, updating tickets, and escalating issues to the appropriate teams under guidance. You will learn how to monitor cloud-based applications and connected devices, review alerts, and support initial troubleshooting using dashboards, logs, and documented procedures. You will assist with application, device, and customer service administration, following established processes and access permissions. You will help maintain operational documentation, knowledge articles, and step-by-step support instructions. You will work as part of an international team across Serbia and Germany, collaborating with support specialists, development teams, system architects, product owners, and service managers. You will develop practical skills in cloud operations, monitoring, troubleshooting, and IT service management, with support and guidance from experienced colleagues. Reference: He2qUqzY3AFn6mxZOt9huxlcmtRkUDX3ZUUENjKqdIN6ulnPz7RSBlp6jQE1FxX8 Qualifications What we’re looking for: Currently enrolled in a university degree program, preferably in information technology, computer science, communication technologies, or a related field. Interest in cloud technologies, IT operations, and technical troubleshooting, together with a willingness to learn. A structured approach to problem-solving, attention to detail, and the ability to follow documented procedures. Clear communication skills and a collaborative approach to working with others. Strong English language skills, both written and verbal. What can separate you from the crowd: Basic understanding of cloud concepts or exposure to cloud platforms such as AWS or Azure through coursework, personal projects, or previous experience. Basic scripting knowledge, for example in Python, Bash, or PowerShell, or an interest in automating repetitive tasks. Previous professional experience is not required. Relevant coursework, personal projects, and a demonstrated willingness to learn are welcome. Benefits Paid six-month internship An active role in projects and real business situations Work with experienced mentors who will support you International work environment where innovation and creativity are valued Canteen at the location and organized transport (to Pećinci plant) Various possibilities for sports activities Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch. In Bosch Engineering Center we’re building innovative solutions for a connected world. While our roots are in the connected vehicle, we’ve expanded our expertise to include cutting-edge AI and the implementation of solutions for complex problems for our clients across industries. Our portfolio spans smartphone integration, cloud services, and embedded technology. Driven by creativity, our spirit of innovation-combined with Bosch’s legacy of engineering excellence-gives us a unique edge in shaping the f"
+  },
+  {
+   "source": "infostud",
+   "id": "761921",
+   "title": "Data Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-analyst/maxbet-doo/761921",
+   "summary": "The Data Analyst role exists to transform large and complex datasets into accurate actionable insights that guide promotional and business decisions. The position focuses on ensuring data quality building automated reporting and collaborating with BI and cross-functional teams to support analytics driven improvements.",
+   "matched": [
+    "data analyst",
+    "it support"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu MaxBet is part of Flutter Entertainment (NYSE: FLUT) - the world’s largest online gambling operator, publicly listed on the New York Stock Exchange . As a truly global leader in sports betting and gaming, Flutter shapes the future of the industry. MaxBet is a rapidly growing company specializing in sports betting, gaming and gambling. Headquartered in Serbia, we have a strong presence in Bosnia and Herzegovina, Montenegro and North Macedonia . We are committed to setting new industry standards, delivering top-tier entertainment while upholding the highest integrity. Our success is built on our people - we foster a culture of teamwork, clear communication and mutual respect. As we continue to grow, we are looking for a: Data Analyst City: Belgrade Role Summary: This position will be part of our Promo team, reporting directly to the Flutter Group. The role focuses on collecting, analyzing, and processing large datasets, ensuring data quality and accuracy, and transforming complex data into clear, actionable insights that support informed business decision-making. Responsibilities: Collecting and interpreting trends or patterns in complex data sets, analyzing results using advanced statistical techniques. Creating data dashboards, graphs, and visualizations, as well as building automated reports, alerts, and subscriptions to ensure the continuous delivery of requested data using Tableau Server. Conducting research, writing reports, providing advice and projections, and identifying areas for improving efficiency and automating processes. Participating in cross-departmental projects to meet business needs. Working closely with the BI Development team to create and optimize database objects required to support reporting systems (e.g., creating cubes in Tableau and creating or adjusting specific fields). Ensuring the accurate, intentional, and responsible use of users’ personal data when working with the AML, Legal, or Risk departments. Reference: fJILGsve0tM8zGaE9m_GIPKFfbY0CDf0vujx6p25OcmXzmCzu8WOTjC4yk2KMnfS Qualifications: Proven working experience as a data analyst. Working Knowledge of statistics. Working knowledge of Tableau/SQL. Ability to analyze and interpret data and to translate data insights into business recommendations. Accuracy and attention to detail. Professional working proficiency in English. Perks and benefits: Health & Well-being: Private health insurance. Up to 6 days of 100% paid leave without a certificate. Sports membership. Work Environment & Comfort: Modern workspace with relaxation areas. Hybrid work model with flexible working hours. Remote work up to 30 days/year. Work-Life Balance: 24+ days of annual leave. Birthday off. Reduced hours for moms with kids starting kindergarten. Fully covered maternity leave (according to company policy). Day off for parents of first graders. Growth & Development: Paid training, workshops, and educational opportunities. Team-building events and sports activities. Additional Perks: Daily transportation between Novi Sad & Belgrade for Novi Sad colleagues working in Belgrade. Role-based bonus opportunities. Referral bonuses for recommending new hires. Full equipment and onboarding for every role. MaxBet MaxBet, deo međunarodnog lidera Flutter International, izdvaja se u svetu igara na sreću kao kompanija posvećena inovacijama i naprednim tehnološkim rešenjima. Od svojih početaka 1993. godine, MaxBet je postao prisutan u preko 200 gradova širom Srbije i regiona, uključujuć"
+  },
+  {
+   "source": "infostud",
+   "id": "761790",
+   "title": "IT tehničar - korisnička i terenska IT podrška",
+   "company": "Autokomerc d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "Podrška",
+    "TCP/IP",
+    "BI",
+    "TCP",
+    "Active Directory"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar-korisnicka-i-terenska-it-podrska/autokomerc-doo/761790",
+   "summary": "Pozicija služi za obezbeđivanje stabilnog rada korisničke IT opreme i pružanje efikasne tehničke podrške zaposlenima. Kandidat će rešavati svakodnevne tehničke probleme na lokaciji i voditi evidenciju i održavanje IT inventara.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu Kompanija Autokomerc d.o.o., ovlašćeni partner za Audi i VW vozila, nudi širok asortiman novih putničkih i privrednih vozila, rezervnih delova i profesionalnih servisnih usluga. Kao najstarija domaća privatna kompanija iz automobilske industrije, od 1992. godine smo specijalizovani za prodaju novih i polovnih vozila, flotna rešenja za kompanije, kao i kompletnu postprodajnu podršku. Naše dugogodišnje tržišno iskustvo nudi stabilnu poslovnu saradnju zasnovanu na stručnom kadru, kvalitetu, pouzdanosti i savremenim poslovnim rešenjima. U cilju podizanja kvaliteta naših usluga, potrebna nam je ambiciozna i organizovana osoba za sledeću poziciju: IT tehničar - korisnička i terenska IT podrška Mesto rada: Beograd (1 izvršilac) Da li voliš praktičan rad, rešavanje tehničkih problema i svakodnevnu komunikaciju sa korisnicima? Da li želiš da budeš ključni oslonac stabilnog IT sistema u renomiranoj kompaniji? Tražimo osoblje koje će obezbediti efikasnu tehničku podršku zaposlenima i besprekorno funkcionisanje korisničke opreme. Šta će biti tvoja zaduženja? Kao član naše IT službe, tvoj fokus biće na pružanju kvalitetne tehničke podrške i održavanju opreme: Instalacija i održavanje: Instaliranje, podešavanje i održavanje desktop i laptop računara, Windows operativnih sistema i standardnih programa. Rešavanje problema: Otklanjanje smetnji sa štampačima, skenerima, monitorima, perifernom opremom i drugim korisničkim uređajima. Aplikativna podrška: Podešavanje Outlook-a, korisničkih Microsoft 365 aplikacija, kao i instalacija klijentskih verzija poslovnih aplikacija prema uputstvima IT službe. Upravljanje opremom i inventarom: Priprema opreme za nove zaposlene, vođenje evidencije zaduženja i razduženja, kao i vođenje inventara IT opreme. Mrežna dijagnostika i teren: Obavljanje osnovne mrežne dijagnostike, terenskih intervencija i rada na različitim lokacijama kompanije po potrebi. Administracija i dokumentacija: Evidentiranje korisničkih zahteva, eskalacija složenijih problema administratoru i priprema jednostavnih korisničkih uputstava. Reference: iWsgIHnHwxNwXswJHRG0wArOANBzE8G-v1lfisqqGX3ig_rwu11ic2lHOdYrRPP8 Profil idealnog kandidata: Tražimo profesionalca koji poseduje tehničko znanje, odgovornost i pedantnost u radu: Obrazovanje i znanje: Dobro poznavanje Windows operativnih sistema i PC hardvera. Iskustvo: Iskustvo sa instalacijom softvera, drajvera, štampača i rešavanjem uobičajenih korisničkih problema (prethodno iskustvo u helpdesk/desktop support poslovima, poznavanje Active Directory osnova, Microsoft 365 i ticketing sistema predstavlja prednost, ali nije uslov). Tehničke veštine: Osnovno razumevanje TCP/IP mreža, Wi-Fi i rada u domenskom okruženju. Lične osobine: Odgovornost, organizovanost, strpljenje i izražena komunikativnost. Vozačka dozvola: B kategorija. Šta Autokomerc nudi tebi? Stabilnost i tradiciju: Rad u organizovanoj IT službi i renomiranoj kompaniji uz podršku iskusnog IT Managera. Razvoj karijere: Priliku za usavršavanje u korisničkoj podršci, računarskim mrežama i poslovnom IT okruženju kroz raznovrsne zadatke. Okruženje: Rad u dinamičnom i profesionalnom timu. Uslovi i naknada: Uslovi zaposlenja i finansijska naknada definisani su prema dogovoru i dosadašnjem iskustvu kandidata. Kako da se prijaviš? Ako prepoznaješ sebe u ovom opisu i želiš da razvijaš svoju IT karijeru u uspešnom sistemu, pošalji nam svoj CV! Biće kontaktirani samo kandidati koji uđu u uži izbor. Zahvaljujemo se svim kandidatima na interesov"
+  },
+  {
+   "source": "infostud",
+   "id": "761949",
+   "title": "IT tehničar/System Administrator",
+   "company": "Electus d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar-system-administrator/electus-doo/761949",
+   "summary": "Pozicija ima zadatak da obezbedi pouzdanu tehničku podršku i kontinuirano održavanje IT opreme kako bi poslovni procesi funkcionisali bez zastoja. Kandidat će dijagnostikovati i rešavati hardverske softverske i mrežne probleme i upravljati pristupima i nalozima prema definisanim procedurama.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu Opis posla: Pružanje tehničke podrške zaposlenima Instalacija, konfiguracija i održavanje računara, mobilnih uređaja, štampača i druge IT opreme Dijagnostika i rešavanje hardverskih, softverskih i mrežnih problema Instalacija i osnovno održavanje mrežne opreme Administracija korisničkih naloga, pristupa i korisničkih prava Podešavanje korisničkih menija i pristupa poslovnim aplikacijama Podrška korisnicima ERP, POS i drugih poslovnih aplikacija Osnovna administracija poslovnih sistema prema definisanim procedurama Podrška IT sistemima i opremi kod klijenata Vođenje evidencije IT opreme, intervencija i servisiranja Komunikacija i koordinacija sa eksternim servisima i dobavljačima IT opreme i usluga Dokumentovanje IT procedura, konfiguracija i rešenja učestalih problema Primena definisanih pravila IT bezbednosti i upravljanja pristupima Reference: mm0gDt9xQBpTQbuFoBQytLOT8uPDm6VL2aymwy9SK59riTBAFOUCO_0kRdl-WDjC Potrebne kvalifikacije SSS/VŠS/VSS tehničkog ili IT usmerenja Minimum godinu dana iskustva na poslovima IT podrške, IT administracije ili sličnoj poziciji Dobro poznavanje Windows 10/11 operativnih sistema Dobro poznavanje računarskog hardvera i periferne opreme Osnovno poznavanje računarskih mreža, TCP/IP protokola, Wi-Fi mreža, rutera i switch-eva Osnovno poznavanje administracije korisničkih naloga i prava pristupa Sposobnost samostalnog dijagnostikovanja i rešavanja tehničkih problema Engleski jezik na nivou potrebnom za korišćenje tehničke dokumentacije Vozačka dozvola B kategorije, aktivan vozač Profesionalan i odgovoran pristup radnim obavezama Spremnost za usvajanje novih znanja i veština. Šta vam nudimo Stalni radni odnos, uz probni rad od 3 meseca Rad u odličnim uslovima i prijatnoj radnoj atmosferi Dobrovoljno zdravstveno osiguranje Budžet za dodatnu edukaciju Prednost imaju kandidati sa iskustvom u radu sa ERP, POS ili drugim poslovnim informacionim sistemima Windows Server okruženju remote support alatima administraciji poslovnih aplikacija Molimo da Vaše biografije dostavite elektronskim putem. U najkraćem roku će biti kontaktirani kandidati koji uđu u najuži izbor. Electus d.o.o. Ivana Sarica 4, Beograd, Srbija PIB: 108975255 Matični broj: 21103853 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support IT tehničar/System Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim"
+  },
+  {
+   "source": "infostud",
+   "id": "761950",
+   "title": "KICKSTART - Digital Implementation Support Specialist - intern",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prakse",
+    "Express"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/kickstart-digital-implementation-support-specialist-intern/yettel-doo/761950",
+   "summary": "The role exists to manage ordering and delivery of devices for business customers while ensuring contractual terms are implemented and budgets are controlled. The successful candidate will maintain accurate order processing, monitor budgets and provide regular reporting to improve operational efficiency.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu What we will expect from you: Manage the device ordering process for business customers, including smartphones, USB and GPS modems, laptops, tablets and new SIM cards. Provide support throughout the ordering process by creating orders and order forms and monitoring the available budget. Review key elements of signed agreements with business customers and ensure the implementation of agreed terms in relevant systems. Implement changes to tariff plans, approved benefits, discounts, add-ons and other contractual conditions. Maintain records of contract amendments and update customer information across relevant systems. Conduct initial online checks of business customers in line with defined procedures and coordinate with relevant stakeholders when needed. Manage pre-orders for flagship device models, ensuring timely procurement based on availability. Monitor and manage device budgets, including reporting, adjustments, corrections, alternative pricing and budget overruns. Create delivery orders for devices, SIM cards and additional equipment through relevant business systems. Monitor device management trends and prepare weekly, monthly and quarterly reports. Classify customer interactions to support service improvements. Monitor orders placed through digital sales channels, analyse results and propose process and system improvements. Reference: qjCYmsezlov6H_Bt2TqeSTxjBXn0EIRHYsFGXkUL4H3POM3SVhTl0nMFRZcVhXyb For a good start you will need: Minimum secondary education. Good knowledge of Microsoft Office, especially Excel. Good understanding of general business processes and practices. Strong attention to detail. Excellent verbal and presentation skills. Why we think you should apply: Paid internship & career development opportunities Mobile phone and tariff package with unlimited internet Opportunity to participate in business decision making process of a large multinational company Working in a dynamic environment which allows you to freely express opinions, ideas and inspire new ways of doing things A unique and inspiring atmosphere full of talented people willing to share their professional knowledge Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Odabrao sam Yettel kako bih se upoznao sa radom korporacije. Zanimalo me je kako funkcioniše komunikacija i rad u tako velikom sistemu. Najviše me je iznenadila posvećenost ljudi u timu da mi na…\" Pročitajte celo iskustvo Beneficije Edukacija, profesionalni razvoj Wellness Sport i rekreacija Dobrovoljno zdravstveno osiguranje Dodatni slobodni dani Fleksibilno radno vreme Nagrade, bonusi, pokloni Obezbeđena oprema za rad Porodica i roditeljstvo Obuke, konferencije Hrana i piće Otkup opreme Rad od kuće Društvena odgovornost Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapo"
+  },
+  {
+   "source": "infostud",
+   "id": "761914",
+   "title": "Senior IT sistem inženjer",
+   "company": "JAFFA DOO CRVENKA",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-it-sistem-inzenjer/jaffa-doo-crvenka/761914",
+   "summary": "Senior IT sistem inženjer odgovoran je za projektovanje održavanje i unapređenje serverske infrastrukture radi obezbeđivanja stabilnosti dostupnosti i bezbednosti kritičnih servisa. Kandidat će automatizovati administrativne zadatke podržavati backup i recovery procese i rešavati kompleksne infrastrukturne incidente.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu Kappa Star Group (www.kappastar.com) je investiciona grupa koju čini veliki broj članica od kojih su najznačajnije Jaffa doo Crvenka, Umka d.o.o. Umka, Kappa Star Recycling doo, Ekostar Pak doo i KSG Logistics. Članice Kappa Star Grupe svrstavaju se u vodeće proizvođače u okviru delatnosti u kojima posluju. Tražimo iskusnog Senior IT sistem inženjera koji će učestvovati u projektovanju, implementaciji, administraciji i unapređenju serverske i prateće IT infrastrukture kompanije. Lokacija: Beograd Opis posla Učešće u projektovanju, instalaciji, konfigurisanju, monitoringu, održavanju i unapređenju serverske infrastrukture bazirane na Windows Server, Linux i BSD/Unix platformama. Administracija i održavanje ključnih infrastrukturnih servisa i obezbeđivanje njihove stabilnosti, dostupnosti i performansi. Planiranje i sprovođenje redovnog ažuriranja operativnih sistema, infrastrukturnog softvera i servisa, uključujući primenu bezbednosnih i funkcionalnih zakrpa. Automatizacija administratorskih i operativnih zadataka korišćenjem skript jezika i odgovarajućih alata za automatizaciju. Implementacija i kontinuirano unapređenje IT bezbednosnih mera i primena dobre prakse u domenu serverske i infrastrukturne bezbednosti u saradnji sa timom za informacionu bezbednost. Administracija i održavanje infrastrukture za hostovanje web aplikacija i servisa. Planiranje, implementacija i održavanje sistema za izradu rezervnih kopija podataka i sistema, kao i sprovođenje i testiranje procedura za oporavak. Praćenje raspoloživosti, kapaciteta i performansi infrastrukturnih sistema, identifikovanje potencijalnih problema i proaktivno predlaganje unapređenja. Analiza i rešavanje kompleksnih incidenata i problema u domenu serverske infrastrukture. Kreiranje i redovno održavanje tehničke dokumentacije, konfiguracione dokumentacije i operativnih procedura za sisteme iz domena odgovornosti. Učešće u internim IT projektima vezanim za implementaciju novih i unapređenje postojećih IT rešenja. Tehnička procena i predlaganje infrastrukturnih rešenja u skladu sa poslovnim i tehničkim zahtevima. Saradnja sa ostalim IT timovima i eksternim partnerima na implementaciji, održavanju i unapređenju IT infrastrukture. Prenos znanja i pružanje stručne podrške drugim članovima IT tima. Reference: 37sFqAWVlkzdsr2prBVEWC7ks4cxpegvFDZQZKItSKCYS2jS0P9hallGDDc84ce9 Potrebna znanja i iskustvo Visoko obrazovanje odgovarajućeg tehničkog usmerenja ili ekvivalentno višegodišnje relevantno profesionalno iskustvo. Višegodišnje iskustvo u administraciji i održavanju serverske infrastrukture u kompleksnim korporativnim IT okruženjima. Odlično poznavanje Microsoft Windows Server operativnih sistema i pripadajućih infrastrukturnih servisa. Napredno praktično iskustvo u administraciji Windows serverskih servisa, kao što su Active Directory, Group Policy, DNS, DHCP, PKI/Certificate Services i File Services. Dobro poznavanje Linux i drugih Unix-like serverskih operativnih sistema, uz praktično iskustvo u njihovoj instalaciji, konfigurisanju, administraciji i održavanju. Iskustvo u administraciji i održavanju virtualizovanih serverskih okruženja. Poznavanje najmanje jednog skript jezika, uz praktično iskustvo u automatizaciji administratorskih zadataka, prvenstveno PowerShell i/ili Bash. Iskustvo u administraciji i optimizaciji infrastrukture za hostovanje web aplikacija, poželjno u okruženjima zasnovanim na Linux, Nginx, MySQL/MariaDB i PHP/Laravel tehnologijama. Dobro razumevanje mrež"
+  },
+  {
+   "source": "helloworld",
+   "id": "761956",
+   "title": "Senior Full Stack Web Software Developer (Contract)",
+   "company": "Schedulink",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "python",
+    "aws",
+    "devops",
+    "typescript"
+   ],
+   "posted": "2026-10-15",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Web-Software-Developer-Contract/Schedulink/761956",
+   "summary": "Schedulink Rad od kuće online intervju 14.11.2026. 40.000,00 - 50.000,00 USD (gross) JavaScript Python AWS DevOps TypeScript Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior Full Stack Web Software Developer (Contract) Senior Full Stack Web Software Developer (Contract) Schedulink Rad od kuće online intervju 14.11.2026. 40.000,00 - 50.000,00 USD (gross) JavaScript Python AWS DevOps TypeScript senior About Us We are a young, highly profitable startup shaking up the photography industry. While our flagship product was released less than a year ago, we have already found strong product-market fit and are scaling fast. Because we are a small team, there is a tremendous amount of room for growth and leadership opportunities as we expand. About the Codebase & Engineering Culture Engineers thrive when they can focus. With us, you will work on a single product —no agency-style codebase hopping. Our tech stack is modern, structured, and developer-friendly: Backend: Ruby on Rails (RoR) Frontend: React with TypeScript Infrastructure: Everything runs in AWS, fully containerized DevOps: Automated CI/CD pipelines Quality: Decent test coverage currently sitting at ~55% (and we’d love your help to improve it!) The Role We are looking for an experienced, self-motivated Senior Full Stack Developer to takeownership of major technical initiatives. You will be working independently for the most part, checking in via weekly sync meetings, which means you get the deep, uninterrupted focus time you need to build great software. Your Responsibilities: Write clean, scalable, and maintainable backend and frontend code. Draft system design documents and architecture plans for new features. Lead root cause analysis and implement permanent fixes for complex bugs. Conduct code reviews, uphold engineering standards, and mentor junior developers. Requirements Experience & Education: A Graduate degree in Computer Science with 5+ years of software development experience, OR A Graduate degree in another STEM field with 10+ years of software development experience. Technical Skills: 3+ years of professional experience with Ruby OR Python. (Note: Our backend is RoR, but we welcome Python experts willing to adapt!). 3+ years of professional experience with React (JavaScript or TypeScript). Comfortable with basic AWS concepts, operations, and containerized deployments. Soft Skills & Work Style: Highly comfortable working independently and asynchronously, with minimal micromanagement (weekly syncs). Fluent in written and spoken English. Professional fluency is a must! Compensation & Benefits Salary: $40,000 - $50,000 USD gross annually. Time Off : 3 weeks of Paid Time Off (PTO). Impact: The chance to get in on the ground floor of a profitable, fast-growing startup and directly shape its technical direction. How to Apply: Please send your resume and a link to your GitHub/Portfolio electronically. Konkuriši Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačići",
+   "first_seen": "2026-10-15T12:44:32+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762008",
+   "title": "Senior Marketing Manager",
+   "company": "CREATEQ",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "figma",
+    "adobe",
+    "canva"
+   ],
+   "posted": "2026-10-15",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Marketing-Manager/CREATEQ/762008",
+   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Premium",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior Marketing Manager Senior Marketing Manager CREATEQ 3 Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva senior Apply Here Upoznaj kompaniju O Kompaniji Iskustva Plate Beneficije Tech Stack CxO Brief Dobrodošli u svet CREATEQ-a! Mi smo švajcarska kompanija koja se bavi razvojem softvera za razne industrije – od avijacije i finansija, preko energetike i e-učenja, pa sve do telekomunikacija. U Švajcarskoj smo prisutni još od 1996. godine, dok smo prvi razvojni centar u Srbiji otvorili 2004. godine. Počeli smo u Beogradu, proširili se na Niš, a zatim i na Kragujevac. Paralelno s razvojem u Srbiji, širili smo svoja tržišta i u Rumuniji i Moldaviji. Danas se ponosimo timom od oko 200 ljudi koji svakodnevno oblikuju našu kulturu i već više od dve decenije čine CREATEQ sjajnim mestom za rad. Verujemo u timski duh, podržavamo razmenu znanja i brinemo o balansu između posla i privatnog života. Naša strast je razvoj softvera! Uz stručnjake za .NET, JAVA, PHP, Mobile i Web tehnologije, naš tim čine i Scrum Masteri, Business Analisti, Product Owneri, DevOps inženjeri i mnogi drugi. Zajedno kreiramo, razvijamo i održavamo jedinstvena rešenja za klijente iz Ujedinjenog Kraljevstva, Nemačke, Švajcarske i Austrije. Želite da zavirite još dublje u naš svet? Uvek smo u potrazi za novim talentima – pogledajte naše otvorene pozicije na: https://www.createq.com/en/careers 3 60% Menadžment kompanije 2.6 Beneficije 3.2 Balans karijere i privatnog života 2.6 Timska atmosfera 4.2 Zadovoljstvo projektima 3.2 Mogućnost napredovanja 2.6 Iskustvo o radu Iskustvo 04.12.2025 2 Ne preporučuje Qa Prethodno zaposlen/a na neodređeno 7-10 godina Pozitivno Dobre kolege, dobra atmosfera, dobri uslovi za rad, dobra oprema Zamerke Ne vode računa o zaposlenima, na zaposlene gledaju samo kao na resurs i broj Korisno? 4 Pročitaj sva iskustva o kompaniji Software Developer/Engineer 24 plate 1.502 € Prosečna neto plata min 600 medijana 1.350 prosek 1.502 max 3.400 DevOps Engineer 2 plate 2.200 € Prosečna neto plata min 2.000 Prosek i medijana 2.200 max 2.400 QA Specialist 4 plate 1.125 € Prosečna neto plata min 700 medijana 1.075 prosek 1.125 max 1.650 Test Engineer 2 plate 1.075 € Prosečna neto plata min 500 Prosek i medijana 1.075 max 1.650 Business Analyst 3 plate 2.050 € Prosečna neto plata min 1.100 medijana 1.900 prosek 2.050 max 3.150 Technical Lead 1 plata 2.200 € Prosečna neto plata min 2.200 Prosek i medijana 2.200 max 2.200 IT Technician 1 plata 700 € Prosečna neto plata min 700 Prosek i medijana 700 max 700 Software Developer/Engineer 1 plata 8 € /satnica Prosečna satnica min 8 Prosek i medijana 8 max 8 Graphics Designer 1 plata 800 € Prosečna neto plata min 800 Prosek i medijana 800 max 800 Backend developer 1 plata 2.000 € Prosečna neto plata min 2.000 Prosek i medijana 2.000 max 2.000 Full stack developer 1 plata 1.150 € Prosečna neto plata min 1.150 Prosek i medijana 1.150 max 1.150 Delivery Manager 1 plata 2.554 € Prosečna neto plata min 2.554 Prosek i medijana 2.554 max 2.554 Porodica i roditeljstvo Timska druženja Hibridni model rada Edukacija, profesionalni razvoj Sport i rekreacija Dobrovoljno zdravstveno osiguranje Nagrade, bonusi, pokloni Poslovna putovanja Java C# React .NET JavaScript PHP SCRUM NodeJS Docker Kubernetes Groovy Scala Python HTML5 Azure AWS RabbitMQ Kafka IT kompanije iz prve ruke Ivan Kun, General Manager CREATEQ Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, pod",
+   "first_seen": "2026-10-15T12:44:32+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "761195",
+   "title": "Senior Full Stack Developer",
+   "company": "Veriest Venture Serbia d.o.o. part of Aman Group",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "JavaScript",
+    "Spring",
+    "Java",
+    "JUnit",
+    "Selenium",
+    "Jenkins",
+    "DevOps",
+    "Programiranje",
+    "TypeScript",
+    "Cloud",
+    "RESTful",
+    "Microservices",
+    "Kubernetes",
+    "Kotlin"
+   ],
+   "posted": "2026-10-14",
+   "expires": "13.11.2026",
+   "salary": "bruto 40 - 65 USD (satnica) ",
+   "url": "https://poslovi.infostud.com/posao/senior-full-stack-developer/veriest-venture-serbia-doo-par/761195",
+   "summary": "This role exists to own and deliver end to end enterprise scale software including back end services front end interfaces and cloud deployments. The senior engineer will drive architecture decisions raise engineering quality and mentor the team to ensure reliable testable and production ready solutions.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "kubernetes",
+    "devops",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-14T18:04:46+00:00",
+   "details": "O poslodavcu Job Title: Senior Full Stack Developer Location: Remote Employment type: B2B contract, indefinite basis (Freelance or Contract) For our client, ZIM Integrated Shipping Services , a global shipping and logistics company, we are seeking a Senior Full Stack Developer to join ZIMLABS , ZIM's technology innovation hub. In this role, you'll help design and build cutting-edge digital products while taking ownership of the full software development lifecycle, from solution design and architecture to development, testing, and deployment. You'll collaborate in a highly engineering-driven environment that embraces Extreme Programming (XP), remote pair programming, TDD, and continuous improvement. Role description: Hands on expert level fullstack development of innovative, business-critical applications. Own and lead the full engineering lifecycle: technical discovery, solution design, architecture, implementation, testing strategy, DevOps, production readiness, and continuous improvement. Act as a technical authority for complex Java/Spring, React, microservices, cloud/hybrid, and container-based solutions. Drive XP practices with remote pairing, TDD/BDD, continuous integration, evolutionary design, fast feedback loops, and high-quality engineering standards. Use AI-assisted development capabilities responsibly to accelerate delivery, improve design quality, generate tests, review code, support refactoring, and enhance engineering productivity. Reference: qWeIwnCTytxFOlgbGrPOUZUOowaH-OMplVO2beuDJf5m9ETajQblhovHM58TjEHy Key responsibilities: Lead architecture and design decisions for complex services, APIs, front-end capabilities, integration flows, and cloud-ready components. Guide other developers through pairing, code reviews, design reviews, mentoring, and hands-on technical leadership. Translate business needs into scalable, maintainable, secure, and testable technical solutions. Identify modernization opportunities, reduce technical debt, and improve system reliability, observability, performance, and deployment quality. Promote engineering excellence across teams: clean code, automation, testability, secure coding, reusable components, and clear technical documentation. Role requirements: BSc in Software Engineering or BS degree in Computer Science, or equivalent practical engineering experience. 8+ years of hands-on software engineering experience, including significant experience in enterprise-scale systems. Expert-level Java experience, including Spring / Spring Boot / Spring Cloud, microservices, RESTful APIs, and integration-oriented architecture. 4+ years of front-end development experience, mainly React, with strong knowledge of modern JavaScript / TypeScript frameworks, component design, state management, and reactive UI patterns. Strong experience in distributed systems design, API-first architecture, service resilience, service discovery, circuit breaker patterns, scalability, observability, and performance tuning. Strong experience with TDD/BDD and automated testing using frameworks such as JUnit, Jasmine, Mockito, Protractor/Selenium, or equivalent modern tools. Solid DevOps mindset and hands-on experience with CI/CD, Jenkins or equivalent pipelines, automated quality gates, deployment automation, and production-readiness practices. Experience designing, developing, and deploying cloud/hybrid solutions in container-based environments such as Kubernetes or Cloud Foundry. Experience with Kotlin, functional programming,"
+  },
+  {
+   "source": "infostud",
+   "id": "761749",
+   "title": "Support Specialist (Night Shift)",
+   "company": "M Plus Serbia d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Podrška",
+    "Hardware"
+   ],
+   "posted": "2026-10-14",
+   "expires": "29.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/support-specialist-night-shift/m-plus-serbia-doo/761749",
+   "summary": "The Support Specialist provides night shift technical and on call assistance to ensure customer sites operate smoothly. The role centers on hardware and software troubleshooting, supporting new customer launches, and communicating technical information in user friendly terms.",
+   "matched": [
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-10-14T18:04:46+00:00",
+   "details": "O poslodavcu WE'RE HIRING! Support Specialist (Night shift) M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. We are seeking a passionate and tech-savvy Support Specialist to join us. This role involves providing on-call support, managing and troubleshooting hardware and software, and supporting new customer launches. We're committed to bringing passion and customer focus to the business. Primary Responsibilities: On-call responsiveness to support inquiries, both virtually and in-person Managing, maintaining, and troubleshooting hardware and software across sites Setting up and installing hardware Inputting data for client sites New customer launch support Leading training sessions Creating templates to make communication more efficient Communicating technical details to users in layman’s terms Reference: 1rcX7GMulRCQQdeM5b1YiH38pWjBsUIvcBXI_EJ19bumqQyS6RSJPNS6VlWr9PFL What we expect from you: Excellent English communication skills, both written and verbal Communicate effectively with customers to identify needs and provide solutions Strong critical thinking skills Self-driven, can operate independently, and respond to unexpected situations with confidence Able to manage multiple competing priorities Must have good Microsoft office skills with a working knowledge of Teams, Word and Excel Experience with various operating systems and POS systems is a plus Willingness to work primarily during night shifts, including weekends What you will get from us: Remote model of work Paid training Opportunity to work with a dynamic, fast-growing team Private health insurance Benefit package available to all our employees (day off for a birthday, discounts with our partners from different industries) If you are ready to contribute to this position, apply now with your CV in English. We look forward to your application! Note: Only shortlisted candidates will be contacted. Best of luck! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od 10 godina. Mplus mi je kroz godine dao prostora za razvoj karijere, to je ono što motiviše mene i…\" Pročitajte celo iskustvo Beneficije Obuke, konferencije Edukacija, profesionalni razvoj Zabavni sadržaj Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Timska druženja Zdravlje Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ž"
+  },
+  {
+   "source": "infostud",
+   "id": "761733",
+   "title": "Technical Support Representative - French speaker",
+   "company": "NCR d.o.o. - NCR Voyix",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-14",
+   "expires": "13.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/technical-support-representative-french-speaker/ncr-doo-ncr-voyix/761733",
+   "summary": "This role delivers technical support and incident management for clients and field engineers to ensure continuous service delivery. The specialist will diagnose and escalate complex issues while maintaining SLA compliance and contributing to knowledge documentation.",
+   "matched": [
+    "data engineer",
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-10-14T18:04:46+00:00",
+   "details": "O poslodavcu Job Title: Technical Support Representative - French Speaker Location: Belgrade, Serbia Working time: 1st, 2nd and 3rd shift Position Summary & Key Responsibilities The position provides technical support to NCR Voyix’s clients, Customer Engineers, and partners by identifying, analyzing, diagnosing, and resolving issues. The role requires strong problem-solving skills, customer focus, and the ability to manage incidents while ensuring contractual service levels are maintained. Key Responsibilities: Provide remote support to NCR Voyix clients, Customer Engineers, and partners, including problem identification, analysis, diagnosis, and resolution. Lead problem isolation activities and present recommended solutions and implementation plans, ensuring alignment with relevant stakeholders. Respond to incoming phone calls, emails, and support tickets from clients and field engineers. Monitor notification and ticket queues, remotely resolve issues where possible, and dispatch tickets to the appropriate teams when further assistance is required. Manage incidents to ensure contractual Service Level Agreements (SLAs) are achieved. Follow established escalation procedures when SLAs are at risk. Utilize NCR and vendor-provided knowledge systems to identify solutions for known issues and ensure successful resolution. Contribute to knowledge management by customizing and providing business data, updating knowledge applications, and preparing standard reports. Escalate complex issues to specialized support teams when no known solution is available, while maintaining ownership of escalated incidents through final resolution. Keep NCR Management informed of issues that may require extended resolution times beyond contractual commitments. Proactively anticipate internal and external customer needs while maintaining a strong commitment to customer satisfaction. Monitor and respond to customer-impacting events to ensure timely resolution and service continuity. Reference: 6b_AJgMgdJMszCrKcgj0ytC-V1oDqvAuoQNHXE52Ij1WcdQwhONKi-fYSXB7Mb41 Qualifications & Requirements: Minimum high school diploma or equivalent required. Excellent verbal and written communication skills in English and French. Ability and willingness to work rotating shifts across 1st, 2nd, and 3rd shifts in a 24/7 operational environment. Ability to manage multiple priorities, handle incidents, and work effectively in a fast-paced support environment. Flexibility to work weekends as part of the rotating schedule. NCR Voyix NCR Voyix Corporation (NYSE: VYX) is a global platform-powered leader in unified commerce for shopping and dining. Combining a flexible, intelligent platform with end-to-end payments capabilities and services developed through its deep industry experience, NCR Voyix empowers retailers and restaurants to accelerate new possibilities for their operations, experiences and business outcomes. NCR Voyix is headquartered in Atlanta, Georgia, and serves customers in more than 35 countries worldwide.… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"I have been part of NCR Voyix for almost three years, currently working as a Senior Finance Analyst. What I value the most is the opportunity to collaborate with colleagues around the world in…\" Pročitajte celo iskustvo Beneficije Flexible working hours Private health insurance Education, professional development Awards, bonuses, gifts Sport and fitness Food and drinks Trainings, courses, conferences Konk"
+  },
+  {
+   "source": "infostud",
+   "id": "761603",
+   "title": "Junior iOS Developer",
+   "company": "TeleTrader d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "iOS",
+    "XML",
+    "JSON",
+    "WEB API",
+    "REST",
+    "Cocoa",
+    "Swift",
+    "Programiranje",
+    "OOP"
+   ],
+   "posted": "2026-10-14",
+   "expires": "29.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-ios-developer/teletrader-doo/761603",
+   "summary": "Junior iOS Developer will implement and maintain features for a high usage financial markets iOS app, focusing on data integration and reliable performance. The role requires solid Swift experience and multithreading expertise to ensure responsive and accurate market data and news presentation.",
+   "matched": [
+    "data platform",
+    "junior"
+   ],
+   "first_seen": "2026-10-14T12:57:19+00:00",
+   "details": "O poslodavcu TeleTrader d.o.o. is part of baha Group, a software company specialized in stock market data and financial analysis, offering a broad portfolio of tools for the processing, visualization and analysis of stock market data. As a global company, active on the international market and headquartered in Vienna, Austria, baha develops its software in Belgrade, while selling its products globally across Europe, North America, and Asia. TeleTrader is announcing the following vacancy within its iOS department: Junior iOS Developer About the project: You will be working on one of the leading financial markets apps with over one million downloads and a 4.6 star rating. You will also be involved in other projects on iOS platforms focused on market data analysis, financial news presentation and other financial market-related content. You are expected to develop and build new features as well as maintain the existing code base. For more details, please download our apps. What are we looking for: Experience in iOS development using Swift Strong understanding of OOP and its main principles Proficiency in multi-threading and performance tuning Experience with XML, JSON and REST APIs Experience with CocoaPods/Carthage/Swift Package Manager Excellent communication and collaboration skills Problem solving skills Proficiency in written and spoken English Reference: iM-T_ZCKzDm3PQ1mg-Dq24z9GLGClZNvmnJMaTZOAbBKsAFjjYNBinI2kCSXBqJR Optional but highly valued; Knowledge of the open-source iOS ecosystem and libraries Hands-on experience with multiplatform development tools What we offer: Work in an established company with market leadership Be part of an experienced and dynamic team Internal education Flexible working hours Professional physiotherapist (massage and exercises) Fully equipped gym in company premises Fruit and hot beverages for employees Private health insurance (upon 1.5 years of employment) Team-building and sports activities Employee discounts TeleTrader d.o.o. Ko smo mi? TeleTrader je austrijska softverska kompanija, osnovana 1995. godine u Beču. Sa razvojem poslovanja 1997. godine osniva se ćerka kompanija u Beogradu, a danas je TeleTrader deo baha grupe i jedan je od vodećih distributera berzanskih podataka, tehnologije i web rešenja na svetskom tržištu kapitala, sa razvojnim timom od 160 stalno zaposlenih u Beogradu. Obezbeđuje finansijske informacije iz celog sveta za institucije poput banaka, brokerskih kuća, berzi, finansijskih… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IOS Developer Junior iOS Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj "
+  },
+  {
+   "source": "infostud",
+   "id": "761569",
+   "title": "Senior DevOps Platform Engineer",
+   "company": "Erste Bank a.d.",
+   "location": "Beograd, Novi Sad | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Linux",
+    "Git",
+    "AWS",
+    "DevOps",
+    "Sistemska administracija",
+    "Cloud",
+    "Kubernetes",
+    "IAM"
+   ],
+   "posted": "2026-10-14",
+   "expires": "23.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-devops-platform-engineer/erste-bank-ad/761569",
+   "summary": "",
+   "matched": [
+    "aws",
+    "kubernetes",
+    "devops",
+    "cloud",
+    "linux",
+    "administrator"
+   ],
+   "first_seen": "2026-10-14T12:57:19+00:00",
+   "details": "O poslodavcu Reference: 5QUYqQDCTGGZDCKbyaBTl_CBX1ZO_Pd2vTtPVbMUwt3KyYNWmx-Pr-PE2KBrSyGr Erste Bank a.d. Mi smo ERSTE, gde Mogućnosti počinju sa MOGU Zamisli sebe u svetu mogućnosti uz ljude koji te podržavaju, inspirišu i gde možeš da da iskažeš svoju jedinstvenost kreirajući posebnu vrednost za sve naše klijente. To je ERSTE. Mi verujemo u radno okruženje u kojem se neguje zajedništvo, sloboda da stvaramo i gde se slave uspesi. Otvoreni smo prema novim idejama, jer izazove vidimo kao priliku za učenje i razvoj. Kada si deo našeg tima onda uvek imaš nekoga koga možeš da pitaš kako i zašto.… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"U Erste porodici sam od 2017. godine. Početak karijere sam ozvaničila kao deo tima na Projektu implementacije SAP Success Factors aplikacije u ulozi poslovnog analitičara. Nakon uspešnog Projekta…\" Pročitajte celo iskustvo Beneficije Dobrovoljno zdravstveno osiguranje Edukacija, profesionalni razvoj Porodica i roditeljstvo Fleksibilno radno vreme Rad od kuće Nagrade, bonusi, pokloni Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT DevOps System Administrator / Engineer Senior DevOps Platform Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "helloworld",
+   "id": "761365",
+   "title": "Android Developer",
+   "company": "Blinking d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "android",
+    "java",
+    "git",
+    "maven",
+    "jenkins",
+    "jira",
+    "confluence",
+    "rest",
+    "mvvm",
+    "scrum",
+    "agile",
+    "kotlin"
+   ],
+   "posted": "2026-10-14",
+   "expires": "29.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Android-Developer/Blinking-d.o.o/761365",
+   "summary": "Blinking d.o.o. Beograd | Hibrid 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Android Developer Android Developer Blinking d.o.o. Beograd | Hibrid Beograd: Karađorđeva 89 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin intermediate U potrazi smo za Android developerom za rad na Blinking mobilnim aplikacijama. O nama Razvijamo rešenja za digitalnu verifikaciju identiteta i online onboarding klijenata za banke, osiguravajuća društva, telekom operatere i priređivače igara na sreću. Opis posla Razvoj novih Android aplikacija Održavanje i unapređenje postojećih aplikacija i SDK-ova Saradnja sa ostatkom tima na planiranju i realizaciji projekata Obavezno 2+ godine profesionalnog iskustva u Android razvoju Dobro poznavanje Kotlina, Java je plus Rad sa kamerom na Androidu, CameraX ili Camera2: preview, analiza frejmova u realnom vremenu, fotografisanje Osnove obrade slike: rad sa Bitmap/ImageProxy, rotacija, isecanje, kompresija Moderan Android razvoj: korutine, ViewModel, MVVM arhitektura REST API integracija, Retrofit/OkHttp Gradle i rad sa multi-modul projektima, Android library moduli Git i objavljivanje aplikacija na Google Play Samostalnost u pravljenju aplikacije od nule Prednost Iskustvo sa ML modelima na uređaju: ONNX Runtime, TensorFlow Lite, ML Kit OpenCV ili slično iskustvo u računarskom vidu, detekcija ivica, prepoznavanje oblika Iskustvo sa skeniranjem dokumenata, OCR-om, čitanjem MRZ zone ili barkodova Jetpack Compose Iskustvo sa razvojem i održavanjem Android SDK-a/biblioteke, AAR, Maven repozitorijum, verzionisanje, ProGuard/R8 pravila za biblioteke NFC, IsoDep i osnove kriptografije, sertifikati, potpisivanje Iskustvo sa KYC/onboarding aplikacijama Osnove mobilne bezbednosti Tehnologije i alati Android: Kotlin, Java, CameraX, ONNX Runtime/TensorFlow Lite, Retrofit, OkHttp, Material Design, NFC Build i SDK: Gradle, Android library moduli, AAR, Maven Alati i procesi: Git, Bitbucket, pull request-ovi, code review, Jira, Confluence, CI/CD, Jenkins, Agile/Scrum Nudimo Rad na zanimljivim projektima: ML na uređaju, kamera, NFC, razvoj SDK-a Priliku da napraviš novi proizvod od početka i da sam/sama biraš arhitekturu Konkurentnu platu, u skladu sa iskustvom Redovne revizije plate i povišice Privatno zdravstveno osiguranje Rad pretežno iz kancelarije u Beogradu, uz mogućnost rada od kuće Fleksibilno radno vreme Stručan tim i kratak put od ideje do realizacije Konkuriši Upoznaj kompaniju O Kompaniji Plate Blinking pomaže kompanijama da identifikuju i potvrde svoje korisnike. Naša platforma vam pruža pouzdan i siguran način da potvrdite identitet vaših korisnika. UI/UX Designer 1 plata 900 € Prosečna neto plata min 900 Prosek i medijana 900 max 900 Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail",
+   "first_seen": "2026-10-14T12:57:19+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137508",
+   "title": "Principal Software Engineer",
+   "company": "Vytalize Health",
+   "location": "Kansas",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "design",
+    "infosec",
+    "python",
+    "docker",
+    "technical",
+    "recruiter",
+    "customer support",
+    "testing",
+    "marketing",
+    "quality assurance",
+    "finance"
+   ],
+   "posted": "2026-10-13",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
+   "summary": "Your Opportunity As a Principal Engineer , you will help design, build, and operate the clinical decision support and API-driven data delivery platform that enables Vytalize Health to embed timely, actionable clinical insights directly into provider workflows. Working cross-functionally with Data Engineering, Product, Clinical Operations, and EMR partners, your solutions will transform how clinici",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-14T06:19:02+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "761361",
+   "title": "AI Performance & Analytics Specialist for Customer Channels",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "AI/ML"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ai-performance-analytics-specialist-for-customer-channels/yettel-doo/761361",
+   "summary": "The AI Performance & Analytics Specialist measures and optimizes AI customer channel solutions to ensure operational efficiency and business value realization. The role delivers dashboards and reports, analyzes interactions and performance metrics, and provides data driven recommendations to improve customer experience and enable automation opportunities.",
+   "matched": [
+    "sql",
+    "data analyst",
+    "it support"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu We are looking for an AI Performance & Analytics Specialist to help measure, analyze and optimize the performance of AI-powered customer channel solutions, including chatbots, voicebots, interaction intelligence and future AI products. The role focuses on tracking the performance of AI-powered customer channel solutions, providing clear visibility into operational and business metrics, and evaluating the realization of expected business value through data-driven analysis and reporting. What we will expect from you: Develop and maintain performance dashboards and reporting frameworks for AI-powered customer solutions. Analyze customer interactions with AI solutions, usage patterns and channel performance to identify optimization opportunities. Track key AI performance metrics, including automation rates, intent recognition, containment and resolution quality. Conduct root cause analysis and provide recommendations to improve customer experience and business outcomes. Support business, product and technology teams with data-driven insights and performance assessments. Prepare executive reports and presentations for management and key stakeholders. Identify opportunities for automation, advanced analytics and AI-driven optimization across customer channels. Reference: SbnUeKIYzjOsviXk95Tp8bjS7bLibZv0c3AGZR8HzyTa6om-jABb7bdWlh81FRa6 For a good start you will need: University degree in Data Analytics, Information Technology, Economics, Mathematics, Statistics, Organizational Sciences or a related field. Experience in data analytics, business intelligence, performance management, customer experience analytics or digital products. Experience creating dashboards and automated reporting solutions. Strong analytical skills, including trend analysis, data interpretation and root cause analysis. Experience with SQL and data visualization or business intelligence tools, preferably Power BI. Knowledge of mobile and fixed telecommunications services and related customer processes is a plus. Fluent English, both written and spoken. Strong analytical and critical-thinking mindset. Structured and systematic approach to problem solving. Attention to detail and commitment to data quality. Ability to identify trends, patterns and performance drivers. Ability to manage multiple priorities in a dynamic environment. Interest in applying AI tools and techniques to enhance analytics and reporting. Why we think you should apply: Environment which allows you to grow and develop Flexible working hours and hybrid work model Participation in bonus system 25 days off per year Heathcare package Mobile phone with unlimited internet and Family Yettel tariff package Recreation or health program In-house training and development programs Career development opportunities Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"O"
+  },
+  {
+   "source": "infostud",
+   "id": "761388",
+   "title": "AI Solution Expert (Agentic AI & Business Process Automation)",
+   "company": "Robert Bosch d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Python",
+    "Cloud",
+    "AI/ML"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ai-solution-expert-agentic-ai-business-process-automation/robert-bosch-doo/761388",
+   "summary": "This internship is focused on ensuring data integrity and enabling reliable reporting for the MA division through dataset validation preprocessing and stakeholder coordination. The intern will support ETL and analytics tasks while researching AI driven improvements to optimize business processes.",
+   "matched": [
+    "python",
+    "data engineer",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu Do you want to shape beneficial technologies with your ideas? If so, join us as AI Solution Expert (Agentic AI & Business Process Automation) Job Description AI Solution Development: Design and develop AI agents supporting business processes across Mobility Aftermarket. Define scalable and robust AI architecture enabling rapid deployment of new business use cases. Translate business requirements into AI-driven solutions and technical implementations. Develop reusable deterministic software components that can be leveraged across different business domains. Evaluate emerging AI technologies and recommend their application within Mobility Aftermarket. Reference: 6LYdhQeZBmi2Ra2QA_gMLLMjCAwkSzLQL0c_bVboprhFGXTYTRDR4TkjMtnXminI Business Collaboration: Collaborate with business experts to understand processes, terminology, and decision logic. Identify and prioritize new AI use cases with measurable business value. Work closely with business stakeholders, data experts, and software developers to deliver end-to-end AI solutions. Governance and Continuous Improvement: Ensure AI solutions follow Bosch governance, compliance, and data security requirements. Support continuous improvement of existing and future AI solutions. Qualifications Education & Experience: University degree in Computer Science, Artificial Intelligence, Data Science, Software Engineering, Mathematics, or a related field. Relevant experience in AI/ML solution development, Data Analytics, and Python Development. Prior experience translating business requirements into technical AI solutions is considered an advantage. Technical Skills & Systems: AI Architecture Design, Agentic AI, Software Architecture, Solution Design, and Ontology Design. Strong experience with object-oriented software development, scalable software design, Python development, and modern AI frameworks. Strong understanding of APIs (API Integration), databases, and cloud-based AI services. Deep understanding of Generative AI, LLMs, AI Agents, and Agentic AI concepts, alongside experience working with structured and unstructured data. Experience with Graph Databases, retrieval-augmented generation (RAG), and AI workflow orchestration is considered an advantage. Business Capabilities: Ability to quickly understand complex business processes and perform business process modelling. Proven ability to translate business terminology into scalable AI solutions. Strong analytical, conceptual, and solution-oriented thinking. Personal Traits: Curiosity, passion for emerging AI technologies, and a continuous learning mindset. Strong communication skills with the ability to work in cross-functional international teams. High degree of ownership, self-driven, and proactive approach. Benefits Flexibile working time* Hybrid work model* Extra days off Private health insurance Opportunities for learning and development *In agreement with team and leader Do you want to shape beneficial technologies with your ideas? Whether in mobility solutions, consumer goods, industrial technology, or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. As part of the Mobility Aftermarket division, you will work on product marketing, quality management, trade marketing, purchasing, and engineering to drive business excellence while collaborating closely with international teams ! Welcome to Bosch. Interested? Get ready to Work #LikeA Bosch Simply complete the contact fo"
+  },
+  {
+   "source": "infostud",
+   "id": "761369",
+   "title": "Customer Channels AI Product and Delivery Expert",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Menadžment"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/customer-channels-ai-product-and-delivery-expert/yettel-doo/761369",
+   "summary": "The role leads delivery and adoption of AI powered customer channel solutions to improve customer experience and deliver measurable business value. It coordinates cross functional teams and stakeholders to implement chatbots voicebots and interaction intelligence and to drive continuous performance optimization.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu We are looking for a Customer Channels AI Product & Delivery Expert to drive the delivery, adoption and continuous improvement of AI-powered customer channel solutions, including chatbots, voicebots, interaction intelligence and future AI initiatives. This role combines product ownership, project delivery and stakeholder management, ensuring AI solutions deliver measurable business value and enhance customer experience across Yettel customer channels. What we will expect from you: Lead AI initiatives from idea and business requirements through implementation, go-live and value realization. Translate business needs into clear product roadmaps, requirements and delivery plans. Coordinate cross-functional teams and external partners to ensure successful delivery of AI-powered solutions. Monitor solution performance and identify opportunities for optimization, automation and customer experience improvements. Track key business and operational metrics and provide actionable insights and recommendations. Prepare and present materials and recommendations to support management decision-making. Monitor AI market trends and emerging technologies relevant to customer channels and digital transformation. Reference: TPMElpPj4FV_mhQElKG78PRKnOSUiKSbil8SfnzxRx1hxAtSlyTzbyjcMmjEHBqB For a good start you will need: University degree in Business, Organizational Sciences, Information Technology or a related field. Experience in project, product or delivery management. Experience working with digital products, customer channels or AI-powered solutions is considered an advantage. Good understanding of telecommunications industry, customer support and sales processes, ideally within Yettel or similar telecom environments. Fluent English, both written and spoken. Strong ownership and accountability. Results-oriented mindset. Excellent communication and stakeholder management skills. Collaborative and team-oriented approach. Ability to manage ambiguity and changing priorities. Why we think you should apply: Environment which allows you to grow and develop Flexible working hours and hybrid work model Participation in bonus system 25 days off per year Heathcare package Mobile phone with unlimited internet and Family Yettel tariff package Recreation or health program In-house training and development programs Career development opportunities Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Odabrao sam Yettel kako bih se upoznao sa radom korporacije. Zanimalo me je kako funkcioniše komunikacija i rad u tako velikom sistemu. Najviše me je iznenadila posvećenost ljudi u timu da mi na…\" Pročitajte celo iskustvo Beneficije Edukacija, profesionalni razvoj Wellness Sport i rekreacija Dobrovoljno zdravstveno osiguranje Dodatni slobodni dani Fleksibilno radno vreme Nagrade, bonusi, pokloni Obezbeđena oprema za rad Poro"
+  },
+  {
+   "source": "infostud",
+   "id": "761344",
+   "title": "Junior Software Engineer",
+   "company": "AviComp d.o.o.",
+   "location": "Beograd, Niš | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Programiranje",
+    "Hardware"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-software-engineer/avicomp-doo/761344",
+   "summary": "Pozicija junior softverskog inženjera namenjena je podršci i razvoju automatizacijskih rešenja za projekte u naftnoj, petrohemijskoj i elektroenergetskoj industriji. Kandidat će doprinositi implementaciji PLC i HMI sistema kroz učenje na projektu, testiranje i učešće u puštanju u rad.",
+   "matched": [
+    "junior"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu AviComp Controls GmbH - A viComp d.o.o. Head office: Bulevar Vojvode Bojovića 6-8, 11000 Belgrade, Serbia Branch office: Bulevar Cara Konstantina 80-86, 18000 Niš, Serbia for the implementation of demanding projects in oil & gas, petrochemical and power generation industries is looking for JUNIOR SOFTWARE ENGINEERS (M/F) for a position in our Belgrade or Niš office. The ideal candidate should have the following qualifications: A degree in electrical engineering, automation or a related field (recent graduates are welcome) Familiarity with P&IDs, instrument lists, electrical schematics and other project documents is an advantage Basic knowledge of process instrumentation Basic knowledge of PLC programming according to IEC 61131-3 (hardware platform independent) Knowledge of Siemens and Rockwell PLC hardware platforms is an advantage Knowledge of any of the following tools for PLC programming or visualization is an advantage: Siemens TIA Portal Siemens PCS7 9.x, 10.x Rockwell Studio 5000 Reference: ycY6BB9Ysj2rMU09LV2rU3oI38VeaOTMq3v7Lmhl3-Jp3Vypc2ygJO2O2ax0jrTR Good analytical skills and a structured way of working Basic knowledge of alarm and messaging standards in industrial HMIs is an advantage Basic knowledge of closed-loop control structures and setups Proficiency in English and good MS Office skills Mobility for business trips and commissioning jobs worldwide Willingness to work at our test center in Belgrade for extended periods Communicative, team-oriented, self-motivated, eager to learn and responsible person All candidates are required to complete two qualification periods of 6 months each before a permanent employment contract is concluded. Upon conclusion of a permanent employment contract, the company offers an attractive benefits package: private pension insurance, supplementary health insurance, a fitness package and other benefits. If you believe you are the right person for this position, please send electronically your CV in English, preferably with photo. Only shortlisted candidates will be contacted. Learn more about us at www.avicomp.com . AviComp doo Zvečanska 38 11000 Beograd, Srbija PIB: 107525326 Matični broj: 20820667 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Software Developer / Programmer / Engineer Junior Software Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge s"
+  },
+  {
+   "source": "infostud",
+   "id": "761290",
+   "title": "Level 2 Support Engineer (English & French speaker)",
+   "company": "NCR d.o.o. - NCR Voyix",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Linux",
+    "Windows",
+    "DevOps",
+    "Podrška",
+    "Hardware",
+    "Cloud"
+   ],
+   "posted": "2026-10-13",
+   "expires": "12.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/level-2-support-engineer-english-french-speaker/ncr-doo-ncr-voyix/761290",
+   "summary": "Level 2 Support Engineer provides advanced technical troubleshooting and root cause analysis across retail hardware software payment and cloud systems for multinational customers. The role owns escalated cases and delivers clear bilingual technical communication while contributing to service improvements and knowledge sharing.",
+   "matched": [
+    "data engineer",
+    "devops",
+    "cloud",
+    "linux",
+    "help desk",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu Role Overview As a Level 2 Support Engineer, you will provide advanced technical support within a multi-tier support organization, handling complex troubleshooting, root cause analysis, and technical investigations across retail hardware, software, payment services, cloud solutions, store applications, and Windows/Linux environments. You will support customers and partners in English and French, delivering high-quality technical assistance and communication across multiple regions. Working within rotating product pods, you will develop expertise across retail devices, payment and cloud services, store applications, and operating systems while building broader product knowledge. Key Responsibilities Investigate and resolve incidents escalated from Level 1 across software, hardware, networking, and cloud-based systems. Perform root cause analysis using logs, telemetry, remote access tools, and diagnostic data. Provide clear technical support and customer communication in English and French. Own and manage escalated cases through resolution or handover to Level 3. Collaborate with Level 1, Level 3, Engineering, DevOps, and Product teams to deliver efficient customer outcomes. Validate solutions, provide temporary workarounds when needed, and ensure proper escalation documentation. Create and maintain technical documentation, troubleshooting guides, and knowledge base articles. Identify recurring issues and contribute to problem management, service improvements, automation initiatives, and new product readiness activities. Support and mentor Level 1 teams through knowledge sharing, coaching, and investigative guidance. Assist with Level 1 activities during peak periods to maintain service levels and customer satisfaction. Reference: AjSqpLycrlIRZXj0F65AkvwD4teGrwOsUTHy3W9-B2WE4xfHKNXAq6XZXKhgbNYl Career Progression This role is part of a structured support model: Level 1: Customer support, issue resolution, and service ownership Level 2: Advanced troubleshooting, technical investigation, and root cause analysis Level 3: Product expertise, complex defect resolution, and advanced RCA Clear opportunities for progression are available as technical expertise and service maturity develop. Skills & Experience High School diploma or equivalent Fluent English and French (written and verbal) Minimum 2 years of experience in a technical service desk or support role Strong experience supporting Windows operating systems Proven troubleshooting, analytical, and customer support skills Ability to work in a structured, high-volume, process-driven environment Strong organizational skills and attention to detail Preferred Experience with Linux environments Previous Level 2 or advanced service desk experience Exposure to payment systems, cloud services, retail hardware, or store applications Experience supporting multilingual or international customers Core Competencies Strong customer focus and ownership mindset Advanced analytical and investigative skills Ability to interpret logs, diagnostic data, and system outputs Comfortable learning new technologies and working across multiple product domains Professional communication skills in English and French Collaborative, team-oriented approach NCR Voyix NCR Voyix Corporation (NYSE: VYX) is a global platform-powered leader in unified commerce for shopping and dining. Combining a flexible, intelligent platform with end-to-end payments capabilities and services developed through its deep industry expe"
+  },
+  {
+   "source": "infostud",
+   "id": "761356",
+   "title": "OT Cyber Security Tehnicians",
+   "company": "AviComp d.o.o.",
+   "location": "Beograd, Niš",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "Sistemska administracija",
+    "TCP/IP",
+    "TCP"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ot-cyber-security-tehnicians/avicomp-doo/761356",
+   "summary": "The role secures and validates OT networks and control systems within a hands-on test center to support industrial project implementations. The technician will implement network and device hardening, manage patches and support security testing to ensure resilient and compliant control system operations.",
+   "matched": [
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-10-13T19:54:21+00:00",
+   "details": "O poslodavcu AviComp Controls GmbH - AviComp d.o.o. Head office: Bulevar Vojvode Bojovića 6-8, 11000 Belgrade, Serbia Branch office: Bulevar Cara Konstantina 80-86, 18000 Niš, Serbia for the implementation of demanding projects in oil & gas, petrochemical and power generation industries is looking for OT CYBER SECURITY TECHNICIANS (M/F) for a position in our test center in Belgrade. The ideal candidate should have the following qualifications: Completed secondary or higher technical education in electrical engineering, electronics, automation or IT Experience with industrial automation or industrial networks is an advantage, recent graduates are welcome Basic knowledge of networking (Ethernet, TCP/IP, VLANs, switches, routers, firewalls) Basic knowledge of industrial protocols (PROFINET, Modbus TCP, EtherNet/IP, OPC UA) Familiarity with PLC, HMI/SCADA systems and Windows-based engineering workstations Basic knowledge of OT cyber security principles and IEC 62443 is an advantage Certifications such as CCNA or CompTIA Security+ are an advantage Good analytical skills and a structured way of working Proficiency in English and good MS Office skills Willingness to work primarily hands-on in our test center in Belgrade, not in an office environment Mobility for business trips and site work worldwide Communicative, team-oriented, self-motivated, eager to learn and responsible person Reference: JupFoc5T24WS7vcZQjC0jh3wEkg_UzyqzC8QrojHgfGKFGDjFQ_CkjofGST8B3Oj Duties: Installation and configuration of OT network components (industrial switches, routers, firewalls) Implementation of hardening measures on control system components (PLC, HMI, engineering workstations) according to project specifications Patch management, antivirus / application whitelisting updates, backup and recovery of control systems Configuration of user accounts, access rights and secure remote access Support during security testing in our test center and on site (FAT, SAT) Documentation of configurations and test results Support to OT cyber security engineers All candidates are required to complete two qualification periods of 6 months each before a permanent employment contract is concluded. Upon conclusion of a permanent employment contract, the company offers an attractive benefits package: private pension insurance, supplementary health insurance, a fitness package and other benefits. If you believe you are the right person for this position, please send electronically your CV in English, preferably with photo. Only shortlisted candidates will be contacted. Learn more about us at www.avicomp.com . AviComp doo Zvečanska 38 11000 Beograd, Srbija PIB: 107525326 Matični broj: 20820667 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Security Expert OT Cyber Security Tehnicians Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslo"
+  },
+  {
+   "source": "infostud",
+   "id": "761170",
+   "title": "Junior sistem administrator",
+   "company": "PSH d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "Windows",
+    "VPN",
+    "Azure",
+    "Sistemska administracija",
+    "DNS",
+    "TCP/IP",
+    "Cloud",
+    "MikroTik"
+   ],
+   "posted": "2026-10-13",
+   "expires": "28.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-sistem-administrator/psh-doo/761170",
+   "summary": "Pozicija je namenjena osobi koja će podržavati i održavati IT infrastrukturu fokusirano na administraciju naloga, radnih stanica i mrežne opreme. Kandidat će doprinositi stabilnosti sistema kroz tehničku podršku korisnicima i osnovno upravljanje mrežom i serverima.",
+   "matched": [
+    "junior",
+    "cloud",
+    "linux",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-13T07:52:52+00:00",
+   "details": "O poslodavcu Junior sistem administrator Tražimo odgovornu, pouzdanu i motivisanu osobu za poziciju Junior sistem administratora, koja želi da razvija svoje znanje i karijeru u oblasti IT infrastrukture, sistemske administracije i cloud tehnologija. Odgovornosti kreiranje, podešavanje i administracija korisničkih naloga i prava pristupa administracija i tehnička podrška za korporativnu elektronsku poštu i RDP (Remote Desktop Protocol) osnovno podešavanje i administracija MikroTik mrežne opreme razumevanje osnovnih principa TCP/IP, DNS, DHCP, VPN i VLAN tehnologija instalacija, konfiguracija i tehnička podrška za radne stanice zaposlenih instalacija, podešavanje i osnovna administracija Windows operativnih sistema osnovno poznavanje Linux sistema, uključujući instalaciju i osnovno podešavanje instalacija, konfiguracija i povezivanje multifunkcionalnih uređaja (MFP) i druge kancelarijske opreme sklapanje, konfiguracija, dijagnostika i osnovno održavanje računara rešavanje svakodnevnih hardverskih, softverskih i mrežnih problema korisnika kroz helpdesk tiketing praćenje i održavanje IT infrastrukture i učestvovanje u unapređenju postojećih sistema. Reference: 3g4s8P9YrkTJWoUTNJjtL93jZjB97ZX7dHwgzD8YZGoPoY31OMxSCyLZvIsMDrja Važno nam je najmanje 6 meseci iskustva u sistemskoj administraciji ili tehničkoj IT podršci osnovno razumevanje računarskih mreža i sistemske administracije znanje engleskog jezika koje omogućava svakodnevnu komunikaciju i rad sa tehničkom dokumentacijom B kategorija i aktivno vozačko iskustvo odgovornost, pouzdanost i samostalnost u radu sposobnost timskog rada i usmerenost na rešavanje problema pažljivost, sistematičnost i spremnost za brzo reagovanje želja za kontinuiranim učenjem, usavršavanjem i praćenjem novih tehnologija. Prednost imaju kandidati koji imaju iskustvo sa Microsoft 365 okruženjem osnovno iskustvo sa Microsoft Azure cloud servisima iskustvo sa cloud servisima iskustvo sa Linux serverima i osnovnom administracijom Linux okruženja iskustvo sa MikroTik uređajima i mrežnom infrastrukturom poznavanje osnovnih principa rada sa virtuelizacijom, backup sistemima i monitoringom interesovanje za cloud, automatizaciju i moderne IT infrastrukture. Šta nudimo konkurentnu zaradu od 800 do 1.500 EUR, u zavisnosti od iskustva i nivoa znanja radno vreme 8:00–16:00, ponedeljak–petak rad u prijatnoj i modernoj kancelariji i prijateljskom timu IT profesionalaca mogućnost kontinuiranog profesionalnog razvoja i usavršavanja rad sa savremenim tehnologijama i modernom IT infrastrukturom mogućnost proširivanja znanja u oblastima cloud tehnologija, Microsoft 365, Azure, Linux, mrežne infrastrukture i automatizacije mogućnost napredovanja i preuzimanja većih odgovornosti u skladu sa razvojem znanja i iskustva PSH d.o.o. Srbija, Beograd, Nede Spasojević 20 PIB: 102297059 Matični broj: 06051197 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator Junior sistem administrator Blog O nama Česta pitanja Kontakt"
+  }
+ ]
+}
