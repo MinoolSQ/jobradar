@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-16T17:33:40+00:00",
+ "generated_at": "2026-10-16T22:08:54+00:00",
  "window_days": 3,
  "cutoff": "2026-10-13",
  "count": 34,
- "new_count": 3,
+ "new_count": 0,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
@@ -114,7 +114,7 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 109,
+   "vraceno": 111,
    "strane": 4,
    "stop": "kraj"
   },
@@ -129,13 +129,13 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 39,
+   "vraceno": 40,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 88,
-   "strane": 3,
+   "vraceno": 91,
+   "strane": 4,
    "stop": "kraj"
   },
   "serviser": {
@@ -154,7 +154,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 163,
+   "vraceno": 165,
    "strane": 6,
    "stop": "kraj"
   }
