@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-10-16T12:35:22+00:00",
+ "generated_at": "2026-10-16T17:33:40+00:00",
  "window_days": 3,
  "cutoff": "2026-10-13",
- "count": 31,
- "new_count": 8,
- "errors": [],
+ "count": 34,
+ "new_count": 3,
+ "errors": [
+  "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
+ ],
  "infostud_queries": {
   "python": {
    "vraceno": 3,
@@ -12,7 +14,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 16,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +24,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 38,
+   "vraceno": 42,
    "strane": 2,
    "stop": "kraj"
   },
@@ -62,7 +64,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 10,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -77,7 +79,7 @@
    "stop": "kraj"
   },
   "data analyst": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,7 +104,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 43,
+   "vraceno": 47,
    "strane": 2,
    "stop": "kraj"
   },
@@ -112,14 +114,14 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 106,
+   "vraceno": 109,
    "strane": 4,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 175,
+   "vraceno": 180,
    "strane": 6,
-   "stop": "kraj"
+   "stop": "limit"
   },
   "help desk": {
    "vraceno": 7,
@@ -127,12 +129,12 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 37,
+   "vraceno": 39,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 82,
+   "vraceno": 88,
    "strane": 3,
    "stop": "kraj"
   },
@@ -152,12 +154,85 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 156,
+   "vraceno": 163,
    "strane": 6,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "762365",
+   "title": "Data Analyst in Promotion Department",
+   "company": "Lidl Srbija KD",
+   "location": "Nova Pazova",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-16",
+   "expires": "31.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-analyst-in-promotion-department/lidl-srbija-kd/762365",
+   "summary": "",
+   "matched": [
+    "data analyst"
+   ],
+   "first_seen": "2026-10-16T17:33:40+00:00",
+   "details": "O poslodavcu Reference: da94ceA3P4hIZtimHe0ce26bI37rT85gnFaRvFeOrF8_shIWmjBAuZQOMnjU3_xN Lidl Srbija KD Kompanija Lidl, kao deo nemačke Švarc grupe (Schwarz Gruppe), predstavlja jednog od vodećih prehrambenih trgovinskih lanaca u Nemačkoj i Evropi. Posluje u 32 zemlje širom sveta, sa oko 12.200 prodavnica, kao i više od 220 logističkih centara i skladišta u 31 zemlji sveta. Lidl je u Srbiji svoje prve prodavnice otvorio u oktobru 2018. godine i trenutno ima 78 prodavnica u 45 gradova širom zemlje i 2 logistička centra. Imamo dugoročne planove sa ciljem da potrošačima širom Srbije ponudimo… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Najlepša potvrda da smo poslodavac od poverenja je kada naši zaposleni preporuče Lidl svojim najbližima. ? Jelena i Vanja su majka i ćerka, i obe su deo našeg Lidl tima – njihov…\" Pročitajte celo iskustvo Beneficije Finansijske beneficije Kompanijski popusti Nagrade, bonusi, pokloni Personalizovane beneficije Fleksibilno radno vreme Dodatni slobodni dani Dobrovoljno zdravstveno osiguranje Program mentorstva Rad od kuće Porodica i roditeljstvo Radno okruženje Društvena odgovornost Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Nova Pazova IT Data Analyst Data Analyst in Promotion Department Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "762276",
+   "title": "Senior ICT biznis analitičar",
+   "company": "Banca Intesa a.d.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-16",
+   "expires": "31.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-ict-biznis-analiticar/banca-intesa-ad/762276",
+   "summary": "Senior ICT biznis analitičar je zadužen za kreiranje i unapređenje rešenja za automatizaciju deploymenta i upravljanje aplikativnim konfiguracijama. Kandidat obezbeđuje pouzdane testne i neprodukcione okoline i koordinaciju deployment procesa radi smanjenja rizika i ubrzanja isporuke.",
+   "matched": [
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-16T17:33:40+00:00",
+   "details": "O poslodavcu Postani deo ekipe Banca Intesa Senior ICT biznis analitičar Ko smo mi? Mi smo tim od gotovo 3000 koleginica i kolega širom Srbije. Slavimo jedinstvenost i negujemo kulturu otvorenog feedback-a, jer samo tako možemo rasti i razvijati se zajedno. Deo smo Intesa Sanpaolo, jedne od vodećih bankarskih grupa u Evropi, na tržištu Srbije smo 20 godina i poslujemo u više od 90 gradova naše zemlje. Verujemo da bez snažnih pojedinaca nema ni snažnih timova, ali i da samo jaki timovi mogu biti pravi oslonac i temelj za svaki individualni uspeh. Zajedno, svakodnevno brinemo o potrebama više od 1,3 miliona klijenata, gradeći čvrste odnose poverenja zasnovanih na ekspertizi i znanju. Naše vrednosti Verujemo u integritet i održivost našeg delovanja i poslovanja. Brinemo o klijentima kroz izvrsnost naših usluga i proizvoda negujući dugoročne odnose. Stvaramo inovacije i dodatnu vrednost za pojedince, kompanije i zajednice u kojima poslujemo. Gradimo održivu budućnost posvećenu očuvanju životne sredine, mladim generacijama i izgradnji istinski inkluzivnog društva. Zašto baš Banca Intesa? Svojim kolegama smo omogućili fleksibilno radno vreme i rad od kuće, kao i odlične prilike za razvoj kroz eksterne obuke, interne radionice i talent programe. Talentovanim kolegama pružamo priliku za internacionalnu karijeru. Brinemo o balansu, podstičemo zdrave životne navike i gradimo atmosferu dobre timske saradnje i podrške. Učestvujemo na brojnim sportskim aktivnostima i takmičenjima, kao i volonterskim aktivnostima u okviru programa „Intesa od srca“. Deci naših zaposlenih pružamo priliku da steknu dragocena međunarodna iskustva i razviju svoje veštine i talente, kroz učešće u sportskim takmičenjima i letnjim kampovima za decu. Zdravstveno osiguranje Zdravstveno osiguranje Fleksibilno radno vreme Fleksibilno radno vreme Rad od kuće Ti si odličan kandidat za ovu poziciju ako poseduješ: Višu ili visoku stručnu spremu iz oblasti tehničko-tehnoloških, prirodno-matematičkih ili društvenih nauka Višegodišnje iskustvo u definisanju i realizaciji zahteva za aplikativnim izmenama Razumevanje tipične aplikativne arhitekture, tokove podataka, proces razvoja i održavanje aplikativnih rešenja Sklonost ka timskom načinu rada Dobro znanje engleskog jezika Veštine kao što su komunikativnost, pouzdanost, sistematičnost i preciznost Reference: lmMjAUDf07IyJSFuJ17p6DXj26bLMcsoxEYbZt4kqkFXe1m2jdVRHdRQ3xzvc3wA Tvoje prednosti bi mogle da budu: Poznavanje aplikativnog portfolia banke i poslovnih procesa Šta ova uloga podrazumeva: Učešće u definisanju poslovnih potreba za unapređenje poslovnih aplikacija Biznis analizu i odobravanje zahteva koji se odnose na aplikativne izmene Komunikaciju sa poslovnim korisnicima u okviru banke i vendorima koji učestvuju u razvoju i održavanju aplikativnih servisa Koordinaciju komunikacije poslovnih korisnika sa ostalim ICT strukturama u vezi analize i implementacije izmena Podršku poslovnim korisnicima prilikom testiranja i validacije izmena Učešće u radu razvojnih projektnih timova banke Ukoliko si zainteresovan/na za neku drugu poziciju u našoj banci, budi slobodan/na da nam prijavom na neki drugi otvoreni konkurs na našoj karijernoj strani, ostaviš svoju biografiju. Rado ćemo te kontaktirati ukoliko se pojavi potreba za tvojim profilom u željenom gradu, a u međuvremenu možeš nastaviti da pratiš naše konkurse i dodatno apliciraš ukoliko primetiš još neku poziciju koja ti je interesantna. Želimo ti puno sreće! Proces selekcije Trudimo se d"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137527",
+   "title": "Senior Software Engineer II Applied AI",
+   "company": "Wrapbook",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "design",
+    "amazon",
+    "sys admin",
+    "backend",
+    "infosec",
+    "python",
+    "education",
+    "technical",
+    "customer support",
+    "accounting",
+    "payroll"
+   ],
+   "posted": "2026-10-15",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+   "summary": "About Us: Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeff",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-16T17:33:40+00:00"
+  },
   {
    "source": "infostud",
    "id": "762045",
