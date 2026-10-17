@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-17T11:41:03+00:00",
+ "generated_at": "2026-10-17T16:31:51+00:00",
  "window_days": 3,
  "cutoff": "2026-10-14",
- "count": 29,
+ "count": 30,
  "new_count": 1,
  "errors": [],
  "infostud_queries": {
@@ -117,8 +117,8 @@
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 141,
+   "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
@@ -158,6 +158,35 @@
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137534",
+   "title": "APAC Python",
+   "company": "Kodland",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "python",
+    "teaching",
+    "education",
+    "customer support",
+    "dev",
+    "testing",
+    "part time",
+    "non tech",
+    "digital nomad"
+   ],
+   "posted": "2026-10-16",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+   "summary": "AboutÂ theÂ Company: KodlandÂ isÂ anÂ internationalÂ onlineÂ codingÂ andÂ digitalÂ skillsÂ schoolÂ thatÂ helpsÂ childrenÂ agedÂ 5Â toÂ 17Â takeÂ theirÂ firstÂ stepsÂ intoÂ theÂ worldÂ ofÂ programmingÂ andÂ technology. AboutÂ theÂ Role: AreÂ youÂ aÂ passionateÂ programmerÂ whoÂ lovesÂ codingÂ andÂ computerÂ games?Â WouldÂ youÂ likeÂ toÂ helpÂ childrenÂ createÂ theirÂ firstÂ projectsÂ andÂ takeÂ the",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-17T16:31:51+00:00"
+  },
   {
    "source": "weworkremotely",
    "id": "wwr-expel-senior-detection-response-engineer",
@@ -276,6 +305,7 @@
    "url": "https://poslovi.infostud.com/posao/senior-ict-biznis-analiticar/banca-intesa-ad/762276",
    "summary": "Senior ICT biznis analitičar je zadužen za kreiranje i unapređenje rešenja za automatizaciju deploymenta i upravljanje aplikativnim konfiguracijama. Kandidat obezbeđuje pouzdane testne i neprodukcione okoline i koordinaciju deployment procesa radi smanjenja rizika i ubrzanja isporuke.",
    "matched": [
+    "it podrska",
     "tehnicka podrska"
    ],
    "first_seen": "2026-10-16T17:33:40+00:00",
@@ -666,6 +696,7 @@
     "it tehnicar",
     "sistem administrator",
     "administrator",
+    "it podrska",
     "help desk",
     "tehnicka podrska",
     "it support",
@@ -694,6 +725,7 @@
     "it tehnicar",
     "sistem administrator",
     "administrator",
+    "it podrska",
     "help desk",
     "tehnicka podrska",
     "it support",
@@ -745,6 +777,7 @@
    "matched": [
     "sistem administrator",
     "administrator",
+    "it podrska",
     "tehnicka podrska",
     "mrezni"
    ],
@@ -794,7 +827,7 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Marketing-Manager/CREATEQ/762008",
-   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Istaknuti poslodavci Premium",
+   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Premium",
    "matched": [
     "helloworld"
    ],
