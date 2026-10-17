@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-17T05:45:26+00:00",
+ "generated_at": "2026-10-17T11:41:03+00:00",
  "window_days": 3,
  "cutoff": "2026-10-14",
- "count": 28,
- "new_count": 2,
+ "count": 29,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -117,8 +117,8 @@
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 141,
-   "strane": 5,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "help desk": {
@@ -158,6 +158,25 @@
   }
  },
  "jobs": [
+  {
+   "source": "weworkremotely",
+   "id": "wwr-expel-senior-detection-response-engineer",
+   "title": "Senior Detection & Response Engineer",
+   "company": "Expel",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-17",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
+   "summary": "Headquarters: Remote You're the detection engineer people turn to when they ask \"what does Microsoft actually see here?\" Not the marketing-slide answer, the real map. Which product emits which telemetry, any anticipated ingestion lags, what table or API it lands in, which license tier gates it, how long it survives before it ages out, and where the documentation quietly disagrees with reality. Whe",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-17T11:41:03+00:00"
+  },
   {
    "source": "remoteok",
    "id": "remoteok-1137531",
@@ -257,7 +276,6 @@
    "url": "https://poslovi.infostud.com/posao/senior-ict-biznis-analiticar/banca-intesa-ad/762276",
    "summary": "Senior ICT biznis analitičar je zadužen za kreiranje i unapređenje rešenja za automatizaciju deploymenta i upravljanje aplikativnim konfiguracijama. Kandidat obezbeđuje pouzdane testne i neprodukcione okoline i koordinaciju deployment procesa radi smanjenja rizika i ubrzanja isporuke.",
    "matched": [
-    "it podrska",
     "tehnicka podrska"
    ],
    "first_seen": "2026-10-16T17:33:40+00:00",
@@ -648,7 +666,6 @@
     "it tehnicar",
     "sistem administrator",
     "administrator",
-    "it podrska",
     "help desk",
     "tehnicka podrska",
     "it support",
@@ -677,7 +694,6 @@
     "it tehnicar",
     "sistem administrator",
     "administrator",
-    "it podrska",
     "help desk",
     "tehnicka podrska",
     "it support",
@@ -729,7 +745,6 @@
    "matched": [
     "sistem administrator",
     "administrator",
-    "it podrska",
     "tehnicka podrska",
     "mrezni"
    ],
@@ -779,7 +794,7 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Marketing-Manager/CREATEQ/762008",
-   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Premium",
+   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Istaknuti poslodavci Premium",
    "matched": [
     "helloworld"
    ],
