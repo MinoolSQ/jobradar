@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-18T06:08:38+00:00",
+ "generated_at": "2026-10-18T12:07:35+00:00",
  "window_days": 3,
  "cutoff": "2026-10-15",
- "count": 25,
- "new_count": 1,
+ "count": 27,
+ "new_count": 2,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -152,12 +152,63 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 82,
+   "vraceno": 83,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "weworkremotely",
+   "id": "wwr-planetscale-enterprise-support-engineer",
+   "title": "Enterprise Support Engineer",
+   "company": "PlanetScale",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-18",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
+   "summary": "Headquarters: Remote - NA, APAC, EMEA PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform offers both Postgres and Vitess clusters. Vitess, an open-source database clustering system for horizontal scaling of MySQL, enables businesses to efficiently handle large-scale data workloads — without sacrificing developer experience. Our customers entrust us with wha",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-18T12:07:35+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137540",
+   "title": "Technical Account Manager",
+   "company": "Yuno",
+   "location": "Brazil",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "exec",
+    "design",
+    "hr",
+    "python",
+    "technical",
+    "customer support",
+    "marketing",
+    "web dev",
+    "speech",
+    "javascript",
+    "finance",
+    "css"
+   ],
+   "posted": "2026-10-17",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
+   "summary": "Remote, Brazil, Full Time, Individual Contributor, +3 years of experience Who We Are At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned experts from the payments and tech industries, our technology provides access to leading payment capabilities, enabling companies to engage customers confidently and maintain globa",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-18T12:07:35+00:00"
+  },
   {
    "source": "remoteok",
    "id": "remoteok-1137538",
