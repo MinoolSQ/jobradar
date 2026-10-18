@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T16:38:04+00:00",
+ "generated_at": "2026-10-18T21:37:23+00:00",
  "window_days": 3,
  "cutoff": "2026-10-15",
  "count": 27,
@@ -122,7 +122,7 @@
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -132,7 +132,7 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 54,
+   "vraceno": 55,
    "strane": 2,
    "stop": "kraj"
   },
