@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-18T12:07:35+00:00",
+ "generated_at": "2026-10-18T16:38:04+00:00",
  "window_days": 3,
  "cutoff": "2026-10-15",
  "count": 27,
- "new_count": 2,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -905,7 +905,7 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Marketing-Manager/CREATEQ/762008",
-   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Istaknuti poslodavci Premium",
+   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Premium",
    "matched": [
     "helloworld"
    ],
