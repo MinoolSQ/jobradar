@@ -1,0 +1,865 @@
+{
+ "generated_at": "2026-10-18T06:08:38+00:00",
+ "window_days": 3,
+ "cutoff": "2026-10-15",
+ "count": 25,
+ "new_count": 1,
+ "errors": [],
+ "infostud_queries": {
+  "python": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data engineer": {
+   "vraceno": 7,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data inzenjer": {
+   "vraceno": 4,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "podaci": {
+   "vraceno": 18,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "etl": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "databricks": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "spark": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "airflow": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "backend": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sql": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "aws": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data platform": {
+   "vraceno": 4,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "kubernetes": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "fastapi": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data analyst": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "devops": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "junior": {
+   "vraceno": 5,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 23,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 20,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 53,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 100,
+   "strane": 4,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 15,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 54,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "serviser": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "mrezni": {
+   "vraceno": 6,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "windows": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "racunari": {
+   "vraceno": 82,
+   "strane": 3,
+   "stop": "kraj"
+  }
+ },
+ "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137538",
+   "title": "Software Engineer AI Coding Tasks",
+   "company": "Askable",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "python",
+    "javascript",
+    "typescript",
+    "golang",
+    "java",
+    "c plus plus"
+   ],
+   "posted": "2026-10-17",
+   "expires": null,
+   "salary": "10000-10000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+   "summary": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-18T06:08:38+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137534",
+   "title": "APAC Python",
+   "company": "Kodland",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "python",
+    "teaching",
+    "education",
+    "customer support",
+    "dev",
+    "testing",
+    "part time",
+    "non tech",
+    "digital nomad"
+   ],
+   "posted": "2026-10-16",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+   "summary": "AboutÂ theÂ Company: KodlandÂ isÂ anÂ internationalÂ onlineÂ codingÂ andÂ digitalÂ skillsÂ schoolÂ thatÂ helpsÂ childrenÂ agedÂ 5Â toÂ 17Â takeÂ theirÂ firstÂ stepsÂ intoÂ theÂ worldÂ ofÂ programmingÂ andÂ technology. AboutÂ theÂ Role: AreÂ youÂ aÂ passionateÂ programmerÂ whoÂ lovesÂ codingÂ andÂ computerÂ games?Â WouldÂ youÂ likeÂ toÂ helpÂ childrenÂ createÂ theirÂ firstÂ projectsÂ andÂ takeÂ the",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-17T16:31:51+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-expel-senior-detection-response-engineer",
+   "title": "Senior Detection & Response Engineer",
+   "company": "Expel",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-17",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
+   "summary": "Headquarters: Remote You're the detection engineer people turn to when they ask \"what does Microsoft actually see here?\" Not the marketing-slide answer, the real map. Which product emits which telemetry, any anticipated ingestion lags, what table or API it lands in, which license tier gates it, how long it survives before it ages out, and where the documentation quietly disagrees with reality. Whe",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-17T11:41:03+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137531",
+   "title": "Associate Data Scientist",
+   "company": "AlgaeCal",
+   "location": "Vancouver",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "python",
+    "customer support",
+    "marketing",
+    "dev",
+    "flutter",
+    "exec",
+    "data science",
+    "ops",
+    "stats",
+    "sales",
+    "medical"
+   ],
+   "posted": "2026-10-16",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
+   "summary": "Description Machine Learning Maestro: You donât just work with data - you decode it, predict the future with it, and turn it into action. Your models donât just sit on a shelf - they shape strategy, optimize efficiency, and fuel company growth. You thrive on uncovering hidden patterns, validating hypotheses, and embedding machine learning models into real-world AI applications. If that sounds ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-17T05:45:26+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137530",
+   "title": "Director of IT and Workplace",
+   "company": "Hippocratic AI",
+   "location": "Menlo Park",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "exec",
+    "saas",
+    "infosec",
+    "python",
+    "technical",
+    "customer support",
+    "testing",
+    "marketing",
+    "dev",
+    "finance",
+    "education",
+    "c"
+   ],
+   "posted": "2026-10-16",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+   "summary": "The Role We've grown to roughly 265 people working onsite from our Menlo Park headquarters, supported by a large network of remote U.S.-licensed clinicians â and part of the Series C is earmarked for acquisitions. The systems and the spaces holding all of that together were built for a much smaller company. We're hiring a Director of IT & Workplace to own them properly. You'll own two halves of ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-17T05:45:26+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "762365",
+   "title": "Data Analyst in Promotion Department",
+   "company": "Lidl Srbija KD",
+   "location": "Nova Pazova",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-16",
+   "expires": "31.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-analyst-in-promotion-department/lidl-srbija-kd/762365",
+   "summary": "",
+   "matched": [
+    "data analyst"
+   ],
+   "first_seen": "2026-10-16T17:33:40+00:00",
+   "details": "O poslodavcu Reference: da94ceA3P4hIZtimHe0ce26bI37rT85gnFaRvFeOrF8_shIWmjBAuZQOMnjU3_xN Lidl Srbija KD Kompanija Lidl, kao deo nemačke Švarc grupe (Schwarz Gruppe), predstavlja jednog od vodećih prehrambenih trgovinskih lanaca u Nemačkoj i Evropi. Posluje u 32 zemlje širom sveta, sa oko 12.200 prodavnica, kao i više od 220 logističkih centara i skladišta u 31 zemlji sveta. Lidl je u Srbiji svoje prve prodavnice otvorio u oktobru 2018. godine i trenutno ima 78 prodavnica u 45 gradova širom zemlje i 2 logistička centra. Imamo dugoročne planove sa ciljem da potrošačima širom Srbije ponudimo… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Najlepša potvrda da smo poslodavac od poverenja je kada naši zaposleni preporuče Lidl svojim najbližima. ? Jelena i Vanja su majka i ćerka, i obe su deo našeg Lidl tima – njihov…\" Pročitajte celo iskustvo Beneficije Finansijske beneficije Kompanijski popusti Nagrade, bonusi, pokloni Personalizovane beneficije Fleksibilno radno vreme Dodatni slobodni dani Dobrovoljno zdravstveno osiguranje Program mentorstva Rad od kuće Porodica i roditeljstvo Radno okruženje Društvena odgovornost Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Nova Pazova IT Data Analyst Data Analyst in Promotion Department Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "762276",
+   "title": "Senior ICT biznis analitičar",
+   "company": "Banca Intesa a.d.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-16",
+   "expires": "31.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-ict-biznis-analiticar/banca-intesa-ad/762276",
+   "summary": "Senior ICT biznis analitičar je zadužen za kreiranje i unapređenje rešenja za automatizaciju deploymenta i upravljanje aplikativnim konfiguracijama. Kandidat obezbeđuje pouzdane testne i neprodukcione okoline i koordinaciju deployment procesa radi smanjenja rizika i ubrzanja isporuke.",
+   "matched": [
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-16T17:33:40+00:00",
+   "details": "O poslodavcu Postani deo ekipe Banca Intesa Senior ICT biznis analitičar Ko smo mi? Mi smo tim od gotovo 3000 koleginica i kolega širom Srbije. Slavimo jedinstvenost i negujemo kulturu otvorenog feedback-a, jer samo tako možemo rasti i razvijati se zajedno. Deo smo Intesa Sanpaolo, jedne od vodećih bankarskih grupa u Evropi, na tržištu Srbije smo 20 godina i poslujemo u više od 90 gradova naše zemlje. Verujemo da bez snažnih pojedinaca nema ni snažnih timova, ali i da samo jaki timovi mogu biti pravi oslonac i temelj za svaki individualni uspeh. Zajedno, svakodnevno brinemo o potrebama više od 1,3 miliona klijenata, gradeći čvrste odnose poverenja zasnovanih na ekspertizi i znanju. Naše vrednosti Verujemo u integritet i održivost našeg delovanja i poslovanja. Brinemo o klijentima kroz izvrsnost naših usluga i proizvoda negujući dugoročne odnose. Stvaramo inovacije i dodatnu vrednost za pojedince, kompanije i zajednice u kojima poslujemo. Gradimo održivu budućnost posvećenu očuvanju životne sredine, mladim generacijama i izgradnji istinski inkluzivnog društva. Zašto baš Banca Intesa? Svojim kolegama smo omogućili fleksibilno radno vreme i rad od kuće, kao i odlične prilike za razvoj kroz eksterne obuke, interne radionice i talent programe. Talentovanim kolegama pružamo priliku za internacionalnu karijeru. Brinemo o balansu, podstičemo zdrave životne navike i gradimo atmosferu dobre timske saradnje i podrške. Učestvujemo na brojnim sportskim aktivnostima i takmičenjima, kao i volonterskim aktivnostima u okviru programa „Intesa od srca“. Deci naših zaposlenih pružamo priliku da steknu dragocena međunarodna iskustva i razviju svoje veštine i talente, kroz učešće u sportskim takmičenjima i letnjim kampovima za decu. Zdravstveno osiguranje Zdravstveno osiguranje Fleksibilno radno vreme Fleksibilno radno vreme Rad od kuće Ti si odličan kandidat za ovu poziciju ako poseduješ: Višu ili visoku stručnu spremu iz oblasti tehničko-tehnoloških, prirodno-matematičkih ili društvenih nauka Višegodišnje iskustvo u definisanju i realizaciji zahteva za aplikativnim izmenama Razumevanje tipične aplikativne arhitekture, tokove podataka, proces razvoja i održavanje aplikativnih rešenja Sklonost ka timskom načinu rada Dobro znanje engleskog jezika Veštine kao što su komunikativnost, pouzdanost, sistematičnost i preciznost Reference: lmMjAUDf07IyJSFuJ17p6DXj26bLMcsoxEYbZt4kqkFXe1m2jdVRHdRQ3xzvc3wA Tvoje prednosti bi mogle da budu: Poznavanje aplikativnog portfolia banke i poslovnih procesa Šta ova uloga podrazumeva: Učešće u definisanju poslovnih potreba za unapređenje poslovnih aplikacija Biznis analizu i odobravanje zahteva koji se odnose na aplikativne izmene Komunikaciju sa poslovnim korisnicima u okviru banke i vendorima koji učestvuju u razvoju i održavanju aplikativnih servisa Koordinaciju komunikacije poslovnih korisnika sa ostalim ICT strukturama u vezi analize i implementacije izmena Podršku poslovnim korisnicima prilikom testiranja i validacije izmena Učešće u radu razvojnih projektnih timova banke Ukoliko si zainteresovan/na za neku drugu poziciju u našoj banci, budi slobodan/na da nam prijavom na neki drugi otvoreni konkurs na našoj karijernoj strani, ostaviš svoju biografiju. Rado ćemo te kontaktirati ukoliko se pojavi potreba za tvojim profilom u željenom gradu, a u međuvremenu možeš nastaviti da pratiš naše konkurse i dodatno apliciraš ukoliko primetiš još neku poziciju koja ti je interesantna. Želimo ti puno sreće! Proces selekcije Trudimo se d"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137527",
+   "title": "Senior Software Engineer II Applied AI",
+   "company": "Wrapbook",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "design",
+    "amazon",
+    "sys admin",
+    "backend",
+    "infosec",
+    "python",
+    "education",
+    "technical",
+    "customer support",
+    "accounting",
+    "payroll"
+   ],
+   "posted": "2026-10-15",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+   "summary": "About Us: Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeff",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-16T17:33:40+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "762045",
+   "title": "C++ Application Developer",
+   "company": "ZG Lighting SRB d.o.o. - Zumtobel Group",
+   "location": "Niš",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    ".NET",
+    "C++",
+    "WebGL",
+    "Programiranje",
+    "3D"
+   ],
+   "posted": "2026-10-16",
+   "expires": "31.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/c-application-developer/zg-lighting-srb-doo-zumtobel-g/762045",
+   "summary": "This role delivers high performance C++ applications and services for lighting design visualization and simulation. The successful candidate will implement and optimize complex mathematical and 3D algorithms to ensure maintainability performance and reliability of backend and frontend solutions.",
+   "matched": [
+    "data engineer",
+    "backend",
+    "it support"
+   ],
+   "first_seen": "2026-10-16T12:35:22+00:00",
+   "details": "O poslodavcu Responsibilities Programming of branch specific applications and services with focus on implementation and optimization of complex mathematical and geometric algorithms and technical orientated API solutions in the areas of lighting design, visualization and simulation Contribution to projects for conception and realization of C++ and .NET intranet solutions and online services to ensure maintainability, performance and stability Support for design of software systems (C++, .NET) Evaluation of technologies, frameworks, software paradigm, etc. Creation and quality assurance of concepts, technical specifications, prototypes and documentation relating to the IT solution being developed in order to guarantee maintainability, performance and reliability of the corresponding IT solutions Design, extension and support of interfaces from and to lighting design solutions and product data management tools with focus on 3D technologies in backend and frontend solutions 3rd level support on technical inquiries and incidents Reference: YUt1v9dQVPLudgfdtUu-QKXA23xF1vc8CwxhFLTPchaneXUKrcqqbUtL99IWKuB7 Skills & Experience Bachelor's or Master Degree in Computer Science, IT, Mathematics or related technical field Experience in the area of software conception and development of calculation driven backend solutions (creates, implements, optimizes, debugs, refactors, and reuses code to establish and improve performance, maintainability and effectiveness; technical engineering experience with coding in languages including, but not limited to C++) Experience of mathematical model specification and implementation, GPU-accelerated calculation pipeline, memory management, multi-threading, multi GPU load balancing and CPU/GPU profiles are of advantage Project experience in quality assurance and introduction as well as operation and support of IT backend solutions Experience in design and use of manual and automated testing methodologies and technologies are of advantage Good knowledge of programming technologies like OpenGL/WebGL, Vulkan, GLM, VMA, RenderDoc are of advantage Knowledge and practical experience with data visualization and 3D geometry are of advantage What we offer Private Health Insurance Employee well-being and family support programs – private health insurance and various initiatives to support families and parenting. Social gatherings and community events – designed to foster connection and collaboration among employees. Personal growth - training opportunities accessible internally and externally. Who we are At the Zumtobel Group, we are passionate about designing and producing light that empowers humans and brings architecture to life. We continuously push the boundaries in our search for perfection through timeless design, technical excellence and efficient performance. Through light, we create spaces that inspire. As we develop the next generation of lighting, we consider the wellbeing of people and nature. Our lighting is designed for our customers and their individual aspirations. We guide them into a new world of opportunities – as a group, and through all our individual brands, Thorn, Tridonic and Zumtobel. ZG Lighting SRB d.o.o. The Zumtobel Group is an international lighting group and a leading player in the field of innovative lighting solutions and components. With its three internationally established brands, Thorn, Tridonic and Zumtobel, and its brands, acdc, Reiss and Zumtobel Group Services the Group offers its cust"
+  },
+  {
+   "source": "infostud",
+   "id": "762090",
+   "title": "Data Analyst/Analytics Engineer",
+   "company": "Vox Code",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Git",
+    "Python",
+    "AWS",
+    "SQL Server",
+    "Azure",
+    "Microsoft SQL Server",
+    "Programiranje",
+    "Cloud"
+   ],
+   "posted": "2026-10-16",
+   "expires": "31.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-analyst-analytics-engineer/vox-code/762090",
+   "summary": "The role exists to convert complex datasets into reliable analytical products that enable informed business decisions. The successful candidate will build scalable data models and dashboards while ensuring data quality and improving analytics automation.",
+   "matched": [
+    "python",
+    "data engineer",
+    "etl",
+    "databricks",
+    "sql",
+    "aws",
+    "data platform",
+    "data analyst",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-16T12:35:22+00:00",
+   "details": "Location: Belgrade, Serbia Work Model: Hybrid Experience Level: Mid-Level (3+ years) About the Role At Vox Code, we are looking for a skilled and motivated Data Analyst / Analytics Engineer to join our growing team. You will work with large and complex datasets, transform raw data into meaningful business insights, and develop scalable data models, reports, and dashboards that help our clients make informed decisions. This role combines data analysis, business intelligence, and analytics engineering, offering an opportunity to work with modern data technologies, including Microsoft SQL Server, Power BI, Tableau, and Databricks, while collaborating closely with data engineers, developers, and business stakeholders on international projects. We are looking for someone who combines strong technical expertise with analytical thinking, enjoys solving complex data challenges, and takes ownership of delivering reliable, high-quality analytical solutions. Key Responsibilities Analyze and interpret large datasets to identify trends, patterns, anomalies, and business opportunities. Design, develop, and maintain interactive dashboards, reports, and data visualizations using Power BI, Tableau, or similar tools. Write, optimize, and maintain complex SQL queries for data extraction, transformation, and analysis. Design and maintain analytical data models that support reporting, business intelligence, and advanced analytics. Collaborate with clients and business stakeholders to understand requirements and translate business needs into scalable analytical solutions. Prepare ad-hoc analyses and reports to support operational and strategic decision-making. Ensure data quality, accuracy, consistency, and reliability across datasets, data models, and reports. Work closely with data engineers to develop and improve data pipelines, transformation processes, and data warehouse structures. Participate in the development of modern cloud-based analytics solutions using Databricks and related technologies. Identify opportunities to automate reporting, optimize data transformations, and improve analytical workflows. Present findings, insights, and recommendations clearly to both technical and non-technical audiences. Reference: G-Z5kToR6Rwq_uZDXY_ZIMNttWjt04zmA1Mw6awvmyFYLXH6KWAUd9iM6AJ4LVti Requirements Minimum 3 years of professional experience in data analysis, analytics engineering, business intelligence, or a related role. Strong SQL skills, including complex queries, joins, CTEs, window functions, aggregations, and query optimization. Hands-on experience with at least one BI or data visualization tool, preferably Power BI or Tableau. Experience designing and working with analytical data models, relational databases, and data warehouse structures. Solid understanding of ETL/ELT concepts and data transformation processes. Proven ability to work with large datasets, investigate data quality issues, and deliver accurate analytical results. Strong analytical thinking, problem-solving skills, and attention to detail. Ability to translate business requirements into technical and analytical solutions. Good communication skills and the ability to explain complex findings to business stakeholders. Good command of English, both written and spoken. Ability to work independently, take ownership of tasks, and collaborate effectively within a team. Bachelor's degree in Computer Science, Information Systems, Mathematics, Statistics, Economics, or a related field, or equival"
+  },
+  {
+   "source": "infostud",
+   "id": "762189",
+   "title": "IT Customer Service & Sales Consultant",
+   "company": "L3 Consulting",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Podrška",
+    "CRM"
+   ],
+   "posted": "2026-10-16",
+   "expires": "05.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-customer-service-sales-consultant/l3-consulting/762189",
+   "summary": "This role delivers frontline customer support and commercial growth by managing client relationships, sales enquiries and billing processes. The successful candidate ensures timely resolution of customer requests and accurate invoicing while coordinating with technical teams to maintain service quality.",
+   "matched": [
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-16T12:35:22+00:00",
+   "details": "O poslodavcu L3 Consulting is one of Australia most progressive and fast-growing IT providers servicing the small and medium market. At L3 we pride ourselves on the quality of work we do, on building strong and lasting relationships with our customers, always having fun, and creating an environment where we balance work and personal lifestyle (ability to work from home, etc.). We are looking for an IT Customer Service & Sales Consultant to join our team. This varied role combines customer service, sales support, account management, administration, billing and invoicing. You will be a key point of contact for our clients, working closely with our technical and management teams to ensure a professional and seamless customer experience. Key Areas of Responsibility Customer Service & Account Management Acting as a key point of escalation contact for existing and prospective customers Responding to customer enquiries via phone and email in a professional and timely manner Building and maintaining strong, long-term relationships with clients Understanding customer needs and identifying opportunities to provide additional services or solutions Following up customer enquiries, requests, quotes and outstanding actions Coordinating with the technical team to ensure customer requests are followed through to completion Ensuring customers receive a consistently high level of service Reference: z0oxdKefwMBYE0q8iFtivynoTN3r2UK4myqNMhxgxAt4HE3qOIGowV5tQo-x7Y9o Sales & Business Development Managing incoming sales enquiries and following up leads Preparing and sending quotes and proposals Following up quotes and opportunities with prospective and existing clients Identifying opportunities to upsell or cross-sell L3 Consulting's IT services Maintaining accurate customer and sales information Supporting the management team with sales administration and reporting Developing strong knowledge of L3 Consulting's services so you can confidently explain solutions to customers Billing & Invoicing Preparing and issuing customer invoices Processing recurring and ad-hoc billing Monitoring outstanding invoices and following up overdue accounts Assisting with accounts receivable and payment reconciliation Reviewing billing information for accuracy before invoices are issued Managing customer billing queries and resolving discrepancies Maintaining accurate records of customer accounts, services and billing Assisting with monthly billing processes and reporting Administration Maintaining accurate customer records and documentation Managing customer contracts, service agreements and related documentation Assisting with supplier and vendor administration where required Supporting general office and business administration Maintaining accurate data within CRM, accounting and internal systems Assisting the management team with day-to-day operational tasks About You We are looking for someone who is organised, personable, commercially minded and genuinely enjoys helping customers. You will ideally have: Must have at least Level 1 IT experience Previous experience in customer service, sales support, account management, administration or a similar role Experience with billing, invoicing and accounts receivable Strong attention to detail and excellent organisational skills Excellent verbal and written English communication skills Confidence communicating with customers by phone and email The ability to build positive and professional customer relationships Strong follow-up and "
+  },
+  {
+   "source": "infostud",
+   "id": "762268",
+   "title": "Marketing Specialist (German required)",
+   "company": "netcare d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "WordPress",
+    "Prodaja / konsultanti",
+    "Cloud",
+    "Agile",
+    "SEO",
+    "Adobe",
+    "Canva"
+   ],
+   "posted": "2026-10-16",
+   "expires": "15.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/marketing-specialist-german-required/netcare-doo/762268",
+   "summary": "This role delivers hands-on operational marketing support for international IT projects, executing content production, social media and web tasks to increase visibility and campaign effectiveness. The specialist will work closely with the German marketing team to maintain and optimize digital channels and produce creative visual materials.",
+   "matched": [
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-16T12:35:22+00:00",
+   "details": "O poslodavcu At netcare we are taking care of international IT projects for some of the biggest companies in the world. We develop and test IT solutions, organize rollouts, conduct trainings and carry out support. We have four venues in Germany (Neustetten and Leinfelden-Echterdingen near Stuttgart, Frankfurt am Main and Berlin), and one in Belgrade/Serbia. Come join us and be part of our fast-growing and thriving Belgrade team! Marketing Specialist (m/f/d) – German required We are looking for a Marketing Specialist to join us full-time as soon as possible. Are you passionate about marketing, have already gained practical experience, and enjoy getting hands-on? Then apply to join us! We are looking for a marketing enthusiast to strengthen our team in Belgrade and take care of the diverse operational marketing tasks at netcare in collaboration with the German marketing team. The position is initially limited to 2 years. You can look forward to a varied role at an IT service provider focused on digital solutions for enterprise customers. We are pragmatic, agile, and have been successful in the market for over 20 years. With nearly 100 employees in Germany and Serbia, we deliver projects for clients in e-commerce, the automotive industry, and the public sector. Our marketing has great potential, and you can make a significant contribution to developing it further in a structured, creative, and results-oriented way. Your Tasks: Hands-on execution of a wide range of operational marketing tasks Creating and editing graphics as well as image and video materials Designing posts for our social media channels, presentations, and other communication materials Maintaining website content and optimizing it for search queries Planning and publishing posts across various channels Supporting the conceptualization, organization, and implementation of marketing campaigns Reference: F8vz-wpWdOXx96ZKziFM8NZNQkWHooWhqwbetF0J4a8MUoloydO4rMmoVNvnOegF We offer you: Private premium healthcare insurance for all our team members 24 days of vacation per calendar year Working hours that also leave You time for private activities, hobbies, raising kids, or whatever You like doing in Your free time Working in multinational teams in highly exciting international projects for our renowned customers such as Mercedes-Benz Hybrid work model with a mix of Office and remote work days Detailed trainings with a lot of patience and collegiality, since we want You to shine on Your new role An open, relaxed, at the same time constructive and goal-oriented, corporate culture with people helping and \"can do\" attitude Team events thought up with a lot of love, for example, city trips in Europe, team buildings in Serbia and Belgrade, Christmas Party events in Germany or Serbia and much more to come Skills you should have: At least 1 year of professional experience in operational marketing Very good German and English skills Creativity in content creation, e.g. designing graphics to illustrate our services Proficiency in common digital tools such as Adobe Creative Cloud, PowerPoint, or Canva, as well as video editing and image processing tools Enjoyment of operational work, a hands-on mentality, and an independent working style Experience with social media platforms, web analytics tools, and SEO/SEA/GEO We absolutely don’t have anything against: Familiarity with the IT environment, the services sector, or a small or medium-sized company Knowledge of content management systems such as"
+  },
+  {
+   "source": "infostud",
+   "id": "762321",
+   "title": "QA tester za automatizovano testiranje",
+   "company": "Exefeed d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Node",
+    "Node.js",
+    "Selenium",
+    "Jenkins",
+    "PostgreSQL",
+    "Jira",
+    "REST",
+    "QA",
+    "Cucumber",
+    "HTTP",
+    "qa",
+    "Cypress"
+   ],
+   "posted": "2026-10-16",
+   "expires": "31.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/qa-tester-za-automatizovano-testiranje/exefeed-doo/762321",
+   "summary": "Ova pozicija postoji da obezbedi stabilnost i pouzdanost backend i UI komponenti kroz automatizovano i ručno testiranje. Kandidat će razvijati i održavati E2E testove, verifikovati podatke u bazi i blisko sarađivati sa timom radi definisanja acceptance kriterijuma.",
+   "matched": [
+    "backend",
+    "sql",
+    "mrezni"
+   ],
+   "first_seen": "2026-10-16T12:35:22+00:00",
+   "details": "O poslodavcu ExeFeed je IT kompanija specijalizovana za razvoj i integraciju softverskih rešenja za sportsko klađenje, kreiranje aplikacija i distribuciju kvota. Obrađujemo velike količine podataka iz različitih izvora, neke od njih u realnom vremenu koristeći svaku tehnologiju koja nam u tome može pomoći. Mladi i perspektivni zaposleni zajedno sa iskusnim seniorima daju posebnu vrednost našoj kompaniji. Inovativne ideje i timski rad čine ExeFeed stabilnim i pouzdanim partnerom u polju industrije igara na sreću. Zbog povećanja obima posla proširujemo naš tim. Osnovne dužnosti: Razvoj i unapređenje pouzdanog okruženja za automatizovano testiranje backenda i UI-ja Pisanje i održavanje E2E testova u Playwright + Cucumber setupu, po Page Object modelu Automatizovano i ručno testiranje novih funkcionalnosti i ispravki, od Jira tiketa do finalne verifikacije Testiranje API-ja i provera podataka direktno u bazi (PostgreSQL) Rad sa mockovanim i presretnutim mrežnim zahtevima za testiranje grešaka i graničnih slučajeva Prijavljivanje bugova u Jiri, sa jasnim koracima za reprodukciju, okruženjem i dokazima Code review test koda kroz pull requestove na GitHubu Bliska saradnja sa developerima i product timom na definisanju acceptance kriterijuma i rešavanju problema Reference: Uj8pEzB55U4fRJlMahNppR3x5bNHa7vxZ7uAfvebi9AUUTd7oG4hpY0IBMvKa0lL Potrebne veštine/iskustva: Najmanje 2 godine iskustva na poziciji QA inženjera ili softverskog developera Odlično poznavanje JavaScripta i Node.js-a, uključujući asinhrono programiranje (Promise, async/await) Iskustvo u UI automatizaciji sa Playwrightom ili srodnim alatima (Cypress, Selenium) Poznavanje BDD metodologije i iskustvo sa Cucumber frameworkom (Gherkin) Razumevanje HTTP-a i REST API-ja, kao i rad sa browser DevTools-om (Network, Console) Osnovno znanje SQL-a Rad sa Gitom: grane, pull requestovi i code review Izražene analitičke sposobnosti, pažnja na detalje i timski duh Engleski jezik na nivou dovoljnom za tehničku dokumentaciju i svakodnevnu komunikaciju Prednost: Iskustvo u iGaming industriji, sportskom klađenju ili kazino domen Iskustvo sa CI/CD pipeline-ovima (npr. Jenkins) za automatsko pokretanje testova Korišćenje AI alata u svakodnevnom radu i pisanju koda (npr. Claude Code) Nudimo: Puno radno vreme Redovna primanja Paket zdravlja (privatno zdravstveno osiguranje) Mogućnost zaposlenja na neodređeno vreme Godišnji bonus Prijatno radno okruženje Team building NAPOMENA: Slanjem prijave, kandidat daje pristanak da kompanija njegove lične podatke obrađuje u postupku selekcije a u skladu sa Zakonom o zaštiti podataka o ličnosti. Biće kontaktirani samo kandidati koji uđu u uži izbor. EXEFEED DOO ExeFeed je IT kompanija specijalizovana za razvoj i integraciju softverskih rešenja za sportsko klađenje, kreiranje aplikacija i distribuciju kvota. Ono na šta smo posebno ponosni jeste naš IT tim koji čine mladi i perspektivni zaposleni zajedno sa iskusnim seniorima. Snažno podržavamo inovativne ideje i timski rad koji čine ExeFeed stabilnim i pouzdanim partnerom u sferi gaming industrije. Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije "
+  },
+  {
+   "source": "infostud",
+   "id": "762067",
+   "title": "Technical Support & Partner Onboarding Specialist - Hungarian and English language",
+   "company": "M Plus Serbia d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Jira",
+    "Confluence",
+    "Podrška"
+   ],
+   "posted": "2026-10-16",
+   "expires": "31.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/technical-support-partner-onboarding-specialist-hungarian-and-english-language/m-plus-serbia-doo/762067",
+   "summary": "This role ensures partners successfully integrate via APIs and receive timely technical support. The specialist drives onboarding progress, handles L1 troubleshooting, and maintains documentation to ensure smooth partner operations.",
+   "matched": [
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-10-16T12:35:22+00:00",
+   "details": "O poslodavcu WE'RE HIRING! Technical Support & Partner Onboarding Specialist - Hungarian and English language M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. Are you driven to empower others to succeed? Love sharing and guiding people through a great product? We’d love to hear from you! We are looking for 2 Technical Support & Partner Onboarding Specialists to join our team and support partners with API integrations and technical troubleshooting. Primary Responsibilities: Support partners throughout the onboarding process and assist with API integration Provide L1 technical support and troubleshoot partner issues related to POS systems and API connectivity Monitor and manage support tickets, ensuring timely follow-up and resolution Use Postman to test API requests and help identify integration issues Escalate complex technical issues to the relevant teams when necessary Create, update, and maintain knowledge base articles and technical documentation Communicate with partners via Slack and email to provide guidance and ensure a smooth onboarding experience Reference: N9s3rJcpl1VRA12KJV771Nf4D_DQHMEmtk_S2aN2xnfz7Fc_7mEkPrQAEHzdJ--a What we expect from you: Minimum 1 year of relevant experience in API onboarding, technical support, or POS systems Hands-on experience with Postman, Jira, and Confluence Fluent Hungarian and professional English language Ability to work effectively in a team and handle multiple tasks simultaneously Solid organizational and time management skills Willingness to work Monday to Friday business hours, public holiday cover required (9am-5pm) What you will get from us: A remote work model Paid training Opportunity to work with a dynamic, fast-growing team Private health insurance Benefit package available to all our employees (day off for a birthday, discounts with our partners from different industries) If you are ready to contribute to this position, apply now with your CV in English. We look forward to your application! Note: Only shortlisted candidates will be contacted. Best of luck! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od 10 godina. Mplus mi je kroz godine dao prostora za razvoj karijere, to je ono što motiviše mene i…\" Pročitajte celo iskustvo Beneficije Obuke, konferencije Edukacija, profesionalni razvoj Zabavni sadržaj Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Timska druženja Zdravlje Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direkt"
+  },
+  {
+   "source": "helloworld",
+   "id": "762212",
+   "title": "Backend Developer",
+   "company": "InsBy d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "sql",
+    "java",
+    "git",
+    "python",
+    "ruby",
+    "docker",
+    "postgresql",
+    "mongodb",
+    "flutter"
+   ],
+   "posted": "2026-10-16",
+   "expires": "31.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Backend-Developer/InsBy-d.o.o/762212",
+   "summary": "InsBy d.o.o. Odgovara na prijave Beograd 31.10.2026. C# SQL Java Git Python Ruby Docker PostgreSQL MongoDB Flutter Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Backend Developer 2 izvršioca Backend Developer InsBy d.o.o. Odgovara na prijave Beograd 31.10.2026. C# SQL Java Git Python Ruby Docker PostgreSQL MongoDB Flutter intermediate Idemo dalje i želimo baš tebe u našem timu! Ukoliko imaš više od 2 godine iskustva u radu sa nekim bekend programskim jezikom, imamo poziciju za tebe. Bilo da radiš Python, Java, C#, Go, Rust, Elixir ili Ruby, želimo da te upoznamo. Prednost je ukoliko želiš da postaneš full stack developer. Radićeš na našoj platformi morffeus.com , koja postaje operativni sistem svake organizacije. Radićeš u malom timu sa odabranim ljudima, radićeš na zadacima koji su zasnovani na najnovijim tehnologijama i metodima, bićeš deo tima koji menja realnost. Potrebno je da imaš odlično znanje osnova programiranja, da budeš radoznao i da imaš želju da otkrivaš nove stvari. Na čemu ćeš raditi Backend platforme u Elixiru i Phoenixu: API, integracije i digitalni zaposleni — AI kolege koje firme zapošljavaju za konkretne uloge, od prodaje do podrške. PostgreSQL, MongoDB. Kad dođe vreme, i frontend: ekrani u Flutter aplikacijama i stranice u Next.js-u. AI alati, kod nas je to način rada. Ako želiš da postaneš full stack Počinješ na backendu. Put izgleda ovako: Prva tri meseca: backend. Upoznaješ sistem, učiš Elixir ako ga ne znaš i isporučuješ prve izmene u produkciju. Do šestog meseca: prve funkcionalnosti od baze do ekrana, uz review tima. Do kraja godine: samostalno nosiš celu funkcionalnost, na bilo kom delu sistema. Šta konkretno očekujemo Jedan od navedenih jezika znaš stvarno dobro. SQL pišeš i bez ORM-a. Znaš čemu služi indeks i umeš da otkriješ zašto je upit spor. Git, Docker i osnovno razumevanje CI/CD-a. Engleski dovoljno dobar za dokumentaciju i tehničku prepisku. Šta nije uslov Frontend iskustvo. Ni Flutter, ni React, ni Next.js. Ko razume backend, ekran savlada brzo, posebno uz AI alate. Učiš ga kod nas, na pravim funkcionalnostima. Elixir. Ako dolaziš iz drugog jezika, prvih nekoliko nedelja učiš uz tim. Diploma. Gledamo kod, ne papire. Šta nudimo Pisani plan rasta i revizija plate posle šest meseci. Mentorstvo tima koji je napravio sistem. Kancelarija u Beogradu. Tim sedi zajedno, a za nekoga ko uči nov stek to je najbrži put. Mali tim, kratke odluke, direktan pristup. Kako izgleda proces Kratak razgovor (30 min) — ko si, na čemu radiš, šta hoćeš da naučiš. Tehnički deo (90 min, uživo) — dobijaš pravi merge request iz našeg Elixir backenda. Čitaš ga, komentarišeš i dodaješ jednu malu izmenu. AI alati su dozvoljeni, kao i na poslu. Ako Elixir vidiš prvi put, to je u redu: gledamo kako razmišljaš o kodu, ne da li znaš sintaksu. Upoznavanje sa timom (30 min). Konkuriši Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * I",
+   "first_seen": "2026-10-16T12:35:22+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137525",
+   "title": "Director US Tax & Accounting #35344",
+   "company": "Manila Recruitment",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "exec",
+    "accounting",
+    "education",
+    "technical",
+    "customer support",
+    "dev",
+    "marketing",
+    "speech",
+    "finance",
+    "c",
+    "microsoft",
+    "senior"
+   ],
+   "posted": "2026-10-15",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
+   "summary": "Company Profile: Our client was founded to provide high quality professional & personalized tax preparation, accounting and bookkeeping services for individuals, businesses, and non-profits at reasonable rates. The company is a very fast-growing medium-sized accounting firm, allowing them to better serve individual business needs while helping clients save time and money. They serve clients throug",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-16T12:35:22+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137523",
+   "title": "Sr REACT NATIVE",
+   "company": "Somnio Software",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "react native",
+    "react",
+    "dev",
+    "python",
+    "javascript",
+    "c",
+    "flutter",
+    "node",
+    "node.js",
+    "digital nomad"
+   ],
+   "posted": "2026-10-15",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+   "summary": "QuÃ© es Deazy Deazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia como Somnio para ejecutarlo. BÃ¡sicamente son un intermediario entre el cliente final y nosotros. CÃ³mo funciona el modelo Deazy factura al cliente final a su p",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-16T05:59:16+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "761815",
+   "title": "IT Operations and Support Intern",
+   "company": "Robert Bosch d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Python",
+    "AWS",
+    "Azure",
+    "PowerShell",
+    "Bash",
+    "Cloud",
+    "Prakse",
+    "Embedded"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-operations-and-support-intern/robert-bosch-doo/761815",
+   "summary": "This internship is focused on ensuring data integrity and supporting regular reporting for the MA division. The intern will prepare and analyze data, coordinate requirements with stakeholders and explore AI driven process optimizations.",
+   "matched": [
+    "python",
+    "aws",
+    "cloud",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-15T17:49:18+00:00",
+   "details": "O poslodavcu Do you want to shape beneficial technologies with your ideas? If so, join us as IT Operations and Support Intern Job Description During your internship: You will support the daily operations of a cloud-based integration platform used for developing and updating vehicle software and services. You will assist with handling incidents and service requests in our ticketing system, including collecting relevant information, updating tickets, and escalating issues to the appropriate teams under guidance. You will learn how to monitor cloud-based applications and connected devices, review alerts, and support initial troubleshooting using dashboards, logs, and documented procedures. You will assist with application, device, and customer service administration, following established processes and access permissions. You will help maintain operational documentation, knowledge articles, and step-by-step support instructions. You will work as part of an international team across Serbia and Germany, collaborating with support specialists, development teams, system architects, product owners, and service managers. You will develop practical skills in cloud operations, monitoring, troubleshooting, and IT service management, with support and guidance from experienced colleagues. Reference: He2qUqzY3AFn6mxZOt9huxlcmtRkUDX3ZUUENjKqdIN6ulnPz7RSBlp6jQE1FxX8 Qualifications What we’re looking for: Currently enrolled in a university degree program, preferably in information technology, computer science, communication technologies, or a related field. Interest in cloud technologies, IT operations, and technical troubleshooting, together with a willingness to learn. A structured approach to problem-solving, attention to detail, and the ability to follow documented procedures. Clear communication skills and a collaborative approach to working with others. Strong English language skills, both written and verbal. What can separate you from the crowd: Basic understanding of cloud concepts or exposure to cloud platforms such as AWS or Azure through coursework, personal projects, or previous experience. Basic scripting knowledge, for example in Python, Bash, or PowerShell, or an interest in automating repetitive tasks. Previous professional experience is not required. Relevant coursework, personal projects, and a demonstrated willingness to learn are welcome. Benefits Paid six-month internship An active role in projects and real business situations Work with experienced mentors who will support you International work environment where innovation and creativity are valued Canteen at the location and organized transport (to Pećinci plant) Various possibilities for sports activities Do you want beneficial technologies being shaped by your ideas? Whether in the areas of mobility solutions, consumer goods, industrial technology or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. Welcome to Bosch. In Bosch Engineering Center we’re building innovative solutions for a connected world. While our roots are in the connected vehicle, we’ve expanded our expertise to include cutting-edge AI and the implementation of solutions for complex problems for our clients across industries. Our portfolio spans smartphone integration, cloud services, and embedded technology. Driven by creativity, our spirit of innovation-combined with Bosch’s legacy of engineering excellence-gives us a unique edge in shaping the f"
+  },
+  {
+   "source": "infostud",
+   "id": "761921",
+   "title": "Data Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-analyst/maxbet-doo/761921",
+   "summary": "The Data Analyst role exists to transform large and complex datasets into accurate actionable insights that guide promotional and business decisions. The position focuses on ensuring data quality building automated reporting and collaborating with BI and cross-functional teams to support analytics driven improvements.",
+   "matched": [
+    "data analyst",
+    "it support"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu MaxBet is part of Flutter Entertainment (NYSE: FLUT) - the world’s largest online gambling operator, publicly listed on the New York Stock Exchange . As a truly global leader in sports betting and gaming, Flutter shapes the future of the industry. MaxBet is a rapidly growing company specializing in sports betting, gaming and gambling. Headquartered in Serbia, we have a strong presence in Bosnia and Herzegovina, Montenegro and North Macedonia . We are committed to setting new industry standards, delivering top-tier entertainment while upholding the highest integrity. Our success is built on our people - we foster a culture of teamwork, clear communication and mutual respect. As we continue to grow, we are looking for a: Data Analyst City: Belgrade Role Summary: This position will be part of our Promo team, reporting directly to the Flutter Group. The role focuses on collecting, analyzing, and processing large datasets, ensuring data quality and accuracy, and transforming complex data into clear, actionable insights that support informed business decision-making. Responsibilities: Collecting and interpreting trends or patterns in complex data sets, analyzing results using advanced statistical techniques. Creating data dashboards, graphs, and visualizations, as well as building automated reports, alerts, and subscriptions to ensure the continuous delivery of requested data using Tableau Server. Conducting research, writing reports, providing advice and projections, and identifying areas for improving efficiency and automating processes. Participating in cross-departmental projects to meet business needs. Working closely with the BI Development team to create and optimize database objects required to support reporting systems (e.g., creating cubes in Tableau and creating or adjusting specific fields). Ensuring the accurate, intentional, and responsible use of users’ personal data when working with the AML, Legal, or Risk departments. Reference: fJILGsve0tM8zGaE9m_GIPKFfbY0CDf0vujx6p25OcmXzmCzu8WOTjC4yk2KMnfS Qualifications: Proven working experience as a data analyst. Working Knowledge of statistics. Working knowledge of Tableau/SQL. Ability to analyze and interpret data and to translate data insights into business recommendations. Accuracy and attention to detail. Professional working proficiency in English. Perks and benefits: Health & Well-being: Private health insurance. Up to 6 days of 100% paid leave without a certificate. Sports membership. Work Environment & Comfort: Modern workspace with relaxation areas. Hybrid work model with flexible working hours. Remote work up to 30 days/year. Work-Life Balance: 24+ days of annual leave. Birthday off. Reduced hours for moms with kids starting kindergarten. Fully covered maternity leave (according to company policy). Day off for parents of first graders. Growth & Development: Paid training, workshops, and educational opportunities. Team-building events and sports activities. Additional Perks: Daily transportation between Novi Sad & Belgrade for Novi Sad colleagues working in Belgrade. Role-based bonus opportunities. Referral bonuses for recommending new hires. Full equipment and onboarding for every role. MaxBet MaxBet, deo međunarodnog lidera Flutter International, izdvaja se u svetu igara na sreću kao kompanija posvećena inovacijama i naprednim tehnološkim rešenjima. Od svojih početaka 1993. godine, MaxBet je postao prisutan u preko 200 gradova širom Srbije i regiona, uključujuć"
+  },
+  {
+   "source": "infostud",
+   "id": "761790",
+   "title": "IT tehničar - korisnička i terenska IT podrška",
+   "company": "Autokomerc d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "Podrška",
+    "TCP/IP",
+    "BI",
+    "TCP",
+    "Active Directory"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar-korisnicka-i-terenska-it-podrska/autokomerc-doo/761790",
+   "summary": "Pozicija služi za obezbeđivanje stabilnog rada korisničke IT opreme i pružanje efikasne tehničke podrške zaposlenima. Kandidat će rešavati svakodnevne tehničke probleme na lokaciji i voditi evidenciju i održavanje IT inventara.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu Kompanija Autokomerc d.o.o., ovlašćeni partner za Audi i VW vozila, nudi širok asortiman novih putničkih i privrednih vozila, rezervnih delova i profesionalnih servisnih usluga. Kao najstarija domaća privatna kompanija iz automobilske industrije, od 1992. godine smo specijalizovani za prodaju novih i polovnih vozila, flotna rešenja za kompanije, kao i kompletnu postprodajnu podršku. Naše dugogodišnje tržišno iskustvo nudi stabilnu poslovnu saradnju zasnovanu na stručnom kadru, kvalitetu, pouzdanosti i savremenim poslovnim rešenjima. U cilju podizanja kvaliteta naših usluga, potrebna nam je ambiciozna i organizovana osoba za sledeću poziciju: IT tehničar - korisnička i terenska IT podrška Mesto rada: Beograd (1 izvršilac) Da li voliš praktičan rad, rešavanje tehničkih problema i svakodnevnu komunikaciju sa korisnicima? Da li želiš da budeš ključni oslonac stabilnog IT sistema u renomiranoj kompaniji? Tražimo osoblje koje će obezbediti efikasnu tehničku podršku zaposlenima i besprekorno funkcionisanje korisničke opreme. Šta će biti tvoja zaduženja? Kao član naše IT službe, tvoj fokus biće na pružanju kvalitetne tehničke podrške i održavanju opreme: Instalacija i održavanje: Instaliranje, podešavanje i održavanje desktop i laptop računara, Windows operativnih sistema i standardnih programa. Rešavanje problema: Otklanjanje smetnji sa štampačima, skenerima, monitorima, perifernom opremom i drugim korisničkim uređajima. Aplikativna podrška: Podešavanje Outlook-a, korisničkih Microsoft 365 aplikacija, kao i instalacija klijentskih verzija poslovnih aplikacija prema uputstvima IT službe. Upravljanje opremom i inventarom: Priprema opreme za nove zaposlene, vođenje evidencije zaduženja i razduženja, kao i vođenje inventara IT opreme. Mrežna dijagnostika i teren: Obavljanje osnovne mrežne dijagnostike, terenskih intervencija i rada na različitim lokacijama kompanije po potrebi. Administracija i dokumentacija: Evidentiranje korisničkih zahteva, eskalacija složenijih problema administratoru i priprema jednostavnih korisničkih uputstava. Reference: iWsgIHnHwxNwXswJHRG0wArOANBzE8G-v1lfisqqGX3ig_rwu11ic2lHOdYrRPP8 Profil idealnog kandidata: Tražimo profesionalca koji poseduje tehničko znanje, odgovornost i pedantnost u radu: Obrazovanje i znanje: Dobro poznavanje Windows operativnih sistema i PC hardvera. Iskustvo: Iskustvo sa instalacijom softvera, drajvera, štampača i rešavanjem uobičajenih korisničkih problema (prethodno iskustvo u helpdesk/desktop support poslovima, poznavanje Active Directory osnova, Microsoft 365 i ticketing sistema predstavlja prednost, ali nije uslov). Tehničke veštine: Osnovno razumevanje TCP/IP mreža, Wi-Fi i rada u domenskom okruženju. Lične osobine: Odgovornost, organizovanost, strpljenje i izražena komunikativnost. Vozačka dozvola: B kategorija. Šta Autokomerc nudi tebi? Stabilnost i tradiciju: Rad u organizovanoj IT službi i renomiranoj kompaniji uz podršku iskusnog IT Managera. Razvoj karijere: Priliku za usavršavanje u korisničkoj podršci, računarskim mrežama i poslovnom IT okruženju kroz raznovrsne zadatke. Okruženje: Rad u dinamičnom i profesionalnom timu. Uslovi i naknada: Uslovi zaposlenja i finansijska naknada definisani su prema dogovoru i dosadašnjem iskustvu kandidata. Kako da se prijaviš? Ako prepoznaješ sebe u ovom opisu i želiš da razvijaš svoju IT karijeru u uspešnom sistemu, pošalji nam svoj CV! Biće kontaktirani samo kandidati koji uđu u uži izbor. Zahvaljujemo se svim kandidatima na interesov"
+  },
+  {
+   "source": "infostud",
+   "id": "761949",
+   "title": "IT tehničar/System Administrator",
+   "company": "Electus d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar-system-administrator/electus-doo/761949",
+   "summary": "Pozicija ima zadatak da obezbedi pouzdanu tehničku podršku i kontinuirano održavanje IT opreme kako bi poslovni procesi funkcionisali bez zastoja. Kandidat će dijagnostikovati i rešavati hardverske softverske i mrežne probleme i upravljati pristupima i nalozima prema definisanim procedurama.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu Opis posla: Pružanje tehničke podrške zaposlenima Instalacija, konfiguracija i održavanje računara, mobilnih uređaja, štampača i druge IT opreme Dijagnostika i rešavanje hardverskih, softverskih i mrežnih problema Instalacija i osnovno održavanje mrežne opreme Administracija korisničkih naloga, pristupa i korisničkih prava Podešavanje korisničkih menija i pristupa poslovnim aplikacijama Podrška korisnicima ERP, POS i drugih poslovnih aplikacija Osnovna administracija poslovnih sistema prema definisanim procedurama Podrška IT sistemima i opremi kod klijenata Vođenje evidencije IT opreme, intervencija i servisiranja Komunikacija i koordinacija sa eksternim servisima i dobavljačima IT opreme i usluga Dokumentovanje IT procedura, konfiguracija i rešenja učestalih problema Primena definisanih pravila IT bezbednosti i upravljanja pristupima Reference: mm0gDt9xQBpTQbuFoBQytLOT8uPDm6VL2aymwy9SK59riTBAFOUCO_0kRdl-WDjC Potrebne kvalifikacije SSS/VŠS/VSS tehničkog ili IT usmerenja Minimum godinu dana iskustva na poslovima IT podrške, IT administracije ili sličnoj poziciji Dobro poznavanje Windows 10/11 operativnih sistema Dobro poznavanje računarskog hardvera i periferne opreme Osnovno poznavanje računarskih mreža, TCP/IP protokola, Wi-Fi mreža, rutera i switch-eva Osnovno poznavanje administracije korisničkih naloga i prava pristupa Sposobnost samostalnog dijagnostikovanja i rešavanja tehničkih problema Engleski jezik na nivou potrebnom za korišćenje tehničke dokumentacije Vozačka dozvola B kategorije, aktivan vozač Profesionalan i odgovoran pristup radnim obavezama Spremnost za usvajanje novih znanja i veština. Šta vam nudimo Stalni radni odnos, uz probni rad od 3 meseca Rad u odličnim uslovima i prijatnoj radnoj atmosferi Dobrovoljno zdravstveno osiguranje Budžet za dodatnu edukaciju Prednost imaju kandidati sa iskustvom u radu sa ERP, POS ili drugim poslovnim informacionim sistemima Windows Server okruženju remote support alatima administraciji poslovnih aplikacija Molimo da Vaše biografije dostavite elektronskim putem. U najkraćem roku će biti kontaktirani kandidati koji uđu u najuži izbor. Electus d.o.o. Ivana Sarica 4, Beograd, Srbija PIB: 108975255 Matični broj: 21103853 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support IT tehničar/System Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim"
+  },
+  {
+   "source": "infostud",
+   "id": "761950",
+   "title": "KICKSTART - Digital Implementation Support Specialist - intern",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prakse",
+    "Express"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/kickstart-digital-implementation-support-specialist-intern/yettel-doo/761950",
+   "summary": "The role exists to manage ordering and delivery of devices for business customers while ensuring contractual terms are implemented and budgets are controlled. The successful candidate will maintain accurate order processing, monitor budgets and provide regular reporting to improve operational efficiency.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu What we will expect from you: Manage the device ordering process for business customers, including smartphones, USB and GPS modems, laptops, tablets and new SIM cards. Provide support throughout the ordering process by creating orders and order forms and monitoring the available budget. Review key elements of signed agreements with business customers and ensure the implementation of agreed terms in relevant systems. Implement changes to tariff plans, approved benefits, discounts, add-ons and other contractual conditions. Maintain records of contract amendments and update customer information across relevant systems. Conduct initial online checks of business customers in line with defined procedures and coordinate with relevant stakeholders when needed. Manage pre-orders for flagship device models, ensuring timely procurement based on availability. Monitor and manage device budgets, including reporting, adjustments, corrections, alternative pricing and budget overruns. Create delivery orders for devices, SIM cards and additional equipment through relevant business systems. Monitor device management trends and prepare weekly, monthly and quarterly reports. Classify customer interactions to support service improvements. Monitor orders placed through digital sales channels, analyse results and propose process and system improvements. Reference: qjCYmsezlov6H_Bt2TqeSTxjBXn0EIRHYsFGXkUL4H3POM3SVhTl0nMFRZcVhXyb For a good start you will need: Minimum secondary education. Good knowledge of Microsoft Office, especially Excel. Good understanding of general business processes and practices. Strong attention to detail. Excellent verbal and presentation skills. Why we think you should apply: Paid internship & career development opportunities Mobile phone and tariff package with unlimited internet Opportunity to participate in business decision making process of a large multinational company Working in a dynamic environment which allows you to freely express opinions, ideas and inspire new ways of doing things A unique and inspiring atmosphere full of talented people willing to share their professional knowledge Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Odabrao sam Yettel kako bih se upoznao sa radom korporacije. Zanimalo me je kako funkcioniše komunikacija i rad u tako velikom sistemu. Najviše me je iznenadila posvećenost ljudi u timu da mi na…\" Pročitajte celo iskustvo Beneficije Edukacija, profesionalni razvoj Wellness Sport i rekreacija Dobrovoljno zdravstveno osiguranje Dodatni slobodni dani Fleksibilno radno vreme Nagrade, bonusi, pokloni Obezbeđena oprema za rad Porodica i roditeljstvo Obuke, konferencije Hrana i piće Otkup opreme Rad od kuće Društvena odgovornost Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapo"
+  },
+  {
+   "source": "infostud",
+   "id": "761914",
+   "title": "Senior IT sistem inženjer",
+   "company": "JAFFA DOO CRVENKA",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-15",
+   "expires": "30.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-it-sistem-inzenjer/jaffa-doo-crvenka/761914",
+   "summary": "Senior IT sistem inženjer odgovoran je za projektovanje održavanje i unapređenje serverske infrastrukture radi obezbeđivanja stabilnosti dostupnosti i bezbednosti kritičnih servisa. Kandidat će automatizovati administrativne zadatke podržavati backup i recovery procese i rešavati kompleksne infrastrukturne incidente.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni"
+   ],
+   "first_seen": "2026-10-15T12:44:32+00:00",
+   "details": "O poslodavcu Kappa Star Group (www.kappastar.com) je investiciona grupa koju čini veliki broj članica od kojih su najznačajnije Jaffa doo Crvenka, Umka d.o.o. Umka, Kappa Star Recycling doo, Ekostar Pak doo i KSG Logistics. Članice Kappa Star Grupe svrstavaju se u vodeće proizvođače u okviru delatnosti u kojima posluju. Tražimo iskusnog Senior IT sistem inženjera koji će učestvovati u projektovanju, implementaciji, administraciji i unapređenju serverske i prateće IT infrastrukture kompanije. Lokacija: Beograd Opis posla Učešće u projektovanju, instalaciji, konfigurisanju, monitoringu, održavanju i unapređenju serverske infrastrukture bazirane na Windows Server, Linux i BSD/Unix platformama. Administracija i održavanje ključnih infrastrukturnih servisa i obezbeđivanje njihove stabilnosti, dostupnosti i performansi. Planiranje i sprovođenje redovnog ažuriranja operativnih sistema, infrastrukturnog softvera i servisa, uključujući primenu bezbednosnih i funkcionalnih zakrpa. Automatizacija administratorskih i operativnih zadataka korišćenjem skript jezika i odgovarajućih alata za automatizaciju. Implementacija i kontinuirano unapređenje IT bezbednosnih mera i primena dobre prakse u domenu serverske i infrastrukturne bezbednosti u saradnji sa timom za informacionu bezbednost. Administracija i održavanje infrastrukture za hostovanje web aplikacija i servisa. Planiranje, implementacija i održavanje sistema za izradu rezervnih kopija podataka i sistema, kao i sprovođenje i testiranje procedura za oporavak. Praćenje raspoloživosti, kapaciteta i performansi infrastrukturnih sistema, identifikovanje potencijalnih problema i proaktivno predlaganje unapređenja. Analiza i rešavanje kompleksnih incidenata i problema u domenu serverske infrastrukture. Kreiranje i redovno održavanje tehničke dokumentacije, konfiguracione dokumentacije i operativnih procedura za sisteme iz domena odgovornosti. Učešće u internim IT projektima vezanim za implementaciju novih i unapređenje postojećih IT rešenja. Tehnička procena i predlaganje infrastrukturnih rešenja u skladu sa poslovnim i tehničkim zahtevima. Saradnja sa ostalim IT timovima i eksternim partnerima na implementaciji, održavanju i unapređenju IT infrastrukture. Prenos znanja i pružanje stručne podrške drugim članovima IT tima. Reference: 37sFqAWVlkzdsr2prBVEWC7ks4cxpegvFDZQZKItSKCYS2jS0P9hallGDDc84ce9 Potrebna znanja i iskustvo Visoko obrazovanje odgovarajućeg tehničkog usmerenja ili ekvivalentno višegodišnje relevantno profesionalno iskustvo. Višegodišnje iskustvo u administraciji i održavanju serverske infrastrukture u kompleksnim korporativnim IT okruženjima. Odlično poznavanje Microsoft Windows Server operativnih sistema i pripadajućih infrastrukturnih servisa. Napredno praktično iskustvo u administraciji Windows serverskih servisa, kao što su Active Directory, Group Policy, DNS, DHCP, PKI/Certificate Services i File Services. Dobro poznavanje Linux i drugih Unix-like serverskih operativnih sistema, uz praktično iskustvo u njihovoj instalaciji, konfigurisanju, administraciji i održavanju. Iskustvo u administraciji i održavanju virtualizovanih serverskih okruženja. Poznavanje najmanje jednog skript jezika, uz praktično iskustvo u automatizaciji administratorskih zadataka, prvenstveno PowerShell i/ili Bash. Iskustvo u administraciji i optimizaciji infrastrukture za hostovanje web aplikacija, poželjno u okruženjima zasnovanim na Linux, Nginx, MySQL/MariaDB i PHP/Laravel tehnologijama. Dobro razumevanje mrež"
+  },
+  {
+   "source": "helloworld",
+   "id": "761956",
+   "title": "Senior Full Stack Web Software Developer (Contract)",
+   "company": "Schedulink",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "python",
+    "aws",
+    "devops",
+    "typescript"
+   ],
+   "posted": "2026-10-15",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Web-Software-Developer-Contract/Schedulink/761956",
+   "summary": "Schedulink Rad od kuće online intervju 14.11.2026. 40.000,00 - 50.000,00 USD (gross) JavaScript Python AWS DevOps TypeScript Senior",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior Full Stack Web Software Developer (Contract) Senior Full Stack Web Software Developer (Contract) Schedulink Rad od kuće online intervju 14.11.2026. 40.000,00 - 50.000,00 USD (gross) JavaScript Python AWS DevOps TypeScript senior About Us We are a young, highly profitable startup shaking up the photography industry. While our flagship product was released less than a year ago, we have already found strong product-market fit and are scaling fast. Because we are a small team, there is a tremendous amount of room for growth and leadership opportunities as we expand. About the Codebase & Engineering Culture Engineers thrive when they can focus. With us, you will work on a single product —no agency-style codebase hopping. Our tech stack is modern, structured, and developer-friendly: Backend: Ruby on Rails (RoR) Frontend: React with TypeScript Infrastructure: Everything runs in AWS, fully containerized DevOps: Automated CI/CD pipelines Quality: Decent test coverage currently sitting at ~55% (and we’d love your help to improve it!) The Role We are looking for an experienced, self-motivated Senior Full Stack Developer to takeownership of major technical initiatives. You will be working independently for the most part, checking in via weekly sync meetings, which means you get the deep, uninterrupted focus time you need to build great software. Your Responsibilities: Write clean, scalable, and maintainable backend and frontend code. Draft system design documents and architecture plans for new features. Lead root cause analysis and implement permanent fixes for complex bugs. Conduct code reviews, uphold engineering standards, and mentor junior developers. Requirements Experience & Education: A Graduate degree in Computer Science with 5+ years of software development experience, OR A Graduate degree in another STEM field with 10+ years of software development experience. Technical Skills: 3+ years of professional experience with Ruby OR Python. (Note: Our backend is RoR, but we welcome Python experts willing to adapt!). 3+ years of professional experience with React (JavaScript or TypeScript). Comfortable with basic AWS concepts, operations, and containerized deployments. Soft Skills & Work Style: Highly comfortable working independently and asynchronously, with minimal micromanagement (weekly syncs). Fluent in written and spoken English. Professional fluency is a must! Compensation & Benefits Salary: $40,000 - $50,000 USD gross annually. Time Off : 3 weeks of Paid Time Off (PTO). Impact: The chance to get in on the ground floor of a profitable, fast-growing startup and directly shape its technical direction. How to Apply: Please send your resume and a link to your GitHub/Portfolio electronically. Konkuriši Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačići",
+   "first_seen": "2026-10-15T12:44:32+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762008",
+   "title": "Senior Marketing Manager",
+   "company": "CREATEQ",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "figma",
+    "adobe",
+    "canva"
+   ],
+   "posted": "2026-10-15",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Marketing-Manager/CREATEQ/762008",
+   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Istaknuti poslodavci Premium",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior Marketing Manager Senior Marketing Manager CREATEQ 3 Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva senior Apply Here Upoznaj kompaniju O Kompaniji Iskustva Plate Beneficije Tech Stack CxO Brief Dobrodošli u svet CREATEQ-a! Mi smo švajcarska kompanija koja se bavi razvojem softvera za razne industrije – od avijacije i finansija, preko energetike i e-učenja, pa sve do telekomunikacija. U Švajcarskoj smo prisutni još od 1996. godine, dok smo prvi razvojni centar u Srbiji otvorili 2004. godine. Počeli smo u Beogradu, proširili se na Niš, a zatim i na Kragujevac. Paralelno s razvojem u Srbiji, širili smo svoja tržišta i u Rumuniji i Moldaviji. Danas se ponosimo timom od oko 200 ljudi koji svakodnevno oblikuju našu kulturu i već više od dve decenije čine CREATEQ sjajnim mestom za rad. Verujemo u timski duh, podržavamo razmenu znanja i brinemo o balansu između posla i privatnog života. Naša strast je razvoj softvera! Uz stručnjake za .NET, JAVA, PHP, Mobile i Web tehnologije, naš tim čine i Scrum Masteri, Business Analisti, Product Owneri, DevOps inženjeri i mnogi drugi. Zajedno kreiramo, razvijamo i održavamo jedinstvena rešenja za klijente iz Ujedinjenog Kraljevstva, Nemačke, Švajcarske i Austrije. Želite da zavirite još dublje u naš svet? Uvek smo u potrazi za novim talentima – pogledajte naše otvorene pozicije na: https://www.createq.com/en/careers 3 60% Menadžment kompanije 2.6 Beneficije 3.2 Balans karijere i privatnog života 2.6 Timska atmosfera 4.2 Zadovoljstvo projektima 3.2 Mogućnost napredovanja 2.6 Iskustvo o radu Iskustvo 04.12.2025 2 Ne preporučuje Qa Prethodno zaposlen/a na neodređeno 7-10 godina Pozitivno Dobre kolege, dobra atmosfera, dobri uslovi za rad, dobra oprema Zamerke Ne vode računa o zaposlenima, na zaposlene gledaju samo kao na resurs i broj Korisno? 4 Pročitaj sva iskustva o kompaniji Software Developer/Engineer 24 plate 1.502 € Prosečna neto plata min 600 medijana 1.350 prosek 1.502 max 3.400 DevOps Engineer 2 plate 2.200 € Prosečna neto plata min 2.000 Prosek i medijana 2.200 max 2.400 QA Specialist 4 plate 1.125 € Prosečna neto plata min 700 medijana 1.075 prosek 1.125 max 1.650 Test Engineer 2 plate 1.075 € Prosečna neto plata min 500 Prosek i medijana 1.075 max 1.650 Business Analyst 3 plate 2.050 € Prosečna neto plata min 1.100 medijana 1.900 prosek 2.050 max 3.150 Technical Lead 1 plata 2.200 € Prosečna neto plata min 2.200 Prosek i medijana 2.200 max 2.200 IT Technician 1 plata 700 € Prosečna neto plata min 700 Prosek i medijana 700 max 700 Software Developer/Engineer 1 plata 8 € /satnica Prosečna satnica min 8 Prosek i medijana 8 max 8 Graphics Designer 1 plata 800 € Prosečna neto plata min 800 Prosek i medijana 800 max 800 Backend developer 1 plata 2.000 € Prosečna neto plata min 2.000 Prosek i medijana 2.000 max 2.000 Full stack developer 1 plata 1.150 € Prosečna neto plata min 1.150 Prosek i medijana 1.150 max 1.150 Delivery Manager 1 plata 2.554 € Prosečna neto plata min 2.554 Prosek i medijana 2.554 max 2.554 Porodica i roditeljstvo Timska druženja Hibridni model rada Edukacija, profesionalni razvoj Sport i rekreacija Dobrovoljno zdravstveno osiguranje Nagrade, bonusi, pokloni Poslovna putovanja Java C# React .NET JavaScript PHP SCRUM NodeJS Docker Kubernetes Groovy Scala Python HTML5 Azure AWS RabbitMQ Kafka IT kompanije iz prve ruke Ivan Kun, General Manager CREATEQ Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, pod",
+   "first_seen": "2026-10-15T12:44:32+00:00"
+  }
+ ]
+}

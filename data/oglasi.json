@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-17T21:33:26+00:00",
+ "generated_at": "2026-10-18T06:08:38+00:00",
  "window_days": 3,
- "cutoff": "2026-10-14",
- "count": 30,
- "new_count": 0,
+ "cutoff": "2026-10-15",
+ "count": 25,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,17 +12,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 12,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 6,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 28,
+   "vraceno": 18,
    "strane": 1,
    "stop": "kraj"
   },
@@ -57,18 +57,18 @@
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 3,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 8,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "kubernetes": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "fastapi": {
@@ -82,62 +82,62 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 9,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 5,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 31,
-   "strane": 2,
+   "vraceno": 23,
+   "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 27,
+   "vraceno": 20,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 76,
-   "strane": 3,
+   "vraceno": 53,
+   "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 141,
-   "strane": 5,
+   "vraceno": 100,
+   "strane": 4,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 5,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 29,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 70,
-   "strane": 3,
+   "vraceno": 54,
+   "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 5,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,39 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 113,
-   "strane": 4,
+   "vraceno": 82,
+   "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137538",
+   "title": "Software Engineer AI Coding Tasks",
+   "company": "Askable",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "python",
+    "javascript",
+    "typescript",
+    "golang",
+    "java",
+    "c plus plus"
+   ],
+   "posted": "2026-10-17",
+   "expires": null,
+   "salary": "10000-10000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+   "summary": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-18T06:08:38+00:00"
+  },
   {
    "source": "remoteok",
    "id": "remoteok-1137534",
@@ -548,7 +575,7 @@
    "expires": "31.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Backend-Developer/InsBy-d.o.o/762212",
-   "summary": "InsBy d.o.o. Odgovara na prijave Beograd 31.10.2026. C# SQL Java Git Python Ruby Docker PostgreSQL MongoDB Flutter Intermediate Novo",
+   "summary": "InsBy d.o.o. Odgovara na prijave Beograd 31.10.2026. C# SQL Java Git Python Ruby Docker PostgreSQL MongoDB Flutter Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -827,198 +854,12 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Marketing-Manager/CREATEQ/762008",
-   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Premium",
+   "summary": "CREATEQ 3 Dobrovoljno zdravstveno osiguranje Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva Senior Istaknuti poslodavci Premium",
    "matched": [
     "helloworld"
    ],
    "details": "Senior Marketing Manager Senior Marketing Manager CREATEQ 3 Beograd | Hibrid online intervju 14.11.2026. Figma Adobe Canva senior Apply Here Upoznaj kompaniju O Kompaniji Iskustva Plate Beneficije Tech Stack CxO Brief Dobrodošli u svet CREATEQ-a! Mi smo švajcarska kompanija koja se bavi razvojem softvera za razne industrije – od avijacije i finansija, preko energetike i e-učenja, pa sve do telekomunikacija. U Švajcarskoj smo prisutni još od 1996. godine, dok smo prvi razvojni centar u Srbiji otvorili 2004. godine. Počeli smo u Beogradu, proširili se na Niš, a zatim i na Kragujevac. Paralelno s razvojem u Srbiji, širili smo svoja tržišta i u Rumuniji i Moldaviji. Danas se ponosimo timom od oko 200 ljudi koji svakodnevno oblikuju našu kulturu i već više od dve decenije čine CREATEQ sjajnim mestom za rad. Verujemo u timski duh, podržavamo razmenu znanja i brinemo o balansu između posla i privatnog života. Naša strast je razvoj softvera! Uz stručnjake za .NET, JAVA, PHP, Mobile i Web tehnologije, naš tim čine i Scrum Masteri, Business Analisti, Product Owneri, DevOps inženjeri i mnogi drugi. Zajedno kreiramo, razvijamo i održavamo jedinstvena rešenja za klijente iz Ujedinjenog Kraljevstva, Nemačke, Švajcarske i Austrije. Želite da zavirite još dublje u naš svet? Uvek smo u potrazi za novim talentima – pogledajte naše otvorene pozicije na: https://www.createq.com/en/careers 3 60% Menadžment kompanije 2.6 Beneficije 3.2 Balans karijere i privatnog života 2.6 Timska atmosfera 4.2 Zadovoljstvo projektima 3.2 Mogućnost napredovanja 2.6 Iskustvo o radu Iskustvo 04.12.2025 2 Ne preporučuje Qa Prethodno zaposlen/a na neodređeno 7-10 godina Pozitivno Dobre kolege, dobra atmosfera, dobri uslovi za rad, dobra oprema Zamerke Ne vode računa o zaposlenima, na zaposlene gledaju samo kao na resurs i broj Korisno? 4 Pročitaj sva iskustva o kompaniji Software Developer/Engineer 24 plate 1.502 € Prosečna neto plata min 600 medijana 1.350 prosek 1.502 max 3.400 DevOps Engineer 2 plate 2.200 € Prosečna neto plata min 2.000 Prosek i medijana 2.200 max 2.400 QA Specialist 4 plate 1.125 € Prosečna neto plata min 700 medijana 1.075 prosek 1.125 max 1.650 Test Engineer 2 plate 1.075 € Prosečna neto plata min 500 Prosek i medijana 1.075 max 1.650 Business Analyst 3 plate 2.050 € Prosečna neto plata min 1.100 medijana 1.900 prosek 2.050 max 3.150 Technical Lead 1 plata 2.200 € Prosečna neto plata min 2.200 Prosek i medijana 2.200 max 2.200 IT Technician 1 plata 700 € Prosečna neto plata min 700 Prosek i medijana 700 max 700 Software Developer/Engineer 1 plata 8 € /satnica Prosečna satnica min 8 Prosek i medijana 8 max 8 Graphics Designer 1 plata 800 € Prosečna neto plata min 800 Prosek i medijana 800 max 800 Backend developer 1 plata 2.000 € Prosečna neto plata min 2.000 Prosek i medijana 2.000 max 2.000 Full stack developer 1 plata 1.150 € Prosečna neto plata min 1.150 Prosek i medijana 1.150 max 1.150 Delivery Manager 1 plata 2.554 € Prosečna neto plata min 2.554 Prosek i medijana 2.554 max 2.554 Porodica i roditeljstvo Timska druženja Hibridni model rada Edukacija, profesionalni razvoj Sport i rekreacija Dobrovoljno zdravstveno osiguranje Nagrade, bonusi, pokloni Poslovna putovanja Java C# React .NET JavaScript PHP SCRUM NodeJS Docker Kubernetes Groovy Scala Python HTML5 Azure AWS RabbitMQ Kafka IT kompanije iz prve ruke Ivan Kun, General Manager CREATEQ Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, pod",
    "first_seen": "2026-10-15T12:44:32+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "761195",
-   "title": "Senior Full Stack Developer",
-   "company": "Veriest Venture Serbia d.o.o. part of Aman Group",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "JavaScript",
-    "Spring",
-    "Java",
-    "JUnit",
-    "Selenium",
-    "Jenkins",
-    "DevOps",
-    "Programiranje",
-    "TypeScript",
-    "Cloud",
-    "RESTful",
-    "Microservices",
-    "Kubernetes",
-    "Kotlin"
-   ],
-   "posted": "2026-10-14",
-   "expires": "13.11.2026",
-   "salary": "bruto 40 - 65 USD (satnica) ",
-   "url": "https://poslovi.infostud.com/posao/senior-full-stack-developer/veriest-venture-serbia-doo-par/761195",
-   "summary": "This role exists to own and deliver end to end enterprise scale software including back end services front end interfaces and cloud deployments. The senior engineer will drive architecture decisions raise engineering quality and mentor the team to ensure reliable testable and production ready solutions.",
-   "matched": [
-    "data engineer",
-    "data platform",
-    "kubernetes",
-    "devops",
-    "cloud",
-    "it support"
-   ],
-   "first_seen": "2026-10-14T18:04:46+00:00",
-   "details": "O poslodavcu Job Title: Senior Full Stack Developer Location: Remote Employment type: B2B contract, indefinite basis (Freelance or Contract) For our client, ZIM Integrated Shipping Services , a global shipping and logistics company, we are seeking a Senior Full Stack Developer to join ZIMLABS , ZIM's technology innovation hub. In this role, you'll help design and build cutting-edge digital products while taking ownership of the full software development lifecycle, from solution design and architecture to development, testing, and deployment. You'll collaborate in a highly engineering-driven environment that embraces Extreme Programming (XP), remote pair programming, TDD, and continuous improvement. Role description: Hands on expert level fullstack development of innovative, business-critical applications. Own and lead the full engineering lifecycle: technical discovery, solution design, architecture, implementation, testing strategy, DevOps, production readiness, and continuous improvement. Act as a technical authority for complex Java/Spring, React, microservices, cloud/hybrid, and container-based solutions. Drive XP practices with remote pairing, TDD/BDD, continuous integration, evolutionary design, fast feedback loops, and high-quality engineering standards. Use AI-assisted development capabilities responsibly to accelerate delivery, improve design quality, generate tests, review code, support refactoring, and enhance engineering productivity. Reference: qWeIwnCTytxFOlgbGrPOUZUOowaH-OMplVO2beuDJf5m9ETajQblhovHM58TjEHy Key responsibilities: Lead architecture and design decisions for complex services, APIs, front-end capabilities, integration flows, and cloud-ready components. Guide other developers through pairing, code reviews, design reviews, mentoring, and hands-on technical leadership. Translate business needs into scalable, maintainable, secure, and testable technical solutions. Identify modernization opportunities, reduce technical debt, and improve system reliability, observability, performance, and deployment quality. Promote engineering excellence across teams: clean code, automation, testability, secure coding, reusable components, and clear technical documentation. Role requirements: BSc in Software Engineering or BS degree in Computer Science, or equivalent practical engineering experience. 8+ years of hands-on software engineering experience, including significant experience in enterprise-scale systems. Expert-level Java experience, including Spring / Spring Boot / Spring Cloud, microservices, RESTful APIs, and integration-oriented architecture. 4+ years of front-end development experience, mainly React, with strong knowledge of modern JavaScript / TypeScript frameworks, component design, state management, and reactive UI patterns. Strong experience in distributed systems design, API-first architecture, service resilience, service discovery, circuit breaker patterns, scalability, observability, and performance tuning. Strong experience with TDD/BDD and automated testing using frameworks such as JUnit, Jasmine, Mockito, Protractor/Selenium, or equivalent modern tools. Solid DevOps mindset and hands-on experience with CI/CD, Jenkins or equivalent pipelines, automated quality gates, deployment automation, and production-readiness practices. Experience designing, developing, and deploying cloud/hybrid solutions in container-based environments such as Kubernetes or Cloud Foundry. Experience with Kotlin, functional programming,"
-  },
-  {
-   "source": "infostud",
-   "id": "761749",
-   "title": "Support Specialist (Night Shift)",
-   "company": "M Plus Serbia d.o.o.",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "Podrška",
-    "Hardware"
-   ],
-   "posted": "2026-10-14",
-   "expires": "29.10.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/support-specialist-night-shift/m-plus-serbia-doo/761749",
-   "summary": "The Support Specialist provides night shift technical and on call assistance to ensure customer sites operate smoothly. The role centers on hardware and software troubleshooting, supporting new customer launches, and communicating technical information in user friendly terms.",
-   "matched": [
-    "help desk",
-    "it support"
-   ],
-   "first_seen": "2026-10-14T18:04:46+00:00",
-   "details": "O poslodavcu WE'RE HIRING! Support Specialist (Night shift) M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. We are seeking a passionate and tech-savvy Support Specialist to join us. This role involves providing on-call support, managing and troubleshooting hardware and software, and supporting new customer launches. We're committed to bringing passion and customer focus to the business. Primary Responsibilities: On-call responsiveness to support inquiries, both virtually and in-person Managing, maintaining, and troubleshooting hardware and software across sites Setting up and installing hardware Inputting data for client sites New customer launch support Leading training sessions Creating templates to make communication more efficient Communicating technical details to users in layman’s terms Reference: 1rcX7GMulRCQQdeM5b1YiH38pWjBsUIvcBXI_EJ19bumqQyS6RSJPNS6VlWr9PFL What we expect from you: Excellent English communication skills, both written and verbal Communicate effectively with customers to identify needs and provide solutions Strong critical thinking skills Self-driven, can operate independently, and respond to unexpected situations with confidence Able to manage multiple competing priorities Must have good Microsoft office skills with a working knowledge of Teams, Word and Excel Experience with various operating systems and POS systems is a plus Willingness to work primarily during night shifts, including weekends What you will get from us: Remote model of work Paid training Opportunity to work with a dynamic, fast-growing team Private health insurance Benefit package available to all our employees (day off for a birthday, discounts with our partners from different industries) If you are ready to contribute to this position, apply now with your CV in English. We look forward to your application! Note: Only shortlisted candidates will be contacted. Best of luck! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od 10 godina. Mplus mi je kroz godine dao prostora za razvoj karijere, to je ono što motiviše mene i…\" Pročitajte celo iskustvo Beneficije Obuke, konferencije Edukacija, profesionalni razvoj Zabavni sadržaj Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Timska druženja Zdravlje Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ž"
-  },
-  {
-   "source": "infostud",
-   "id": "761733",
-   "title": "Technical Support Representative - French speaker",
-   "company": "NCR d.o.o. - NCR Voyix",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "Podrška"
-   ],
-   "posted": "2026-10-14",
-   "expires": "13.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/technical-support-representative-french-speaker/ncr-doo-ncr-voyix/761733",
-   "summary": "This role delivers technical support and incident management for clients and field engineers to ensure continuous service delivery. The specialist will diagnose and escalate complex issues while maintaining SLA compliance and contributing to knowledge documentation.",
-   "matched": [
-    "data engineer",
-    "help desk",
-    "it support"
-   ],
-   "first_seen": "2026-10-14T18:04:46+00:00",
-   "details": "O poslodavcu Job Title: Technical Support Representative - French Speaker Location: Belgrade, Serbia Working time: 1st, 2nd and 3rd shift Position Summary & Key Responsibilities The position provides technical support to NCR Voyix’s clients, Customer Engineers, and partners by identifying, analyzing, diagnosing, and resolving issues. The role requires strong problem-solving skills, customer focus, and the ability to manage incidents while ensuring contractual service levels are maintained. Key Responsibilities: Provide remote support to NCR Voyix clients, Customer Engineers, and partners, including problem identification, analysis, diagnosis, and resolution. Lead problem isolation activities and present recommended solutions and implementation plans, ensuring alignment with relevant stakeholders. Respond to incoming phone calls, emails, and support tickets from clients and field engineers. Monitor notification and ticket queues, remotely resolve issues where possible, and dispatch tickets to the appropriate teams when further assistance is required. Manage incidents to ensure contractual Service Level Agreements (SLAs) are achieved. Follow established escalation procedures when SLAs are at risk. Utilize NCR and vendor-provided knowledge systems to identify solutions for known issues and ensure successful resolution. Contribute to knowledge management by customizing and providing business data, updating knowledge applications, and preparing standard reports. Escalate complex issues to specialized support teams when no known solution is available, while maintaining ownership of escalated incidents through final resolution. Keep NCR Management informed of issues that may require extended resolution times beyond contractual commitments. Proactively anticipate internal and external customer needs while maintaining a strong commitment to customer satisfaction. Monitor and respond to customer-impacting events to ensure timely resolution and service continuity. Reference: 6b_AJgMgdJMszCrKcgj0ytC-V1oDqvAuoQNHXE52Ij1WcdQwhONKi-fYSXB7Mb41 Qualifications & Requirements: Minimum high school diploma or equivalent required. Excellent verbal and written communication skills in English and French. Ability and willingness to work rotating shifts across 1st, 2nd, and 3rd shifts in a 24/7 operational environment. Ability to manage multiple priorities, handle incidents, and work effectively in a fast-paced support environment. Flexibility to work weekends as part of the rotating schedule. NCR Voyix NCR Voyix Corporation (NYSE: VYX) is a global platform-powered leader in unified commerce for shopping and dining. Combining a flexible, intelligent platform with end-to-end payments capabilities and services developed through its deep industry experience, NCR Voyix empowers retailers and restaurants to accelerate new possibilities for their operations, experiences and business outcomes. NCR Voyix is headquartered in Atlanta, Georgia, and serves customers in more than 35 countries worldwide.… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"I have been part of NCR Voyix for almost three years, currently working as a Senior Finance Analyst. What I value the most is the opportunity to collaborate with colleagues around the world in…\" Pročitajte celo iskustvo Beneficije Flexible working hours Private health insurance Education, professional development Awards, bonuses, gifts Sport and fitness Food and drinks Trainings, courses, conferences Konk"
-  },
-  {
-   "source": "infostud",
-   "id": "761603",
-   "title": "Junior iOS Developer",
-   "company": "TeleTrader d.o.o.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "iOS",
-    "XML",
-    "JSON",
-    "WEB API",
-    "REST",
-    "Cocoa",
-    "Swift",
-    "Programiranje",
-    "OOP"
-   ],
-   "posted": "2026-10-14",
-   "expires": "29.10.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/junior-ios-developer/teletrader-doo/761603",
-   "summary": "Junior iOS Developer will implement and maintain features for a high usage financial markets iOS app, focusing on data integration and reliable performance. The role requires solid Swift experience and multithreading expertise to ensure responsive and accurate market data and news presentation.",
-   "matched": [
-    "data platform",
-    "junior"
-   ],
-   "first_seen": "2026-10-14T12:57:19+00:00",
-   "details": "O poslodavcu TeleTrader d.o.o. is part of baha Group, a software company specialized in stock market data and financial analysis, offering a broad portfolio of tools for the processing, visualization and analysis of stock market data. As a global company, active on the international market and headquartered in Vienna, Austria, baha develops its software in Belgrade, while selling its products globally across Europe, North America, and Asia. TeleTrader is announcing the following vacancy within its iOS department: Junior iOS Developer About the project: You will be working on one of the leading financial markets apps with over one million downloads and a 4.6 star rating. You will also be involved in other projects on iOS platforms focused on market data analysis, financial news presentation and other financial market-related content. You are expected to develop and build new features as well as maintain the existing code base. For more details, please download our apps. What are we looking for: Experience in iOS development using Swift Strong understanding of OOP and its main principles Proficiency in multi-threading and performance tuning Experience with XML, JSON and REST APIs Experience with CocoaPods/Carthage/Swift Package Manager Excellent communication and collaboration skills Problem solving skills Proficiency in written and spoken English Reference: iM-T_ZCKzDm3PQ1mg-Dq24z9GLGClZNvmnJMaTZOAbBKsAFjjYNBinI2kCSXBqJR Optional but highly valued; Knowledge of the open-source iOS ecosystem and libraries Hands-on experience with multiplatform development tools What we offer: Work in an established company with market leadership Be part of an experienced and dynamic team Internal education Flexible working hours Professional physiotherapist (massage and exercises) Fully equipped gym in company premises Fruit and hot beverages for employees Private health insurance (upon 1.5 years of employment) Team-building and sports activities Employee discounts TeleTrader d.o.o. Ko smo mi? TeleTrader je austrijska softverska kompanija, osnovana 1995. godine u Beču. Sa razvojem poslovanja 1997. godine osniva se ćerka kompanija u Beogradu, a danas je TeleTrader deo baha grupe i jedan je od vodećih distributera berzanskih podataka, tehnologije i web rešenja na svetskom tržištu kapitala, sa razvojnim timom od 160 stalno zaposlenih u Beogradu. Obezbeđuje finansijske informacije iz celog sveta za institucije poput banaka, brokerskih kuća, berzi, finansijskih… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IOS Developer Junior iOS Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj "
-  },
-  {
-   "source": "infostud",
-   "id": "761569",
-   "title": "Senior DevOps Platform Engineer",
-   "company": "Erste Bank a.d.",
-   "location": "Beograd, Novi Sad | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "Linux",
-    "Git",
-    "AWS",
-    "DevOps",
-    "Sistemska administracija",
-    "Cloud",
-    "Kubernetes",
-    "IAM"
-   ],
-   "posted": "2026-10-14",
-   "expires": "23.10.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/senior-devops-platform-engineer/erste-bank-ad/761569",
-   "summary": "",
-   "matched": [
-    "aws",
-    "kubernetes",
-    "devops",
-    "cloud",
-    "linux",
-    "administrator"
-   ],
-   "first_seen": "2026-10-14T12:57:19+00:00",
-   "details": "O poslodavcu Reference: 5QUYqQDCTGGZDCKbyaBTl_CBX1ZO_Pd2vTtPVbMUwt3KyYNWmx-Pr-PE2KBrSyGr Erste Bank a.d. Mi smo ERSTE, gde Mogućnosti počinju sa MOGU Zamisli sebe u svetu mogućnosti uz ljude koji te podržavaju, inspirišu i gde možeš da da iskažeš svoju jedinstvenost kreirajući posebnu vrednost za sve naše klijente. To je ERSTE. Mi verujemo u radno okruženje u kojem se neguje zajedništvo, sloboda da stvaramo i gde se slave uspesi. Otvoreni smo prema novim idejama, jer izazove vidimo kao priliku za učenje i razvoj. Kada si deo našeg tima onda uvek imaš nekoga koga možeš da pitaš kako i zašto.… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"U Erste porodici sam od 2017. godine. Početak karijere sam ozvaničila kao deo tima na Projektu implementacije SAP Success Factors aplikacije u ulozi poslovnog analitičara. Nakon uspešnog Projekta…\" Pročitajte celo iskustvo Beneficije Dobrovoljno zdravstveno osiguranje Edukacija, profesionalni razvoj Porodica i roditeljstvo Fleksibilno radno vreme Rad od kuće Nagrade, bonusi, pokloni Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT DevOps System Administrator / Engineer Senior DevOps Platform Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
-  },
-  {
-   "source": "helloworld",
-   "id": "761365",
-   "title": "Android Developer",
-   "company": "Blinking d.o.o.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "android",
-    "java",
-    "git",
-    "maven",
-    "jenkins",
-    "jira",
-    "confluence",
-    "rest",
-    "mvvm",
-    "scrum",
-    "agile",
-    "kotlin"
-   ],
-   "posted": "2026-10-14",
-   "expires": "29.10.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Android-Developer/Blinking-d.o.o/761365",
-   "summary": "Blinking d.o.o. Beograd | Hibrid 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin Intermediate",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Android Developer Android Developer Blinking d.o.o. Beograd | Hibrid Beograd: Karađorđeva 89 29.10.2026. Android Java Git Maven Jenkins Jira Confluence REST MVVM SCRUM Agile Kotlin intermediate U potrazi smo za Android developerom za rad na Blinking mobilnim aplikacijama. O nama Razvijamo rešenja za digitalnu verifikaciju identiteta i online onboarding klijenata za banke, osiguravajuća društva, telekom operatere i priređivače igara na sreću. Opis posla Razvoj novih Android aplikacija Održavanje i unapređenje postojećih aplikacija i SDK-ova Saradnja sa ostatkom tima na planiranju i realizaciji projekata Obavezno 2+ godine profesionalnog iskustva u Android razvoju Dobro poznavanje Kotlina, Java je plus Rad sa kamerom na Androidu, CameraX ili Camera2: preview, analiza frejmova u realnom vremenu, fotografisanje Osnove obrade slike: rad sa Bitmap/ImageProxy, rotacija, isecanje, kompresija Moderan Android razvoj: korutine, ViewModel, MVVM arhitektura REST API integracija, Retrofit/OkHttp Gradle i rad sa multi-modul projektima, Android library moduli Git i objavljivanje aplikacija na Google Play Samostalnost u pravljenju aplikacije od nule Prednost Iskustvo sa ML modelima na uređaju: ONNX Runtime, TensorFlow Lite, ML Kit OpenCV ili slično iskustvo u računarskom vidu, detekcija ivica, prepoznavanje oblika Iskustvo sa skeniranjem dokumenata, OCR-om, čitanjem MRZ zone ili barkodova Jetpack Compose Iskustvo sa razvojem i održavanjem Android SDK-a/biblioteke, AAR, Maven repozitorijum, verzionisanje, ProGuard/R8 pravila za biblioteke NFC, IsoDep i osnove kriptografije, sertifikati, potpisivanje Iskustvo sa KYC/onboarding aplikacijama Osnove mobilne bezbednosti Tehnologije i alati Android: Kotlin, Java, CameraX, ONNX Runtime/TensorFlow Lite, Retrofit, OkHttp, Material Design, NFC Build i SDK: Gradle, Android library moduli, AAR, Maven Alati i procesi: Git, Bitbucket, pull request-ovi, code review, Jira, Confluence, CI/CD, Jenkins, Agile/Scrum Nudimo Rad na zanimljivim projektima: ML na uređaju, kamera, NFC, razvoj SDK-a Priliku da napraviš novi proizvod od početka i da sam/sama biraš arhitekturu Konkurentnu platu, u skladu sa iskustvom Redovne revizije plate i povišice Privatno zdravstveno osiguranje Rad pretežno iz kancelarije u Beogradu, uz mogućnost rada od kuće Fleksibilno radno vreme Stručan tim i kratak put od ideje do realizacije Konkuriši Upoznaj kompaniju O Kompaniji Plate Blinking pomaže kompanijama da identifikuju i potvrde svoje korisnike. Naša platforma vam pruža pouzdan i siguran način da potvrdite identitet vaših korisnika. UI/UX Designer 1 plata 900 € Prosečna neto plata min 900 Prosek i medijana 900 max 900 Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail",
-   "first_seen": "2026-10-14T12:57:19+00:00"
   }
  ]
 }
