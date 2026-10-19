@@ -1,33 +1,35 @@
 {
- "generated_at": "2026-10-19T14:48:41+00:00",
+ "generated_at": "2026-10-19T22:56:37+00:00",
  "window_days": 3,
  "cutoff": "2026-10-16",
- "count": 28,
- "new_count": 12,
- "errors": [],
+ "count": 54,
+ "new_count": 28,
+ "errors": [
+  "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
+ ],
  "infostud_queries": {
   "python": {
-   "vraceno": 4,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 11,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 2,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 30,
-   "strane": 1,
+   "vraceno": 39,
+   "strane": 2,
    "stop": "kraj"
   },
   "etl": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -47,97 +49,97 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 2,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 4,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 1,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "data platform": {
-   "vraceno": 5,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "kubernetes": {
-   "vraceno": 0,
-   "strane": 0,
-   "stop": "kraj"
-  },
-  "fastapi": {
-   "vraceno": 0,
-   "strane": 0,
-   "stop": "kraj"
-  },
-  "data analyst": {
    "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
-  "devops": {
-   "vraceno": 0,
-   "strane": 0,
-   "stop": "kraj"
-  },
-  "junior": {
-   "vraceno": 4,
+  "data platform": {
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
-  "cloud": {
-   "vraceno": 5,
+  "kubernetes": {
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
-  "linux": {
+  "fastapi": {
    "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
-  "it tehnicar": {
-   "vraceno": 26,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "sistem administrator": {
-   "vraceno": 16,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "administrator": {
-   "vraceno": 41,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "it podrska": {
-   "vraceno": 129,
-   "strane": 5,
-   "stop": "kraj"
-  },
-  "help desk": {
+  "data analyst": {
    "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
-  "tehnicka podrska": {
-   "vraceno": 25,
+  "devops": {
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
-  "it support": {
-   "vraceno": 58,
+  "junior": {
+   "vraceno": 11,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 8,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 35,
    "strane": 2,
    "stop": "kraj"
   },
+  "sistem administrator": {
+   "vraceno": 29,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 74,
+   "strane": 3,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 180,
+   "strane": 6,
+   "stop": "limit"
+  },
+  "help desk": {
+   "vraceno": 5,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 43,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 140,
+   "strane": 5,
+   "stop": "kraj"
+  },
   "serviser": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -147,17 +149,784 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 85,
-   "strane": 3,
+   "vraceno": 121,
+   "strane": 5,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "761491",
+   "title": "Backend Engineer (Python)",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "MySQL",
+    "SQL",
+    "Git",
+    "Python",
+    "Docker",
+    "PostgreSQL",
+    "DevOps",
+    "REST",
+    "Programiranje",
+    "MariaDB",
+    "Kubernetes",
+    "S3"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/backend-engineer-python/mdpi-ag/761491",
+   "summary": "This role exists to design and operate scalable Python backend services and data pipelines that enable targeted academic email campaigns. The engineer will translate product requirements into production ready APIs and ensure reliability observability and maintainability across Docker and Kubernetes deployments.",
+   "matched": [
+    "python",
+    "data engineer",
+    "backend",
+    "sql",
+    "kubernetes",
+    "devops",
+    "it support"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu We are looking for an Intermediate Backend Engineer (Python) to join our team and contribute to the development of MDPI Pulse , an important initiative shaping how MDPI engages with the academic community. As a Backend Engineer, you will have the opportunity to design technical solutions , build reliable services and data flows , and contribute to how those solutions are deployed and operated in production . You will work closely with the Data Engineer assigned to the project, as well as the Belgrade email-marketing operations team and other teams such as Product, QA, UX and DevOps, with a mutual goal to help scale Pulse and targeted email campaigns across more institutions and countries. Working primarily with Python , you will contribute to improving content engagement and enabling more targeted and relevant email communication. Tasks & Responsibilities : Design, develop and maintain scalable backend services and APIs using Python Contribute to software architecture and technical design decisions, translating product requirements into reliable backend solutions Design and maintain data pipelines that support Pulse’s targeting and communication capabilities, from ingestion and transformation through to storage and consumption Work with data from a variety of sources and storage technologies - relational databases, vector databases, object storage and analytical tooling, and collaborate closely with Data Engineers to ensure reliable movement and processing of data across systems Contribute to the reliability, scalability and maintainability of data-processing workflows Deploy, containerize and operate backend services in production, taking ownership of the full path to production through Docker, Kubernetes and CI/CD pipelines Reference: 6EG2deuhJEYY71Vzr45Yc7Z3lBEk3SZJHcNRrJuqzEolZseKzDEwHPJQBOrXSHiC Additional Responsibilities: Write integration tests and maintain comprehensive test coverage for owned components Perform code reviews, providing constructive feedback to improve team code quality Apply observability principles to owned services, contributing to service health monitoring and alerting Requirements: Bachelor’s degree in Computer Science, Software Engineering or a related field Around 5 years of professional experience in backend or software engineering , with strong hands-on experience using Python Solid experience with backend architecture and software design , including designing and implementing reliable, maintainable services and REST APIs Strong knowledge of databases and SQL , with hands-on experience across relational engines such as MySQL, PostgreSQL and MariaDB , including ORM frameworks, database migrations and query optimization. Experience with vector databases, such as Qdrant , is a strong advantage Practical experience designing and operating data pipelines , including columnar file formats ( Parquet ) and object storage ( S3 ), as well as analytics and transformation tooling such as DuckDB and dbt Solid DevOps notions and proven experience taking software to production, including Git, Docker, Kubernetes and CI/CD pipelines , and comfort operating and troubleshooting services in live environments Excellent written and spoken English Ability to work independently , take ownership of technical solutions and collaborate effectively with engineering and cross-functional teams What we offer: Private health insurance & team building activities Flexible working hours FitPass Various opportunities for prof"
+  },
+  {
+   "source": "infostud",
+   "id": "762257",
+   "title": "Business Intelligence Developer",
+   "company": "Milšped d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Programiranje",
+    "Podrška",
+    "ETL"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/business-intelligence-developer/milsped-doo/762257",
+   "summary": "Pozicija postoji da razvija i odrzava BI i Data Warehouse resenja koja obezbedjuju precizno izvestavanje i analitiku za poslovne procese. Kandidat ce kroz optimizaciju ETL procesa i izradu izvestaja direktno uticati na unapredjenje operativnih i finansijskih odluka.",
+   "matched": [
+    "podaci",
+    "etl",
+    "sql",
+    "data platform",
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Kompanija Milšped je globalno prepoznatljivo ime i regionalni lider u oblasti transporta i logistike, prepoznatljiv po logističkim rešenjima i uslugama koje podrazumevaju naprednu tehnološku i softversku podršku. Uspešno poslujemo već preko 30 godina i ponosni smo na činjenicu da naša kompanija trenutno zapošljava preko 4.700 ljudi u 16 zemalja sveta, na čak 3 kontinenta. Naš IT sektor trenutno širi svoj tim i raspisuje konkurs za sledeću poziciju: Business Intelligence Developer(m/ž) Ključne odgovornosti: Razvoj, unapređenje i održavanje BI i Data Warehouse rešenja u skladu sa poslovnim potrebama kompanije; Analiza poslovnih zahteva i kreiranje modela podataka za potrebe izveštavanja i analitike; Razvoj i optimizacija ETL procesa za prikupljanje, obradu i transformaciju podataka; Implementacija i unapređenje operativnih, finansijskih i menadžerskih izveštaja; Održavanje i optimizacija postojećih DWH i BI sistema; Dokumentovanje tehničkih rešenja, modela podataka i razvojnih aktivnosti; Saradnja sa poslovnim i IT timovima u cilju razvoja analitičkih rešenja i unapređenja poslovnih procesa. Reference: NAOj8JnthzGkXsd-g24uCrgHnwdXxT6yfjTWumZwPgtt_MIZbR5IScZngSD1KwzF Potrebne kvalifikacije za radno mesto: Minimum 2 godine radnog iskustva na poslovima razvoja BI ili DWH rešenja; Završen fakultet iz oblasti informacionih tehnologija, računarstva, matematike ili srodnih oblasti; Odlično poznavanje SQL-a i T-SQL-a; Iskustvo u radu sa bazama podataka i modelovanjem podataka; Iskustvo u razvoju i održavanju ETL procesa; Dobro poznavanje Data Warehouse i BI koncepata; Dobro poznavanje engleskog jezika; Izražene analitičke veštine, odgovornost i usmerenost na rešavanje problema. Poželjne kvalifikacije za radno mesto: Iskustvo u radu sa Power BI, SSRS, Tableau ili sličnim BI alatima; Iskustvo sa ETL alatima kao što su SSIS ili slična rešenja; Poznavanje Azure Data Factory, Azure Synapse Analytics ili drugih cloud data platformi; Osnovno poznavanje programskih jezika kao što su C#, Python ili JavaScript; Poznavanje logističkih, transportnih ili Supply Chain procesa. Nudimo Vam: Rad u podsticajnom okruženju koje ceni proaktivnost i nagrađuje inicijativu; Saradnju sa stručnim i posvećenim timovima u zemlji i regionu; Jasno strukturisan razvojni program i mogućnosti stručnog usavršavanja kroz interne i eksterne treninge; Rad na kompleksnim BI i Data Warehouse rešenjima koja imaju direktan uticaj na poslovne odluke; Dodatne dane godišnjeg odmora i plaćene slobodne dane za važne životne događaje; Paket pogodnosti koji uključuje privatno zdravstveno osiguranje i FitPass po povlašćenim uslovima; Organizovane sportske aktivnosti i plaćene kotizacije za učestvovanje na atletskim događajima. Porodična podrška: Skraćeno radno vreme za mame tokom prva 2 meseca nakon povratka sa porodiljskog odsustva; 5 plaćenih slobodnih dana za tate povodom rođenja deteta; Dodatnih 5 dana godišnjeg odmora za samohrane roditelje i roditelje dece sa smetnjama u razvoju; Novogodišnji bonus za decu do 10 godina i druge pogodnosti. Ukoliko Vas motiviše rad sa podacima, razvoj analitičkih rešenja i želite da budete deo tima koji kroz podatke podržava donošenje poslovnih odluka, pošaljite nam svoju biografiju! Zahvaljujemo se svim kandidatima na interesovanju i zadržavamo diskreciono pravo da kontaktiramo kandidate koji uđu u uži izbor. Dostavljanjem prijave kandidat daje pristanak da kompanija njegove lične podatke obrađuje u postupku selekcije u skladu sa Zakonom o zaš"
+  },
+  {
+   "source": "infostud",
+   "id": "762069",
+   "title": "Data Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Programiranje"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-analyst/maxbet-doo/762069",
+   "summary": "This role analyzes large complex datasets to produce accurate actionable insights that inform promotional and business decisions. The analyst will build Tableau dashboards automate reporting ensure data quality and collaborate with BI and cross functional teams.",
+   "matched": [
+    "sql",
+    "data analyst",
+    "it support"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu MaxBet is part of Flutter Entertainment (NYSE: FLUT) - the world’s largest online gambling operator, publicly listed on the New York Stock Exchange. As a truly global leader in sports betting and gaming, Flutter shapes the future of the industry. MaxBet is a rapidly growing company specializing in sports betting, gaming and gambling. Headquartered in Serbia , we have a strong presence in Bosnia and Herzegovina, Montenegro and North Macedonia. We are committed to setting new industry standards, delivering top-tier entertainment while upholding the highest integrity. Our success is built on our people - we foster a culture of teamwork, clear communication and mutual respect. As we continue to grow, we are looking for a: Data Analyst Role Summary: This position will be part of our Promo team, reporting directly to the Flutter Group. The role focuses on collecting, analyzing, and processing large datasets, ensuring data quality and accuracy, and transforming complex data into clear, actionable insights that support informed business decision-making. Responsibilities: Collecting and interpreting trends or patterns in complex data sets, analyzing results using advanced statistical techniques. Creating data dashboards, graphs, and visualizations, as well as building automated reports, alerts, and subscriptions to ensure the continuous delivery of requested data using Tableau Server. Conducting research, writing reports, providing advice and projections, and identifying areas for improving efficiency and automating processes. Participating in cross-departmental projects to meet business needs. Working closely with the BI Development team to create and optimize database objects required to support reporting systems (e.g., creating cubes in Tableau and creating or adjusting specific fields). Ensuring the accurate, intentional, and responsible use of users’ personal data when working with the AML, Legal, or Risk departments. Reference: 4kSp7wQNLnOuP58kfUU_QRZv4TT4pvkQ8Ow_LXJvk-PFM_EQ3POT2ikhmNIEDazI Qualifications: Proven working experience as a data analyst. Working Knowledge of statistics. Working knowledge of Tableau/SQL. Ability to analyze and interpret data and to translate data insights into business recommendations. Accuracy and attention to detail. Professional working proficiency in English. Perks and benefits: Health & Well-being: Private health insurance. Up to 6 days of 100% paid leave without a certificate. Sports membership. Work Environment & Comfort: Modern workspace with relaxation areas. Hybrid work model with flexible working hours. Remote work up to 30 days/year. Work-Life Balance: 24+ days of annual leave. Birthday off. Reduced hours for moms with kids starting kindergarten. Fully covered maternity leave (according to company policy). Day off for parents of first graders. Growth & Development: Paid training, workshops, and educational opportunities. Team-building events and sports activities. Additional Perks: Daily transportation between Novi Sad & Belgrade for Novi Sad colleagues working in Belgrade. Role-based bonus opportunities. Referral bonuses for recommending new hires. Full equipment and onboarding for every role. MaxBet MaxBet, deo međunarodnog lidera Flutter International, izdvaja se u svetu igara na sreću kao kompanija posvećena inovacijama i naprednim tehnološkim rešenjima. Od svojih početaka 1993. godine, MaxBet je postao prisutan u preko 200 gradova širom Srbije i regiona, uključujući Crnu Goru, Bos"
+  },
+  {
+   "source": "infostud",
+   "id": "761492",
+   "title": "Data Engineer",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Python",
+    "Docker",
+    "Programiranje"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-engineer/mdpi-ag/761492",
+   "summary": "The role focuses on owning and operating core data platform infrastructure to ensure reliability and scalability for downstream data products. The candidate will deploy and run containerized services, manage open source query engines, and build observability and CI/CD tooling to maintain platform performance and availability.",
+   "matched": [
+    "python",
+    "data engineer",
+    "sql",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu We are growing our Data Team and looking for a Data Engineer with a Platform Focus to own and operate core infrastructure components of our internal Data Platform. You'll work independently on containerized services, open-source query engines, and observability stacks - contributing directly to the reliability and scalability of the platform that powers our data products. Tasks & Responsibilities : Collaborate with Data Engineers to support and help shape data engineering standards , covering areas like pipeline design, data quality and lineage Contribute to data governance practices by ensuring platform components align with ownership, access and observability requirements Own deployments for assigned platform components and maintain version-controlled infrastructure modules Design, deploy, and operate containerized services using Docker and Kubernetes Manage and tune open-source query engine deployments for reliability and performance Build and maintain monitoring, logging, and alerting stacks for platform services Contribute to CI/CD pipelines for platform service delivery and infrastructure automation Evaluate and integrate open-source data file format libraries, document architecture decisions for owned components and investigate and resolve platform incidents Reference: agvxNHPLVnggbK63YadVN9PjqdMuhz-bHWAPzFb9E333ebute2A_yYccwpL4MFKi Requirements: A university degree, ideally in Computer Science or related science, technology or engineering field 2+ years of relevant work experience in data engineering or data platform engineering roles Working knowledge of data engineering concepts - data acquisition, modeling, orchestration, warehousing, laking, data quality, lineage and governance Strong knowledge of Python and SQL Understanding of open-source query engine architecture and configuration Practical knowledge of columnar data formats - internals and trade-offs Proficiency in Docker Understanding of CI/CD pipelines for infrastructure and service delivery Awareness of microservice design patterns Good to Have: Experience with on-prem infrastructure Experience with observability tooling Working knowledge of Kubernetes Experience in C++ / Rust What we offer: Private health insurance & team building activities Flexible working hours FitPass Various opportunities for professional development in an international company Working in a collaborative, diverse, and socially responsible team If you are interested in this position, we look forward to receiving your complete application. Please submit your cover letter and CV. We look forward to welcoming you to our Belgrade office. MDPI Headquartered in Switzerland, MDPI is a fully Open Access publisher with a portfolio of more than 500 journals covering all scientific disciplines. To date, MDPI has published the work of more than 4.5 million researchers, collaborating with a broad network of academic institutions and scientific societies worldwide. At the heart of our mission is a commitment to making high-quality scientific research freely accessible to readers around the world. MDPI Serbia was established in 2016 as part of… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, "
+  },
+  {
+   "source": "infostud",
+   "id": "762543",
+   "title": "IT Manager",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows Server",
+    "Windows",
+    "Menadžment",
+    "Cloud",
+    "Active Directory"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-manager/prohuman-doo/762543",
+   "summary": "The IT Manager ensures reliability security and efficiency of the organization IT systems and infrastructure. They lead daily operations manage vendors and coordinate projects to support business growth and continuity.",
+   "matched": [
+    "data engineer",
+    "cloud",
+    "administrator",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu On behalf of our client, we are seeking an experienced and results-driven IT Manager to lead and optimize the organization's technology operations and infrastructure. The IT Manager will be responsible for overseeing the company's IT environment, ensuring the reliability, security, and efficiency of systems, networks, and business applications. This role requires a proactive professional capable of managing day-to-day IT operations while contributing to the development and execution of the organization's technology strategy. The successful candidate will work closely with internal stakeholders and external vendors to deliver high-quality IT services, support business growth, and drive continuous improvement across technology-related processes. Key Responsibilities: Oversee daily IT operations, ensuring the stability, performance, and security of all systems and infrastructure. Manage and maintain the organization's hardware, software, networks, and cloud-based solutions. Lead IT support activities and ensure timely resolution of technical issues and service requests. Develop and implement IT policies, procedures, and best practices. Monitor system performance and proactively identify opportunities for improvement and optimization. Manage relationships with external IT vendors, service providers, and technology partners. Coordinate IT projects, including system upgrades, infrastructure improvements, and technology implementations. Ensure compliance with cybersecurity, data protection, and regulatory requirements. Develop and maintain disaster recovery and business continuity plans. Support budget planning, cost control, and procurement of IT equipment and services. Collaborate with business stakeholders to identify technology needs and recommend appropriate solutions. Prepare reports, documentation, and performance metrics for management. Reference: f6CnjygqkmdjspyrN6lNdZ0rX8wm5RBAv9E7hc2GrI3caKG7Xq0klEkQB2AhWRFh Qualifications: Bachelor's degree in Information Technology, Computer Science, Engineering, or a related field, or equivalent relevant work experience. Minimum 5 years of experience in IT operations, infrastructure management, systems administration, or a similar role. Previous experience in an IT Manager, IT Lead, or Senior Systems Administrator position is highly preferred. Strong understanding of IT infrastructure, networking, cloud technologies, cybersecurity, and business applications. Experience managing external vendors and technology service providers. Knowledge of Microsoft environments, including Microsoft 365, Windows Server, Active Directory, and Azure, is considered an advantage. Strong project management and stakeholder management skills. Advanced proficiency in English, both written and spoken. Excellent analytical, organizational, and problem-solving abilities. Prohuman CityScope sada je Prohuman. Vaš partner za rešenja u oblasti ljudskih resursa od 2004. godine. CityScope svoje dvadesetogodišnje poslovanje nastavlja kao deo Prohuman grupe, vodeće evropske grupacije u oblasti ljudskih resursa sa 20 godina međunarodnog iskustva, prisutne u 8 zemalja Evrope (Mađarska, Srbija, Rumunija, Slovenija, Ukrajna, Nemačka, Austrija i Hrvatska). Prohuman u Srbiji nastavlja s poslovanjem uz podršku kolega iz regiona, zadržavajući dosadašnju misiju i vrednosti –… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Sr"
+  },
+  {
+   "source": "infostud",
+   "id": "761509",
+   "title": "IT Security Engineer",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "SharePoint",
+    "Bash",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-security-engineer/mdpi-ag/761509",
+   "summary": "This role secures cloud and on premise infrastructure with focus on Microsoft 365 security monitoring and integration. The engineer will detect and resolve incidents maintain and optimize security systems and provide L2 L3 support to reduce risk and ensure service continuity.",
+   "matched": [
+    "linux",
+    "it support"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu To strengthen our Information Security team, we are looking for IT Security Engineer to assist in the extremely important task of keeping MDPI’s infrastructure secure and to strengthen M365 security monitoring and integration. Tasks & Responsibilities: Assist in implementing and maintaining security measures for Microsoft 365 (M365) services, including Exchange Online, SharePoint Online, Teams and related platforms Monitor security alerts and incidents, escalating as necessary and ensuring timely resolution Maintaining and optimizing IT, network security & backup systems based on service requirements Collaborating with development teams in order to optimize system implementation according to service requirements Provide support and solutions to IT users for security issues (L2/L3 tier) Maintain, evaluate and optimize IT and network security & backup systems Reference: voAA1DgqTTlhJI0sZCJL4CyZQg-wRBAce6sHZf9ZrBR0Omz6FahsxpPPct1ky8tl Good to have: Basic knowledge on security configurations and hardening of Linux-based systems in accordance with best practices Working knowledge of AWS security tools and services Experience with security assessments and penetration testing, including vulnerability identification and remediation strategies Requirements: Bachelor's degree in Computer Science, Information Technology, Cybersecurity or related field ( or 2 years of equivalent practical experience ) Basic understanding of Microsoft 365 services, including Entra, Exchange Online, SharePoint Online and Teams Basic knowledge of Linux operating systems and experience with Bash scripting Familiarity with security concepts and principles, such as access control, encryption and vulnerability management Able to work independently and proactively Strong analytical and problem-solving skills, with keen attention to detail Excellent communication skills and ability to collaborate effectively within a team environment Relevant certifications (e.g., Microsoft Certified: Fundamentals, CompTIA Security+) are a plus MDPI Headquartered in Switzerland, MDPI is a fully Open Access publisher with a portfolio of more than 500 journals covering all scientific disciplines. To date, MDPI has published the work of more than 4.5 million researchers, collaborating with a broad network of academic institutions and scientific societies worldwide. At the heart of our mission is a commitment to making high-quality scientific research freely accessible to readers around the world. MDPI Serbia was established in 2016 as part of… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Security Expert IT Security Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma "
+  },
+  {
+   "source": "infostud",
+   "id": "762597",
+   "title": "IT Service Portfolio Coordinator",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SharePoint",
+    "Podrška"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-service-portfolio-coordinator/prohuman-doo/762597",
+   "summary": "This role coordinates and maintains the IT service product portfolio to ensure consistent high quality documentation and governance. The role drives stakeholder alignment and SharePoint based content management to improve catalogue accuracy and operational efficiency.",
+   "matched": [
+    "data platform",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu On behalf of our client, we are looking for a detail-oriented and proactive IT Service Portfolio Coordinator to support the development and ongoing maintenance of a comprehensive IT Service Product Portfolio on SharePoint. In this role, you will be responsible for coordinating portfolio-related activities across Technology and Product Management teams, ensuring high-quality documentation, structured content management, and accurate service portfolio governance. Acting as a central point of contact between stakeholders, you will help drive the successful maintenance and continuous improvement of the IT service catalogue while ensuring consistency, transparency, and operational efficiency. Key Responsibilities Stakeholder Coordination & Data Collection Collaborate with Technology and Product Management teams to gather information for new and existing services. Follow up with subject matter experts to ensure timely delivery of portfolio content. Coordinate review cycles, approvals, and sign-off processes for service documentation. Track outstanding actions and escalate blockers when necessary. Act as the primary point of contact for portfolio-related information requests. Reference: Iqhf0EScmKuPblv7u6J2_YYlxlBhCNS-YJ1UweB8x0YXqPxmPJwf9ZefS__vb3jM Template Population & Documentation Create and maintain service descriptions using standardized templates, including service scope, benefits, SLAs, and technical information. Develop customer-facing success stories based on input from project teams and stakeholders. Ensure all documentation meets quality, consistency, and branding standards. Continuously improve templates and documentation processes together with Product Management teams. Progress Tracking & Task Coordination Monitor portfolio build-out progress using SharePoint and Excel-based tracking tools. Coordinate activities across multiple stakeholders, ensuring clear ownership and deadlines. Prepare regular status reports highlighting progress, risks, and next steps. Identify opportunities to improve documentation and content management processes. SharePoint Administration & Content Management Maintain and administer the ICT Service Product Portfolio within SharePoint. Manage SharePoint sites, lists, libraries, pages, and content structures. Apply and maintain metadata standards, naming conventions, and folder structures. Monitor portfolio content quality, completeness, and accuracy. Configure permissions, access rights, and content approval workflows. Requirements Bachelor's degree or equivalent professional experience. 2+ years of experience in content management, portfolio coordination, administration, or a similar role within an IT or technology-driven environment. Proven experience working with SharePoint administration, including lists, libraries, and content management. Excellent written and verbal English communication skills (C1 level or higher). Strong organizational skills with exceptional attention to detail. Ability to manage multiple stakeholders, priorities, and deadlines simultaneously. Experience working with structured documentation and template-based content creation. Advantageous Familiarity with ICT products, managed services, or service portfolio environments. Knowledge of service management frameworks such as ITIL. Previous experience in project coordination or PMO activities. German language skills. Experience with Microsoft Teams and Power Automate. Advanced proficiency in Microsoft Excel, Word, and P"
+  },
+  {
+   "source": "infostud",
+   "id": "761925",
+   "title": "Inženjer za generativnu veštačku inteligenciju",
+   "company": "Netex d.o.o.",
+   "location": "Beograd, Niš, Novi Sad, Zrenjanin",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "JavaScript",
+    "Python",
+    "TypeScript",
+    "Cloud",
+    "AI/ML"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/inzenjer-za-generativnu-vestacku-inteligenciju/netex-doo/761925",
+   "summary": "Pozicija postoji da projektuje i implementira skalabilna generativna AI rešenja koja automatizuju poslovne procese i unapređuju generisanje sadržaja. Kandidat će povezivati velike jezičke modele sa internim bazama znanja i održavati pouzdanost performansi u produkcionom okruženju.",
+   "matched": [
+    "python",
+    "cloud",
+    "it podrska"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Detalji Inženjer za generativnu veštačku inteligenciju projektuje, razvija i implementira aplikacije zasnovane na veštačkoj inteligenciji koje koriste velike jezičke modele (LLM), multimodalne modele i inteligentne agente za automatizaciju zadataka, generisanje sadržaja, analizu informacija i unapređenje poslovnih procesa. Ova pozicija kombinuje softversko inženjerstvo i veštačku inteligenciju, sa fokusom na kreiranje praktičnih rešenja koja koriste savremene AI tehnologije kao što su GPT, Claude, Gemini i modeli otvorenog koda. Inženjeri za generativnu veštačku inteligenciju razvijaju četbotove, AI asistente, automatizaciju radnih procesa, sisteme za generisanje sadržaja uz podršku pretrage (RAG), alate za obradu dokumenata i prilagođene AI aplikacije u skladu sa poslovnim potrebama. Potrebne veštine Razvoj softvera (Python, JavaScript/TypeScript, API-ji, baze podataka). Prompt engineering i orkestracija LLM modela. Okviri za AI agente i automatizacija radnih procesa. Retrieval-Augmented Generation (RAG). Cloud platforme i prakse implementacije. Obrada podataka i integracija sistema. Razumevanje etike, bezbednosti i upravljanja AI sistemima. Reference: 6qVfNVIHyBipEDoR_PqNZQPTNa7mSTCyQMBmmK4W1QTnlUq3hj33xwBVE_8_M_Gq Odgovornosti Projektovanje i razvoj aplikacija i servisa zasnovanih na veštačkoj inteligenciji. Integracija velikih jezičkih modela (LLM) u veb, mobilne i poslovne sisteme. Razvoj AI agenata sposobnih za zaključivanje, planiranje i izvršavanje zadataka. Kreiranje RAG rešenja koja povezuju AI modele sa bazama znanja i dokumentima kompanije. Razvoj strategija za prompt engineering i AI radnih procesa. Optimizacija performansi, pouzdanosti, bezbednosti i troškova AI sistema. Saradnja sa poslovnim timovima na identifikovanju mogućnosti za automatizaciju i inovacije zasnovane na AI tehnologijama. Praćenje, evaluacija i kontinuirano unapređivanje AI rešenja u produkcionom okruženju. Profesionalni sažetak Inženjer za generativnu veštačku inteligenciju sa iskustvom u projektovanju i implementaciji aplikacija zasnovanih na veštačkoj inteligenciji koje unapređuju poslovne operacije kroz automatizaciju, inteligentne radne procese i velike jezičke modele. Iskustvo u integraciji savremenih AI tehnologija u skalabilna softverska rešenja, uz razvoj praktičnih alata koji unapređuju produktivnost, donošenje odluka i korisničko iskustvo. Netex d.o.o. Obavljamo sve aktivnosti vezane za usluge korisničkog servisa, uključujući i servis za kupce, obradu podataka i administraciju web stranica, radeći bez prekida u 13 poslovnih kancelarija u Evropi. Imamo 239 radnih stranica i preko 500 saradnika, a telefonski pozivi se preusmeravaju preko optimalizovanog servisa \"VoIP\" našim agentima koji komuniciraju sa klijentima na čak 30 svetskih jezika. Naša misija i ciljevi se ovde ne zaustavljaju, jer svakodnevno učimo i rastemo zajedno sa Vama! Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT AI Engineer Inženjer za generativnu veštačku inteligenciju Blog O nama Če"
+  },
+  {
+   "source": "infostud",
+   "id": "762048",
+   "title": "Junior inženjer u sistemima automatskog upravljanja",
+   "company": "Institut Mihajlo Pupin - IMP-Automatika",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "C++",
+    "Python",
+    "Programiranje"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-inzenjer-u-sistemima-automatskog-upravljanja/institut-mihajlo-pupin-imp-aut/762048",
+   "summary": "Pozicija je namenjena mladim inženjerima za praktično usavršavanje kroz rad na razvoju i testiranju kontrolnih sistema u energetici. Kandidat će doprinositi parametrisanju validaciji i dokumentovanju rešenja uz mentorsku podršku i rad na stvarnim postrojenjima.",
+   "matched": [
+    "python",
+    "podaci",
+    "junior",
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu IMP-Automatika više od 40 godina razvija hardver i softver za termoelektrane, hidroelektrane i trafostanice u Srbiji i regionu. Tražimo inženjere i inženjerke koji žele da uče kroz praksu i da rade na stvarnim sistemima. Pridruži nam se u razvoju energetskih sistema. Oblasti u kojima možeš da radiš Automatika i energetika Programiranje i razvoj softvera Industrijski dizajn i razvoj uređaja Održavanje i digitalizacija energetskih sistema Reference: M_7VPlZ-lDdv8FR8qwnntslvbXk9Mz-TuA0NVfAjTvw9OY3EpAx30gU5FhJPWg_y Kako radimo Radićeš uz mentore i iskusne inženjere, na realnim zadacima i mini-projektima, Učićeš na opremi koju isporučujemo energetskim postrojenjima, Umesto suvoparnih predavanja – rešavanje konkretnih tehničkih problema i testiranje rešenja. Šta ćeš konkretno raditi (primeri zadataka) Učešće u razvoju i testiranju uređaja i softvera za nadzor i upravljanje, Parametrisanje, validacija i dokumentovanje rešenja, Analiza podataka iz postrojenja i predlog unapređenja, Terenska podrška (po potrebi) uz mentora. Koga tražimo Završene ili završne godine ETF/FTN/PMF/FER ili srodnih fakulteta (automatika, energetika, elektro, računarstvo, mehatronika). Osnove u C/C++/Python ili srodnim jezicima ili osnove u PLC/SCADA/RTU sistemima. Spremnost da učiš, postavljaš pitanja i završavaš zadatke do kraja. Šta nudimo Mentorstvo i jasan plan uvođenja u posao. Rad na projektima koji se zaista koriste u energetici. Mogućnost specijalizacije (softver, elektronika, održavanje…). Kako da se prijaviš Ako ispunjavaš navedene uslove i želiš da postaneš deo tima koji razvija i održava savremene infrastrukturne sisteme, pošalji nam kratku prijavu i biografiju elektronskim putem. Biće kontaktirani samo kandidati koji uđu u uži izbor, a poslodavac zadržava pravo da obavi neophodna testiranja kandidata. U procesu selekcije kandidati neće biti neposredno niti posredno diskriminisani u odnosu na zdravstveno stanje, odnosno invalidnost, pol, boju kože, starost, nacionalnu pripadnost, veroispovest, bračni status, seksualno ili političko opredeljenje, članstvo u različitim organizacijama ili neko drugo lično svojstvo. Slanjem prijave kandidat daje saglasnost da se njegovi lični podaci obrađuju u procesu selekcije u skladu sa Zakonom o zaštiti podataka o ličnosti i objavom na veb-sajtu www.pupin.rs/O Institutu/Pravilnici i odluke/Zaštita privatnosti Institut Institut \"Mihajlo Pupin\" je vodeća organizacija u oblasti informaciono-komunikacionih tehnologija u Srbiji, a takođe i najveći i najstariji ICT institut u jugoistočnoj Evropi. Od osnivanja 1946. godine, Institut se bavi primenjenim istraživanjima za potrebe velikih komunalnih i saobraćajnih preduzeća, javne bezbednosti, finansijskih institucija i raznih industrijskih grana. Naš istraživačko-razvojni tim čini više od 250 iskusnih i kreativnih istraživača (uključujući 7 profesora Univerziteta, 32… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd Elektrotehnika Elektroinženjer Junior inženjer u sistemima automatskog u"
+  },
+  {
+   "source": "infostud",
+   "id": "762169",
+   "title": "Product Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Programiranje",
+    "Firebase"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/product-analyst/maxbet-doo/762169",
+   "summary": "This Product Analyst role turns player behavioral data into evidence that drives product decisions to improve engagement retention and monetization. The position focuses on analytics across tracking tools identifying friction evaluating experiments and measuring feature impact to inform product prioritization.",
+   "matched": [
+    "data platform",
+    "data analyst",
+    "it support"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu MaxBet is part of Flutter Entertainment (NYSE: FLUT) - the world’s largest online gambling operator, publicly listed on the New York Stock Exchange. As a truly global leader in sports betting and gaming, Flutter shapes the future of the industry. MaxBet is a rapidly growing company specializing in sports betting, gaming and gambling. Headquartered in Serbia, we have a strong presence in Bosnia and Herzegovina, Montenegro and North Macedonia. We are committed to setting new industry standards, delivering top-tier entertainment while upholding the highest integrity. Our success is built on our people - we foster a culture of teamwork, clear communication and mutual respect. As we continue to grow, we are looking for a: Product Analyst Role Summary: We are looking for a Product Analyst to turn player behavioral data into actionable insights, opportunities and recommendations for product improvement. The role will provide the evidence base for product decisions and enable early identification of player friction, drop-off points and opportunities to improve engagement, retention and monetization. Responsibilities: Ownership and management of product analytics across FullStory, GA4, Firebase and other relevant tools. Analysis of player sessions, funnels, cohorts, retention and behavioral patterns. Identification of product issues, player friction and improvement opportunities. Monitoring key product KPIs across native and online products. Collaboration with PMs on KPI definition and measurement frameworks. Definition and monitoring of analytics and instrumentation requirements. Analysis of post-release product performance and feature impact. Support for A/B testing and experiment evaluation. Segmentation of player behavior by market, platform and cohort. Collaboration with UX Research to combine quantitative and qualitative insights. Proactive identification of opportunities and issues. Translation of data into clear insights and actionable recommendations. Reference: UzaP0ZB-p135bY2Zj5wHe6cDdR1mSChlP15hMJTIoRC80IzCHqO7qqabOvs3kPwS Qualifications: 2–4+ years of experience in Product Analytics, Data Analytics or a similar role. Experience with FullStory, GA4 and Firebase. Strong knowledge of funnel, cohort and retention analysis. Experience with A/B testing and experimentation. Strong understanding of product KPIs and player behavior. Ability to translate complex data into clear recommendations. Strong analytical and critical-thinking skills. Gaming, mobile, e-commerce or consumer digital experience is an advantage. Perks and benefits: Health & Well-being: Private health insurance. Up to 6 days of 100% paid leave without a certificate. Sports membership. Work Environment & Comfort: Modern workspace with relaxation areas. Hybrid work model with flexible working hours. Remote work up to 30 days/year. Work-Life Balance: 24+ days of annual leave. Birthday off. Reduced hours for moms with kids starting kindergarten. Fully covered maternity leave (according to company policy). Day off for parents of first graders. Growth & Development: Paid training, workshops, and educational opportunities. Team-building events and sports activities. Additional Perks: Daily transportation between Novi Sad & Belgrade for Novi Sad colleagues working in Belgrade. Role-based bonus opportunities. Referral bonuses for recommending new hires. Full equipment and onboarding for every role. MaxBet MaxBet, deo međunarodnog lidera Flutter International, izdvaja se"
+  },
+  {
+   "source": "infostud",
+   "id": "762170",
+   "title": "Product Manager",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "iOS",
+    "Android",
+    "UX Dizajn"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/product-manager/maxbet-doo/762170",
+   "summary": "The Product Manager will take end to end ownership of native iOS and Android products to strengthen player experience and drive adoption retention and conversion. The role focuses on using data driven insights to define priorities coordinate delivery and measure impact on engagement and retention.",
+   "matched": [
+    "data engineer",
+    "data platform"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu MaxBet is part of Flutter Entertainment (NYSE: FLUT) - the world’s largest online gambling operator, publicly listed on the New York Stock Exchange. As a truly global leader in sports betting and gaming, Flutter shapes the future of the industry. MaxBet is a rapidly growing company specializing in sports betting, gaming and gambling. Headquartered in Serbia, we have a strong presence in Bosnia and Herzegovina, Montenegro and North Macedonia. We are committed to setting new industry standards, delivering top-tier entertainment while upholding the highest integrity. Our success is built on our people - we foster a culture of teamwork, clear communication and mutual respect. As we continue to grow, we are looking for a: Product Manager Role Summary: We are looking for a Product Manager to take end-to-end ownership of our iOS and Android products and drive their continuous development and improvement. The role is key to strengthening the player’s experience and driving adoption, engagement, retention and conversion through clear product strategy, data-driven decision-making and effective delivery. Responsibilities: Ownership of the native product roadmap, backlog and prioritization across iOS and Android. Definition of product priorities and scope in line with product strategy and business objectives. Identification of player needs, pain points and opportunities through research and analytics. Collaboration with UX Research, UX Design and Engineering throughout the product lifecycle. Definition of product requirements, user stories and acceptance criteria. Monitoring of adoption, engagement, retention and conversion KPIs. Analysis of player behavior and product performance. Planning and evaluation of experiments and A/B tests. Evaluation of released features and incorporation of learnings into the roadmap Collaboration with PM Online and Content Manager to ensure cross-platform consistency and release readiness. Coordination with Engineering on delivery planning, dependencies, risks and scope trade-offs. Reference: 1W6NBwrgCthMnbvF75lSJBd0g1M1pumKxocEKppRvxn9PWU_7Sr7Gzt6QyT9WTyL Qualifications: 3–5+ years of Product Management experience, ideally in gaming, mobile or consumer digital products. Proven experience managing iOS and/or Android products. Strong understanding of engagement, retention, conversion and monetization. Experience with product analytics, funnels, cohorts and experimentation. Experience working with UX, Research and Engineering teams. Strong analytical, organizational and prioritization skills. Strong decision-making and stakeholder management capabilities. Gaming experience is a strong advantage. Perks and benefits: Health & Well-being: Private health insurance. Up to 6 days of 100% paid leave without a certificate. Sports membership. Work Environment & Comfort: Modern workspace with relaxation areas. Hybrid work model with flexible working hours. Remote work up to 30 days/year. Work-Life Balance: 24+ days of annual leave. Birthday off. Reduced hours for moms with kids starting kindergarten. Fully covered maternity leave (according to company policy). Day off for parents of first graders. Growth & Development: Paid training, workshops, and educational opportunities. Team-building events and sports activities. Additional Perks: Daily transportation between Novi Sad & Belgrade for Novi Sad colleagues working in Belgrade. Role-based bonus opportunities. Referral bonuses for recommending new hires. Full equipmen"
+  },
+  {
+   "source": "infostud",
+   "id": "762774",
+   "title": "Produkt dizajner",
+   "company": "4Zida - deo Inspira grupe",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "UX Dizajn",
+    "Podrška",
+    "BI"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/produkt-dizajner/4zida-deo-inspira-grupe/762774",
+   "summary": "Produkt dizajner vodi istraživanja i dizajn korisničkih rešenja radi unapređenja proizvoda. Uloga je fokusirana na pretvaranje uvida u eksperimente i iteracije koje povećavaju vrednost za korisnike i poslovanje.",
+   "matched": [
+    "podaci",
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu U Subotici, podrška pri preseljenju Kako radimo? Ako voliš da istražuješ probleme, postavljaš pitanja, testiraš ideje i utičeš na to šta će tim razvijati, pre nego što je rešenje definisano - ova pozicija bi mogla biti za tebe. U 4zida razvijamo proizvod koji ljudima pomaže da lakše pronađu odgovarajuću nekretninu, brže dođu do relevantnih informacija i jednostavnije stupe u kontakt sa oglašivačima. Naš cilj je i da oglašivačima omogućimo da efikasnije dođu do zainteresovanih kupaca i zakupaca. Radićeš zajedno sa produkt menadžerima, developerima i produkt marketingom, od istraživanja potreba korisnika i testiranja ideja do praćenja rezultata i unapređivanja proizvoda na osnovu podataka i povratnih informacija. Tvoja uloga u timu Produkt dizajner kod nas nije servisna uloga. Ne očekujemo da samo preuzimaš gotove zahteve i „prevodiš ih u Figmu“, već da budeš ravnopravan član produkt tima. To znači da ćeš zajedno sa timom razumeti probleme korisnika, postavljati prava pitanja, koristiti podatke i povratne informacije, istraživati različita rešenja i učestvovati u odlukama koje oblikuju proizvod. Dizajn vidimo kao alat za rešavanje problema, a ne samo za oblikovanje interfejsa. Važno nam je da razumeš i korisničke potrebe i poslovni kontekst i da kroz svoj rad pomažeš timu da dođe do rešenja koja stvaraju vrednost za obe strane. Šta ćeš raditi? Planirati i sprovoditi korisnička istraživanja i usability testove. Analizirati podatke i povratne informacije radi otkrivanja uzroka problema. Definisati i proveravati hipoteze sa timom kroz eksperimente i testiranja. Dizajnirati korisničke tokove, prototipove i interfejse usklađene sa potrebama korisnika i poslovnim ciljevima. Pratiti rezultate nakon implementacije i predlagati unapređenja proizvoda. Sarađivati sa produkt menadžmentom, developerima i produkt marketingom tokom celog procesa. Koristiti AI alate kao podršku istraživanju, analizi i dizajn procesu. Reference: aEWfnHRawSeByd8Xj2Dzo9DLJUsiHJWYurS0E_CiBNgOvFfx5JiUAhKT8FS-Zmyv Voleli bismo da kod sebe prepoznaješ i sledeće: Radoznalost i želju da razumeš problem pre nego što kreneš da dizajniraš rešenje. Korisničke potrebe umeš da povežeš sa poslovnim ciljevima. Odluke zasnivaš na podacima, istraživanjima i uvidima, a ne samo na pretpostavkama. Usmerenost na ishode i stvarnu vrednost koju rešenje donosi korisnicima. Otvorenost za eksperimentisanje, brzo učenje i kontinuirano unapređenje. Sposobnost da uskladiš potrebe korisnika, jednostavnost korišćenja rešenja i tehnička ograničenja. Samostalnost u radu, inicijativu i odgovornost za kvalitet korisničkog iskustva. Spremnost na saradnju, razmenu mišljenja i zajedničko donošenje odluka. Šta očekujemo Iskustvo rada na digitalnim proizvodima Iskustvo u korisničkim istraživanjima i validaciji rešenja Dobro poznavanje UX principa, dizajniranja korisničkih tokova i rada u Figmi Sposobnost da samostalno vodiš dizajn proces — od razumevanja problema do validacije rešenja Iskustvo sa analitičkim alatima poput GA4, Clarityja ili sličnih predstavlja prednost Koristiš AI alate u svakodnevnom radu ili želiš da ih brzo usvojiš Obavezno nam pošalji portfolio (link ili drugi format) koji prikazuje tvoj produkt dizjan rad i način razmišljanja — od problema i procesa do rešenja i rezultata A važno nam je i: Da si hrabra i ambiciozna osoba Da ne čekaš da se stvari samo desem da preuzimaš inicijativu Da dobro funkcionišeš u timu Da si spreman/a da brzo i konstantno učiš Da igraš fer Inspira grupa "
+  },
+  {
+   "source": "infostud",
+   "id": "761660",
+   "title": "Senior .NET Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    ".NET",
+    "C#",
+    "SQL",
+    "Entity Framework",
+    "REST",
+    "Programiranje",
+    ".NET Core"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-.net-developer/silver-bell-group-doo/761660",
+   "summary": "Senior NET Developer will design and maintain backend services and applications to deliver reliable solutions for international clients. The role focuses on ensuring code quality through reviews and automated testing while collaborating with the team to integrate REST APIs and databases.",
+   "matched": [
+    "sql"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Are you an experienced .NET developer looking for your next project? Silver Bell Group is hiring a Senior .NET Developer to build and maintain applications for our international clients. Join our team and grow with us. Responsibilities Design, build and maintain back-end services and applications in .NET Review code, write tests and work closely with the rest of the team Reference: RMC_onBGB6LLwZuesyvMR2b_h6tzTflXLjGwLWYTGEN5Hexbo8hJW9nfyI0coA_w Requirements 5+ years of experience with C# and .NET (.NET Core / .NET 6+) Experience with REST APIs, SQL databases and Entity Framework Experience with Azure or AWS is a plus Good level of English What's in it for you Defined individual career path with room for professional growth Opportunity for advancement within the company Extra earnings through our referral program Team-building activities Good work-life balance Silver Bell Group d.o.o. Ovo nije posao za svakoga. I to je u redu. Ovo je prilika za one koji žele da rastu kroz rad. Za ljude koji razmišljaju unapred, uče brzo i ne boje se novih izazova. U Silver Bell Group-u, povezujemo međunarodne kompanije sa korisnicima širom sveta -i to radimo iz Beograda. Naš posao je outsourcing usluga, pre svega u oblasti korisničke podrške, ali i prodaje, IT-a i digitalnog marketinga. Zaposleni u Silver Bell Group-u rade sa ljudima iz različitih zemalja, na više od 25 jezika, za svetske… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"\"U Silver Bell Group-u sam počeo na agentskoj poziciji, bez mnogo prethodnog iskustva, ali sa željom da učim i razvijam se. Veštine koje sam stekao na poslu otvorile su mi put ka QA poziciji za manje…\" Pročitajte celo iskustvo Beneficije Poslovna putovanja Finansijske beneficije Nagrade, bonusi, pokloni Obuke, konferencije Obezbeđena oprema za rad Rad od kuće Hrana i piće Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT .NET Developer Senior .NET Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "761673",
+   "title": "Senior DevOps Engineer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "AWS",
+    "Docker",
+    "Azure",
+    "DevOps",
+    "Sistemska administracija",
+    "Cloud",
+    "Kubernetes",
+    "GCP"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-devops-engineer/silver-bell-group-doo/761673",
+   "summary": "Senior DevOps Engineer will run infrastructure and deployments for international clients and ensure reliable delivery pipelines. The role focuses on building and maintaining CI/CD pipelines, managing cloud infrastructure and responding to incidents to keep environments secure and stable.",
+   "matched": [
+    "aws",
+    "kubernetes",
+    "devops",
+    "cloud",
+    "administrator"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Do you know at least one major cloud platform inside and out? Silver Bell Group is hiring a Senior DevOps Engineer to run infrastructure and deployments for our international clients. Join our team and grow with us. Responsibilities Build and maintain CI/CD pipelines and cloud infrastructure Monitor systems, handle incidents and keep environments secure and stable Reference: p_A-xl0YEHHFwRreB9FQWAvGHqzRk1HyMHeHPsAsQlRTQF32Kcrz7a7_EgyV53Xs Requirements 5+ years of experience in DevOps or infrastructure roles Hands-on experience with at least one cloud: AWS, Azure or GCP Experience with Docker, Kubernetes and Terraform or a similar IaC tool Good level of English What's in it for you Defined individual career path with room for professional growth Opportunity for advancement within the company Extra earnings through our referral program Team-building activities Good work-life balance Silver Bell Group d.o.o. Ovo nije posao za svakoga. I to je u redu. Ovo je prilika za one koji žele da rastu kroz rad. Za ljude koji razmišljaju unapred, uče brzo i ne boje se novih izazova. U Silver Bell Group-u, povezujemo međunarodne kompanije sa korisnicima širom sveta -i to radimo iz Beograda. Naš posao je outsourcing usluga, pre svega u oblasti korisničke podrške, ali i prodaje, IT-a i digitalnog marketinga. Zaposleni u Silver Bell Group-u rade sa ljudima iz različitih zemalja, na više od 25 jezika, za svetske… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"\"U Silver Bell Group-u sam počeo na agentskoj poziciji, bez mnogo prethodnog iskustva, ali sa željom da učim i razvijam se. Veštine koje sam stekao na poslu otvorile su mi put ka QA poziciji za manje…\" Pročitajte celo iskustvo Beneficije Poslovna putovanja Finansijske beneficije Nagrade, bonusi, pokloni Obuke, konferencije Obezbeđena oprema za rad Rad od kuće Hrana i piće Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT DevOps System Administrator / Engineer Senior DevOps Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "761671",
+   "title": "Senior Full Stack Developer (.NET & Angular/React)",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    ".NET",
+    "C#",
+    "SQL",
+    "Angular",
+    "SQL Server",
+    "REST",
+    "Programiranje",
+    "React"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-full-stack-developer-.net-angular-react/silver-bell-group-doo/761671",
+   "summary": "Senior Full Stack Developer will design and deliver web applications by implementing .NET backend features and Angular or React frontend interfaces for international clients. The role ensures reliable REST APIs and database integration while maintaining code quality through testing and code reviews.",
+   "matched": [
+    "sql"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Do you work comfortably on both the back end and the front end? Silver Bell Group is hiring a Senior Full Stack Developer (.NET & Angular / React) to build web applications for our international clients. Join our team and grow with us. Responsibilities Build and maintain features on the .NET back end and the Angular or React front end Review code, write tests and work closely with the rest of the team Reference: auxfzPH_vneIZEqtzUiSTNSrxhTg6QSQJ1vaFV9dkQavCHx-BSfL9iDOaFatTvOQ Requirements 5+ years of experience in full stack development Strong knowledge of C# and .NET, plus Angular or React Experience with REST APIs and SQL databases (e.g. SQL Server) Good level of English What's in it for you Defined individual career path with room for professional growth Opportunity for advancement within the company Extra earnings through our referral program Team-building activities Good work-life balance Silver Bell Group d.o.o. Ovo nije posao za svakoga. I to je u redu. Ovo je prilika za one koji žele da rastu kroz rad. Za ljude koji razmišljaju unapred, uče brzo i ne boje se novih izazova. U Silver Bell Group-u, povezujemo međunarodne kompanije sa korisnicima širom sveta -i to radimo iz Beograda. Naš posao je outsourcing usluga, pre svega u oblasti korisničke podrške, ali i prodaje, IT-a i digitalnog marketinga. Zaposleni u Silver Bell Group-u rade sa ljudima iz različitih zemalja, na više od 25 jezika, za svetske… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"\"U Silver Bell Group-u sam počeo na agentskoj poziciji, bez mnogo prethodnog iskustva, ali sa željom da učim i razvijam se. Veštine koje sam stekao na poslu otvorile su mi put ka QA poziciji za manje…\" Pročitajte celo iskustvo Beneficije Poslovna putovanja Finansijske beneficije Nagrade, bonusi, pokloni Obuke, konferencije Obezbeđena oprema za rad Rad od kuće Hrana i piće Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Full stack developer Senior Full Stack Developer (.NET & Angular/React) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "761667",
+   "title": "Senior Full Stack Developer (Node.js & React)",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Node",
+    "Node.js",
+    "NoSQL",
+    "REST",
+    "Programiranje",
+    "TypeScript",
+    "React"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-full-stack-developer-node.js-react/silver-bell-group-doo/761667",
+   "summary": "Senior Full Stack Developer will design and implement web application features across a Node.js backend and a React frontend for international clients. The role focuses on delivering robust full stack solutions and maintaining code quality through reviews and testing.",
+   "matched": [
+    "sql"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Do you work comfortably on both the back end and the front end? Silver Bell Group is hiring a Senior Full Stack Developer (Node.js & React) to build web applications for our international clients. Join our team and grow with us. Responsibilities Build and maintain features on the Node.js back end and the React front end Review code, write tests and work closely with the rest of the team Reference: WzTf1_-W8_feOniSjO3eG0BXKUnBgVfTpwsMHAKVtyB2eYMWptuZECNQ8q00rWDF Requirements 5+ years of experience in full stack development Strong knowledge of Node.js, React and TypeScript Experience with REST APIs and SQL or NoSQL databases Good level of English What's in it for you Defined individual career path with room for professional growth Opportunity for advancement within the company Extra earnings through our referral program Team-building activities Good work-life balance Silver Bell Group d.o.o. Ovo nije posao za svakoga. I to je u redu. Ovo je prilika za one koji žele da rastu kroz rad. Za ljude koji razmišljaju unapred, uče brzo i ne boje se novih izazova. U Silver Bell Group-u, povezujemo međunarodne kompanije sa korisnicima širom sveta -i to radimo iz Beograda. Naš posao je outsourcing usluga, pre svega u oblasti korisničke podrške, ali i prodaje, IT-a i digitalnog marketinga. Zaposleni u Silver Bell Group-u rade sa ljudima iz različitih zemalja, na više od 25 jezika, za svetske… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"\"U Silver Bell Group-u sam počeo na agentskoj poziciji, bez mnogo prethodnog iskustva, ali sa željom da učim i razvijam se. Veštine koje sam stekao na poslu otvorile su mi put ka QA poziciji za manje…\" Pročitajte celo iskustvo Beneficije Poslovna putovanja Finansijske beneficije Nagrade, bonusi, pokloni Obuke, konferencije Obezbeđena oprema za rad Rad od kuće Hrana i piće Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Full stack developer Senior Full Stack Developer (Node.js & React) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "761675",
+   "title": "Senior Golang Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Docker",
+    "REST",
+    "Golang",
+    "Programiranje",
+    "Microservices",
+    "Kubernetes"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-golang-developer/silver-bell-group-doo/761675",
+   "summary": "Senior Golang Developer will build and maintain scalable back-end services and microservices to deliver reliable APIs for international clients. The role focuses on improving system robustness through code review testing and containerized deployments.",
+   "matched": [
+    "backend",
+    "sql",
+    "kubernetes"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Are you an experienced Go developer looking for your next project? Silver Bell Group is hiring a Senior Golang Developer to build back-end services for our international clients. Join our team and grow with us. Responsibilities Design, build and maintain back-end services and microservices in Go Review code, write tests and work closely with the rest of the team Reference: raoiuaWWfIGNMsTckuNzSgxZXzjttgk07bCOSn6ab3ihmxse3uPwMOsJBozajI0m Requirements 5+ years of back-end development experience, with strong Go experience Experience with microservices, REST or gRPC, and SQL databases Experience with Docker and Kubernetes Good level of English What's in it for you Defined individual career path with room for professional growth Opportunity for advancement within the company Extra earnings through our referral program Team-building activities Good work-life balance Silver Bell Group d.o.o. Ovo nije posao za svakoga. I to je u redu. Ovo je prilika za one koji žele da rastu kroz rad. Za ljude koji razmišljaju unapred, uče brzo i ne boje se novih izazova. U Silver Bell Group-u, povezujemo međunarodne kompanije sa korisnicima širom sveta -i to radimo iz Beograda. Naš posao je outsourcing usluga, pre svega u oblasti korisničke podrške, ali i prodaje, IT-a i digitalnog marketinga. Zaposleni u Silver Bell Group-u rade sa ljudima iz različitih zemalja, na više od 25 jezika, za svetske… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"\"U Silver Bell Group-u sam počeo na agentskoj poziciji, bez mnogo prethodnog iskustva, ali sa željom da učim i razvijam se. Veštine koje sam stekao na poslu otvorile su mi put ka QA poziciji za manje…\" Pročitajte celo iskustvo Beneficije Poslovna putovanja Finansijske beneficije Nagrade, bonusi, pokloni Obuke, konferencije Obezbeđena oprema za rad Rad od kuće Hrana i piće Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Backend developer Senior Golang Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "761663",
+   "title": "Senior Java Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Spring",
+    "Java",
+    "REST",
+    "Programiranje",
+    "Microservices",
+    "Spring Boot"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-java-developer/silver-bell-group-doo/761663",
+   "summary": "Senior Java Developer responsible for building and maintaining backend services for international clients. The role focuses on delivering scalable RESTful microservices and ensuring high code quality through testing and code reviews.",
+   "matched": [
+    "sql",
+    "data platform"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Are you an experienced Java developer looking for your next project? Silver Bell Group is hiring a Senior Java Developer to build and maintain applications for our international clients. Join our team and grow with us. Responsibilities Design, build and maintain back-end services in Java Review code, write tests and work closely with the rest of the team Reference: TDVIqu8DLP5LO7QI75l81jG9Rq7h6alBrtnojWGkEdN_kYi0NTBW7in8_REtehjP Requirements 5+ years of experience with Java and Spring Boot Experience with REST APIs, microservices and SQL databases Experience with Docker, Kubernetes or a cloud platform is a plus Good level of English What's in it for you Defined individual career path with room for professional growth Opportunity for advancement within the company Extra earnings through our referral program Team-building activities Good work-life balance Silver Bell Group d.o.o. Ovo nije posao za svakoga. I to je u redu. Ovo je prilika za one koji žele da rastu kroz rad. Za ljude koji razmišljaju unapred, uče brzo i ne boje se novih izazova. U Silver Bell Group-u, povezujemo međunarodne kompanije sa korisnicima širom sveta -i to radimo iz Beograda. Naš posao je outsourcing usluga, pre svega u oblasti korisničke podrške, ali i prodaje, IT-a i digitalnog marketinga. Zaposleni u Silver Bell Group-u rade sa ljudima iz različitih zemalja, na više od 25 jezika, za svetske… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"\"U Silver Bell Group-u sam počeo na agentskoj poziciji, bez mnogo prethodnog iskustva, ali sa željom da učim i razvijam se. Veštine koje sam stekao na poslu otvorile su mi put ka QA poziciji za manje…\" Pročitajte celo iskustvo Beneficije Poslovna putovanja Finansijske beneficije Nagrade, bonusi, pokloni Obuke, konferencije Obezbeđena oprema za rad Rad od kuće Hrana i piće Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Java Developer Senior Java Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "761665",
+   "title": "Senior Node.js Backend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "JavaScript",
+    "Node",
+    "Node.js",
+    "NoSQL",
+    "PostgreSQL",
+    "Programiranje",
+    "TypeScript",
+    "MongoDB",
+    "Express"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-node.js-backend-developer/silver-bell-group-doo/761665",
+   "summary": "Senior Nodejs Backend Developer will design and implement backend services and APIs to support international client projects. The role ensures robust server side implementations through testing and code reviews and drives reliable delivery within cross functional teams.",
+   "matched": [
+    "backend",
+    "sql"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Are you an experienced Node.js developer looking for your next project? Silver Bell Group is hiring a Senior Node.js Backend Developer to build APIs and services for our international clients. Join our team and grow with us. Responsibilities Design, build and maintain back-end services and APIs in Node.js Review code, write tests and work closely with the rest of the team Reference: vqLXOeLUj6nrUqrp_3tgJoLi7khZK3LBHJgXYvuIplIMsbP6eCavX-fcCKMqO3vN Requirements 5+ years of back-end development experience, mostly with Node.js Strong knowledge of JavaScript and TypeScript, with Express or NestJS Experience with SQL and NoSQL databases (e.g. PostgreSQL, MongoDB) Good level of English What's in it for you Defined individual career path with room for professional growth Opportunity for advancement within the company Extra earnings through our referral program Team-building activities Good work-life balance Silver Bell Group d.o.o. Ovo nije posao za svakoga. I to je u redu. Ovo je prilika za one koji žele da rastu kroz rad. Za ljude koji razmišljaju unapred, uče brzo i ne boje se novih izazova. U Silver Bell Group-u, povezujemo međunarodne kompanije sa korisnicima širom sveta -i to radimo iz Beograda. Naš posao je outsourcing usluga, pre svega u oblasti korisničke podrške, ali i prodaje, IT-a i digitalnog marketinga. Zaposleni u Silver Bell Group-u rade sa ljudima iz različitih zemalja, na više od 25 jezika, za svetske… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"\"U Silver Bell Group-u sam počeo na agentskoj poziciji, bez mnogo prethodnog iskustva, ali sa željom da učim i razvijam se. Veštine koje sam stekao na poslu otvorile su mi put ka QA poziciji za manje…\" Pročitajte celo iskustvo Beneficije Poslovna putovanja Finansijske beneficije Nagrade, bonusi, pokloni Obuke, konferencije Obezbeđena oprema za rad Rad od kuće Hrana i piće Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Backend developer Senior Node.js Backend Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "761666",
+   "title": "Senior Python Backend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Python",
+    "Django",
+    "PostgreSQL",
+    "REST",
+    "Programiranje",
+    "Flask"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-python-backend-developer/silver-bell-group-doo/761666",
+   "summary": "This senior backend role exists to design and deliver scalable Node.js APIs and services for international clients. The successful candidate will ensure code quality and reliability through testing and code reviews while collaborating with the development team.",
+   "matched": [
+    "python",
+    "backend",
+    "data platform",
+    "fastapi"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Are you an experienced Python developer looking for your next project? Silver Bell Group is hiring a Senior Python Backend Developer to build APIs and services for our international clients. Join our team and grow with us. Responsibilities Design, build and maintain back-end services and APIs in Python Review code, write tests and work closely with the rest of the team Reference: 1WfT1VgMWRsYTlNrsHoiaWZw7enS5SNzIMX7mH4kfBnxzaKqJ3v2aFkhMIoW2KwH Requirements 5+ years of experience with Python and Django, FastAPI or Flask Experience with REST APIs and relational databases (e.g. PostgreSQL) Experience with Docker or a cloud platform is a plus Good level of English What's in it for you Defined individual career path with room for professional growth Opportunity for advancement within the company Extra earnings through our referral program Team-building activities Good work-life balance Silver Bell Group d.o.o. Ovo nije posao za svakoga. I to je u redu. Ovo je prilika za one koji žele da rastu kroz rad. Za ljude koji razmišljaju unapred, uče brzo i ne boje se novih izazova. U Silver Bell Group-u, povezujemo međunarodne kompanije sa korisnicima širom sveta -i to radimo iz Beograda. Naš posao je outsourcing usluga, pre svega u oblasti korisničke podrške, ali i prodaje, IT-a i digitalnog marketinga. Zaposleni u Silver Bell Group-u rade sa ljudima iz različitih zemalja, na više od 25 jezika, za svetske… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"\"U Silver Bell Group-u sam počeo na agentskoj poziciji, bez mnogo prethodnog iskustva, ali sa željom da učim i razvijam se. Veštine koje sam stekao na poslu otvorile su mi put ka QA poziciji za manje…\" Pročitajte celo iskustvo Beneficije Poslovna putovanja Finansijske beneficije Nagrade, bonusi, pokloni Obuke, konferencije Obezbeđena oprema za rad Rad od kuće Hrana i piće Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Backend developer Senior Python Backend Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "761656",
+   "title": "Technical Support Specialist – English",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/technical-support-specialist-english/silver-bell-group-doo/761656",
+   "summary": "This role provides first line technical support for international customers across voice chat and email and ensures timely resolution of common IT problems. The specialist will document solutions and escalate complex cases to maintain service quality and enable smoother operations.",
+   "matched": [
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu Do you like solving technical problems and explaining them in simple terms? Silver Bell Group is hiring English-speaking Technical Support Specialists for our international clients. Join our team and grow with us. Responsibilities Help customers solve technical issues through voice, chat and email Document issues and solutions, and escalate complex cases to the right team Reference: K05Rni1vRVc5UjF95ZGhO6W68J81Soh-KnZOxg-qQ0OJIxaat8Rxkf0LfRI19QbB Requirements Fluent English (both written and spoken) 1+ year of experience in technical support, IT helpdesk or a similar role Good understanding of operating systems, common software and basic networking Strong communication skills and patience with customers What's in it for you Hybrid work, with modern offices in the center of Belgrade Defined individual career path with room for professional growth Opportunity for advancement within the company Extra earnings through our referral program Team-building activities Good work-life balance Silver Bell Group d.o.o. Ovo nije posao za svakoga. I to je u redu. Ovo je prilika za one koji žele da rastu kroz rad. Za ljude koji razmišljaju unapred, uče brzo i ne boje se novih izazova. U Silver Bell Group-u, povezujemo međunarodne kompanije sa korisnicima širom sveta -i to radimo iz Beograda. Naš posao je outsourcing usluga, pre svega u oblasti korisničke podrške, ali i prodaje, IT-a i digitalnog marketinga. Zaposleni u Silver Bell Group-u rade sa ljudima iz različitih zemalja, na više od 25 jezika, za svetske… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"\"U Silver Bell Group-u sam počeo na agentskoj poziciji, bez mnogo prethodnog iskustva, ali sa željom da učim i razvijam se. Veštine koje sam stekao na poslu otvorile su mi put ka QA poziciji za manje…\" Pročitajte celo iskustvo Beneficije Poslovna putovanja Finansijske beneficije Nagrade, bonusi, pokloni Obuke, konferencije Obezbeđena oprema za rad Rad od kuće Hrana i piće Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support Technical Support Specialist – English Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "762174",
+   "title": "UX Researcher",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "UX Dizajn"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ux-researcher/maxbet-doo/762174",
+   "summary": "The UX Researcher will expand research capabilities across markets and product areas to provide actionable player insights. The role focuses on establishing scalable survey processes and translating research findings into product and design recommendations.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00",
+   "details": "O poslodavcu MaxBet is part of Flutter Entertainment (NYSE: FLUT) - the world’s largest online gambling operator, publicly listed on the New York Stock Exchange. As a truly global leader in sports betting and gaming, Flutter shapes the future of the industry. MaxBet is a rapidly growing company specializing in sports betting, gaming and gambling. Headquartered in Serbia, we have a strong presence in Bosnia and Herzegovina, Montenegro and North Macedonia. We are committed to setting new industry standards, delivering top-tier entertainment while upholding the highest integrity. Our success is built on our people - we foster a culture of teamwork, clear communication and mutual respect. As we continue to grow, we are looking for a: UX Researcher Role Summary: We are looking for a UX Researcher to expand our research capabilities across markets and product areas and reduce dependency on a single research resource. The role will focus on establishing a scalable surveying capability and generating actionable player insights that directly support Product and Design decisions. Responsibilities: Planning and execution of UX research across markets, player segments and product areas. Conducting qualitative and quantitative research into player needs, behaviours and motivations. Market and competitor research relevant to product decisions. Design, execution and analysis of player surveys. Establishment and development of scalable survey processes and tooling. Execution of interviews, usability testing and concept testing. Translation of research findings into product and design recommendations. Collaboration with Product Managers and Designers from early discovery stages. Validation of new product concepts and features. Evaluation of released experiences. Development of knowledge around player behavior across markets. Collaboration with the existing UX Researcher and Product Analyst. Maintenance of research repositories and player insights. Reference: YWwKN3RQq4COzcJC5u9VTuyAHMIup_1ToNxKMbBWCIV6zVex3UjSrzouuK5JZlAI Qualifications: 3–5+ years of experience in UX Research, Product Research or a similar role. Experience with qualitative and quantitative research methodologies. Strong experience in survey design, execution and analysis. Experience with interviews, usability testing and concept testing. Experience in international or multi-market research. Strong ability to translate research findings into actionable recommendations. Excellent communication and presentation skills. Gaming or consumer digital product experience is an advantage. Perks and benefits: Health & Well-being: Private health insurance. Up to 6 days of 100% paid leave without a certificate. Sports membership. Work Environment & Comfort: Modern workspace with relaxation areas. Hybrid work model with flexible working hours. Remote work up to 30 days/year. Work-Life Balance: 24+ days of annual leave. Birthday off. Reduced hours for moms with kids starting kindergarten. Fully covered maternity leave (according to company policy). Day off for parents of first graders. Growth & Development: Paid training, workshops, and educational opportunities. Team-building events and sports activities. Additional Perks: Daily transportation between Novi Sad & Belgrade for Novi Sad colleagues working in Belgrade. Role-based bonus opportunities. Referral bonuses for recommending new hires. Full equipment and onboarding for every role. MaxBet MaxBet, deo međunarodnog lidera Flutter International, izd"
+  },
+  {
+   "source": "helloworld",
+   "id": "762552",
+   "title": "IT Project Manager",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "jira",
+    "scrum",
+    "agile"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Project-Manager/Prohuman-d.o.o/762552",
+   "summary": "Prohuman d.o.o. Beograd 27.10.2026. Jira SCRUM Agile Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762057",
+   "title": "Istraživač",
+   "company": "Institut Mihajlo Pupin d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Istrazivac/Institut-Mihajlo-Pupin-d.o.o/762057",
+   "summary": "Institut Mihajlo Pupin d.o.o. Beograd 27.10.2026. Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137544",
+   "title": "Senior Backend Engineer",
+   "company": "Rain",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "golang",
+    "finance",
+    "mobile",
+    "senior",
+    "medical",
+    "engineer",
+    "backend"
+   ],
+   "posted": "2026-10-18",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuMTI3LjI0Ny4zNg== when applying to show you read the job post comple",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761674",
+   "title": "Senior Frontend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "css",
+    "html",
+    "angular",
+    "rest",
+    "typescript"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Frontend-Developer/Silver-Bell-Group-d.o.o/761674",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. JavaScript CSS HTML Angular REST TypeScript Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761676",
+   "title": "Senior IT Project Manager",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-IT-Project-Manager/Silver-Bell-Group-d.o.o/761676",
+   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762173",
+   "title": "UX/Product Designer",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "ios",
+    "android"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/UXProduct-Designer/MaxBet-d.o.o/762173",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. iOS Android Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
   {
    "source": "infostud",
    "id": "762561",
@@ -297,32 +1066,6 @@
   },
   {
    "source": "infostud",
-   "id": "762454",
-   "title": "Produkt dizajner",
-   "company": "4Zida - deo Inspira grupe",
-   "location": "Subotica",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "UX Dizajn",
-    "Podrška",
-    "BI"
-   ],
-   "posted": "2026-10-19",
-   "expires": "03.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/produkt-dizajner/4zida-deo-inspira-grupe/762454",
-   "summary": "Produkt dizajner će kroz istraživanja i validaciju oblikovati rešenja koja smanjuju frikciju pri pronalaženju nekretnina. Kandidat će koristiti podatke i eksperimente da unapredi korisničko iskustvo i poveća efikasnost oglašivača.",
-   "matched": [
-    "podaci",
-    "it podrska",
-    "tehnicka podrska"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00",
-   "details": "O poslodavcu Produkt dizajner U Subotici, podrška pri preseljenju Kako mi radimo? Ako voliš da istražuješ probleme, postavljaš pitanja, testiraš ideje i utičeš na to šta će tim razvijati, pre nego što je rešenje definisano - ova pozicija bi mogla biti za tebe. U 4zida razvijamo proizvod koji ljudima pomaže da lakše pronađu odgovarajuću nekretninu, brže dođu do relevantnih informacija i jednostavnije stupe u kontakt sa oglašivačima. Naš cilj je i da oglašivačima omogućimo da efikasnije dođu do zainteresovanih kupaca i zakupaca. Radićeš zajedno sa produkt menadžerima, developerima i produkt marketingom, od istraživanja potreba korisnika i testiranja ideja do praćenja rezultata i unapređivanja proizvoda na osnovu podataka i povratnih informacija. Tvoja uloga u timu Produkt dizajner kod nas nije servisna uloga. Ne očekujemo da samo preuzimaš gotove zahteve i „prevodiš ih u Figmu“, već da budeš ravnopravan član produkt tima. To znači da ćeš zajedno sa timom razumeti probleme korisnika, postavljati prava pitanja, koristiti podatke i povratne informacije, istraživati različita rešenja i učestvovati u odlukama koje oblikuju proizvod. Dizajn vidimo kao alat za rešavanje problema, a ne samo za oblikovanje interfejsa. Važno nam je da razumeš i korisničke potrebe i poslovni kontekst i da kroz svoj rad pomažeš timu da dođe do rešenja koja stvaraju vrednost za obe strane. Šta ćeš raditi Planirati i sprovoditi korisnička istraživanja i usability testove. Analizirati podatke i povratne informacije radi otkrivanja uzroka problema. Definisati i proveravati hipoteze sa timom kroz eksperimente i testiranja. Dizajnirati korisničke tokove, prototipove i interfejse usklađene sa potrebama korisnika i poslovnim ciljevima. Pratiti rezultate nakon implementacije i predlagati unapređenja proizvoda. Sarađivati sa produkt menadžmentom, developerima i produkt marketingom tokom celog procesa. Koristiti AI alate kao podršku istraživanju, analizi i dizajn procesu. Reference: gOjkqpNzYzRIsVMcbt-GgXDbDCQ5czJnuCRD809CnpC0E1OFD7niPlatLXB1h5kJ Voleli bismo da kod sebe prepoznaješ sledeće Radoznalost i želju da razumeš problem pre nego što kreneš da dizajniraš rešenje. Korisničke potrebe umeš da povežeš sa poslovnim ciljevima. Odluke zasnivaš na podacima, istraživanjima i uvidima, a ne samo na pretpostavkama. Usmerenost na ishode i stvarnu vrednost koju rešenje donosi korisnicima. Otvorenost za eksperimentisanje, brzo učenje i kontinuirano unapređenje. Sposobnost da uskladiš potrebe korisnika, jednostavnost korišćenja rešenja i tehnička ograničenja. Samostalnost u radu, inicijativu i odgovornost za kvalitet korisničkog iskustva. Spremnost na saradnju, razmenu mišljenja i zajedničko donošenje odluka. Šta očekujemo Iskustvo rada na digitalnim proizvodima Iskustvo u korisničkim istraživanjima i validaciji rešenja Dobro poznavanje UX principa, dizajniranja korisničkih tokova i rada u Figmi Sposobnost da samostalno vodiš dizajn proces — od razumevanja problema do validacije rešenja Iskustvo sa analitičkim alatima poput GA4, Clarityja ili sličnih predstavlja prednost Koristiš AI alate u svakodnevnom radu ili želiš da ih brzo usvojiš Obavezno nam pošalji portfolio (link ili drugi format) koji prikazuje tvoj produkt dizjan rad i način razmišljanja — od problema i procesa do rešenja i rezultata A važno nam je i: Da si h rabra i ambiciozna osoba Da ne čekaš da se stvari same dese , da preuzimaš inicijativu Da dobro funkcionišeš u timu Da si spreman/a da brzo i konstantno učiš Da igraš "
-  },
-  {
-   "source": "infostud",
    "id": "762458",
    "title": "Senior AI Engineer (LLM & Edge AI)",
    "company": "TrustMotion",
@@ -431,7 +1174,7 @@
    "expires": "18.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/csharp-Game-Developer/IGT-DB-d.o.o/762620",
-   "summary": "IGT D&B d.o.o. 3.7 Beograd 18.11.2026. C# C OOP 2D 3D Unity Intermediate Novo",
+   "summary": "IGT D&B d.o.o. 3.7 Beograd 18.11.2026. C# C OOP 2D 3D Unity Intermediate <button class=\"btn-icon btn-icon-primary btn-icon-md border-0 __store-post-login-action\"",
    "matched": [
     "helloworld"
    ],
@@ -888,37 +1631,6 @@
    ],
    "first_seen": "2026-10-16T12:35:22+00:00",
    "details": "O poslodavcu WE'RE HIRING! Technical Support & Partner Onboarding Specialist - Hungarian and English language M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. Are you driven to empower others to succeed? Love sharing and guiding people through a great product? We’d love to hear from you! We are looking for 2 Technical Support & Partner Onboarding Specialists to join our team and support partners with API integrations and technical troubleshooting. Primary Responsibilities: Support partners throughout the onboarding process and assist with API integration Provide L1 technical support and troubleshoot partner issues related to POS systems and API connectivity Monitor and manage support tickets, ensuring timely follow-up and resolution Use Postman to test API requests and help identify integration issues Escalate complex technical issues to the relevant teams when necessary Create, update, and maintain knowledge base articles and technical documentation Communicate with partners via Slack and email to provide guidance and ensure a smooth onboarding experience Reference: N9s3rJcpl1VRA12KJV771Nf4D_DQHMEmtk_S2aN2xnfz7Fc_7mEkPrQAEHzdJ--a What we expect from you: Minimum 1 year of relevant experience in API onboarding, technical support, or POS systems Hands-on experience with Postman, Jira, and Confluence Fluent Hungarian and professional English language Ability to work effectively in a team and handle multiple tasks simultaneously Solid organizational and time management skills Willingness to work Monday to Friday business hours, public holiday cover required (9am-5pm) What you will get from us: A remote work model Paid training Opportunity to work with a dynamic, fast-growing team Private health insurance Benefit package available to all our employees (day off for a birthday, discounts with our partners from different industries) If you are ready to contribute to this position, apply now with your CV in English. We look forward to your application! Note: Only shortlisted candidates will be contacted. Best of luck! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od 10 godina. Mplus mi je kroz godine dao prostora za razvoj karijere, to je ono što motiviše mene i…\" Pročitajte celo iskustvo Beneficije Obuke, konferencije Edukacija, profesionalni razvoj Zabavni sadržaj Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Timska druženja Zdravlje Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direkt"
-  },
-  {
-   "source": "helloworld",
-   "id": "762212",
-   "title": "Backend Developer",
-   "company": "InsBy d.o.o",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "c",
-    "sql",
-    "java",
-    "git",
-    "python",
-    "ruby",
-    "docker",
-    "postgresql",
-    "mongodb",
-    "flutter"
-   ],
-   "posted": "2026-10-16",
-   "expires": "31.10.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Backend-Developer/InsBy-d.o.o/762212",
-   "summary": "InsBy d.o.o. Odgovara na prijave Beograd 31.10.2026. C# SQL Java Git Python Ruby Docker PostgreSQL MongoDB Flutter Intermediate",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Backend Developer 2 izvršioca Backend Developer InsBy d.o.o. Odgovara na prijave Beograd 31.10.2026. C# SQL Java Git Python Ruby Docker PostgreSQL MongoDB Flutter intermediate Idemo dalje i želimo baš tebe u našem timu! Ukoliko imaš više od 2 godine iskustva u radu sa nekim bekend programskim jezikom, imamo poziciju za tebe. Bilo da radiš Python, Java, C#, Go, Rust, Elixir ili Ruby, želimo da te upoznamo. Prednost je ukoliko želiš da postaneš full stack developer. Radićeš na našoj platformi morffeus.com , koja postaje operativni sistem svake organizacije. Radićeš u malom timu sa odabranim ljudima, radićeš na zadacima koji su zasnovani na najnovijim tehnologijama i metodima, bićeš deo tima koji menja realnost. Potrebno je da imaš odlično znanje osnova programiranja, da budeš radoznao i da imaš želju da otkrivaš nove stvari. Na čemu ćeš raditi Backend platforme u Elixiru i Phoenixu: API, integracije i digitalni zaposleni — AI kolege koje firme zapošljavaju za konkretne uloge, od prodaje do podrške. PostgreSQL, MongoDB. Kad dođe vreme, i frontend: ekrani u Flutter aplikacijama i stranice u Next.js-u. AI alati, kod nas je to način rada. Ako želiš da postaneš full stack Počinješ na backendu. Put izgleda ovako: Prva tri meseca: backend. Upoznaješ sistem, učiš Elixir ako ga ne znaš i isporučuješ prve izmene u produkciju. Do šestog meseca: prve funkcionalnosti od baze do ekrana, uz review tima. Do kraja godine: samostalno nosiš celu funkcionalnost, na bilo kom delu sistema. Šta konkretno očekujemo Jedan od navedenih jezika znaš stvarno dobro. SQL pišeš i bez ORM-a. Znaš čemu služi indeks i umeš da otkriješ zašto je upit spor. Git, Docker i osnovno razumevanje CI/CD-a. Engleski dovoljno dobar za dokumentaciju i tehničku prepisku. Šta nije uslov Frontend iskustvo. Ni Flutter, ni React, ni Next.js. Ko razume backend, ekran savlada brzo, posebno uz AI alate. Učiš ga kod nas, na pravim funkcionalnostima. Elixir. Ako dolaziš iz drugog jezika, prvih nekoliko nedelja učiš uz tim. Diploma. Gledamo kod, ne papire. Šta nudimo Pisani plan rasta i revizija plate posle šest meseci. Mentorstvo tima koji je napravio sistem. Kancelarija u Beogradu. Tim sedi zajedno, a za nekoga ko uči nov stek to je najbrži put. Mali tim, kratke odluke, direktan pristup. Kako izgleda proces Kratak razgovor (30 min) — ko si, na čemu radiš, šta hoćeš da naučiš. Tehnički deo (90 min, uživo) — dobijaš pravi merge request iz našeg Elixir backenda. Čitaš ga, komentarišeš i dodaješ jednu malu izmenu. AI alati su dozvoljeni, kao i na poslu. Ako Elixir vidiš prvi put, to je u redu: gledamo kako razmišljaš o kodu, ne da li znaš sintaksu. Upoznavanje sa timom (30 min). Konkuriši Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * I",
-   "first_seen": "2026-10-16T12:35:22+00:00"
   }
  ]
 }
