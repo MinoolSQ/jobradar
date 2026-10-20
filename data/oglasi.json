@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-20T06:11:50+00:00",
+ "generated_at": "2026-10-20T12:49:08+00:00",
  "window_days": 3,
  "cutoff": "2026-10-17",
- "count": 44,
- "new_count": 0,
+ "count": 51,
+ "new_count": 8,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
@@ -14,7 +14,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 14,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
@@ -24,8 +24,8 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 27,
-   "strane": 1,
+   "vraceno": 37,
+   "strane": 2,
    "stop": "kraj"
   },
   "etl": {
@@ -39,8 +39,8 @@
    "stop": "kraj"
   },
   "spark": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "airflow": {
@@ -54,7 +54,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 13,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
@@ -64,7 +64,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 11,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
@@ -89,7 +89,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 10,
+   "vraceno": 12,
    "strane": 1,
    "stop": "kraj"
   },
@@ -104,18 +104,18 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 26,
-   "strane": 1,
+   "vraceno": 40,
+   "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 22,
+   "vraceno": 28,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 58,
-   "strane": 2,
+   "vraceno": 75,
+   "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
@@ -124,18 +124,18 @@
    "stop": "limit"
   },
   "help desk": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 37,
+   "vraceno": 46,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 111,
-   "strane": 4,
+   "vraceno": 130,
+   "strane": 5,
    "stop": "kraj"
   },
   "serviser": {
@@ -144,7 +144,7 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -154,12 +154,207 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 79,
-   "strane": 3,
+   "vraceno": 114,
+   "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "763109",
+   "title": "Data Systems Manager",
+   "company": "Ametek d.o.o.",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Menadžment"
+   ],
+   "posted": "2026-10-20",
+   "expires": "04.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-systems-manager/ametek-doo/763109",
+   "summary": "This role owns the ProcureView Qlik functional roadmap and ensures data integration and system alignment across divisions. The role delivers consolidated spend and savings reporting and develops automated dashboards while enabling AI capabilities to improve reporting efficiency.",
+   "matched": [
+    "data engineer",
+    "it support"
+   ],
+   "first_seen": "2026-10-20T12:49:08+00:00",
+   "details": "O poslodavcu About the Company: AMETEK, Inc. is a leading global manufacturer of electronic instruments and electromechanical devices with annual sales of approximately $7.4 billion. AMETEK has 21,000 colleagues at more than 150 operating locations, and a global network of sales, service and support locations in 31 countries around the world. The AMETEK Growth Model combines its four growth strategies of Operational Excellence, Strategic Acquisitions, Global & Market Expansion, and New Product Development, with a disciplined focus on cash generation and capital deployment. By executing the AMETEK Growth Model, the company seeks to generate shareholder value by doubling earnings per share over the course of each business cycle. AMETEK consists of two operating groups, both with highly differentiated technology and leading positions in niche markets: Electronic Instruments - a worldwide leader in the design and manufacture of advanced analytical, test and measurement instrumentation for the energy, aerospace, power, research, medical and industrial markets. Electromechanical - a differentiated supplier of automation and precision motion control solutions, and highly engineered electrical interconnects, specialty metals and thermal management systems. Key Responsibilities: Lead the functional ownership for ProcureView/Qlik: Ensure system is meeting the needs of the business Develop the roadmap for enhancements and extensions into plans and actions Work closely with Qlik technical expert(s) on all aspects of system design Work with all AMETEK Divisions, BU’s and sites to ensure data integration is happening as expected, and exceptions are acted upon Project management of all stakeholders (IT, Qlik, Divisions, Business Units) Business Unit master data validation (Supplier mapping, Commodity Code mapping, Payment Term mapping) Enable AI functionality within the system across all users, including training Supporting functional and User Acceptance testing Running internal update meetings Reference: fnhGw5kR0u1JXzhNK4zLeBHbH1Y3LoV5r281Dg4dlakonTRSMUMqmHep_mZaSvnt Develop tools for use in GSO, COE & Corporate Reporting Develop other reporting tools within the appropriate systems Examples – GSO RFQ tracking dashboard; COE inquiry tracking; Blomberg price index dashboard Work with Corporate colleagues to define new opportunities, design solutions and implement Spend and Savings Reporting Working with Procurement Operations Director, prepare quarterly reporting of spend and savings for all OPEX functions Taking data from all AMETEK Divisions, combining and analysing Develop ways to automate and streamline reporting Position Requirements: Bachelor’s degree in Business or related field Minimum 7-8 years experience working with: Data management and reporting systems management Or Supply Chain/Procurement/Financial systems Experience with data management and process mapping Strong attention to detail and analytical skills Excellent written and verbal communication skills Collaboration experience within a global or multi-site environment and proven ability to influence stakeholders in a matrixed environment English language (written and verbal) Demonstrated interest and practical ability to use AI tools to improve efficiency and quality of work while applying good judgment and responsible use Comfortable learning and adopting new AI-enabled ways of working and proactively identifying opportunities where AI can drive meaningful impact in daily activities "
+  },
+  {
+   "source": "infostud",
+   "id": "762972",
+   "title": "Inkompass Internship",
+   "company": "Philip Morris Services d.o.o.",
+   "location": "Niš | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prakse"
+   ],
+   "posted": "2026-10-20",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/inkompass-internship/philip-morris-services-doo/762972",
+   "summary": "This paid 12 month internship places early career candidates in a modern manufacturing facility to gain hands on experience across quality production engineering and supply functions. The intern will support business projects and transformation initiatives while applying continuous improvement and digital tools to improve factory operations.",
+   "matched": [
+    "data engineer",
+    "it support"
+   ],
+   "first_seen": "2026-10-20T12:49:08+00:00",
+   "details": "O poslodavcu Discover yourself with INKOMPASS . INKOMPASS is a paid internship program by Philip Morris International that enables you to discover yourself by working in a creative, dynamic, and culturally diverse environment. You'll work alongside industry leaders, gain experience and be part of PMI's transformation journey. During the internship, you will: Make an impact on business projects Learn from industry leaders Support PMI's transformation initiatives Reference: wOUeF-sjCmjy_kcVxhS5Ti-EFJZHKCdaW2lFc99C8Ol4_WMG2HcxwV3GVkK3pydg Manufacturing facility in Niš Passionate about innovation or process optimization? Want to gain experience in a modern manufacturing environment in Niš? Learn how people, processes and technology come together to support business initiatives. Explore our functions Quality Discover how quality is built into manufacturing through quality systems, risk analysis and continuous improvement, while collaborating with teams across the factory. OPEN+ Explore how continuous improvement, data and digital tools make operations more efficient, and contribute to initiatives that simplify processes and ways of working. EHS Learn how Environment, Health & Safety supports factory operations through workplace safety, risk assessment and environmental practices. Engineering See how engineering combines technology and process improvement to enhance equipment, utilities and manufacturing operations. Production Step into the heart of manufacturing and learn how people, processes and technology come together to drive efficient daily production. Supply Planning Discover how data, planning and collaboration with local and international teams help keep production running smoothly and support effective decisions. IT Explore how systems, data and digital solutions support a modern factory and help teams improve everyday ways of working. Factory Logistics See how materials and products move across factory and warehouse operations, while gaining exposure to process improvement, data analysis and the wider supply chain. Security & Market Safety Discover how Security & Market Safety protects people, operations and the business through risk analysis, prevention initiatives and cross-functional collaboration. Who can apply? University students in their final year of Bachelor's studies, enrolled in Master's studies, or recent graduates Native Serbian speakers proficient in English Curious and eager to develop Agile thinkers with an open and proactive mindset Strong team players with collaboration skills The INKOMPASS 2027 program in Niš is planned to start on 1 February 2027 and run for 12 months. Join us and enjoy the freedom to dream up and deliver better, brighter solutions. Philip Morris Services d.o.o. Beograd Želimo ti dobrodošlicu u Philip Morris International. Sigurno već znaš ko smo mi, ali hajde da se bolje upoznamo. Postojimo već 170 godina kao jedna od vodećih svetskih kompanija u duvanskoj industriji. Nekada se prepoznatljivost naše kompanije vezivala samo za vodeće svetske brendove kao što su Marlboro, Parliament ili L&M. Danas smo na putu transformacije ka budućnosti bez duvanskog dima na kom je naša prva stanica bio ujedno i danas najpoznatiji brend u ovoj kategoriji – IQOS. Smoke –… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodav"
+  },
+  {
+   "source": "infostud",
+   "id": "763090",
+   "title": "Oracle DBA Consultant",
+   "company": "Way4Services d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "Unix",
+    "C++",
+    "Java",
+    "Oracle",
+    "Sistemska administracija",
+    "Programiranje"
+   ],
+   "posted": "2026-10-20",
+   "expires": "19.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/oracle-dba-consultant/way4services-doo/763090",
+   "summary": "This DBA Consultant role exists to ensure correct sizing deployment testing and operational performance of database components in large scale processing system projects. The specialist will secure uptime improve transaction performance and support database design and testing within project teams.",
+   "matched": [
+    "sql",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-20T12:49:08+00:00",
+   "details": "O poslodavcu Who we are As part of the Delivery department, you will be working as a member of the Implementation team. As a DBA Consultant you will be sizing, implementing and testing deployments of WAY4 from perspective of the database. You will be ensuring the uptime and performance of WAY4 solution deliveries, according to the requirements analysis, while working based on a plan as part of a project team. Responsibilities Participation in implementation and support projects of a processing systems (financial and telecom areas); Large transaction systems performance audit; Miscellaneous load systems - OLTP + DSS - performance improvement; Writing and performing load (stress) tests; New technologies (mainly Oracle) investigation and application in complex architecture solution; Requirements collection and analysis, specifications development and solution design involvement; Participation in customization and system modules setting; Clients’ trainings and workshops attendance. Reference: jt_DvLghYZqCty8WaAhaV3R5qSyaDjPbypSFFrbouconR09mFWivBfqthH-lsx9K Requirements Higher education in technical fields (Computer Science, Physics, Mathematics); Professional experience: IT area – at least 5 years, including Oracle database administration and/or development – at least 3 years; Experience in following fields: Large OLTP-systems development and/or administration; Developing and/or implementation (support) large distributed application systems on Java or С/С++; Cluster technology working experience, including Oracle RAC; Oracle Data Guard working experience; Unix-systems and drive array Enterprise level working experience; SQL tuning, execution plans fixing; Skills and expertise: Strong theoretical background and knowledge in IT and computer science; Software lifecycle/ design baseline/ software development and QA acknowledgement; Administration level knowledge of a Unix-like systems; PL/SQL + Java or C/C++ development skills would be an advantage; In depth knowledge of Oracle database including architecture awareness; Good knowledge of network technologies; In depth understanding of infrastructure deployment and networks. Specifically in relation to the deployment of database in production environments for large scale financial processing; Excellent communication skills and fluency in English, both written and spoken; Excellent interpersonal skills, including to communicate technical ideas clearly effectively and convincingly; Willingness to travel abroad for projects; Experience with cloud deployment and in-cloud database management will be an advantage. Our benefits Opportunity to work in an international environment; Professional courses and certifications; Language courses: English, Spanish, Serbian; Competitive salary and annual bonus; Voluntary health insurance; Snacks and drinks in the office; Meal allowance; Transportation allowance; Corporate events; Flexible start of the work day. We process the data provided in your job application in accordance with the NOTICE ON THE PERSONAL DATA PROCESSING OF EMPLOYMENT CANDIDATES. Link: www.way4services.com/policy Way4Services d.o.o. Way4Services is a system integrator with skillset and certifications to handle Way4-based digital payment projects. Are you an issuer, acquirer, mobile wallet provider or fleet card processor? Does your infrastructure run on premises or in the cloud? Whatever your requirements, you can rely on our experience – over 100 man-years of Way4 delivery, configuration, cus"
+  },
+  {
+   "source": "infostud",
+   "id": "763049",
+   "title": "SAP Functional Consultant (Order-to-Cash)",
+   "company": "Robert Bosch d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SAP",
+    "Prodaja / konsultanti",
+    "ERP",
+    "R"
+   ],
+   "posted": "2026-10-20",
+   "expires": "04.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/sap-functional-consultant-order-to-cash/robert-bosch-doo/763049",
+   "summary": "This role defines and implements global Order to Cash processes to improve end to end supply chain efficiency for the Power Tools distribution network. The consultant leads global rollouts, aligns cross functional stakeholders and delivers SAP ERP solutions and change management to ensure successful system adoption.",
+   "matched": [
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-20T12:49:08+00:00",
+   "details": "O poslodavcu Do you want to shape beneficial technologies with your ideas? If so, join us as SAP Functional Consultant (Order-to-Cash) Job Description Global O2C Process Ownership: Developing innovative concepts and processes within the Order-to-Cash (O2C) domain specifically for the global distribution of Power Tools. Project Execution & Rollouts: Supporting and independently leading global optimization and system rollout projects in close collaboration with manufacturing plants, logistics hubs, local sales organizations, and internal IT partners. Technical Implementation (SAP): Facilitating requirement workshops, drafting specifications, executing SAP ERP implementations, managing testing cycles, and delivering key user support. Cross-Functional Coordination: Defining and aligning interfaces between production, sales, logistics/warehousing, and finance. Change Management: Driving intensive, proactive communication and change management strategies across global teams. Reference: 6vJOklTwUTxjbbzAH2yZwjOo-8R81s-LcA1Q-MnfgT5Gwsx5z8QWz7g1Z6kf2YgS Qualification Education: University degree in Business Informatics, Business Administration, Industrial Engineering, or a related field with a strong focus on Supply Chain Management. Minimum of 5–8 years in management consulting or within the consumer goods industry. Strong practical understanding of modern supply chain concepts and end-to-end logistics. Technical Expertise: Advanced knowledge of SAP ERP SD (Sales and Distribution), SAP TM, and integration with modules like LE, MM, or FI. Process Excellence: Proven capability to analyze, design, transform, and document complex, large-scale end-to-end processes. Soft Skills & Leadership: High initiative, persuasiveness, assertiveness, and strong analytical capabilities. Exceptional negotiation and moderation skills with the ability to manage conflicting stakeholder interests and handle escalations. Empathic relationship-builder focused on establishing mutual trust across diverse teams. Languages: Business fluent in English (written and spoken); additional languages are a plus. Benefits Flexibile working time* Hybrid work model* Extra days off Private health insurance Opportunities for learning and development *In agreement with team and leader Do you want to shape beneficial technologies with your ideas? Whether in mobility solutions, consumer goods, industrial technology, or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. As part of Bosch Power Tools, you will help set global standards with innovative products for craft, industry, home, and garden. Our worldwide standardized Supply Chain Processes are mapped in a SAP R/3 and S4Hana solution, which is already implemented in Europe and Asia and will be further rolled out worldwide. To strengthen our process teams, we are looking for SAP In-house Consultants in the area of Supply Chain Management. In this role, you will act as central Process Expert for O2C, focusing on IT process implementation and actively shaping system landscape of Robert Bosch Power Tools. You will continuously design and further develop concepts and business processes to ensure constant optimization and increase efficiency of O2C area. Welcome to Bosch. Interested? Get ready to Work #LikeA Bosch Simply complete the contact form and submit your CV in PDF format and in English . Bosch Srbija Bosch Grupa Grupa Bosch je vodeći dobavljač tehnologija i usluga. Zapoš"
+  },
+  {
+   "source": "infostud",
+   "id": "762891",
+   "title": "Saradnik za informaciono-komunikacione tehnologije (IKT)",
+   "company": "Almex d.o.o.",
+   "location": "Pančevo",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-20",
+   "expires": "04.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/saradnik-za-informaciono-komunikacione-tehnologije-ikt/almex-doo/762891",
+   "summary": "Ova pozicija obezbeđuje primenu IKT rešenja u poljoprivrednoj mehanizaciji radi unapređenja navigacionih sistema i tehničke podrške klijentima. Kandidat će identifikovati tehnološke prilike, pratiti porudžbine i voditi tehničku dokumentaciju.",
+   "matched": [
+    "help desk",
+    "tehnicka podrska",
+    "it support"
+   ],
+   "first_seen": "2026-10-20T12:49:08+00:00",
+   "details": "O poslodavcu d.o.o. Almex Pančevo, sa više od 30 godina tradicije, jedan je od lidera u poljoprivrednoj proizvodnji i ekskluzivni zastupnik, distributer i serviser renomiranih svetskih proizvođača poljoprivredne mehanizacije u regionu. Posvećeni smo stalnom razvoju i unapređenju naših poslovnih procesa, kako bismo našim kupcima pružili proizvode i usluge najvišeg kvaliteta. Naš cilj je kontinuirani rast tržišnog učešća, u skladu sa dugoročnom strategijom i ambicioznim planovima širenja poslovanja. Spoj tehnologije i poljoprivrede – pridruži nam se! Da li te zanimaju savremene tehnologije, GPS navigacija i pametna rešenja koja unapređuju rad poljoprivredne mehanizacije? Želiš posao koji povezuje tehničko znanje, praktičnu primenu tehnologije i saradnju sa klijentima? Ako želiš da svoje znanje primenjuješ na konkretnim tehnološkim rešenjima i da se profesionalno razvijaš, pozivamo te da postaneš deo našeg tima! Saradnik za informaciono-komunikacione tehnologije (IKT) Mesto rada: Pančevo Tvoja uloga Analiza tehničkih karakteristika poljoprivredne mehanizacije i identifikovanje mogućnosti za primenu IKT rešenja. Praćenje porudžbina navigacionih sistema i dodeljivanje softverskih licenci. Testiranje, podešavanje i održavanje IKT sistema. Pružanje tehničke podrške i saveta klijentima. Praćenje GPS sistema, geolokacionih tehnologija i novih tehnoloških trendova. Održavanje IKT baze podataka. Priprema dokumentacije za homologaciju. Učešće u definisanju ciljeva i potreba za primenu informaciono-komunikacionih tehnologija. Reference: 8t-bozJTkXu7phdRhQPDw7avlh3NXMKKRPZyqHwVkolGq9Pj9zr9bHUYJRKvZBUc Šta očekujemo od tebe? VI ili VII-1 stepen stručne spreme, mašinskog, IT ili drugog odgovarajućeg tehničkog usmerenja. Najmanje dve godine radnog iskustva na istim ili sličnim poslovima. Poznavanje MS Office paketa. Znanje engleskog i/ili nemačkog jezika. Vozačku dozvolu B kategorije i aktivno vozačko iskustvo. Analitičnost, preciznost i dobru organizaciju rada. Proaktivnost, pozitivan stav i spremnost za učenje i saradnju. Šta ti nudimo? Mogućnost profesionalnog razvoja kroz stručne treninge u inostranstvu, online edukacije i obuke na lokaciji sa stranim predavačima. Dodatne benefite u skladu sa poslovnom politikom poslodavca. Rad u stručnom i dinamičnom okruženju, uz priliku za primenu i unapređenje znanja iz oblasti savremenih tehnologija i poljoprivredne mehanizacije. Zainteresovan/a si? Ako želiš da spojiš svoje tehničko znanje sa tehnologijama koje unapređuju savremenu poljoprivredu, pošalji nam svoju prijavu i postani deo našeg tima! Prijavljivanjem na oglas dajete saglasnost za čuvanje i obradu Vaših podataka u bazi poslodavca u periodu od 12 meseci, isključivo u svrhu selekcije kandidata. Zahvaljujemo svim kandidatima na iskazanom interesovanju. Kontaktiraćemo kandidate koji uđu u uži izbor. Almex d.o.o. Želite da gradite svoju karijeru u okviru afirmisanog sistema, gde se neguje pozitivna atmosfera i kolegijalni odnosi, a znanje i iskustvo rado dele i predlozi otvoreno komuniciraju? Uvek tražimo kvalifikovane, kreativne istomišljenike da nam se pridruže i da uživamo u našem timskom radu i promovišemo vrednosti naše kompanije. Postojimo više od 3 decenije. Jedan smo od lidera u poljoprivrednoj proizvodnji, kao i ekskluzivni zastupnik, distributer i serviser više svetskih proizvođača… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti"
+  },
+  {
+   "source": "infostud",
+   "id": "762944",
+   "title": "Tehničar za informacione sisteme",
+   "company": "Jugoprevoz Kruševac d.o.o.",
+   "location": "Kruševac",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-20",
+   "expires": "04.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/tehnicar-za-informacione-sisteme/jugoprevoz-krusevac-doo/762944",
+   "summary": "Tehničar za informacione sisteme je zadužen za uspostavljanje i održavanje računarske infrastrukture i softverskih rešenja kako bi se obezbedilo pouzdano poslovanje. Kandidat će pružati tehničku podršku, otklanjati kvarove i realizovati terenske zahteve radi neprekidnog rada opreme.",
+   "matched": [
+    "it tehnicar",
+    "tehnicka podrska",
+    "racunari"
+   ],
+   "first_seen": "2026-10-20T12:49:08+00:00",
+   "details": "O poslodavcu ''Jugoprevoz Kruševac'' d.o.o. Kruševac raspisuje oglas za prijem u radni odnos na poziciji: Tehničar za informacione sisteme Opis posla: Asistiranje pri uvođenju i postavljanju računarske infrastrukture Tehnička podrška pri implementaciji i održavanju novog softverskog sistema Terenska i kancelarijska realizacija tehničkih zahteva i povezivanje opreme Otklanjanje tekućih hardverskih i softverskih zastoja Reference: bhWayjhYex3R8COdGivOFMAXsUiRclvAT6VhKq2ZYBzSANJLlnlqRtVNr9FDQu-A Uslovi: IV stepen stručne spreme (smer: elektrotehničar računara, informacionih tehnologija ili automatike) Dobro poznavanje operativnih sistema, računarskih mreža i hardvera Odgovornost, ažurnost i spremnost za rad u timu Nudimo: Stabilno zaposlenje u renomiranoj kompaniji Mogućnost stručnog usavršavanja i napredovanja Rad u profesionalnom okruženju. Zainteresovani kandidati šalju svoju biografiju (CV) elektronskim putem. Jugoprevoz Kruševac a.d. Jug Bogdanova bb, Kruševac, Srbija PIB: 100477562 Matični broj: 07292660 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Kruševac IT IT Technician Tehničar za informacione sisteme Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "762981",
+   "title": "Tehničar za podršku",
+   "company": "Omladinska zadruga Grof",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-20",
+   "expires": "19.11.2026",
+   "salary": "neto 5 EUR (satnica) ",
+   "url": "https://poslovi.infostud.com/posao/tehnicar-za-podrsku/omladinska-zadruga-grof/762981",
+   "summary": "Ova pozicija obezbeđuje tehničku podršku za razvoj i serijsku proizvodnju kroz pripremu prototipova, testiranje i vođenje proizvodne dokumentacije. Kandidat će doprinositi timskim projektima i pružati podršku pri pokretanju proizvodnje kako iz Beograda tako i na licu mesta u fabrici.",
+   "matched": [
+    "it tehnicar",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-20T12:49:08+00:00",
+   "details": "O poslodavcu Omladinskoj zadruzi Grof potreban omladinac za posao tehničara za podršku za firmu na Zvezdari. Angažovanje je na duži vremenski period. Opis posla: Podrška inženjerima i inženjerskim zadacima, obavljanje zadataka kao što su priprema, montaža prototipova i štampanih ploča, testiranje proizvoda, rad na testiranju i poboljšanju proizvodnog softvera i hardvera, rad na zadacima povezanim sa proizvodnom dokumentacijom Tehnička podrška Podrška razvoju novih projekata se obavlja u saradnji sa timom u Beogradu, Nemačkoj i Dongguan u Kini, kao i sa eksternim partnerima Društva Davanje podrške za početak proizvodnje fabrici u Kini, kako iz Beograda, tako i na licu mesta u fabrici u Dongguanu Davanje podrške za početak proizvodnje fabrici na (novoj) lokaciji u Srbiji, kako iz Beograda, tako i na licu mesta u fabrici u Srbiji. Reference: p_wrYBnEThcF4HZWu8QJGPzg8KKieU0WQkps9BSg2eB06xyjSGUaifIXgdfjYHmW Cena sata je 5,00 evra. Isplate su na mesečnom nivou. Zainteresovani omladinci mogu se prijaviti elektronskim putem ili putem telefona u dnu oglasa. Studentsko-omladinske zadruge mogu angažovati isključivo lica koja nisu mlađa od 15 godina ni starija od 30 godina na osnovu Zakona o zadrugama (član 23). Ostale prijave neće biti uzete u razmatranje. Omladinska zadruga Grof Stevana Brakusa 6 11 030, Beograd, Srbija PIB: 101993702 Matični broj: 07508085 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician Tehničar za podršku Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "762918",
+   "title": "Trainee Functional Consultant MES",
+   "company": "Enabl3",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prodaja / konsultanti"
+   ],
+   "posted": "2026-10-20",
+   "expires": "19.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/trainee-functional-consultant-mes/enabl3/762918",
+   "summary": "The Trainee Functional Consultant MES will learn and support digitization of shop floor processes in life sciences by participating in workshops, process design and pilot deliveries. The role exists to build consultancy capability through intensive training and hands on project work that enables successful global digital transformations.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-20T12:49:08+00:00",
+   "details": "O poslodavcu About Us ENABL3 DOO is a fast-growing consultancy firm that specializes in digitizing shop-floor processes in the pharmaceutical industry. We are currently seeking ambitious individuals who are either experienced MES (Manufacturing Execution Systems) consultants or interested in becoming one. As we expand globally, we are looking for driven candidates to help deliver strategic digital transformation initiatives worldwide. As a Trainee Functional Consultant MES you will be part of the team that is working closely with our clients to understand their needs and guide them through their digital transformation journey. Comprehensive, in-depth and intensive training will be provided to you at the beginning of your engagement, to prepare you for success in the Life Sciences industry. Key Responsibilities Work closely with your team in facilitating workshops to gain a thorough understanding of client-specific requirements, processes and organization. Provide support during detailed process analysis, designing systems and processes, and configuring them accordingly. Develop, in conjunction with your team, pilot use cases and conduct demo presentations to showcase proof of concept. A proactive commitment to learning and mastering MES functionalities, consistently completing tasks on time and contributing effectively to project communication and collaboration. Reference: rghYbdXWKWy9Ck0aAXcizeSEcZDt2zXW87muUanuXAXTpE6IlquN-Vfw28Tp7DA9 Qualification, Background, and Expertise We are looking for candidates with: Bachelor’s or master’s degree completed in a STEM field (Science, Technology, Engineering, or Mathematics), Business or Pharmaceutical Sciences. Excellent command of English (written and spoken); proficiency in other languages, particularly German, is highly desirable. No previous work experience is required. Note: As part of our selection process, shortlisted candidates complete an online assessment of logical reasoning and problem-solving skills. What We Offer High-impact projects with global reach. A fast-growing environment with opportunities for professional growth. Competitive compensation and benefits. Paid 8-week training to ensure a smooth start and build your expertise. Full-time position (40h/week) with a permanent contract, including 6-month probation period. Private health insurance for you and your family members, offering one of the most competitive full-coverage policies on the market. FitPass membership or personal trainer access at select locations. Paid meals on in-office workdays. Hybrid work model. Paid business travel to client sites worldwide. Ready to launch your career in MES consulting? If you are driven to learn and grow and meet our requirements - apply and take the first step toward a successful future in this dynamic field. Enabl3 DUNAVSKI KEJ 48 SPRAT: 4B PIB: 112302731 Matični broj: 21645605 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Consultant for Business Software Trainee Functional Consultant MES Blog O"
+  },
   {
    "source": "infostud",
    "id": "761491",
@@ -848,7 +1043,7 @@
    "expires": null,
    "salary": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuODMuMzguNTA= when applying to show you read the job post completely",
+   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RNDguMjE3LjIyOC4yMTg= when applying to show you read the job post comple",
    "matched": [
     "remoteok"
    ],
@@ -1153,33 +1348,6 @@
    ],
    "first_seen": "2026-10-19T14:48:41+00:00",
    "details": "O poslodavcu Zaduženja: sklapanje računarskih konfiguracija dijagnostika neispravnosti uređaja (hardverska i softverska) sklapanje hardvera i instalacija sistema trebovanje, praćenje i kontrola delova u skladu sa stanjem na lageru postavljanje instalacija za videonadzor, mrežne i ostale opreme terenski rad kao i daljinska podrška klijentima kvalitetno pružanje servisnih usluga u firmi i na terenu Reference: Cc9LpCJwRN-2N67wvH6VrITF2Jxy0EKv72esFmTHNQDEfouFxiA8xSAM9DsvMya3 Kvalifikacije: najmanje srednja stručna sprema odlično poznavanje hardvera i softvera, laptop i desktop računara poznavanje računarskih mreža i informacionih tehnologija poželjno je najmanje godinu dana radnog iskustva u servisiranju IT opreme, kao i u oblasti sistema tehničke zaštite pedantnost u radu komunikativnost i sposobnost za brzo rešavanje problema poznavanje rada na računaru - napredni nivo poželjno znanje engleskog jezika * OBAVEZNA vozačka dozvola B kategorije zbog rada na terenu. Elektronik Partner d.o.o. Elektronik Partner je privatna firma osnovana 2004. godine u Beogradu. Iako nam je zvanicna adresa sedista Dr Ivana Ribara 146 na Novom Beogradu, firma posluje na adresi Branka Pesica 2a u Zemunu. Pružamo i konsultantske usluge pravnim i fizičkim licima. Elektronik Partner integriše brojne informatičke segmente izmedju ostalog i : - Servis i prodaja računara i stampača - Implementacija VPN servisa putem sopstvene bežicne mreze - Konfigurisanje i održavanje servera (Microsoft I… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd Elektrotehnika Serviser Serviser laptop i PC računara Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
-  },
-  {
-   "source": "helloworld",
-   "id": "762620",
-   "title": "C# Game Developer",
-   "company": "IGT D&B d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "c",
-    "c",
-    "oop",
-    "2d",
-    "3d",
-    "unity"
-   ],
-   "posted": "2026-10-19",
-   "expires": "18.11.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/csharp-Game-Developer/IGT-DB-d.o.o/762620",
-   "summary": "IGT D&B d.o.o. 3.7 Beograd 18.11.2026. C# C OOP 2D 3D Unity Intermediate <button class=\"btn-icon btn-icon-primary btn-icon-md border-0 __store-post-login-action\"",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "C# Game Developer C# Game Developer IGT D&B d.o.o. 3.7 Beograd 18.11.2026. C# C OOP 2D 3D Unity intermediate IGT , where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences —powered by world‑class content , strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. With a team of over 6,000 employees across 30+ countries and products delivered in more than 100 jurisdictions worldwide , we operate at scale while staying closely connected to customers we serve. If you’re ready to bring your talent to a team shaping the future of entertainment, your next big move starts here - www.igt.com . C# Game Developer IGT ( www.igt.com ) is a global leader in gaming with 5$ billion revenue, 12000+ employee in more than 100 countries. IGT Belgrade branch provides gaming products for commercial casino markets, distributed government-sponsored markets, interactive (online) markets and sports betting markets. Our branch in Belgrade has 350+ employees and it’s located at Business Center Usce with team offices with great views. What you’ll do: You will be coding games for our slot machines that run-in casinos worldwide, in cooperation with Game designers, Graphic artists, Mathematicians and Test Engineers You will develop using existing frameworks with high emphasis on the visual presentation of the games Must-haves: Good knowledge of C# and Object-Oriented Programming Basic knowledge of 2D/3D graphic development You are a self-starter and can work independently Knowledge and experience in Unity Nice to have: Experience developing event-driven applications The way we work: One developer codes one game from beginning to end. Project duration for game development can be anywhere from 2 months (short) to 9 months (long). You will be working in a small development team cooperating with Game designers, Graphic artists, Mathematicians and Test Engineers, in a good working atmosphere. We offer: Very competitive salary Flexible working hours Private health insurance for you and your family Sick leave up to 30 days is paid 100% Udemy and Harvard Manage Mentor educational programs Hybrid model of working with well-connected office space in Business Centre Ušće Stable working environment with long term international projects Our Recruitment Process: We aim to reply to all applicants. Interview process consists of several stages, each one allowing us to get to know you better, professionally and technically. It is also an opportunity for you to gain a better understanding of our culture and the work we do here. The stages include: CV review On-line Interview with Talent Partner Technical interview for shortlisted candidates covering knowledge of OOP and C# Candidates who successfully complete this step are eligible to pass to the final round Usually, the whole process lasts few weeks – we’ll keep you updated on each stage! IGT is committed to fostering a diverse, equitable, and inclusive workplace that reflects the global communities and customers we serve. We strive to create an environment where all employees feel valued, respected, and empowered. IGT is an equal opportunity employer. We provide equal employment opportunities to all",
-   "first_seen": "2026-10-19T14:48:41+00:00"
   },
   {
    "source": "weworkremotely",
