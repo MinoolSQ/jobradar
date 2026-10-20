@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-20T12:49:08+00:00",
+ "generated_at": "2026-10-20T18:02:47+00:00",
  "window_days": 3,
  "cutoff": "2026-10-17",
  "count": 51,
- "new_count": 8,
+ "new_count": 0,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
@@ -24,7 +24,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 37,
+   "vraceno": 41,
    "strane": 2,
    "stop": "kraj"
   },
@@ -64,7 +64,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 13,
+   "vraceno": 12,
    "strane": 1,
    "stop": "kraj"
   },
@@ -104,17 +104,17 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 40,
+   "vraceno": 42,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 28,
+   "vraceno": 29,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 75,
+   "vraceno": 77,
    "strane": 3,
    "stop": "kraj"
   },
@@ -134,7 +134,7 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 130,
+   "vraceno": 129,
    "strane": 5,
    "stop": "kraj"
   },
@@ -154,7 +154,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 114,
+   "vraceno": 120,
    "strane": 4,
    "stop": "kraj"
   }
@@ -1043,7 +1043,7 @@
    "expires": null,
    "salary": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RNDguMjE3LjIyOC4yMTg= when applying to show you read the job post comple",
+   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuODQuMjQ2LjI5 when applying to show you read the job post completely",
    "matched": [
     "remoteok"
    ],
