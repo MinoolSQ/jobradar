@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-20T18:02:47+00:00",
+ "generated_at": "2026-10-20T22:27:18+00:00",
  "window_days": 3,
  "cutoff": "2026-10-17",
- "count": 51,
- "new_count": 0,
+ "count": 53,
+ "new_count": 2,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
@@ -24,7 +24,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 41,
+   "vraceno": 42,
    "strane": 2,
    "stop": "kraj"
   },
@@ -89,7 +89,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 12,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
@@ -99,7 +99,7 @@
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -109,12 +109,12 @@
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 29,
+   "vraceno": 30,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 77,
+   "vraceno": 78,
    "strane": 3,
    "stop": "kraj"
   },
@@ -144,7 +144,7 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
@@ -154,12 +154,58 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 120,
-   "strane": 4,
+   "vraceno": 121,
+   "strane": 5,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "762974",
+   "title": "Koordinator sistem administracije",
+   "company": "Effecta Solutions",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-21",
+   "expires": "20.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/koordinator-sistem-administracije/effecta-solutions/762974",
+   "summary": "Pozicija je usmerena na koordinaciju tima sistem administracije kako bi se tehnički zahtevi evidentirali i rešavali pravovremeno. Kandidat će optimizovati raspodelu zadataka, pratiti realizaciju i otklanjati zastoje radi održavanja dogovorenog nivoa usluge.",
+   "matched": [
+    "linux",
+    "sistem administrator",
+    "administrator",
+    "mrezni"
+   ],
+   "first_seen": "2026-10-20T22:27:18+00:00",
+   "details": "O poslodavcu Tražimo organizovanu, odgovornu i tehnički kompetentnu osobu koja će biti zadužena za koordinaciju svakodnevnih aktivnosti tima sistem administracije, upravljanje tehničkim zahtevima i praćenje njihove realizacije. Idealan kandidat poseduje iskustvo u oblasti IT infrastrukture i sistem administracije, uz izražene organizacione, analitičke i komunikacione sposobnosti. Ključne odgovornosti Prijem, analiza i evidentiranje tehničkih zahteva koji pristižu IT sektoru. Procena složenosti, hitnosti i prioriteta zahteva. Raspoređivanje zadataka članovima tima u skladu sa njihovim kompetencijama, raspoloživošću i trenutnim opterećenjem. Svakodnevna koordinacija aktivnosti sistem administratora i praćenje realizacije dodeljenih zadataka. Kontrola poštovanja definisanih rokova i dogovorenog nivoa kvaliteta usluge. Praćenje statusa otvorenih zahteva, identifikovanje zastoja i iniciranje aktivnosti za njihovo otklanjanje. Koordinacija komunikacije između IT tima, drugih organizacionih jedinica, klijenata i eksternih saradnika. Eskalacija složenih ili kritičnih tehničkih problema odgovarajućim članovima tima ili rukovodstvu. Samostalno rešavanje jednostavnijih sistem administracionih zadataka, po potrebi. Vođenje evidencije o zahtevima, radnim zadacima i realizovanim aktivnostima. Predlaganje i sprovođenje unapređenja internih procedura i organizacije rada. Pisanje tehničke dokumentacije. Reference: VrsVsbyzq9DAYNOMEx-XMk_drwr1R_yi07j0HoemI9SnHCynvJ26FTO0B35zfT_l Potrebne kvalifikacije Minimum 3 godine radnog iskustva u oblasti IT infrastrukture, sistem administracije ili tehničke IT podrške. Dobro razumevanje serverskih sistema, mrežne infrastrukture i osnovnih principa sistem administracije. Poznavanje Linux okruženja. Razumevanje procesa održavanja IT infrastrukture, rešavanja incidenata i obrade tehničkih zahteva. Sposobnost procene složenosti tehničkih zadataka i njihovog pravilnog raspoređivanja. Izražene organizacione sposobnosti i sposobnost upravljanja prioritetima. Odlične komunikacione veštine i sposobnost koordinacije rada više članova tima. Samostalnost, odgovornost i proaktivan pristup rešavanju problema. Napomena: Predviđeno je da se rad obavlja u poslovnim prostorijama kompanije. Effecta Solutions Effecta Solutions je savremena i efikasna kompanija čija je osnovna delatnost razvoj informacionih tehnologija. Osnovana 2007. godine, Effectu Solutions čini tim entuzijasta koji iza sebe imaju dugogodišnja iskustva iz IT oblasti, stručnih da svojim klijentima ponudi kompletna IT rešanja koja im na efikasan, brz i lak način mogu pomoći da unaprede svoja poslovanja. Svesni stalnih promena na tržištu koja se dešavaju, a čiji smo i sami deo, kreiramo kompletna IT rešenja koja se ne odnose samo na… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator Koordinator sistem administracije Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajt"
+  },
+  {
+   "source": "helloworld",
+   "id": "762916",
+   "title": "Functional Consultant MES",
+   "company": "Enabl3",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-10-20",
+   "expires": "08.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Functional-Consultant-MES/Enabl3/762916",
+   "summary": "Enabl3 Beograd | Hibrid 08.11.2026. Intermediate global.searchSelectItemEvents = {\"761491\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_761491\",\"item_name\":\"Backend Engineer (Python)\",\"item_index\":0,\"item_brand\":\"MDPI AG\",\"item_category\":\"Backend developer\",\"item_category2\":\"Programiranje\",\"item_category3\":\"senior\",\"item_category4\":\"Premium\",\"item_category5\":\"office\",\"item_variant\"",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Functional Consultant MES 10 izvršilaca Functional Consultant MES Enabl3 Beograd | Hibrid Beograd: Dunavski kej 48, Stari Grad 08.11.2026. intermediate About Us ENABL3 DOO is a fast-growing consultancy firm that specializes in digitizing shop-floor processes in the pharmaceutical industry. We are currently seeking ambitious individuals who are either experienced MES (Manufacturing Execution Systems) consultants or interested in becoming one. As we expand globally, we are looking for driven candidates to help deliver strategic digital transformation initiatives worldwide. As a Functional Consultant MES you will work closely with our clients to understand their needs and guide them through their digital transformation journey. You will collaborate with cross-functional teams, lead workshops, and ensure successful project delivery aligned with client goals. Comprehensive, in-depth and intensive training will be provided to you at the beginning of your engagement, to prepare you for success in the Life Sciences industry. Key responsibilities Lead and facilitate client workshops to gain a thorough understanding of client-specific requirements, processes, and organization. Conduct detailed process analysis, design systems and processes, and configure them accordingly. Develop pilot use cases and deliver demo presentations to showcase proof of concept. Train customers on the solutions provided to ensure full understanding and effective use of the implemented systems. Qualification, Background, and Expertise We are looking for candidates with: Excellent command of English (written and spoken); proficiency in other languages, particularly German, is highly desirable. 3+ years of experience in one or more of the following categories: A: Industry Experience You have worked in one of these industries: Pharmaceutical Manufacturing, Chemical Industry and Technology Manufacturing and are familiar with the processes in one or more Departments such as Production, Quality Control, Quality Assurance, Logistics, Planning & Scheduling, Supply Chain, Maintenance, Inventory. B: Consulting Experience You have worked as consultant or business analyst with manufacturing clients. C: Solution Design Experience You have experience in creating solutions for IT, business, or manufacturing processes solutions in consulting companies. Note: As part of our selection process, shortlisted candidates complete an online assessment of logical reasoning and problem-solving skills. What We Offer High-impact projects with global reach. A fast-growing environment with opportunities for professional growth. Competitive compensation and benefits. Paid 8-week training to ensure a smooth start and build your expertise. Full-time position (40h/week) with a permanent contract, including 6-month probation period. Private health insurance for you and your family members, offering one of the most competitive full-coverage policies on the market. FitPass membership or personal trainer access at select locations. Paid meals on in-office workdays. Hybrid work model. Paid business travel to client sites worldwide. Ready to shape the future of pharma manufacturing? Apply now and join a team that is driving innovation across the globe. Apply Here Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profil",
+   "first_seen": "2026-10-20T22:27:18+00:00"
+  },
   {
    "source": "infostud",
    "id": "763109",
@@ -1043,7 +1089,7 @@
    "expires": null,
    "salary": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMjAuODQuMjQ2LjI5 when applying to show you read the job post completely",
+   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMTM0LjMzLjc2LjE3OA== when applying to show you read the job post comple",
    "matched": [
     "remoteok"
    ],
