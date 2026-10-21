@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-20T22:27:18+00:00",
+ "generated_at": "2026-10-21T06:09:58+00:00",
  "window_days": 3,
- "cutoff": "2026-10-17",
- "count": 53,
- "new_count": 2,
+ "cutoff": "2026-10-18",
+ "count": 50,
+ "new_count": 0,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
@@ -54,7 +54,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 14,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
@@ -114,7 +114,7 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 78,
+   "vraceno": 76,
    "strane": 3,
    "stop": "kraj"
   },
@@ -129,12 +129,12 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 46,
+   "vraceno": 45,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 129,
+   "vraceno": 126,
    "strane": 5,
    "stop": "kraj"
   },
@@ -1089,7 +1089,7 @@
    "expires": null,
    "salary": null,
    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMTM0LjMzLjc2LjE3OA== when applying to show you read the job post comple",
+   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RMTM0LjMzLjc3LjIxNQ== when applying to show you read the job post comple",
    "matched": [
     "remoteok"
    ],
@@ -1488,84 +1488,6 @@
     "weworkremotely"
    ],
    "first_seen": "2026-10-18T12:07:35+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137540",
-   "title": "Technical Account Manager",
-   "company": "Yuno",
-   "location": "Brazil",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "exec",
-    "design",
-    "hr",
-    "python",
-    "technical",
-    "customer support",
-    "marketing",
-    "web dev",
-    "speech",
-    "javascript",
-    "finance",
-    "css"
-   ],
-   "posted": "2026-10-17",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-   "summary": "Remote, Brazil, Full Time, Individual Contributor, +3 years of experience Who We Are At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned experts from the payments and tech industries, our technology provides access to leading payment capabilities, enabling companies to engage customers confidently and maintain globa",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-18T12:07:35+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137538",
-   "title": "Software Engineer AI Coding Tasks",
-   "company": "Askable",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "dev",
-    "python",
-    "javascript",
-    "typescript",
-    "golang",
-    "java",
-    "c plus plus"
-   ],
-   "posted": "2026-10-17",
-   "expires": null,
-   "salary": "10000-10000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-   "summary": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, ",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-18T06:08:38+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-expel-senior-detection-response-engineer",
-   "title": "Senior Detection & Response Engineer",
-   "company": "Expel",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-17",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
-   "summary": "Headquarters: Remote You're the detection engineer people turn to when they ask \"what does Microsoft actually see here?\" Not the marketing-slide answer, the real map. Which product emits which telemetry, any anticipated ingestion lags, what table or API it lands in, which license tier gates it, how long it survives before it ages out, and where the documentation quietly disagrees with reality. Whe",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-17T11:41:03+00:00"
   }
  ]
 }
