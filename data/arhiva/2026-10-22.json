@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-22T18:03:37+00:00",
+ "generated_at": "2026-10-22T22:31:45+00:00",
  "window_days": 3,
  "cutoff": "2026-10-19",
  "count": 62,
- "new_count": 3,
+ "new_count": 0,
  "errors": [
   "infostud: pretrage it podrska, it support, racunari su napunile svih 6 strana, mozda ima jos"
  ],
@@ -64,7 +64,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 22,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
@@ -109,12 +109,12 @@
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 59,
+   "vraceno": 60,
    "strane": 2,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 137,
+   "vraceno": 139,
    "strane": 5,
    "stop": "kraj"
   },
@@ -129,7 +129,7 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 62,
+   "vraceno": 63,
    "strane": 3,
    "stop": "kraj"
   },
@@ -1499,7 +1499,7 @@
    "expires": "27.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-IT-Project-Manager/Silver-Bell-Group-d.o.o/761676",
-   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se RSP oglas",
+   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Senior RSP oglas",
    "matched": [
     "helloworld"
    ],
