@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-21T22:32:20+00:00",
+ "generated_at": "2026-10-22T06:13:52+00:00",
  "window_days": 3,
- "cutoff": "2026-10-18",
- "count": 58,
- "new_count": 1,
+ "cutoff": "2026-10-19",
+ "count": 56,
+ "new_count": 0,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
@@ -89,7 +89,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 17,
+   "vraceno": 18,
    "strane": 1,
    "stop": "kraj"
   },
@@ -104,17 +104,17 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 53,
+   "vraceno": 55,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 48,
+   "vraceno": 49,
    "strane": 2,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 112,
+   "vraceno": 113,
    "strane": 4,
    "stop": "kraj"
   },
@@ -124,17 +124,17 @@
    "stop": "limit"
   },
   "help desk": {
-   "vraceno": 6,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 55,
+   "vraceno": 56,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 154,
+   "vraceno": 153,
    "strane": 6,
    "stop": "kraj"
   },
@@ -1297,33 +1297,6 @@
    "first_seen": "2026-10-19T22:56:37+00:00"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1137544",
-   "title": "Senior Backend Engineer",
-   "company": "Rain",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "golang",
-    "finance",
-    "mobile",
-    "senior",
-    "medical",
-    "engineer",
-    "backend"
-   ],
-   "posted": "2026-10-18",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-   "summary": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta... Please mention the word **COVENANT** and tag RNC4xNTUuMjUyLjEyMA== when applying to show you read the job post comple",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-19T22:56:37+00:00"
-  },
-  {
    "source": "helloworld",
    "id": "761674",
    "title": "Senior Frontend Developer",
@@ -1697,25 +1670,6 @@
    ],
    "first_seen": "2026-10-19T06:23:04+00:00",
    "details": "O poslodavcu Opis pozicije Tražimo IT Service Desk Administratora koji će biti prva tačka kontakta za korisnike i pružati svakodnevnu tehničku podršku zaposlenima. Idealni kandidat poseduje dobre komunikacione veštine, analitički pristup rešavanju problema i želju za kontinuiranim učenjem. Odgovornosti Pružanje korisničke podrške putem e-maila, telefona i ticketing sistema. Rešavanje hardverskih i softverskih incidenata. Administracija korisničkih naloga i pristupnih prava. Instalacija i konfiguracija računara, laptopova, mobilnih uređaja i periferija. Podrška za Microsoft 365 okruženje. Kreiranje i ažuriranje tehničke dokumentacije. Saradnja sa sistem administratorima i eksternim partnerima. Praćenje i eskalacija složenijih incidenata. Reference: SCv5zWscDB0X6nCNzOphxQnJNVy4vmSAw-4Vvy6KaveBHjmrWPl8vgGnPgkKMBuT Potrebna znanja i iskustvo Minimum 2 godine iskustva u IT podršci ili Service Desk okruženju. Poznavanje Windows operativnih sistema. Iskustvo sa Active Directory administracijom. Poznavanje Microsoft 365 platforme. Osnovno poznavanje računarskih mreža (DNS, DHCP, TCP/IP, VPN). Iskustvo sa ticketing sistemima. Dobro poznavanje engleskog jezika. Prednost imaju kandidati sa iskustvom u: Administraciji Windows Server okruženja. Održavanju računarske i mrežne opreme. Microsoft 365 administraciji. PowerShell osnovama. Izradi i održavanju IT dokumentacije. Učešću u IT projektima i unapređenju IT usluga. Šta nudimo Stabilno poslovno okruženje. Rad na savremenim Microsoft tehnologijama. Mogućnost sertifikacije i profesionalnog razvoja. Konkurentna primanja. Mercury solution d.o.o. Srbija, Beograd, Sarajevska 62 PIB: 111413773 Matični broj: 21478369 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support IT Service Desk / Help Desk Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-planetscale-enterprise-support-engineer",
-   "title": "Enterprise Support Engineer",
-   "company": "PlanetScale",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-18",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
-   "summary": "Headquarters: Remote - NA, APAC, EMEA PlanetScale is growing rapidly and reinventing the database space. The PlanetScale platform offers both Postgres and Vitess clusters. Vitess, an open-source database clustering system for horizontal scaling of MySQL, enables businesses to efficiently handle large-scale data workloads — without sacrificing developer experience. Our customers entrust us with wha",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-18T12:07:35+00:00"
   }
  ]
 }
