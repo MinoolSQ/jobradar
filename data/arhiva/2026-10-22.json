@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-22T13:03:53+00:00",
+ "generated_at": "2026-10-22T18:03:37+00:00",
  "window_days": 3,
  "cutoff": "2026-10-19",
- "count": 59,
+ "count": 62,
  "new_count": 3,
  "errors": [
-  "infostud: pretrage it podrska, racunari su napunile svih 6 strana, mozda ima jos"
+  "infostud: pretrage it podrska, it support, racunari su napunile svih 6 strana, mozda ima jos"
  ],
  "infostud_queries": {
   "python": {
@@ -64,7 +64,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 20,
+   "vraceno": 22,
    "strane": 1,
    "stop": "kraj"
   },
@@ -89,7 +89,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 18,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
@@ -109,12 +109,12 @@
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 58,
+   "vraceno": 59,
    "strane": 2,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 134,
+   "vraceno": 137,
    "strane": 5,
    "stop": "kraj"
   },
@@ -124,7 +124,7 @@
    "stop": "limit"
   },
   "help desk": {
-   "vraceno": 5,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -134,9 +134,9 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 174,
+   "vraceno": 180,
    "strane": 6,
-   "stop": "kraj"
+   "stop": "limit"
   },
   "serviser": {
    "vraceno": 12,
@@ -160,6 +160,80 @@
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "763629",
+   "title": "Junior Game Tester",
+   "company": "Mebit d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "QA",
+    "Podrška"
+   ],
+   "posted": "2026-10-22",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-game-tester/mebit-doo/763629",
+   "summary": "Role ensures product quality by detecting and reporting game defects and monitoring system performance. The tester maintains product knowledge and facilitates internal communication to support creators and improve testing processes.",
+   "matched": [
+    "junior",
+    "it support"
+   ],
+   "first_seen": "2026-10-22T18:03:37+00:00",
+   "details": "O poslodavcu About Us: Mebit is a dynamic and customer-centric organization dedicated to providing exceptional support and solutions to our clients. We are currently seeking enthusiastic and detail-oriented Game Testers with a passion for gaming and strong analytical skills to join our team and help ensure the highest quality of our products. Job Description As a Game Tester at Mebit, you will be responsible for testing reported issues, monitoring system performance, and ensuring smooth communication between internal teams. Your primary responsibilities will include: Key Responsibilities: Reviewing games and making review report by following exact steps. Providing help for game creators in form of reports about errors and bugs that needs to be fixed. Making sure to provide accurate info with enough details and proper explanation. Maintaining a high level of product knowledge to effectively assist clients. Collaborating with team members and other departments in order to provide best possible service. Seeking opportunities to improve service processes and procedures. Constantly checking channels of communication to stay updated about new procedures. Reference: 59meDPNxYy3NJCGHmDZFhOKsSXu76FmQnbu9FW2hMwCemypVp1cDtaFRNJqcnIlr Qualifications: Advanced English language skills, both written and verbal, knowing terms and expressions in programming is a must. You are a team player opened for suggestions how to improve your work. Discipline and responsibility to follow strict testing patterns. Ability to adapt to evolving technologies and learn new software quickly. Excellent computer skills based on software, web, APIs, Chrome dev tools etc. Strong communication skills, you are able to share your knowledge and explain to others. Ability to work in a rotating 3-shift schedule, including evenings, overnight, weekends, and holidays. Desirable skills: IT-focused education: programming, software development, computer science. Previous experience at similar or software QA jobs. Deep understanding of Casino games and mechanics behind. Proficient with Google Suite (Drive, Spreadsheets, Docs), Slack, GitHub. Ability to think outside of the box. What We Offer: Competitive salary. Yearly bonus. Birthday gift. Private health insurance. Access to a wellbeing platform. Opportunity for career advancement within the company. Training and development programs. Work in a pleasant and dynamic environment at our modern office. Collaboration in an international team. Paid warm meals and a snack bar with beverages and snacks. One hour of break within an eight-hour workday. Access to a lounge room with recreational amenities. Regular team-building activities. How to Apply: If you are passionate about gaming, have a keen eye for detail, and enjoy finding and solving problems, we would love to hear from you. Please submit your resume and a cover letter explaining why you are the ideal candidate for the Game Tester position at Mebit through our online application portal below. *Please check your spam or junk mail folder to make sure you don't miss any of our emails. Mebit is an equal opportunity employer and values diversity in the workplace. We encourage candidates of all backgrounds to apply. Join our team and be a part of our company. Mebit D.O.O. We are a team of specialists, passionate about new technologies Our expertise spans the gambling industry, blockchain, cryptocurrency, and exceptional customer service. We thrive on staying at the forefront of these dynamic"
+  },
+  {
+   "source": "infostud",
+   "id": "763630",
+   "title": "Moderator & Customer Service Representative for a Video Livestreaming Platform",
+   "company": "Mebit d.o.o.",
+   "location": "Trstenik",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-22",
+   "expires": "27.10.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/moderator-customer-service-representative-for-a-video-livestreaming-platform/mebit-doo/763630",
+   "summary": "Pozicija je fokusirana na održavanje kvaliteta platforme kroz moderaciju strimova i efikasnu korisničku podršku. Kandidat će doprinositi sigurnosti i zadovoljstvu korisnika radeći u smenskom režimu i kolaboraciji sa ostalim timovima.",
+   "matched": [
+    "it podrska",
+    "help desk",
+    "it support",
+    "racunari"
+   ],
+   "first_seen": "2026-10-22T18:03:37+00:00",
+   "details": "O poslodavcu MEBIT d.o.o. širi svoj tim! Voliš da pratiš stream-ove i interesuje te gaming industrija? Imamo posao za tebe! Tražimo Moderatore/Support Agente sa ili bez iskustva koji će našim korisnicima pružati najkvalitetniju i najbržu uslugu. Osnovne informacije o poziciji: Moderacija strimova i pružanje korisničke podrške za korisnike platforme Saradnja sa ostalim timovima na usavršavanju servisa Rad u tri smene Reference: bmjQ_3LN0N_-GqS9fkp4HTnV23Sy3IeDdTgkgZk4lg_mjq4osx0CCGvrWoH6k0k6 Ti si naš idealan kandidat ako: Voliš da pratiš strimove i interesuje te gaming industrija Poseduješ odlično znanje engleskog jezika Poseduješ osnovno znanje rada na računaru Kolegijalan/na si i voliš da radiš u timu Veštine koje nisu neophodne ali bi ti pomogle u bržem prilagođavanju poslu: Brzo kucanje Poznavanje live streaming scene Poznavanje Google Suite programa (Docs, Spreadsheets), i Intercom-a Nudimo ti: Vanprosečnu početnu platu i česte bonuse Mogućnost napredovanja u okviru kompanije Obuke i treninge Rad u prijatnom i dinamičnom okruženju u našoj moderno opremljenoj zgradi u centru Trstenika Rad u internacionalnom timu Mogućnost biranja slobodnih dana Plaćeni topli obrok i snack bar sa pićem i grickalicama Sat vremena pauze u okviru osmočasovnog radnog vremena Korišćenje Lounge sobe sa sadržajima za odmor i rekreaciju Redovne Team Building aktivnosti Mebit D.O.O. We are a team of specialists, passionate about new technologies Our expertise spans the gambling industry, blockchain, cryptocurrency, and exceptional customer service. We thrive on staying at the forefront of these dynamic fields, dedicated to helping businesses succeed in this evolving landscape. Since our journey began in 2016, Mebit has been providing excellent customer service and technical support for prominent iGaming platforms. Our mission goes beyond merely addressing customers'… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Radnik Mebita od 1. februara 2022. godine! Trenutno Senior Support agent na Stake.us & Primedice platformama. Dinamična atmosfera i mogućnost napredovanja nisu kliše i šarena laža koju dobijate…\" Pročitajte celo iskustvo Beneficije Private health insurance Awards, bonuses, gifts Additional days off Wellness Team building Trainings, courses, conferences Food and drinks Relaxation space Work equipment provided Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Trstenik IT IT Help Desk / Support Moderator & Customer Service Representative for a Video Livestreaming Platform Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . S"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137551",
+   "title": "Senior Backend Engineer",
+   "company": "DuckDuckGo",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "backend",
+    "perl",
+    "golang",
+    "javascript",
+    "node"
+   ],
+   "posted": "2026-10-21",
+   "expires": null,
+   "salary": "190000-190000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+   "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and o",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-22T18:03:37+00:00"
+  },
   {
    "source": "infostud",
    "id": "763554",
