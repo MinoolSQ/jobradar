@@ -1,31 +1,31 @@
 {
- "generated_at": "2026-10-22T06:13:52+00:00",
+ "generated_at": "2026-10-22T13:03:53+00:00",
  "window_days": 3,
  "cutoff": "2026-10-19",
- "count": 56,
- "new_count": 0,
+ "count": 59,
+ "new_count": 3,
  "errors": [
-  "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
+  "infostud: pretrage it podrska, racunari su napunile svih 6 strana, mozda ima jos"
  ],
  "infostud_queries": {
   "python": {
-   "vraceno": 10,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 22,
+   "vraceno": 25,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 3,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 54,
-   "strane": 2,
+   "vraceno": 68,
+   "strane": 3,
    "stop": "kraj"
   },
   "etl": {
@@ -59,12 +59,12 @@
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 16,
+   "vraceno": 20,
    "strane": 1,
    "stop": "kraj"
   },
@@ -84,7 +84,7 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -99,23 +99,23 @@
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 55,
-   "strane": 2,
+   "vraceno": 61,
+   "strane": 3,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 49,
+   "vraceno": 58,
    "strane": 2,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 113,
-   "strane": 4,
+   "vraceno": 134,
+   "strane": 5,
    "stop": "kraj"
   },
   "it podrska": {
@@ -129,17 +129,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 56,
-   "strane": 2,
+   "vraceno": 62,
+   "strane": 3,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 153,
+   "vraceno": 174,
    "strane": 6,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 9,
+   "vraceno": 12,
    "strane": 1,
    "stop": "kraj"
   },
@@ -149,17 +149,104 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 153,
+   "vraceno": 180,
    "strane": 6,
-   "stop": "kraj"
+   "stop": "limit"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "763554",
+   "title": "Concept Artist",
+   "company": "IGT D&B d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "UX Dizajn",
+    "Adobe"
+   ],
+   "posted": "2026-10-22",
+   "expires": "21.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/concept-artist/igt-d-b-doo/763554",
+   "summary": "Senior Concept Artist role exists to establish compelling visual directions and deliver production ready concept art that guides game development. The role focuses on ensuring visual quality and technical feasibility while collaborating across design programming and production to translate ideas into usable assets.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-22T13:03:53+00:00",
+   "details": "O poslodavcu Location: Belgrade, RS, 11000 Requisition ID: 19324 IGT, where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences—powered by world‑class content, strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. With a team of over 6,000 employees across 30+ countries and products delivered in more than 100 jurisdictions worldwide, we operate at scale while staying closely connected to costumers we serve. If you’re ready to bring your talent to a team shaping the future of entertainment, your next big move starts here - www.igt.com. Overview Hiring location: Serbia,Belgrade Employment type: Full-time position through employment contract. Requirement: Candidates must be fully eligible to work full-time under a local employment contract in Serbia Work setup: Hybrid, connected to the local office in Belgrade Reference: VPaknmQwi4JYV1BmuUm73KMSu6yBeu4r-HbHJiNvdRpwLi6vvWerGC3gW0AsbdWY At IGT, we design and build casino games played by millions of players worldwide. For our Two rivers studio we’re searching for talented Senior Concept Artists based in Belgrade who are passionate about creating and improving art production pipelines. What You Will Do Work closely with Producers, Game Designers, and the Art Team to define and develop the visual direction for new game concepts. Create high-quality concept art for characters, environments, props, symbols, UI elements, and other visual assets for new game titles. Explore multiple visual directions through sketches, thumbnails, mood boards, and visual research. Produce polished concept illustrations that serve as visual guides for production artists throughout the development process. Design concepts with animation, gameplay, and technical implementation in mind, ensuring assets are both visually compelling and production ready. Collaborate with artists, designers, developers, and product managers to iterate visual ideas, incorporate feedback, and ensure designs align with artistic, technical, and production requirements. Propose creative and practical solutions for game assets while working within established artistic, technical, and production guidelines. Help maintain a consistent visual style and high artistic quality across all game assets. Must-Haves Excellent knowledge of Adobe Creative Suite (Photoshop, Illustrator, and After Effects). Strong concept art portfolio demonstrates visual development, ideation, and creative problem-solving skills. Excellent drawing, composition, color, lighting, anatomy, perspective, and visual storytelling skills. Strong understanding of game art production pipelines and technical constraints. Ability to work independently while taking ownership of visual solutions. Passion for game development. Nice to have Good understanding of 2D animation principles and the ability to create or effectively communicate animation concepts. Experience in game development. Experience working with Unity or other game engines. Knowledge of Blender, Maya, or other 3D software to support concept development. Experience creating storyboards, motion studies, or simple 2D animations. Experience working across multiple visual styles. Familiarity "
+  },
+  {
+   "source": "infostud",
+   "id": "763539",
+   "title": "Platform Automation Engineer - Belgrade or Warsaw, hybrid",
+   "company": "IGT D&B d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "Git",
+    "Python",
+    "AWS",
+    "Windows",
+    "DevOps",
+    "PowerShell",
+    "Bash",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-22",
+   "expires": "21.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/platform-automation-engineer-belgrade-or-warsaw-hybrid/igt-d-b-doo/763539",
+   "summary": "Platform Automation Engineer role to design and improve automation and delivery capabilities that enable teams to build test deploy and operate casino products reliably. The successful candidate will remove manual steps increase developer productivity and maintain scalable infrastructure to improve delivery speed and operational stability.",
+   "matched": [
+    "python",
+    "data engineer",
+    "aws",
+    "data platform",
+    "devops",
+    "linux",
+    "administrator",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-10-22T13:03:53+00:00",
+   "details": "O poslodavcu Location: Belgrade, RS, 11000 Warsaw, PL Requisition ID: 19399 IGT, where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences—powered by world‑class content, strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. With a team of over 6,000 employees across 30+ countries and products delivered in more than 100 jurisdictions worldwide, we operate at scale while staying closely connected to customers we serve. If you’re ready to bring your talent to a team shaping the future of entertainment, your next big move starts here - www.igt.com . Position Overview IGT is seeking a Platform Automation Engineer to join our Casino Systems Platform Engineering team. This role is responsible for designing, implementing, supporting, and continuously improving the automation, infrastructure, and software delivery capabilities that enable engineering teams to build, test, deploy, and operate casino products efficiently and reliably. The ideal candidate is passionate about automation, cloud-native technologies, and developer productivity. You will work closely with software, QA, release, and platform engineering teams to eliminate manual processes, improve delivery workflows, and build scalable, repeatable solutions that enhance engineering efficiency and operational excellence. This position provides opportunities to gain hands-on experience with Kubernetes, Infrastructure as Code, GitOps, CI/CD platforms, and modern software delivery practices while contributing to the evolution of IGT's Platform Engineering capabilities. Responsibilities Build, maintain, and improve CI/CD pipelines using GitHub Actions, Jenkins, and Argo CD. Develop and support infrastructure automation using Terraform, Ansible, and Infrastructure as Code practices. Support Kubernetes-based application platforms and deployment environments. Contribute to platform engineering initiatives that improve developer productivity, self-service capabilities, automation, observability, and operational excellence. Troubleshoot infrastructure, platform, build, and deployment issues across development, test, and production environments. Support AWS and on-premises environments used throughout the software development lifecycle. Collaborate with development teams to improve software delivery workflows, deployment reliability, and developer experience. Create and maintain technical documentation, runbooks, and automation procedures. Participate in Agile development processes including sprint planning, standups, retrospectives, and continuous improvement activities. Reference: ILnEgEerbszbq20-UzNeBjaE4qQPFlmN-TeJ3Cmy7lZlg5mZYy5U8YvSbC6Ag8oO Required Qualifications 2-4 years of experience in Platform Engineering, DevOps, Cloud Engineering, Software Engineering, Data Engineering, Infrastructure Automation, or related technical roles. Experience working with Windows and Linux systems and troubleshooting technical issues. Experience with Git and modern source control practices. Experience with scripting and automation using Python, Bash, PowerShell, or similar technologies. Understanding of CI/CD concepts and software delivery practices. Understanding of con"
+  },
+  {
+   "source": "infostud",
+   "id": "763306",
+   "title": "SEO & Growth Marketing Specialist",
+   "company": "TelQ Telecom",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prodaja / konsultanti",
+    "UI",
+    "SEO"
+   ],
+   "posted": "2026-10-22",
+   "expires": "20.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/seo-growth-marketing-specialist/telq-telecom/763306",
+   "summary": "This role exists to drive acquisition and conversion for a new clickwrap product by owning the full marketing funnel with AI enabled workflows. The hired candidate will run SEO content, paid media, lifecycle automation and analytics to increase signups and improve activation.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-10-22T13:03:53+00:00",
+   "details": "O poslodavcu Now hiring / Belgrade · Hamburg / Posted October 2026 / Ref TLQ-DSGN-01 SEO & Growth Marketing Specialist Belgrade · Bul. M. Pupina 6 Full-time Hybrid Online interview About TelQ A small team building the SMS testing tool telecom teams actually trust, now looking for a marketer who runs with AI. TelQ Telecom is a globally recognized provider of SMS quality assurance services, founded in 2016. We help operators, aggregators, and platforms verify what really hits the handset — across 1,500+ live networks. We’re small but mighty — and still the first choice for the biggest players in the industry. Customers consistently praise us for the best UI and most reliable solution on the market. That’s where you come in. 180 + Countries covered 1,500 + Live mobile networks 25 + Team members 100 M+ SMS tests delivered 3× winner — Antonio Meucci Global Telco Awards 2024 Best Europe Provider · Revolutionary Contribution · Leading Female Telco Executive The role You'll own our new product ClickTerm — clickwrap software for capturing legally enforceable online consent. Every channel is yours to run, from SEO to paid to email, alongside our Lead Marketing Manager, with AI as your leverage across the full funnel. SEO Strategy, content, technical SEO and AI search Run keyword research, build a content plan tied to business goals, and write and edit blog posts, landing pages and product pages yourself. Optimize titles, meta descriptions, headings, URLs, image alt text and internal links. Run technical audits and fix page speed, mobile issues, crawlability, indexing and schema/structured data. Earn quality backlinks, build our presence on Reddit and niche communities, and get content cited in AI Overviews and AI assistants such as ChatGPT, Perplexity and Gemini. Improve layouts, copy and CTAs to turn more traffic into signups. Paid traffic Plan, launch and optimize paid campaigns Manage campaigns across Google Ads, Meta and LinkedIn, including search, display, social and retargeting. Run structured A/B tests on audiences, creatives and offers, and scale the winners. AI & Automation Build smarter workflows with AI Use AI across research, content, creative work, analysis and reporting. Build your own automations and workflows to reduce manual work using no-code tools such as n8n and Zapier, plus light scripting where needed. Analytics Own tracking, dashboards and performance reporting Set up and manage GA4, events, UTMs and conversion tracking. Build clear dashboards and report on channel performance to support data-driven decisions. Key requirements 3+ years in growth, digital or performance marketing Real hands-on experience across SEO, paid, content, social, email and CRO. SEO & CRO know-how On-page, technical and content SEO, plus improving pages to convert more traffic into signups. Paid media experience Ability to run and optimize Google, Meta and LinkedIn campaigns against CAC, ROAS and CPA. AI is already core to how you work Fluent use of AI for research, creation, editing, analysis and automation. Hands-on experience with tools such as Claude and ChatGPT. Strong written English Clear, simple copy that also translates well across markets. Startup-ready, owner mindset You ship fast, set your own priorities and don't wait for a brief. Reference: YVFPMPWDlb7WidYkRMZDndJF1anyXhpvqh5W6TkZGwmyPL78sxlnl0TxV2BEt2FM Benefits & perks Flexible hours & remote work options Flexibility to organize your work effectively. Premium health insurance Family c"
+  },
   {
    "source": "infostud",
    "id": "763402",
