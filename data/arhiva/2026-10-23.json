@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-23T06:08:22+00:00",
+ "generated_at": "2026-10-23T12:42:51+00:00",
  "window_days": 3,
  "cutoff": "2026-10-20",
- "count": 51,
- "new_count": 0,
+ "count": 53,
+ "new_count": 2,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
@@ -14,7 +14,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 19,
+   "vraceno": 20,
    "strane": 1,
    "stop": "kraj"
   },
@@ -24,8 +24,8 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 53,
-   "strane": 2,
+   "vraceno": 61,
+   "strane": 3,
    "stop": "kraj"
   },
   "etl": {
@@ -64,7 +64,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 22,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
@@ -104,18 +104,18 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 44,
+   "vraceno": 51,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 52,
+   "vraceno": 56,
    "strane": 2,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 118,
-   "strane": 4,
+   "vraceno": 134,
+   "strane": 5,
    "stop": "kraj"
   },
   "it podrska": {
@@ -129,12 +129,12 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 48,
+   "vraceno": 56,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 160,
+   "vraceno": 177,
    "strane": 6,
    "stop": "kraj"
   },
@@ -144,7 +144,7 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
@@ -154,12 +154,62 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 148,
-   "strane": 5,
+   "vraceno": 167,
+   "strane": 6,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "763745",
+   "title": "Infrastructure Engineer - Belgrade, hybrid",
+   "company": "IGT D&B d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "VPN",
+    "BGP",
+    "IPSEC",
+    "QoS",
+    "OSPF",
+    "HSRP",
+    "Sistemska administracija",
+    "IPS"
+   ],
+   "posted": "2026-10-23",
+   "expires": "22.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/infrastructure-engineer-belgrade-hybrid/igt-d-b-doo/763745",
+   "summary": "This role exists to deploy and support network infrastructure for SportsBetting clients ensuring stable secure production environments. The engineer will implement network features and security controls and collaborate across teams to monitor troubleshoot and optimize operational networks.",
+   "matched": [
+    "data engineer",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-23T12:42:51+00:00",
+   "details": "O poslodavcu Your growth matters. At IGT, we're building a culture where people Innovate with Purpose, Compete Intensely & Win, Lead with Heart, Make It Matter, and Create Value. Grow your career while helping shape what's next. Build what's next at IGT. Role Overview As an Infrastructure Engineer your involvement will begin from deploying network infrastructure for SportsBetting clients and continue with support and maintenance once system is in the production. You will be part of SportsBetting infrastructure team and throughout this process, you will closely collaborate with team members from various disciplines, including Database, Operations, Web, Mobile Apps and the Firstline Support team. Also, you will collaborate with our clients, partners and vendors on network infrastructure projects. Your team lead will be there to support you, provide training, and offer technical guidance. We believe in fostering a positive atmosphere, promoting teamwork, and valuing cooperation among all team members. We strongly emphasize personal development and continually invest in training, coaching, and career progression for our employees. We are dedicated to creating a professional environment that encourages growth, collaboration, and a balance between work and personal life. What You'll Do Deploy, manage and troubleshoot the operational state of a production data centers network infrastructure Implement new network-related features and services and optimize existing ones Configure and maintain networking monitoring and logging tools Implement security best practices, including access controls, firewalls, and intrusion detection/prevention systems Collaborate with teams worldwide to streamline processes and workflows Monitor and ensure compliance with operational standards and procedures Troubleshoot and address operational issues promptly Reference: _KklWSQ2u7PcPB3gA83xt-Oi9WR-wO7cZ1jprCCrrLZmArNcYORl-Xcvnyp9wg-Y About You Direct experience with complex networks for at least five years Hands-on experience with FortiGate firewalls including IPS/IDS, SDWAN and VPN technologies Good knowledge of LAN technologies and experience with network switching products from various vendors Deep understanding of networking protocols (e.g., IPSEC, HSRP, BGP, OSPF, 802.11, QoS) Hands-on experience with load balancer products and technologies Knowledge of CDN solutions Experience with network monitoring and logging tools, both enterprise and open source Strong troubleshooting, problem-solving and analytical abilities Ability to work independently and without constant supervision Strong problem-solving skills, attention to details and ability to manage multiple tasks simultaneously Adaptability to work in a fast-paced and dynamic sports betting environment What We'd Prefer Bachelor’s degree in Computer Science, Information Technology, or equivalent experience Industry certifications from networking vendors Passion for sports betting and a good understanding of industry trends Benefits and Culture Vibrant and stimulating work environment within Class-A office space. Opportunity to learn and further improve your skills. Opportunity to develop a career within a stable environment. Full-time/permanent employment and competitive salary. Private health insurance for you and your family. Flexible working hours including work from home and from office. #LI-TJ1 #LI-HYBRID Why join IGT? At IGT, our greatest competitive advantage is our people. We take ownership, work with ur"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-discord-qa-devops-engineer",
+   "title": "QA/DevOps Engineer",
+   "company": "Discord",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-23",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
+   "summary": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, a",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-23T12:42:51+00:00"
+  },
   {
    "source": "infostud",
    "id": "763629",
