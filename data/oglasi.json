@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-10-22T22:31:45+00:00",
+ "generated_at": "2026-10-23T06:08:22+00:00",
  "window_days": 3,
- "cutoff": "2026-10-19",
- "count": 62,
+ "cutoff": "2026-10-20",
+ "count": 51,
  "new_count": 0,
  "errors": [
-  "infostud: pretrage it podrska, it support, racunari su napunile svih 6 strana, mozda ima jos"
+  "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
  "infostud_queries": {
   "python": {
-   "vraceno": 11,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 25,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
@@ -24,8 +24,8 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 68,
-   "strane": 3,
+   "vraceno": 53,
+   "strane": 2,
    "stop": "kraj"
   },
   "etl": {
@@ -49,12 +49,12 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 5,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 16,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
@@ -64,7 +64,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 23,
+   "vraceno": 22,
    "strane": 1,
    "stop": "kraj"
   },
@@ -89,33 +89,33 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 19,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 7,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "linux": {
    "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
+  "linux": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "it tehnicar": {
-   "vraceno": 61,
-   "strane": 3,
+   "vraceno": 44,
+   "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 60,
+   "vraceno": 52,
    "strane": 2,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 139,
-   "strane": 5,
+   "vraceno": 118,
+   "strane": 4,
    "stop": "kraj"
   },
   "it podrska": {
@@ -124,39 +124,39 @@
    "stop": "limit"
   },
   "help desk": {
-   "vraceno": 6,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 63,
-   "strane": 3,
+   "vraceno": 48,
+   "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 180,
+   "vraceno": 160,
    "strane": 6,
-   "stop": "limit"
+   "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 12,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 7,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 3,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 180,
-   "strane": 6,
-   "stop": "limit"
+   "vraceno": 148,
+   "strane": 5,
+   "stop": "kraj"
   }
  },
  "jobs": [
@@ -1529,308 +1529,6 @@
    ],
    "details": "Regionalni sajam poslova",
    "first_seen": "2026-10-19T22:56:37+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "762561",
-   "title": "Data Scientist",
-   "company": "Yettel d.o.o.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "SQL",
-    "Python",
-    "Foundation",
-    "AI/ML"
-   ],
-   "posted": "2026-10-19",
-   "expires": "03.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/data-scientist/yettel-doo/762561",
-   "summary": "This role exists to design and build agentic AI systems and to carry models from research into reliable production services that operate on real telecommunications data. The successful candidate will improve model performance through training and evaluation and enable robust deployment by collaborating with engineers and domain experts.",
-   "matched": [
-    "python",
-    "data engineer",
-    "sql",
-    "data platform"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00",
-   "details": "O poslodavcu Are you excited by how LLMs and agentic AI are reshaping the way we build with data? We're looking for a data scientist who wants to work at the intersection of applied AI and telecommunications: designing agentic systems, training and fine-tuning models, and taking both from idea to production on a real platform with real users. You'll join a cross-functional team of data scientists, engineers, and domain experts, and you'll have the data, compute, and autonomy to do meaningful work and to help shape how we do it. What we will expect from you: 1) Build agentic AI systems Design and build multi-agent systems Own orchestration, observability, and evaluation so these systems are reliable, measurable, and improvable Work through the hard parts of LLM-driven software: prompt and tool design, latency and cost, and anticipating failure modes Reference: THAD2v03w3QXhYzCsluzGaml6v9H64DgMMdozO9uEPgu8yfFiuIqOfJKFWsGAIAD 2) Train and improve models Run full training and fine-tuning loops Curate and deduplicate training-scale datasets, and generate synthetic data to fill gaps Evaluate models and close the loop by feeding production signals back into the next training cycle 3) Take work to production Move models and systems from prototypes into reliable, maintained services Collaborate with data and ML engineers on the pipelines, evaluation, and monitoring that keep them running Help raise the bar on quality and share what you learn with the people around you For a good start you will need: Strong experience building ML or AI systems, with a track record of taking work into production A good grounding in classical machine learning and hands-on experience with LLMs A solid mathematical and statistical foundation, with fluency in Python and SQL, and the ML / data science ecosystem around them Clear communication, and the judgement to make good calls when problems are ambiguous Experience mentoring others or leading projects end to end Background in telecommunications or similarly large-scale, real-world data Business acumen and ability to communicate technical developments in business terms Why we think you should apply: Working in a dynamic and friendly environment which allows you to grow and develop Flexible working hours with the possibility of working remotely 25 days off per year Competitive salary and participation in the bonus reward system Health Package Mobile phone with unlimited internet and Family Yettel tariff package Recreation or health program In-house training and development programs Career development opportunities Please include your references in your CV, as a reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Odabrao sam Yettel kako bih se upoznao sa radom korporacije. Zanimalo me je kako funkcioniše komunikacija i rad u tako velikom sistemu. Najviše me je iznenadila posvećenost ljudi u timu da mi na…\" Pročitajte celo isku"
-  },
-  {
-   "source": "infostud",
-   "id": "762691",
-   "title": "GHL Funnel Builder (Website Designer - Automation Expert)",
-   "company": "Luna Vega Consulting Inc.",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "Podrška",
-    "CRM"
-   ],
-   "posted": "2026-10-19",
-   "expires": "03.11.2026",
-   "salary": "neto 800 - 2.000 USD (mesečno) ",
-   "url": "https://poslovi.infostud.com/posao/ghl-funnel-builder-website-designer-automation-expert/luna-vega-consulting-inc/762691",
-   "summary": "This part time specialist role ensures reliable high converting marketing funnels and automations using GoHighLevel to support digital product launches. The contractor will independently manage client accounts troubleshoot technical issues and maintain operational processes during European business hours.",
-   "matched": [
-    "administrator",
-    "help desk",
-    "it support"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00",
-   "details": "O poslodavcu Location: Remote: European Time Zone Type: Part-Time (15 to 20 Hours Per Week) Industry: Online Education, Coaching & Digital Products Experience: Advanced GoHighLevel Experience Required: Website Funnel Builds / Automations / Design About Us We're a fast-growing, founder-led online education company helping entrepreneurs build profitable digital businesses using AI, automation, and smart marketing systems. We're looking for an experienced GoHighLevel Expert to help manage our marketing funnels, automations, client accounts, and day-to-day operations. This is NOT an entry-level Virtual Assistant position. We need someone who knows GoHighLevel inside and out, is highly organized, and can execute tasks independently without constant supervision. Ideally, you've previously worked with an online coach, course creator, or information product business and understand how digital product funnels, memberships, and online launches work. Important Note on AI Use We embrace and actively use AI tools in our business. Smart technology is part of how we move fast and stay efficient. That said, we can spot generic AI-written application answers a mile away. If you plan to simply copy your answers from AI without adding your own thinking, this role is not for you. We're looking for someone who uses AI wisely—as a tool, not a crutch—and demonstrates sound judgment, attention to detail, and critical thinking. What You'll Do 1. GoHighLevel Funnels & Automations Build, edit, and maintain landing pages and sales funnels inside GoHighLevel. Set up forms, workflows, triggers, and automations. Manage CRM contacts, pipelines, and customer accounts. Set up and troubleshoot GHL subaccounts. Test funnels, checkout pages, and automations before launches. Identify and resolve technical issues independently. Reference: 2ea1J0I8xNds3saseheJwD7HiIke6tX00fYoHyikWvxl_gbOaKBhlPRYalpxrNTG 2. Client Management & Support Assist clients with setting up and troubleshooting their GHL funnels. Track client progress and update status sheets. Follow up with clients regarding outstanding tasks. Send weekly client status updates. Ensure client requests are completed accurately and on time. 3. Marketing & Sales Operations Set up and maintain checkout pages, upsells, and order bumps in SamCart. Assist with email campaigns and automations. Support product launches and promotional campaigns. Troubleshoot customer payment, subscription, and access issues. Assist with course and membership management inside Kajabi. 4. Administrative & Team Support Maintain accurate spreadsheets and customer records. Coordinate with our marketing and operations team. Provide regular progress updates. Identify opportunities to streamline and automate repetitive tasks. What We're Looking For Required Qualifications: Advanced GoHighLevel experience: You must have hands-on experience building funnels, landing pages, workflows, and automations. Strong technical skills: Comfortable troubleshooting issues and learning new software independently. Excellent English: Strong written and verbal communication skills. Highly organized: Able to manage multiple tasks, prioritize deadlines, and maintain accurate records. Detail-oriented: You double-check your work and catch errors before they become problems. Proactive problem solver: You take initiative rather than waiting for instructions. European business hours: Must be available to work during European daytime hours. Highly Preferred: Experience with SamCa"
-  },
-  {
-   "source": "infostud",
-   "id": "762883",
-   "title": "IT Security Engineer – Focus on SIEM & SOC",
-   "company": "STRABAG d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Sistemska administracija",
-    "Hardware",
-    "SoC",
-    "Cloud"
-   ],
-   "posted": "2026-10-19",
-   "expires": "18.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/it-security-engineer-focus-on-siem-soc/strabag-doo/762883",
-   "summary": "This role strengthens detection and response capabilities by developing and operating the SIEM environment and analyzing security data to detect incidents. The specialist will perform information security risk assessments and support security audits to reduce exposure across international IT systems.",
-   "matched": [
-    "data engineer",
-    "cloud"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00",
-   "details": "At STRABAG, around 89,000 people are working on progress at more than 2,400 locations worldwide. Uniqueness and individual strengths characterise both our projects and each of us as individuals. Whether it’s building construction, civil engineering, road construction, underground engineering, bridge building, tunnelling, construction material production, project development or building management – we are always one step ahead so that we can become the most innovative and sustainable construction technology company in Europe. Diversity, inclusion and equal opportunities are integral to who we are as a company and how we work. Our services company, STRABAG BRVZ, is responsible for all central commercial and IT activities within the Group. Together we work as partners to complete projects successfully and grow with new challenges. Together we achieve great things. Let’s progress! Description: Further development and operation of our SIEM solution, including the configuration, monitoring and optimization of dashboards, searches, alerts, use cases and reports Analyze substantial amounts of security data to identify potential security incidents, reduce their impact and provide recommendations to prevent future security breaches Carry out risk assessments and evaluate the information security of new products (hardware, software and services) as part of requirements and procurement processes Contribute to security audits and prepare audit reports and technical documentation Actively participate in the implementation of current IT security measures within the STRABAG Group Reference: xjTkAYvSEOJI0oFonfHSn62ZH2rbVNN-Go9hjjRA8lapZIoW1OX5QCIi2SbW7vdH Profile: Completed degree in Computer Science, Information Technology, Business Informatics or a comparable field, or an equivalent qualification At least 3 years of hands-on experience in a Security Operations Center (SOC), focusing on SIEM, security monitoring, incident detection and response Ability to understand network traffic and detect,monitor, and investigate potential security threats across network, remote, and cloud systems Experience with common security tools such as Microsoft Defender and SPLUNK Strong understanding of network traffic and common cyber threats such as malware, phishing and DDoS attacks, including the ability to detect and investigate potential security incidents Strong analytical and communication skills, with the ability to work independently and as part of an international team; good command of English and German Additional experience in the following areas is an advantage: Vulnerability assessments, penetration testing or ethical hacking Digital forensics, malware analysis or reverse engineering Implementation of IT security solutions in a project environment Offer: Make an impact on IT security and help protect a complex, international IT environment Shape and improve our SIEM environment and actively contribute your expertise and ideas Take ownership and contribute to security solutions used across the STRABAG Group Work in an international environment with IT security experts and colleagues across countries Broaden your security expertise across SIEM, incident response, risk assessments and security audits Receive a competitive salary reflecting your experience and professional expertise Diverse career opportunities Competitive compensation Health promotion Employee events Good transport connection Network eG Völklinger Str. 1, 40219 Düsseldorf, Nemačka Više o poslo"
-  },
-  {
-   "source": "infostud",
-   "id": "762556",
-   "title": "KICKSTART - Data Science B2B Specialist - intern",
-   "company": "Yettel d.o.o.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "SQL",
-    "Python",
-    "Programiranje",
-    "Flask"
-   ],
-   "posted": "2026-10-19",
-   "expires": "03.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/kickstart-data-science-b2b-specialist-intern/yettel-doo/762556",
-   "summary": "This internship sits at the intersection of data science and software engineering to build internal web applications and automation that directly support B2B sales workflows. The role focuses on producing production-ready Python tools and prototyping AI integrations to translate business rules into personalised customer offers.",
-   "matched": [
-    "python",
-    "data engineer",
-    "sql",
-    "it support"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00",
-   "details": "O poslodavcu We are looking for an intern who wants to work at the intersection of data science and software engineering, within the Commercial B2B division. The role involves building internal tools and web applications that support sales, as well as automation scripts for processes that rely on customer data. The stack is Python-based, with applications built on Flask and Django. You will also have room to follow what is happening in the AI space, from new models to agent frameworks, and to test how it could be applied in our tools. What we will expect from you: Contribute to the development and maintenance of internal web applications and tools (Flask/Django) Write automation scripts for data processing and preparation Design and implement recommendation logic that translates defined business rules into personalised offers and suggestions for customers Explore how LLMs can be used in internal tools and build prototypes Reference: qzRZeQEiF0z4SG7CxpAY_P1r-Ad9ubIRYSMdEiXQV-FE20fLV6JtNNX3hvzNXCAH For a good start you will need: Final-year student or recent graduate in computer science, mathematics, statistics, electrical engineering or a related field Knowledge of Python and its data libraries (pandas, NumPy) Experience in SQL and relational databases Basic knowledge in AI, including LLMs, machine learning and how they can be applied in practice Analytical mindset, ability to learn independently, and willingness to ask when something is unclear Why we think you should apply: Paid internship & career development opportunities Mobile phone and tariff package with unlimited internet Opportunity to participate in business decision making process of a large multinational company Working in a dynamic environment which allows you to freely express opinions, ideas and inspire new ways of doing things A unique and inspiring atmosphere full of talented people willing to share their professional knowledge Please include your references in your CV, as reference check is an integral part of our selection process. We hope to meet you soon! Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo e& PPF Telekom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i trenutno… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Odabrao sam Yettel kako bih se upoznao sa radom korporacije. Zanimalo me je kako funkcioniše komunikacija i rad u tako velikom sistemu. Najviše me je iznenadila posvećenost ljudi u timu da mi na…\" Pročitajte celo iskustvo Beneficije Edukacija, profesionalni razvoj Wellness Sport i rekreacija Dobrovoljno zdravstveno osiguranje Dodatni slobodni dani Fleksibilno radno vreme Nagrade, bonusi, pokloni Obezbeđena oprema za rad Porodica i roditeljstvo Obuke, konferencije Hrana i piće Otkup opreme Rad od kuće Društvena odgovornost Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, "
-  },
-  {
-   "source": "infostud",
-   "id": "762621",
-   "title": "Product Security Analyst",
-   "company": "IGT D&B d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    ".NET",
-    "Unix",
-    "Python",
-    "C",
-    "Programiranje",
-    "Cloud"
-   ],
-   "posted": "2026-10-19",
-   "expires": "18.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/product-security-analyst/igt-d-b-doo/762621",
-   "summary": "The Product Security Analyst assesses product security posture and guides remediation of vulnerabilities across customer-facing solutions. The role drives secure design by performing threat modeling, architecture reviews, and ensuring compliance with information security standards.",
-   "matched": [
-    "python",
-    "data engineer",
-    "cloud",
-    "it support"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00",
-   "details": "O poslodavcu IGT, where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences—powered by world‑class content, strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. With a team of over 6,000 employees across 30+ countries and products delivered in more than 100 jurisdictions worldwide, we operate at scale while staying closely connected to customers we serve. If you’re ready to bring your talent to a team shaping the future of entertainment, your next big move starts here - www.igt.com . Role Overview Product Security Analyst reports to the Director of Product Security in the Global Information Security team, supporting all product security architecture and transformation tasks. Product Security Analyst is responsible for reviewing IGT technology solutions, identifying potential security gaps, determining risk, and providing remediation guidance and documentation. Responsibilities Collaborate across all business units and review security architecture, requirements, diagrams, workflows, and recommend security related functions and enhancements for customer-facing products. Model threats and attack vectors and design security controls to mitigate risk, including managing SAST/SCA/ICS findings. Ensure project compliance to information security and industry related standards, policies, and procedures. Make recommendations to ISMS modification as needed. Make recommendations on confidentiality, integrity, and availability goals, as well as cryptography, proper authentication methods, network security, data storage and handling, and security of architectures and protocols planned to be used in a solution. Investigate and recommend security technologies for incorporation into the architecture of company products/services. Assists in the development of secure architecture and designs and provides training on security solutions. Works closely with IT Services on security aspects of Microsoft, UNIX-like, and mobile environments. Actively follow threat and attack landscape, new security architecture trends and solutions, and recommend implementation when and where applicable. Reference: PTwKMsWO6OnUpFFBgE7vdDvi4rDI0-JcJhClclFW5FafXXgDkILKzdLTDqLIeTe6 Qualifications Excellent communication, decision-making, and self-leadership skills. Programming background in writing or auditing Js, Python, Go, .Net, and/or the C family of languages. Ability to act independently and exercise good judgment as well as the ability to work cross-functionally. Experience and demonstration of knowledge on securing product space in one or more of cloud environments. Bachelor's degree with a technical / computer science/technology major or equivalent experience in a computer science or engineering field. Keys to Success Building collaborative relationships Decision making Drive results Foster innovation Personal energy Self-leadership IGT is committed to fostering a diverse, equitable, and inclusive workplace that reflects the global communities and customers we serve. We strive to create an environment where all employees feel valued, respected, and empowered. IGT is an equal opportunity employer. We provide equal employment opportuniti"
-  },
-  {
-   "source": "infostud",
-   "id": "762458",
-   "title": "Senior AI Engineer (LLM & Edge AI)",
-   "company": "TrustMotion",
-   "location": "Novi Sad, Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "Linux",
-    "Hardware",
-    "Embedded",
-    "LESS",
-    "AI/ML"
-   ],
-   "posted": "2026-10-19",
-   "expires": "18.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/senior-ai-engineer-llm-edge-ai/trustmotion/762458",
-   "summary": "The Senior AI Engineer develops and optimizes LLM and VLM solutions for deployment on embedded and edge platforms. The role delivers model fine tuning performance optimization and hardware integration to enable production ready AI on constrained devices.",
-   "matched": [
-    "linux",
-    "it support"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00",
-   "details": "O poslodavcu Join TrustMotion part of NXP TrustMotion part of NXP is looking for a Senior AI Engineer to join our growing team working on next-generation AI solutions for embedded platforms. The role focuses on the development, architecture, fine-tuning, optimization, and deployment of Large Language Models (LLMs) and Vision Language Models (VLMs), with a strong emphasis on bringing AI from concept to execution on hardware platforms. What You Will Do: Design, develop, and optimize AI solutions based on LLMs and VLMs Independently solve complex AI engineering problems and drive their implementation Contribute to the architecture and technical design of AI solutions Fine-tune models for specific use cases and domains Develop and maintain AI agents using modern agentic frameworks Design and develop MCP tools and integrate them into AI agent workflows Evaluate model performance, accuracy, latency, and resource utilization Deploy and optimize AI models on embedded and edge computing platforms Create proof-of-concepts and contribute to product development activities Provide technical guidance and support to less experienced team members Stay up to date with emerging AI technologies and industry trends Reference: wVFh25Zj-XlW-QwZUjvwn9QAnzXhvvh9vIb7ySlwW_iKuPSQ3r4BQc6sfKn55i8G What We Are Looking For: BSc or MSc in Computer Science, Electrical Engineering, Software Engineering, Artificial Intelligence, or a related field 4+ years of relevant professional experience Strong programming skills Good understanding of machine learning and deep learning fundamentals Hands-on experience with LLMs, VLMs, or other Generative AI systems Experience with model fine-tuning and evaluation techniques Experience using AI frameworks such as PyTorch, TensorFlow, Hugging Face, or similar Strong understanding of AI system design and software engineering best practices Experience with Agentic AI frameworks Experience with MCP tools and AI tool integration Understanding of version control systems and collaborative software development practices Nice to Have: Knowledge of model optimization and edge AI deployment Experience with Linux environments Experience working with multimodal AI systems Embedded systems experience, particularly in AI model deployment and performance optimization Experience mentoring or providing technical guidance to other engineers Why Join Us Work at the intersection of AI and embedded systems Develop solutions that run on real-world embedded hardware Work on challenging AI problems from architecture and development through deployment Continuous exposure to the latest industry trends, technologies, and best practices Opportunities to attend technical workshops, conferences, industry events, and go on project-related business travel what Can You Expect? Contract Type This role is offered as a full‑time position with providing long‑term stability and room for growth. Development Opportunities We believe that growing our people is key to growing our business. That’s why we offer a mix of online and offline learning opportunities to help you sharpen both your technical and soft skills. Hiring Process Applying is quick and easy – just fill out the online form and upload your CV. If your profile matches, you’ll have a short phone or video call with our technical team. If successful, you’ll get a chance to ask HR anything you need. We respond fast — unless we’re on vacation. What’s next If you’re excited about this opportunity, we kindly invite you "
-  },
-  {
-   "source": "infostud",
-   "id": "762623",
-   "title": "Senior QA Engineer",
-   "company": "Fiscal solutions d.o.o.",
-   "location": "Novi Sad",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    ".NET",
-    "C#",
-    "SQL",
-    "Git",
-    "Selenium",
-    "JSON",
-    "Azure",
-    "REST",
-    "JMeter",
-    "QA",
-    "qa",
-    "ERP",
-    "Cloud",
-    "LESS"
-   ],
-   "posted": "2026-10-19",
-   "expires": "03.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/senior-qa-engineer/fiscal-solutions-doo/762623",
-   "summary": "Ensure reliability and compliance of cloud based fiscalization solutions by validating API integrations backend services and end to end transaction flows. Drive test automation adoption and quality improvements by developing scalable frameworks integrating tests into CI CD pipelines and mentoring engineering teams.",
-   "matched": [
-    "data engineer",
-    "backend",
-    "sql",
-    "cloud",
-    "it support"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00",
-   "details": "O poslodavcu Ready to take your QA expertise to the next level and work on complex cloud-based solutions that support fiscalization for global retailers? Join Fiscal Solutions as a Senior QA Engineer Seniority: Senior Work location: Novi Sad – Onsite About Us – Fiscal Solutions Fiscal Solutions is an international IT company focused on cloud-based fiscalization software and consulting for legal compliance in over 50 countries. Our clients include Tier 1 global retailers such as IKEA, Metro, Hugo Boss, Desigual, Deichmann, JYSK, and many others. With over 70 employees across departments like Development, Sales, Legal, Marketing, Support, and more, we’re a growing and stable company with a strong focus on knowledge sharing, learning, and internal mobility. We collaborate with POS vendors, ERP integrators, and leading retailers to ensure fiscal compliance across complex legal environments. Your Responsibilities: Test cloud-based fiscalization middleware, with a primary focus on API integrations, backend services, and complete transaction scenarios. Design, develop, and maintain automated tests and scalable automation frameworks using C#/.NET and Playwright, Selenium, or similar tools. Test REST APIs and JSON payloads using Postman, Apidog, automated API tests, or similar solutions. Test applications and services hosted on Microsoft Azure, particularly Azure App Service and Azure Functions. Perform functional, integration, regression, performance, and load testing. Integrate automated tests into CI/CD pipelines and contribute to reliable software delivery. Identify, analyse, document, and report defects, as well as investigate failures using logs, API responses, monitoring tools, and database records. Improve QA procedures and introduce new testing practices and automation solutions based on clean, maintainable design principles. Mentor less experienced colleagues, review automated test code, and provide technical guidance. Collaborate with developers when resolving complex production issues and providing Level 3 technical support. Reference: H2uSDOCBixWTFUiHWsRdrGfwVdn2VthdsIoxz6y9tfX4JaDRczu7NnnxHmXdPYJb What We’re Looking For: 5+ years of QA experience, including at least 3 years of hands-on test automation experience. Strong experience developing automated tests using C# and .NET. Hands-on experience with Playwright, Selenium, or a similar UI automation framework. Strong experience testing REST APIs, JSON payloads, backend services, middleware, and integration-based systems. Experience testing cloud-hosted applications, preferably using Azure App Service and Azure Functions. Good understanding of CI/CD pipelines, Git workflows, test data management, mocking, SQL, and database validation. Experience with performance and load testing tools such as JMeter, k6, or similar. Ability to understand complex system architecture, investigate failures, take ownership of product quality, and mentor less experienced colleagues. Strong English communication skills and the ability to collaborate effectively with technical and business stakeholders. If You Are a Person Who: Thinks beyond individual test cases and understands how different parts of a system work together. Is interested in improving testing practices and finding better ways to identify potential issues. Approaches testing with attention to detail and a structured mindset. Enjoys investigating complex scenarios and understanding how systems behave. Is proactive in identifying potential ris"
-  },
-  {
-   "source": "infostud",
-   "id": "762743",
-   "title": "Serviser laptop i PC računara",
-   "company": "Elektronik Partner d.o.o.",
-   "location": "Beograd | Terenski rad",
-   "remote": false,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-19",
-   "expires": "03.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/serviser-laptop-i-pc-racunara/elektronik-partner-doo/762743",
-   "summary": "Tehničar za servis i instalaciju IT opreme odgovoran je za sklapanje, dijagnostiku i postavljanje mrežnih i hardverskih sistema kako bi obezbedio pouzdan rad opreme klijenata. Kandidat će pružati terensku i daljinsku podršku i upravljati zalihama delova.",
-   "matched": [
-    "it podrska",
-    "tehnicka podrska",
-    "serviser",
-    "mrezni",
-    "racunari"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00",
-   "details": "O poslodavcu Zaduženja: sklapanje računarskih konfiguracija dijagnostika neispravnosti uređaja (hardverska i softverska) sklapanje hardvera i instalacija sistema trebovanje, praćenje i kontrola delova u skladu sa stanjem na lageru postavljanje instalacija za videonadzor, mrežne i ostale opreme terenski rad kao i daljinska podrška klijentima kvalitetno pružanje servisnih usluga u firmi i na terenu Reference: T144NC6XvTfusen4GrobU4j74GySPovDb_MCQ1sUKne1MkADiq8EIv0xSxQriRmE Kvalifikacije: najmanje srednja stručna sprema odlično poznavanje hardvera i softvera, laptop i desktop računara poznavanje računarskih mreža i informacionih tehnologija poželjno je najmanje godinu dana radnog iskustva u servisiranju IT opreme, kao i u oblasti sistema tehničke zaštite pedantnost u radu komunikativnost i sposobnost za brzo rešavanje problema poznavanje rada na računaru - napredni nivo poželjno znanje engleskog jezika * OBAVEZNA vozačka dozvola B kategorije zbog rada na terenu. Elektronik Partner d.o.o. Elektronik Partner je privatna firma osnovana 2004. godine u Beogradu. Iako nam je zvanicna adresa sedista Dr Ivana Ribara 146 na Novom Beogradu, firma posluje na adresi Branka Pesica 2a u Zemunu. Pružamo i konsultantske usluge pravnim i fizičkim licima. Elektronik Partner integriše brojne informatičke segmente izmedju ostalog i : - Servis i prodaja računara i stampača - Implementacija VPN servisa putem sopstvene bežicne mreze - Konfigurisanje i održavanje servera (Microsoft I… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd Elektrotehnika Serviser Serviser laptop i PC računara Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-proxify-ab-senior-backend-developer-node-js-nest-js-4",
-   "title": "Senior Backend Developer (Node.js / Nest.js)",
-   "company": "Proxify AB",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-19",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
-   "summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Backend (Node.js / Nest.js) Developer to join our fast-growing network. You’ll be responsible for building modern and scalable web applications, working closely with backend developers and designers to create intuitive user experiences. This is a long-term, full-time remote role with opportunities to work on i",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-proxify-ab-senior-backend-developer-python-11",
-   "title": "Senior Backend Developer (Python)",
-   "company": "Proxify AB",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-19",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
-   "summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years of experience building products with Python and Django. High proficiency in SQL with experien",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-19T14:48:41+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "762351",
-   "title": "IT Service Desk / Help Desk Administrator",
-   "company": "Mercury solution d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Windows Server",
-    "Windows",
-    "VPN",
-    "PowerShell",
-    "Podrška",
-    "DNS",
-    "TCP/IP",
-    "Active Directory"
-   ],
-   "posted": "2026-10-19",
-   "expires": "18.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/it-service-desk-help-desk-administrator/mercury-solution-doo/762351",
-   "summary": "Pozicija IT Service Desk Administratora postoji da bude prva tačka kontakta i obezbedi svakodnevnu tehničku podršku zaposlenima kako bi poslovni procesi funkcionisali bez zastoja. Kandidat će brzo rešavati hardverske i softverske incidente i upravljati pristupima i Microsoft 365 okruženjem radi smanjenja prekida i poboljšanja korisničkog iskustva.",
-   "matched": [
-    "sistem administrator",
-    "administrator",
-    "it podrska",
-    "help desk",
-    "tehnicka podrska",
-    "it support",
-    "mrezni",
-    "windows",
-    "racunari"
-   ],
-   "first_seen": "2026-10-19T06:23:04+00:00",
-   "details": "O poslodavcu Opis pozicije Tražimo IT Service Desk Administratora koji će biti prva tačka kontakta za korisnike i pružati svakodnevnu tehničku podršku zaposlenima. Idealni kandidat poseduje dobre komunikacione veštine, analitički pristup rešavanju problema i želju za kontinuiranim učenjem. Odgovornosti Pružanje korisničke podrške putem e-maila, telefona i ticketing sistema. Rešavanje hardverskih i softverskih incidenata. Administracija korisničkih naloga i pristupnih prava. Instalacija i konfiguracija računara, laptopova, mobilnih uređaja i periferija. Podrška za Microsoft 365 okruženje. Kreiranje i ažuriranje tehničke dokumentacije. Saradnja sa sistem administratorima i eksternim partnerima. Praćenje i eskalacija složenijih incidenata. Reference: SCv5zWscDB0X6nCNzOphxQnJNVy4vmSAw-4Vvy6KaveBHjmrWPl8vgGnPgkKMBuT Potrebna znanja i iskustvo Minimum 2 godine iskustva u IT podršci ili Service Desk okruženju. Poznavanje Windows operativnih sistema. Iskustvo sa Active Directory administracijom. Poznavanje Microsoft 365 platforme. Osnovno poznavanje računarskih mreža (DNS, DHCP, TCP/IP, VPN). Iskustvo sa ticketing sistemima. Dobro poznavanje engleskog jezika. Prednost imaju kandidati sa iskustvom u: Administraciji Windows Server okruženja. Održavanju računarske i mrežne opreme. Microsoft 365 administraciji. PowerShell osnovama. Izradi i održavanju IT dokumentacije. Učešću u IT projektima i unapređenju IT usluga. Šta nudimo Stabilno poslovno okruženje. Rad na savremenim Microsoft tehnologijama. Mogućnost sertifikacije i profesionalnog razvoja. Konkurentna primanja. Mercury solution d.o.o. Srbija, Beograd, Sarajevska 62 PIB: 111413773 Matični broj: 21478369 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support IT Service Desk / Help Desk Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
   }
  ]
 }
