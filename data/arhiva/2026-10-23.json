@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-23T12:42:51+00:00",
+ "generated_at": "2026-10-23T17:54:46+00:00",
  "window_days": 3,
  "cutoff": "2026-10-20",
- "count": 53,
+ "count": 55,
  "new_count": 2,
  "errors": [
-  "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
+  "infostud: pretrage it podrska, it support su napunile svih 6 strana, mozda ima jos"
  ],
  "infostud_queries": {
   "python": {
@@ -104,7 +104,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 51,
+   "vraceno": 52,
    "strane": 2,
    "stop": "kraj"
   },
@@ -114,7 +114,7 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 134,
+   "vraceno": 139,
    "strane": 5,
    "stop": "kraj"
   },
@@ -134,9 +134,9 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 177,
+   "vraceno": 180,
    "strane": 6,
-   "stop": "kraj"
+   "stop": "limit"
   },
   "serviser": {
    "vraceno": 10,
@@ -154,12 +154,65 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 167,
+   "vraceno": 170,
    "strane": 6,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "763818",
+   "title": "IT - GA administrator",
+   "company": "Yura Corporation d.o.o.",
+   "location": "Rača",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-23",
+   "expires": "07.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-ga-administrator/yura-corporation-doo/763818",
+   "summary": "The IT Administrator ensures reliable operation and maintenance of network, server and endpoint systems to support production activities. The role's primary impact is sustaining IT infrastructure availability and compliance by managing networks, Windows servers, MES workstations, CCTV and IT inventory to enable uninterrupted manufacturing operations.",
+   "matched": [
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-23T17:54:46+00:00",
+   "details": "O poslodavcu YURA Corporation is one of the leading wiring harness suppliers for the automotive industry. We started our production in Serbia in 2010. Since then, we have opened four factories and hired more than 6,000 employees in Rača, Niš, and Leskovac. We are proud of our young and ambitious team. To support the continuous growth of our operations, we are looking for a motivated and skilled professional to join our IT department in Rača. IT Administrator Key Responsibilities: Administration and maintenance of network infrastructure, including Cisco and Mikrotik devices; Maintenance and troubleshooting of local area networks (LAN and Wi-Fi); Administration of Windows-based servers, workstations, storage systems, and client-side security solutions; Installation and configuration of MES agents on workstations, including integration with measuring instruments, scanners, and printers; Deployment and maintenance of relevant software packages across end-user devices; Monitoring, administration, and maintenance of video surveillance systems (CCTV); Coordination of procurement, inventory management, and tracking of IT and telecommunications equipment (e.g., computers, mobile devices, printers, consumables); Providing first-level IT support to internal users across departments; Maintenance of documentation and records related to CCTV systems, servers, active network devices, and access control infrastructure; Active involvement in responding to customer requests (e.g., generating reports) and supporting internal and external audit processes (IATF); Coordination of repairs and preventive maintenance, monitoring expenses and preparing reports. Reference: MafT1qZqZPuj0hmFBYOMEpHtorkg4F-Z10fNak_M0PQ0jjawxFhq6Iv4F8aA0VVk What do we expect: Technical education (University degree is a plus). Solid Cisco network equipment understanding. Advanced knowledge of Microsoft Windows system administration. Strong knowledge of Microsoft Office suite, Internet. Solid understanding of computer and server hardware. Conversational level of English (mandatory). Strong organizational and multitasking skills. Team player with a proactive and problem-solving approach. What We Offer: Work in a dynamic and positive team environment; Monthly performance-based bonuses; Opportunities for professional development and continuous learning. Your CV should be submitted in English. Yura Corporation doo Yura Corporation, a global automotive industry supplier of electrical and electronic components, is leading the development of core parts for eco-friendly cars. Yura Corporation specializes in designing, developing, and manufacturing automotive electronics including Wiring harness and ICUs. The company was established in 1993. and today, with a network of 22 corporations and 45 business sites in 16 countries, the company has solidified it’s position as a global specialist in the automotive… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Rača IT IT Administrator IT - GA administrator Blog O nama Česta pi"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137557",
+   "title": "Senior DevOps Engineer",
+   "company": "Lemon.io",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops",
+    "engineer",
+    "dev",
+    "python",
+    "golang",
+    "aws",
+    "gcp",
+    "kubernetes",
+    "sql",
+    "linux",
+    "ansible",
+    "ai"
+   ],
+   "posted": "2026-10-22",
+   "expires": null,
+   "salary": "50000-150000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+   "summary": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior DevOps Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-23T17:54:46+00:00"
+  },
   {
    "source": "infostud",
    "id": "763745",
