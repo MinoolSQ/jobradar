@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-24T06:03:23+00:00",
+ "generated_at": "2026-10-24T12:06:45+00:00",
  "window_days": 3,
  "cutoff": "2026-10-21",
- "count": 24,
+ "count": 47,
  "new_count": 0,
  "errors": [],
  "infostud_queries": {
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 27,
+   "vraceno": 28,
    "strane": 1,
    "stop": "kraj"
   },
@@ -117,7 +117,7 @@
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 142,
+   "vraceno": 143,
    "strane": 5,
    "stop": "kraj"
   },
@@ -127,7 +127,7 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 26,
+   "vraceno": 27,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 91,
+   "vraceno": 92,
    "strane": 4,
    "stop": "kraj"
   }
@@ -666,6 +666,230 @@
   },
   {
    "source": "helloworld",
+   "id": "762972",
+   "title": "Inkompass Internship",
+   "company": "Philip Morris Services d.o.o.",
+   "location": "Niš | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Inkompass-Internship/Philip-Morris-Services-d.o.o/762972",
+   "summary": "Philip Morris Services d.o.o. 5 Fleksibilni rad Niš | Hibrid 27.10.2026. Junior Premium",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-20T12:49:08+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761491",
+   "title": "Backend Engineer (Python)",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "mysql",
+    "sql",
+    "git",
+    "python",
+    "docker",
+    "postgresql",
+    "devops",
+    "rest",
+    "mariadb",
+    "kubernetes"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Backend-Engineer-Python/MDPI-AG/761491",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. MySQL SQL Git Python Docker PostgreSQL DevOps REST MariaDB Kubernetes Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762257",
+   "title": "Business Intelligence Developer",
+   "company": "Milšped d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Business-Intelligence-Developer/Milsped-d.o.o/762257",
+   "summary": "Milšped d.o.o. 2.3 Timska druženja Podrška porodici i roditeljstvu Beograd 27.10.2026. SQL Junior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762069",
+   "title": "Data Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Analyst/MaxBet-d.o.o/762069",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. SQL Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761492",
+   "title": "Data Engineer",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "python",
+    "docker"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Engineer/MDPI-AG/761492",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. SQL Python Docker Intermediate Istaknuti poslodavci RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762543",
+   "title": "IT Manager",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "windows server",
+    "windows",
+    "cloud",
+    "active directory"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Manager/Prohuman-d.o.o/762543",
+   "summary": "Prohuman d.o.o. Beograd 27.10.2026. Windows Server Windows Cloud Active Directory Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761509",
+   "title": "IT Security Engineer",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "linux",
+    "sharepoint",
+    "bash"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Security-Engineer/MDPI-AG/761509",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. Linux SharePoint Bash Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762597",
+   "title": "IT Service Portfolio Coordinator",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sharepoint"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Service-Portfolio-Coordinator/Prohuman-d.o.o/762597",
+   "summary": "Prohuman d.o.o. Beograd 27.10.2026. SharePoint Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761925",
+   "title": "Inženjer za generativnu veštačku inteligenciju",
+   "company": "Netex d.o.o.",
+   "location": "Beograd, Niš, Novi Sad, Zrenjanin",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "python",
+    "typescript",
+    "cloud"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Inzenjer-za-generativnu-vestacku-inteligenciju/Netex-d.o.o/761925",
+   "summary": "Netex d.o.o. Beograd, Niš, Novi Sad, Zrenjanin online intervju 27.10.2026. JavaScript Python TypeScript Cloud Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
    "id": "762057",
    "title": "Istraživač",
    "company": "Institut Mihajlo Pupin d.o.o",
@@ -679,6 +903,98 @@
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Istrazivac/Institut-Mihajlo-Pupin-d.o.o/762057",
    "summary": "Institut Mihajlo Pupin d.o.o. Beograd 27.10.2026. Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762048",
+   "title": "Junior inženjer u sistemima automatskog upravljanja",
+   "company": "Institut Mihajlo Pupin IMP Automatika",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "python"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Junior-inzenjer-u-sistemima-automatskog-upravljanja/Institut-Mihajlo-Pupin-IMP-Automatika/762048",
+   "summary": "Institut Mihajlo Pupin - IMP-Automatika Beograd 27.10.2026. C++ Python Junior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762169",
+   "title": "Product Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "firebase"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Analyst/MaxBet-d.o.o/762169",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. Firebase Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762170",
+   "title": "Product Manager",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "ios",
+    "android"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Manager/MaxBet-d.o.o/762170",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. iOS Android Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762774",
+   "title": "Produkt dizajner",
+   "company": "4Zida - deo Inspira grupe",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Produkt-dizajner/4Zida-deo-Inspira-grupe/762774",
+   "summary": "4Zida - deo Inspira grupe 5 Odgovara na prijave Subotica 27.10.2026. Intermediate RSP oglas",
    "matched": [
     "helloworld"
    ],
@@ -704,6 +1020,60 @@
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Project-Manager/Prohuman-d.o.o/762552",
    "summary": "Prohuman d.o.o. Beograd 27.10.2026. Jira SCRUM Agile Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761660",
+   "title": "Senior .NET Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "sql",
+    "entity framework",
+    "rest"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-.NET-Developer/Silver-Bell-Group-d.o.o/761660",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. .NET C# SQL Entity Framework REST .NET Core Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761673",
+   "title": "Senior DevOps Engineer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "aws",
+    "docker",
+    "azure",
+    "devops",
+    "cloud",
+    "kubernetes"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-DevOps-Engineer/Silver-Bell-Group-d.o.o/761673",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. AWS Docker Azure DevOps Cloud Kubernetes Senior RSP oglas",
    "matched": [
     "helloworld"
    ],
@@ -740,6 +1110,88 @@
   },
   {
    "source": "helloworld",
+   "id": "761671",
+   "title": "Senior Full Stack Developer (.NET & Angular/React)",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "sql",
+    "angular",
+    "sql server",
+    "rest"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Developer-.NET-AngularReact/Silver-Bell-Group-d.o.o/761671",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. .NET C# SQL Angular SQL Server REST Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761667",
+   "title": "Senior Full Stack Developer (Node.js & React)",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "node",
+    "nosql",
+    "rest",
+    "typescript"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Developer-Node.javascript-React/Silver-Bell-Group-d.o.o/761667",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Node Node.js NoSQL REST TypeScript Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761675",
+   "title": "Senior Golang Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "docker",
+    "rest",
+    "golang",
+    "microservices",
+    "kubernetes"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Golang-Developer/Silver-Bell-Group-d.o.o/761675",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Docker REST Golang Microservices Kubernetes Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
    "id": "761676",
    "title": "Senior IT Project Manager",
    "company": "Silver Bell Group d.o.o.",
@@ -753,6 +1205,132 @@
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-IT-Project-Manager/Silver-Bell-Group-d.o.o/761676",
    "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761663",
+   "title": "Senior Java Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "spring",
+    "java",
+    "rest",
+    "microservices"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Java-Developer/Silver-Bell-Group-d.o.o/761663",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Spring Java REST Microservices Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761665",
+   "title": "Senior Node.js Backend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "javascript",
+    "node",
+    "nosql",
+    "postgresql",
+    "typescript",
+    "mongodb",
+    "express"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Node.javascript-Backend-Developer/Silver-Bell-Group-d.o.o/761665",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL JavaScript Node Node.js NoSQL PostgreSQL TypeScript MongoDB Express Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761666",
+   "title": "Senior Python Backend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "python",
+    "django",
+    "postgresql",
+    "rest",
+    "flask"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Python-Backend-Developer/Silver-Bell-Group-d.o.o/761666",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. Python Django PostgreSQL REST Flask Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761656",
+   "title": "Technical Support Specialist – English",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Technical-Support-Specialist-English/Silver-Bell-Group-d.o.o/761656",
+   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Junior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762174",
+   "title": "UX Researcher",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/UX-Researcher/MaxBet-d.o.o/762174",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. Intermediate Senior RSP oglas",
    "matched": [
     "helloworld"
    ],
