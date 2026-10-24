@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-24T12:06:45+00:00",
+ "generated_at": "2026-10-24T16:44:55+00:00",
  "window_days": 3,
  "cutoff": "2026-10-21",
- "count": 47,
- "new_count": 0,
+ "count": 48,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -158,6 +158,38 @@
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137562",
+   "title": "Senior Frontend Engineer",
+   "company": "B2spin",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "front end",
+    "design",
+    "react",
+    "embedded",
+    "sys admin",
+    "game dev",
+    "technical",
+    "dev",
+    "testing",
+    "marketing",
+    "web dev",
+    "javascript"
+   ],
+   "posted": "2026-10-23",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+   "summary": "About B2Spin We are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the indus",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-24T16:44:55+00:00"
+  },
   {
    "source": "infostud",
    "id": "763818",
@@ -781,7 +813,7 @@
    "expires": "27.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Data-Engineer/MDPI-AG/761492",
-   "summary": "MDPI AG 2.7 Beograd 27.10.2026. SQL Python Docker Intermediate Istaknuti poslodavci RSP oglas",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. SQL Python Docker Intermediate RSP oglas",
    "matched": [
     "helloworld"
    ],
