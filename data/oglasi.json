@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-25T06:22:17+00:00",
+ "generated_at": "2026-10-25T12:39:39+00:00",
  "window_days": 3,
  "cutoff": "2026-10-22",
- "count": 38,
- "new_count": 1,
+ "count": 39,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -434,6 +434,27 @@
    ],
    "first_seen": "2026-10-22T13:03:53+00:00",
    "details": "O poslodavcu Location: Belgrade, RS, 11000 Warsaw, PL Requisition ID: 19399 IGT, where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences—powered by world‑class content, strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. With a team of over 6,000 employees across 30+ countries and products delivered in more than 100 jurisdictions worldwide, we operate at scale while staying closely connected to customers we serve. If you’re ready to bring your talent to a team shaping the future of entertainment, your next big move starts here - www.igt.com . Position Overview IGT is seeking a Platform Automation Engineer to join our Casino Systems Platform Engineering team. This role is responsible for designing, implementing, supporting, and continuously improving the automation, infrastructure, and software delivery capabilities that enable engineering teams to build, test, deploy, and operate casino products efficiently and reliably. The ideal candidate is passionate about automation, cloud-native technologies, and developer productivity. You will work closely with software, QA, release, and platform engineering teams to eliminate manual processes, improve delivery workflows, and build scalable, repeatable solutions that enhance engineering efficiency and operational excellence. This position provides opportunities to gain hands-on experience with Kubernetes, Infrastructure as Code, GitOps, CI/CD platforms, and modern software delivery practices while contributing to the evolution of IGT's Platform Engineering capabilities. Responsibilities Build, maintain, and improve CI/CD pipelines using GitHub Actions, Jenkins, and Argo CD. Develop and support infrastructure automation using Terraform, Ansible, and Infrastructure as Code practices. Support Kubernetes-based application platforms and deployment environments. Contribute to platform engineering initiatives that improve developer productivity, self-service capabilities, automation, observability, and operational excellence. Troubleshoot infrastructure, platform, build, and deployment issues across development, test, and production environments. Support AWS and on-premises environments used throughout the software development lifecycle. Collaborate with development teams to improve software delivery workflows, deployment reliability, and developer experience. Create and maintain technical documentation, runbooks, and automation procedures. Participate in Agile development processes including sprint planning, standups, retrospectives, and continuous improvement activities. Reference: ILnEgEerbszbq20-UzNeBjaE4qQPFlmN-TeJ3Cmy7lZlg5mZYy5U8YvSbC6Ag8oO Required Qualifications 2-4 years of experience in Platform Engineering, DevOps, Cloud Engineering, Software Engineering, Data Engineering, Infrastructure Automation, or related technical roles. Experience working with Windows and Linux systems and troubleshooting technical issues. Experience with Git and modern source control practices. Experience with scripting and automation using Python, Bash, PowerShell, or similar technologies. Understanding of CI/CD concepts and software delivery practices. Understanding of con"
+  },
+  {
+   "source": "helloworld",
+   "id": "763402",
+   "title": "Data Analyst in Promotion Department",
+   "company": "Lidl Srbija KD",
+   "location": "Nova Pazova",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Analyst-in-Promotion-Department/Lidl-Srbija-KD/763402",
+   "summary": "Lidl Srbija KD 4 Nova Pazova 27.10.2026. Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-21T22:32:20+00:00"
   },
   {
    "source": "helloworld",
