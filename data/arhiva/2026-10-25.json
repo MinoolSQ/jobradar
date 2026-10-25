@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-25T17:06:59+00:00",
+ "generated_at": "2026-10-25T21:56:33+00:00",
  "window_days": 3,
  "cutoff": "2026-10-22",
  "count": 40,
- "new_count": 1,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -601,7 +601,7 @@
    "expires": "27.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Data-Engineer/MDPI-AG/761492",
-   "summary": "MDPI AG 2.7 Beograd 27.10.2026. SQL Python Docker Intermediate Istaknuti poslodavci RSP oglas",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. SQL Python Docker Intermediate RSP oglas",
    "matched": [
     "helloworld"
    ],
