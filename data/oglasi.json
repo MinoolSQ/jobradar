@@ -1,29 +1,29 @@
 {
- "generated_at": "2026-10-24T21:41:56+00:00",
+ "generated_at": "2026-10-25T06:22:17+00:00",
  "window_days": 3,
- "cutoff": "2026-10-21",
- "count": 48,
- "new_count": 0,
+ "cutoff": "2026-10-22",
+ "count": 38,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 3,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 10,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "data inzenjer": {
    "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
+  "data inzenjer": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "podaci": {
-   "vraceno": 35,
-   "strane": 2,
+   "vraceno": 22,
+   "strane": 1,
    "stop": "kraj"
   },
   "etl": {
@@ -52,8 +52,8 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "aws": {
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 12,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -77,72 +77,72 @@
    "stop": "kraj"
   },
   "data analyst": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 2,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 7,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "linux": {
    "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
-  "linux": {
-   "vraceno": 2,
-   "strane": 1,
-   "stop": "kraj"
-  },
   "it tehnicar": {
-   "vraceno": 28,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 36,
-   "strane": 2,
+   "vraceno": 17,
+   "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 88,
-   "strane": 3,
+   "vraceno": 51,
+   "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 143,
-   "strane": 5,
+   "vraceno": 89,
+   "strane": 3,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 2,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 27,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 83,
-   "strane": 3,
+   "vraceno": 52,
+   "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 9,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 4,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,44 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 92,
-   "strane": 4,
+   "vraceno": 57,
+   "strane": 2,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137568",
+   "title": "Solutions Engineer",
+   "company": "Onebrief",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "ansible",
+    "grafana",
+    "sys admin",
+    "infosec",
+    "python",
+    "docker",
+    "technical",
+    "recruiter",
+    "customer support",
+    "dev",
+    "testing"
+   ],
+   "posted": "2026-10-24",
+   "expires": null,
+   "salary": "180000-220000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+   "summary": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helpi",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-25T06:22:17+00:00"
+  },
   {
    "source": "remoteok",
    "id": "remoteok-1137562",
@@ -343,31 +375,6 @@
    "details": "O poslodavcu MEBIT d.o.o. širi svoj tim! Voliš da pratiš stream-ove i interesuje te gaming industrija? Imamo posao za tebe! Tražimo Moderatore/Support Agente sa ili bez iskustva koji će našim korisnicima pružati najkvalitetniju i najbržu uslugu. Osnovne informacije o poziciji: Moderacija strimova i pružanje korisničke podrške za korisnike platforme Saradnja sa ostalim timovima na usavršavanju servisa Rad u tri smene Reference: bmjQ_3LN0N_-GqS9fkp4HTnV23Sy3IeDdTgkgZk4lg_mjq4osx0CCGvrWoH6k0k6 Ti si naš idealan kandidat ako: Voliš da pratiš strimove i interesuje te gaming industrija Poseduješ odlično znanje engleskog jezika Poseduješ osnovno znanje rada na računaru Kolegijalan/na si i voliš da radiš u timu Veštine koje nisu neophodne ali bi ti pomogle u bržem prilagođavanju poslu: Brzo kucanje Poznavanje live streaming scene Poznavanje Google Suite programa (Docs, Spreadsheets), i Intercom-a Nudimo ti: Vanprosečnu početnu platu i česte bonuse Mogućnost napredovanja u okviru kompanije Obuke i treninge Rad u prijatnom i dinamičnom okruženju u našoj moderno opremljenoj zgradi u centru Trstenika Rad u internacionalnom timu Mogućnost biranja slobodnih dana Plaćeni topli obrok i snack bar sa pićem i grickalicama Sat vremena pauze u okviru osmočasovnog radnog vremena Korišćenje Lounge sobe sa sadržajima za odmor i rekreaciju Redovne Team Building aktivnosti Mebit D.O.O. We are a team of specialists, passionate about new technologies Our expertise spans the gambling industry, blockchain, cryptocurrency, and exceptional customer service. We thrive on staying at the forefront of these dynamic fields, dedicated to helping businesses succeed in this evolving landscape. Since our journey began in 2016, Mebit has been providing excellent customer service and technical support for prominent iGaming platforms. Our mission goes beyond merely addressing customers'… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Radnik Mebita od 1. februara 2022. godine! Trenutno Senior Support agent na Stake.us & Primedice platformama. Dinamična atmosfera i mogućnost napredovanja nisu kliše i šarena laža koju dobijate…\" Pročitajte celo iskustvo Beneficije Private health insurance Awards, bonuses, gifts Additional days off Wellness Team building Trainings, courses, conferences Food and drinks Relaxation space Work equipment provided Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Trstenik IT IT Help Desk / Support Moderator & Customer Service Representative for a Video Livestreaming Platform Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . S"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1137551",
-   "title": "Senior Backend Engineer",
-   "company": "DuckDuckGo",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "backend",
-    "perl",
-    "golang",
-    "javascript",
-    "node"
-   ],
-   "posted": "2026-10-21",
-   "expires": null,
-   "salary": "190000-190000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
-   "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and o",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-22T18:03:37+00:00"
-  },
-  {
    "source": "infostud",
    "id": "763554",
    "title": "Concept Artist",
@@ -427,274 +434,6 @@
    ],
    "first_seen": "2026-10-22T13:03:53+00:00",
    "details": "O poslodavcu Location: Belgrade, RS, 11000 Warsaw, PL Requisition ID: 19399 IGT, where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences—powered by world‑class content, strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. With a team of over 6,000 employees across 30+ countries and products delivered in more than 100 jurisdictions worldwide, we operate at scale while staying closely connected to customers we serve. If you’re ready to bring your talent to a team shaping the future of entertainment, your next big move starts here - www.igt.com . Position Overview IGT is seeking a Platform Automation Engineer to join our Casino Systems Platform Engineering team. This role is responsible for designing, implementing, supporting, and continuously improving the automation, infrastructure, and software delivery capabilities that enable engineering teams to build, test, deploy, and operate casino products efficiently and reliably. The ideal candidate is passionate about automation, cloud-native technologies, and developer productivity. You will work closely with software, QA, release, and platform engineering teams to eliminate manual processes, improve delivery workflows, and build scalable, repeatable solutions that enhance engineering efficiency and operational excellence. This position provides opportunities to gain hands-on experience with Kubernetes, Infrastructure as Code, GitOps, CI/CD platforms, and modern software delivery practices while contributing to the evolution of IGT's Platform Engineering capabilities. Responsibilities Build, maintain, and improve CI/CD pipelines using GitHub Actions, Jenkins, and Argo CD. Develop and support infrastructure automation using Terraform, Ansible, and Infrastructure as Code practices. Support Kubernetes-based application platforms and deployment environments. Contribute to platform engineering initiatives that improve developer productivity, self-service capabilities, automation, observability, and operational excellence. Troubleshoot infrastructure, platform, build, and deployment issues across development, test, and production environments. Support AWS and on-premises environments used throughout the software development lifecycle. Collaborate with development teams to improve software delivery workflows, deployment reliability, and developer experience. Create and maintain technical documentation, runbooks, and automation procedures. Participate in Agile development processes including sprint planning, standups, retrospectives, and continuous improvement activities. Reference: ILnEgEerbszbq20-UzNeBjaE4qQPFlmN-TeJ3Cmy7lZlg5mZYy5U8YvSbC6Ag8oO Required Qualifications 2-4 years of experience in Platform Engineering, DevOps, Cloud Engineering, Software Engineering, Data Engineering, Infrastructure Automation, or related technical roles. Experience working with Windows and Linux systems and troubleshooting technical issues. Experience with Git and modern source control practices. Experience with scripting and automation using Python, Bash, PowerShell, or similar technologies. Understanding of CI/CD concepts and software delivery practices. Understanding of con"
-  },
-  {
-   "source": "infostud",
-   "id": "763306",
-   "title": "SEO & Growth Marketing Specialist",
-   "company": "TelQ Telecom",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "Prodaja / konsultanti",
-    "UI",
-    "SEO"
-   ],
-   "posted": "2026-10-22",
-   "expires": "20.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/seo-growth-marketing-specialist/telq-telecom/763306",
-   "summary": "This role exists to drive acquisition and conversion for a new clickwrap product by owning the full marketing funnel with AI enabled workflows. The hired candidate will run SEO content, paid media, lifecycle automation and analytics to increase signups and improve activation.",
-   "matched": [
-    "data engineer",
-    "data platform",
-    "it support"
-   ],
-   "first_seen": "2026-10-22T13:03:53+00:00",
-   "details": "O poslodavcu Now hiring / Belgrade · Hamburg / Posted October 2026 / Ref TLQ-DSGN-01 SEO & Growth Marketing Specialist Belgrade · Bul. M. Pupina 6 Full-time Hybrid Online interview About TelQ A small team building the SMS testing tool telecom teams actually trust, now looking for a marketer who runs with AI. TelQ Telecom is a globally recognized provider of SMS quality assurance services, founded in 2016. We help operators, aggregators, and platforms verify what really hits the handset — across 1,500+ live networks. We’re small but mighty — and still the first choice for the biggest players in the industry. Customers consistently praise us for the best UI and most reliable solution on the market. That’s where you come in. 180 + Countries covered 1,500 + Live mobile networks 25 + Team members 100 M+ SMS tests delivered 3× winner — Antonio Meucci Global Telco Awards 2024 Best Europe Provider · Revolutionary Contribution · Leading Female Telco Executive The role You'll own our new product ClickTerm — clickwrap software for capturing legally enforceable online consent. Every channel is yours to run, from SEO to paid to email, alongside our Lead Marketing Manager, with AI as your leverage across the full funnel. SEO Strategy, content, technical SEO and AI search Run keyword research, build a content plan tied to business goals, and write and edit blog posts, landing pages and product pages yourself. Optimize titles, meta descriptions, headings, URLs, image alt text and internal links. Run technical audits and fix page speed, mobile issues, crawlability, indexing and schema/structured data. Earn quality backlinks, build our presence on Reddit and niche communities, and get content cited in AI Overviews and AI assistants such as ChatGPT, Perplexity and Gemini. Improve layouts, copy and CTAs to turn more traffic into signups. Paid traffic Plan, launch and optimize paid campaigns Manage campaigns across Google Ads, Meta and LinkedIn, including search, display, social and retargeting. Run structured A/B tests on audiences, creatives and offers, and scale the winners. AI & Automation Build smarter workflows with AI Use AI across research, content, creative work, analysis and reporting. Build your own automations and workflows to reduce manual work using no-code tools such as n8n and Zapier, plus light scripting where needed. Analytics Own tracking, dashboards and performance reporting Set up and manage GA4, events, UTMs and conversion tracking. Build clear dashboards and report on channel performance to support data-driven decisions. Key requirements 3+ years in growth, digital or performance marketing Real hands-on experience across SEO, paid, content, social, email and CRO. SEO & CRO know-how On-page, technical and content SEO, plus improving pages to convert more traffic into signups. Paid media experience Ability to run and optimize Google, Meta and LinkedIn campaigns against CAC, ROAS and CPA. AI is already core to how you work Fluent use of AI for research, creation, editing, analysis and automation. Hands-on experience with tools such as Claude and ChatGPT. Strong written English Clear, simple copy that also translates well across markets. Startup-ready, owner mindset You ship fast, set your own priorities and don't wait for a brief. Reference: YVFPMPWDlb7WidYkRMZDndJF1anyXhpvqh5W6TkZGwmyPL78sxlnl0TxV2BEt2FM Benefits & perks Flexible hours & remote work options Flexibility to organize your work effectively. Premium health insurance Family c"
-  },
-  {
-   "source": "infostud",
-   "id": "763402",
-   "title": "Data Analyst in Promotion Department",
-   "company": "Lidl Srbija KD",
-   "location": "Nova Pazova",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Programiranje"
-   ],
-   "posted": "2026-10-21",
-   "expires": "27.10.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/data-analyst-in-promotion-department/lidl-srbija-kd/763402",
-   "summary": "Analitičar prodaje će obezbeđivati tačnost i dostupnost prodajnih podataka koji podržavaju planiranje akcija i budžetiranje. Kandidat će izrađivati periodične izveštaje i optimizovati KPI-eve kako bi povećao efikasnost akcijskog menadžmenta.",
-   "matched": [
-    "data analyst",
-    "it podrska"
-   ],
-   "first_seen": "2026-10-21T22:32:20+00:00",
-   "details": "O poslodavcu Tvoji zadaci Analiza i kontinuirano praćenje, prikupljanje i obrada prodajnih podataka Izrada nedeljnih, mesečnih i kvartalnih izveštaja Planiranje i optimizacija prodajnih KPI-eva akcijskog menadžmenta Praćenje i analiza akcija, cena i prodaje Podrška Planerima i Category managerima prilikom planiranja akcija Podrška menadžmentu u procesu budžetiranja Reference: dB37X-NL8OpfxAewC9xeaWGK47Cjd4TNGbyV3BwWpwshcJUZ12Ju4FeA55ALLRKD Tvoj profil Visoka stručna sprema (ekonomskog, matematičkog ili IT usmerenja) Minimum 3 godine radnog iskustva (poželjno FMCG industrija ili istrazivačke agencije) Napredni nivo Google Sheets-a (napredne funkcije, modelovanje i spajanje podataka) i Google Slides-a Iskustvo u radu sa Google alatima za analizu i obradu podataka (Google Data studio) Napredni nivo engleskog jezika Iskustvo u radu sa velikim bazama podataka Analitičko razmišljanje, orijentisanost ka detaljima i rešavanju problema Šta mi nudimo Atraktivna zarada Privatno zdravstveno osiguranje Rad od kuće Lični i profesionalni razvoj Srdačna radna atmosfera Lidl Srbija KD Kompanija Lidl, kao deo nemačke Švarc grupe (Schwarz Gruppe), predstavlja jednog od vodećih prehrambenih trgovinskih lanaca u Nemačkoj i Evropi. Posluje u 32 zemlje širom sveta, sa oko 12.200 prodavnica, kao i više od 220 logističkih centara i skladišta u 31 zemlji sveta. Lidl je u Srbiji svoje prve prodavnice otvorio u oktobru 2018. godine i trenutno ima 78 prodavnica u 45 gradova širom zemlje i 2 logistička centra. Imamo dugoročne planove sa ciljem da potrošačima širom Srbije ponudimo… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Najlepša potvrda da smo poslodavac od poverenja je kada naši zaposleni preporuče Lidl svojim najbližima. ? Jelena i Vanja su majka i ćerka, i obe su deo našeg Lidl tima – njihov…\" Pročitajte celo iskustvo Beneficije Finansijske beneficije Kompanijski popusti Nagrade, bonusi, pokloni Personalizovane beneficije Fleksibilno radno vreme Dodatni slobodni dani Dobrovoljno zdravstveno osiguranje Program mentorstva Rad od kuće Porodica i roditeljstvo Radno okruženje Društvena odgovornost Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Nova Pazova IT Data Analyst Data Analyst in Promotion Department Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-duckduckgo-senior-backend-engineer",
-   "title": "Senior Backend Engineer",
-   "company": "DuckDuckGo",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer",
-   "summary": "Headquarters: Paoli, Pennsylvania URL: https://duckduckgo.com Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on Mac , Windows , iOS , and Android , our search engine , and the ",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-21T18:08:47+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "763251",
-   "title": "Application Security Engineer",
-   "company": "CCBill SRB d.o.o.",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    ".NET",
-    "C#",
-    "JavaScript",
-    "Java",
-    "Python",
-    "Perl",
-    "Jenkins",
-    "Sistemska administracija",
-    "Agile"
-   ],
-   "posted": "2026-10-21",
-   "expires": "20.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/application-security-engineer/ccbill-srb-doo/763251",
-   "summary": "The role exists to embed application security into the software development lifecycle and reduce exploitable vulnerabilities across internally developed applications. The successful candidate will perform assessments and code reviews while automating security testing in CI CD pipelines to enable secure releases and faster remediation.",
-   "matched": [
-    "python",
-    "data engineer",
-    "it support"
-   ],
-   "first_seen": "2026-10-21T13:01:52+00:00",
-   "details": "O poslodavcu CCBill is an online payment services provider used by more than 30,000 websites globally that supports the needs of both new and established businesses in the e-commerce and online space. We are seeking an Application Security Engineer to support the secure development of internally developed applications. The successful candidate will perform application security testing, code reviews, threat modelling and vulnerability assessments while supporting the integration of security controls into the software development lifecycle. The role will work closely with the development, architecture and Information Security team to identify and remediate security risks and improve the overall security posture of applications. Location: Serbia Working Hours: Monday to Friday (40 hours); 1PM-9PM CET, fully remote Key Job Requirements: Application Security Testing: Perform manual and automated security assessments of web applications and APIs. Conduct application penetration testing to identify vulnerabilities, security weaknesses and configuration issues. Document findings, remediation recommendations and risk ratings in clear technical reports. Validate remediation activities through re-testing Reference: NT8vE_6F0mD_lfVVXYFbYxvuJDr05SXawFC5RetPn7G83XDtyHz7C-3PWmN1izHb Secure Development: Participate in threat modelling exercises and security design reviews. Perform security-focused source code reviews of internally developed applications. Support developers in understanding and remediating identified vulnerabilities. Promote secure coding practices and security awareness across development teams. DevSecOps and Security Automation Support the implementation and operation of security testing within CI/CD pipelines. Assist with the deployment and tuning of: Static Application Security Testing (SAST) Dynamic Application Security Testing (DAST) Software Composition Analysis (SCA) Secrets detection controls Contribute to security automation initiatives using Jenkins, GitLab and Bitbucket. Vulnerability Management Track and manage vulnerabilities identified during security testing activities. Work with development teams to prioritise and remediate findings. Assist in assessing application security risks and recommending appropriate mitigation measures. Collaboration Work closely with development, architecture, infrastructure, and Information Security teams to improve application security. Support security reviews prior to production deployments. Contribute to the continuous improvement of application security standards, processes and procedures Key Skills & Qualifications: Required Minimum 3 years of experience in application security, penetration testing, software development or a related information security role. Experience performing web application security assessments and penetration testing. Understanding of secure software development practices. Experience reviewing source code and identifying common security vulnerabilities. Strong knowledge of: OWASP Top 10 CWE NIST security guidance Secure coding principles Technical Skills Knowledge of web technologies, APIs, databases and networking concepts. Familiarity with programming languages such as: Java .NET/C# Python JavaScript Perl Understanding authentication, authorisation and session management concepts. Tools Experience with some of the following: Burp Suite OWASP ZAP Nessus Metasploit Wireshark SAST and DAST tools CI/CD and DevSecOps Exposure to: Jenkins GitLab Bitbucket Agile devel"
-  },
-  {
-   "source": "infostud",
-   "id": "763266",
-   "title": "Data Analytics & AI Support Internship",
-   "company": "Robert Bosch d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "SQL",
-    "Python",
-    "ERP",
-    "Prakse",
-    "Agile"
-   ],
-   "posted": "2026-10-21",
-   "expires": "05.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/data-analytics-ai-support-internship/robert-bosch-doo/763266",
-   "summary": "The Electronics Hardware Support Engineer creates and maintains CAD symbols footprints and modular design blocks while ensuring schematic and layout design rule compliance. The role supports design engineers and provides theoretical analysis to identify and resolve design issues.",
-   "matched": [
-    "python",
-    "data engineer",
-    "sql",
-    "it support"
-   ],
-   "first_seen": "2026-10-21T13:01:52+00:00",
-   "details": "O poslodavcu Do you want to shape beneficial technologies with your ideas? If so, join us as Data Analytics & AI Support Internship Job Description Support Data & AI Solutions: Assist the Data Analytics team in delivering cutting-edge analytics, structured reporting, and modern AI/automation solutions for global business stakeholders. Data Quality & Integrity Management: Perform comprehensive data quality checks, troubleshoot data anomalies across ERP and reporting systems, and coordinate with senior team members for escalations. Business Analysis & Dashboarding: Gather, document, and analyze business requirements from stakeholders. Support end-to-end dashboard development, data modeling, and performance tuning. Technical Operations & Validation: Execute data validation, system testing, and basic coding tasks to ensure pipeline reliability. Drive AI & Automation Initiatives: Assist in the development and deployment of AI use cases, including AI agents and process automation tools. Create technical documentation and user enablement materials to help teams adopt new AI features. Cross-Functional Collaboration: Partner closely with data engineers, business analysts, and business units to drive continuous process improvements. Reference: I8dYzOOZnYCKQ2Z5U3UmwcKBCl5sKrgqM4b0WhUyfdqY39rPRiIcqjrcOpokHwP3 Qualifications Education: Final-year student pursuing a Bachelor's or Master's degree in Business Informatics, Computer Science, Data Science, Mathematics, or a related technical field. Technical Skillset: Solid foundational knowledge of Python and SQL for data analysis and manipulation. Basic understanding of data modeling concepts and dashboard development (e.g., Power BI, Tableau, or similar). Familiarity with or strong interest in Generative AI, LLMs, and automation workflows. Soft Skills & Mindset: Strong analytical mindset with a structured, detail-oriented approach to problem-solving. Excellent communication skills, with the ability to collaborate effectively within cross-functional, agile teams. High curiosity and willingness to learn and adapt to new technologies quickly. Languages: Business-fluent in written and spoken English. Benefits Paid six-month internship An active role in projects and real business situations Work with experienced mentors who will support you International work environment where innovation and creativity are valued Canteen at the location and organized transport (to Pećinci plant) Various possibilities for sports activities Do you want to shape beneficial technologies with your ideas? Whether in mobility solutions, consumer goods, industrial technology, or energy and building technology – with us, you will have the chance to improve quality of life all across the globe. As part of Bosch Power Tools, you will help set global standards with innovative products for craft, industry, home, and garden. Interested? Get ready to Start #LikeA Bosch Simply complete the contact form and submit your CV in PDF format and in English . Bosch Srbija Bosch Grupa Grupa Bosch je vodeći dobavljač tehnologija i usluga. Zapošljava oko 412.400 saradnika širom sveta (od 31. decembra 2025. godine). Grupa Bosch sastoji se od firme Robert Bosch GmbH i oko 470 filijala i regionalnih društava u oko 60 zemalja. Delatnost kompanije podeljena je u četiri poslovna sektora: Mobility, Industrial Technology, Consumer Goods, i Energy and Building Technology. Strateški cilj Bosch grupe je da otkriva tehnologije za povezan život i da poboljšava kv"
-  },
-  {
-   "source": "infostud",
-   "id": "763268",
-   "title": "Junior VOIP/SMS Specijalista",
-   "company": "All IP d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Junior",
-    "Podrška",
-    "VOIP"
-   ],
-   "posted": "2026-10-21",
-   "expires": "05.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/junior-voip-sms-specijalista/all-ip-doo/763268",
-   "summary": "Pozicija junior NOC TEST inženjera ima za cilj obezbediti pouzdan rad VOIP i SMS sistema kroz kontinuirano praćenje i testiranje. Kandidat će rešavati tehničke probleme i komunicirati sa klijentima i timom dok stiče iskustvo i napreduje u mrežnim i programerskim ulogama.",
-   "matched": [
-    "junior",
-    "sistem administrator",
-    "administrator",
-    "help desk",
-    "it support",
-    "mrezni"
-   ],
-   "first_seen": "2026-10-21T13:01:52+00:00",
-   "details": "O poslodavcu Mi smo domaća/internacionalna kompanija, bavimo se modernim IP komunikacijama, a osnovna delatnost su nam telefonske i sms usluge. Primenjujemo najnovije tehnologije komunikacija, najnovija softwareska rešenja, moderno mrežno okruženje, ali takođe i sami se bavimo programiranjem i razvojem aplikacija za naše potrebe. Naši klijenti su domaće i velike inostrane kompanije, koje zahtevaju visoki nivo profesionalizma i kvaliteta naših usluga. Tražimo stručne, talentovane i vredne saradnike sa idejom. Pre svega tražimo poštene, predane i posvećene osobe koje su voljne da uče i rade u timskom okruženju, a po potrebi spremne da iznesu posao samostalno. Nudimo Vam stalno zaposlenje u malom, ali dinamičnom okruženju, koje svakodnevno raste, sa svakodnevnim izazovima, kao i usavršavanje, napredovanje i rad sa najnovijim tehnologijama. U našem okruženju možete početi kao NOC/TEST inženjer, a završiti kao vrhunski sistem inženjer ili programer. Od Vas tražimo početno tehničko obrazovanje, ali očekujemo da kandidati vrlo brzo uče i napreduju. Ovo je idealan posao za studente tehničke (telekomunikacije/IT) struke završnih godina koji su sposobni da uče i da rade, studente master studija, ili za kandidate koji imaju praktično iskustvo u radu sa telekomunikacijama. Jako nam je važno da imate personalne kvalitete, da ste kao osoba kulturni i prijatni za saradnju, da ste vredni i istrajni. Posao ne zahteva fizičke predispozicije tako da je idealan i za koleginice i kolege. Nadležnosti početne pozicije Upoznavanje sa VOIP/SMS tehnologijama i primenom. Praćenje kvaliteta rada sistema, ispitivanje, testiranje i rešavanje problema Konsultacije i koordinacije sa nadležnim Tim liderom Praćenje ticketing sistema preko koga klijenti prijavljuju probleme Ispitivanje i rešavanje problema, slanje odgovora klijentima i zatvaranje ticketa Kontrola i upravljanje radom VOIP/SMS sistema. Reference: 3g823m8a-ka73Ava3VqfPBpz02KQ_Lu4wgRQ8Ap1Knhg8iBcWNHpl3NzlC_Y2jPT Zahtevi: Tehničko obrazovanje usvojeno kroz studije tehničkih nauka (telekomunikacije/IT) – završene studije ili studenti završnih godina ili usvojeno kroz radno iskustvo od 2 godine u radu na poslovima IT/Telekomunikacije/Sistem Administracija Napredno poznavanje Windows klijentskog okruženja, MS Office Znanje o modernim telekomunikacijama Odlično poznavanje engleskog jezika, poželjno Work and Travel iskustvo. Pozicija junior inženjera podrazumeva rad u smenama, tražimo kandidate kojima ovo neće biti problem, a koji mogu da uklope svoje životne obaveze uz takav način rada. Razvijene veštine pisane i govorne poslovne komunikacije Poželjna iskustva i znanja: Drugi strani jezik poželjno, nije obavezno… (nemački, francuski, arapski) Sposobnost razumevanja tehničke dokumentacije Osnovno poznavanje i razumevanje OSI modela Osnovno poznavanje IP protokola, transportnog sloja (TCP/UDP) kao i osnovnih protokola (npr http, https, smtp...) Beneficije: Zaposlenje na neodređeno vreme Mentorski rad Rad u dinamičnom, mladom okruženju Posao u stabilnoj firmi sa redovnim primanjima u skladu sa zakonom Platu iznad proseka, i u skladu sa odgovrnostima koje kandidat preuzima na sebe Rad u modernom i internacionalnom okruženju Team building ALL IP d.o.o. Tošin bunar 274v/3, Beograd, Srbija PIB: 107939177 Matični broj: 20901241 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti "
-  },
-  {
-   "source": "infostud",
-   "id": "763048",
-   "title": "Mid-Weight Designer",
-   "company": "Green Castle Digital d.o.o.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "UX Dizajn",
-    "Figma",
-    "Adobe"
-   ],
-   "posted": "2026-10-21",
-   "expires": "05.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/mid-weight-designer/green-castle-digital-doo/763048",
-   "summary": "Mid weight designer responsible for delivering high performing digital and motion assets that maintain brand consistency across channels. The role accelerates production through AI assisted workflows while mentoring junior designers to raise overall creative quality and delivery speed.",
-   "matched": [
-    "junior",
-    "it support"
-   ],
-   "first_seen": "2026-10-21T13:01:52+00:00",
-   "details": "O poslodavcu Job Title: Mid-Weight Designer Location - Belgrade The post relates to working at Greencastle Digital, a registered company in Serbia. The company is part of a wider group in Europe, and the project will be involved in Boyle Sports work. About BOYLE Sports Our partners BOYLE Sports are on a mission to shake up the betting and gaming landscape. With 400+ stores in Ireland and UK, and a fast-growing digital presence, they are building a bold, ambitious brand, and need a Mid-Weight Designer who can help them look as good as they sound. The Role As Mid-Weight Designer, you'll be a core part of the creative engine that powers BOYLE Sports. From campaign banners and landing pages to digital ads and multi-channel assets, you'll produce work that turns heads, drives clicks, and keeps our brand looking sharp across every touchpoint. You'll sit within our in-house Brand team, meaning you'll go deep on one brand, build real creative consistency, and have genuine ownership over how BOYLE Sports looks across every channel. If you're agency-trained and ready to focus your skills on a single ambitious brand, this is the move. You'll also be at the forefront of how we use AI in our creative workflow, using generative tools to accelerate ideas, explore concepts, and push production further and faster. What You'll Be Responsible For Digital design production — delivering high-quality design across Sportsbook, Retail, Gaming, and Acquisition channels, consistently on-brand and built to perform Multi-channel asset creation — producing banners, landing pages, web assets, and digital campaigns for ATL and BTL divisions across multiple formats and platforms Motion and video production — creating motion graphics, animated banners, and short-form video content for social, web, and campaign use. Editing and cutting down footage for multi-platform delivery, from teaser clips to full campaign edits Design acceleration — helping reduce cycle time through specialist capacity, enabling faster campaign deployment and greater market responsiveness Cross-functional collaboration — working alongside motion designers and video editors on larger productions, and supporting print workflows Champion AI-assisted design — integrating generative AI tools such as Nano Banana, RunwayML, and Flora AI into day-to-day production to accelerate ideation and output, including AI-assisted video generation and motion concepting Team mentoring & capability building — supporting the growth of junior designers and helping design leads stay focused on strategic direction and brand governance Reference: FWGCXs1cf65KP5wS0sMCeRIo275lZetzT6jr4zvOIkeP_KTgxj2_r9-uHmkT8fCk What We're Looking For 3–5 years of experience in a digital design role, ideally within a fast-paced in-house or agency environment Strong proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign) and Figma Specialist motion and video skills — confident producing motion graphics, animated assets, and short-form video edits using After Effects and Premiere (or equivalent), with a portfolio/reel demonstrating strong pacing, typography-in-motion, and platform-native video content (social, web, display) Hands-on experience with Generative AI tools such as Midjourney, Nano Banana, RunwayML, and Flora — able to integrate AI-assisted workflows intelligently into production, including AI video and motion tools Ability to manage multiple briefs simultaneously and deliver to tight deadlines Strong eye for detail, "
-  },
-  {
-   "source": "infostud",
-   "id": "763227",
-   "title": "Senior DevOps Engineer (Azure)",
-   "company": "Fiscal solutions d.o.o.",
-   "location": "Novi Sad",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    ".NET",
-    "C#",
-    "SQL",
-    "Redis",
-    "Azure",
-    "DevOps",
-    "PowerShell",
-    "Bash",
-    "Sistemska administracija",
-    "DNS",
-    "Cloud"
-   ],
-   "posted": "2026-10-21",
-   "expires": "05.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/senior-devops-engineer-azure/fiscal-solutions-doo/763227",
-   "summary": "This role owns and operates Microsoft Azure infrastructure to ensure reliable and scalable production and non production environments. The Senior DevOps Engineer will improve system availability and automate controlled CI CD deployments while optimizing costs and maintaining infrastructure security.",
-   "matched": [
-    "sql",
-    "devops",
-    "cloud",
-    "administrator",
-    "it support"
-   ],
-   "first_seen": "2026-10-21T13:01:52+00:00",
-   "details": "O poslodavcu Ready to take ownership of Azure infrastructure, improve cloud reliability, and build controlled deployment processes for a growing software company? Join Fiscal Solutions as a Senior DevOps Engineer (Azure). Seniority: Senior Work location: Novi Sad About Us – Fiscal Solutions Fiscal Solutions is an international IT company focused on cloud-based fiscalization software and consulting for legal compliance in over 50 countries. Our clients include Tier 1 global retailers such as IKEA, Metro, Hugo Boss, Desigual, Deichmann, JYSK, and many others. With over 70 employees across departments like Development, Sales, Legal, Marketing, Support, and more, we’re a growing and stable company with a strong focus on knowledge sharing, learning, and internal mobility. We collaborate with POS vendors, ERP integrators, and leading retailers to ensure fiscal compliance across complex legal environments. Your Responsibilities Manage, configure, maintain, and optimize Microsoft Azure infrastructure across production and non-production environments. Ensure the availability, stability, performance, and scalability of solution environments. Investigate and resolve infrastructure and deployment incidents, perform root cause analysis, and implement preventive measures. Configure and maintain centralized logging, monitoring, and actionable alerts. Monitor Azure resource usage, analyze infrastructure costs, and implement cost optimization measures. Develop, maintain, and improve CI/CD pipelines and deployment processes, including rollback procedures. Maintain and improve reliable deployment and release mechanisms for promoting approved changes from non production environments to production. Automate infrastructure provisioning, configuration, and operational tasks using Infrastructure as Code and scripting. Manage access permissions, secrets, certificates, and infrastructure security configurations. Maintain backup policies, regularly test restoration procedures, and document disaster recovery processes. Collaborate with development teams to improve application deployment, troubleshooting, system reliability, and cloud resource utilization. Assess existing infrastructure, implement improvements, and contribute to planning future infrastructure needs. Maintain clear documentation of infrastructure configurations, operational procedures, and implemented changes. Reference: LHBGhhjwodxrLk3a3CB07aCWfOpLdngXMEYzsGluUO4YLWdKJPQHdhE6wgqYsu9c What We’re Looking For Minimum 5 years of professional experience in DevOps, Cloud Engineering, or a similar role. Minimum 3 years of hands-on experience with Microsoft Azure, including managing and troubleshooting production environments. Experience taking operational responsibility for production systems, including incident resolution and root cause analysis. Experience with CI/CD pipelines and deployment automation using Azure DevOps or similar tools. Experience with Infrastructure as Code using Terraform, Bicep, or similar tools. Practical scripting experience with PowerShell, Azure CLI, Bash, or similar tools. Strong understanding of cloud networking, DNS, TLS certificates, access control, and infrastructure security. Experience configuring monitoring, logging, and alerting for production environments. Experience managing backups and testing recovery procedures. Proven experience in Azure cost optimization, resource management, and performance improvements. Familiarity with .NET/C# application environments and the"
-  },
-  {
-   "source": "infostud",
-   "id": "763287",
-   "title": "Test Engineer",
-   "company": "Nidec Elesys Europe d.o.o.",
-   "location": "Novi Sad",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "qa"
-   ],
-   "posted": "2026-10-21",
-   "expires": "05.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/test-engineer/nidec-elesys-europe-doo/763287",
-   "summary": "Role defines and maintains production test flows to ensure reliable testing and support serial manufacturing ramp up. The engineer validates and launches ICT and EOL systems, troubleshoots equipment failures, and sustains production test readiness.",
-   "matched": [
-    "data engineer",
-    "it support"
-   ],
-   "first_seen": "2026-10-21T13:01:52+00:00",
-   "details": "O poslodavcu NIDEC Corporation is a Japanese multinational company established in 1973, renowned for its expertise in the development, manufacturing, and sales of a wide range of motor technologies. Its portfolio includes small precision motors, automotive motors, motors for home appliances, commercial and industrial applications, machinery, as well as electronic and optical components. In 2022, Nidec Elesys Europe LLC Novi Sad was established in Serbia as part of NIDEC’s strategic initiative to strengthen its global presence and enhance regional capabilities in automotive industry. In 2025, the company merged with NIDEC MOBILITY Group , marking a significant step toward organizational integration and operational efficiency. This merger reflects a unified vision to streamline processes, foster innovation through new synergies, and accelerate progress toward a more sustainable and connected mobility society. As part of this transformation, NIDEC MOBILITY Group has emerged as a key player in the automotive sector, delivering cutting-edge products that are integral to modern vehicle electronics. Its technologies support vital functions such as active safety systems, electric power steering (EPS), body control modules, electronic control units (ECUs), and power-supply management, all of which are essential to the performance, safety, and efficiency of next-generation vehicles. For our manufacturing site based in Novi Sad, Serbia we are looking for a Test Engineer General role: Test Engineer is responsible for defining and maintaining the testing flow for products production lines, ensuring reliability of test systems, troubleshooting test-related issues and preparing the required technical documentation. The role requires proven experience in serial manufacturing, ICT/FCT process setup and industrialization, serial manufacturing process validation, ramp-up activities, and Start of Production (SOP). Responsibilities: Manages test systems including test programs and equipment, and to follow ups their work reliability in production lines Defines test parameters and limits Confirms and optimizes test cycle time Develops, manages and maintains the functionality of the ICT units and EOL (End of Line) tester Launches and maintains test equipment in production Maintains test program in Production Validates and approves test systems for the production line and signs the Acceptance Protocol Participates in the industrialization and implementation of new test equipment Updates and maintains the measurement and test results database Uses the SPC methods for analysis of measurement and test results Performs test failure analysis and supports root cause identification and corrective actions Performs preventive maintenance and troubleshooting of test equipment Provides technical support in case of unexpected test equipment failures and production issues Participates in the creation and update of work instructions and technical documentation Participates in the training of production operators Reference: gtD-anO-AUuncNZ4FNMb9tKgCQo0CXwNNdCDJsWoo6UldFDFa6oORP2urz7i8tsu Qualifications: University degree (MSc, BSc) preferable Electronics, Electrical Engineering or Mechatronics Minimum 3 years of relevant experience in the automotive electronics industry, preferably in production testing or test engineering Expertise on Electronics and Mechanical Technology Experience of Test Equipment preventive maintenance Good technical knowledge of electronic measurement p"
-  },
-  {
-   "source": "infostud",
-   "id": "762974",
-   "title": "Koordinator sistem administracije",
-   "company": "Effecta Solutions",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Linux",
-    "Sistemska administracija"
-   ],
-   "posted": "2026-10-21",
-   "expires": "20.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/koordinator-sistem-administracije/effecta-solutions/762974",
-   "summary": "Pozicija je usmerena na koordinaciju tima sistem administracije kako bi se tehnički zahtevi evidentirali i rešavali pravovremeno. Kandidat će optimizovati raspodelu zadataka, pratiti realizaciju i otklanjati zastoje radi održavanja dogovorenog nivoa usluge.",
-   "matched": [
-    "linux",
-    "sistem administrator",
-    "administrator",
-    "mrezni"
-   ],
-   "first_seen": "2026-10-20T22:27:18+00:00",
-   "details": "O poslodavcu Tražimo organizovanu, odgovornu i tehnički kompetentnu osobu koja će biti zadužena za koordinaciju svakodnevnih aktivnosti tima sistem administracije, upravljanje tehničkim zahtevima i praćenje njihove realizacije. Idealan kandidat poseduje iskustvo u oblasti IT infrastrukture i sistem administracije, uz izražene organizacione, analitičke i komunikacione sposobnosti. Ključne odgovornosti Prijem, analiza i evidentiranje tehničkih zahteva koji pristižu IT sektoru. Procena složenosti, hitnosti i prioriteta zahteva. Raspoređivanje zadataka članovima tima u skladu sa njihovim kompetencijama, raspoloživošću i trenutnim opterećenjem. Svakodnevna koordinacija aktivnosti sistem administratora i praćenje realizacije dodeljenih zadataka. Kontrola poštovanja definisanih rokova i dogovorenog nivoa kvaliteta usluge. Praćenje statusa otvorenih zahteva, identifikovanje zastoja i iniciranje aktivnosti za njihovo otklanjanje. Koordinacija komunikacije između IT tima, drugih organizacionih jedinica, klijenata i eksternih saradnika. Eskalacija složenih ili kritičnih tehničkih problema odgovarajućim članovima tima ili rukovodstvu. Samostalno rešavanje jednostavnijih sistem administracionih zadataka, po potrebi. Vođenje evidencije o zahtevima, radnim zadacima i realizovanim aktivnostima. Predlaganje i sprovođenje unapređenja internih procedura i organizacije rada. Pisanje tehničke dokumentacije. Reference: H6Ou93XOKOuSJE_Yo1Nsbk89xvQjbrQcl8GpQh90y-xj3Eox0kc1lhG6hSf_pVoA Potrebne kvalifikacije Minimum 3 godine radnog iskustva u oblasti IT infrastrukture, sistem administracije ili tehničke IT podrške. Dobro razumevanje serverskih sistema, mrežne infrastrukture i osnovnih principa sistem administracije. Poznavanje Linux okruženja. Razumevanje procesa održavanja IT infrastrukture, rešavanja incidenata i obrade tehničkih zahteva. Sposobnost procene složenosti tehničkih zadataka i njihovog pravilnog raspoređivanja. Izražene organizacione sposobnosti i sposobnost upravljanja prioritetima. Odlične komunikacione veštine i sposobnost koordinacije rada više članova tima. Samostalnost, odgovornost i proaktivan pristup rešavanju problema. Napomena: Predviđeno je da se rad obavlja u poslovnim prostorijama kompanije. Effecta Solutions Effecta Solutions je savremena i efikasna kompanija čija je osnovna delatnost razvoj informacionih tehnologija. Osnovana 2007. godine, Effectu Solutions čini tim entuzijasta koji iza sebe imaju dugogodišnja iskustva iz IT oblasti, stručnih da svojim klijentima ponudi kompletna IT rešanja koja im na efikasan, brz i lak način mogu pomoći da unaprede svoja poslovanja. Svesni stalnih promena na tržištu koja se dešavaju, a čiji smo i sami deo, kreiramo kompletna IT rešenja koja se ne odnose samo na… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator Koordinator sistem administracije Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajt"
   },
   {
    "source": "helloworld",
@@ -813,7 +552,7 @@
    "expires": "27.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Data-Engineer/MDPI-AG/761492",
-   "summary": "MDPI AG 2.7 Beograd 27.10.2026. SQL Python Docker Intermediate Istaknuti poslodavci RSP oglas",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. SQL Python Docker Intermediate RSP oglas",
    "matched": [
     "helloworld"
    ],
