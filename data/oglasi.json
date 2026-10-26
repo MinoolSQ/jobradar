@@ -1,28 +1,28 @@
 {
- "generated_at": "2026-10-25T21:56:33+00:00",
+ "generated_at": "2026-10-26T06:32:11+00:00",
  "window_days": 3,
- "cutoff": "2026-10-22",
- "count": 40,
+ "cutoff": "2026-10-23",
+ "count": 35,
  "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data engineer": {
    "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
-  "data engineer": {
-   "vraceno": 3,
-   "strane": 1,
-   "stop": "kraj"
-  },
   "data inzenjer": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 22,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
@@ -57,12 +57,12 @@
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 7,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -82,13 +82,13 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "cloud": {
@@ -97,48 +97,48 @@
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 17,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 17,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 51,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "it podrska": {
-   "vraceno": 89,
-   "strane": 3,
-   "stop": "kraj"
-  },
-  "help desk": {
-   "vraceno": 1,
+   "vraceno": 28,
    "strane": 1,
    "stop": "kraj"
   },
+  "it podrska": {
+   "vraceno": 47,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
   "tehnicka podrska": {
-   "vraceno": 17,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 52,
-   "strane": 2,
+   "vraceno": 22,
+   "strane": 1,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 3,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "mrezni": {
@@ -147,13 +147,13 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 57,
-   "strane": 2,
+   "vraceno": 29,
+   "strane": 1,
    "stop": "kraj"
   }
  },
@@ -272,38 +272,6 @@
    "details": "O poslodavcu YURA Corporation is one of the leading wiring harness suppliers for the automotive industry. We started our production in Serbia in 2010. Since then, we have opened four factories and hired more than 6,000 employees in Rača, Niš, and Leskovac. We are proud of our young and ambitious team. To support the continuous growth of our operations, we are looking for a motivated and skilled professional to join our IT department in Rača. IT Administrator Key Responsibilities: Administration and maintenance of network infrastructure, including Cisco and Mikrotik devices; Maintenance and troubleshooting of local area networks (LAN and Wi-Fi); Administration of Windows-based servers, workstations, storage systems, and client-side security solutions; Installation and configuration of MES agents on workstations, including integration with measuring instruments, scanners, and printers; Deployment and maintenance of relevant software packages across end-user devices; Monitoring, administration, and maintenance of video surveillance systems (CCTV); Coordination of procurement, inventory management, and tracking of IT and telecommunications equipment (e.g., computers, mobile devices, printers, consumables); Providing first-level IT support to internal users across departments; Maintenance of documentation and records related to CCTV systems, servers, active network devices, and access control infrastructure; Active involvement in responding to customer requests (e.g., generating reports) and supporting internal and external audit processes (IATF); Coordination of repairs and preventive maintenance, monitoring expenses and preparing reports. Reference: MafT1qZqZPuj0hmFBYOMEpHtorkg4F-Z10fNak_M0PQ0jjawxFhq6Iv4F8aA0VVk What do we expect: Technical education (University degree is a plus). Solid Cisco network equipment understanding. Advanced knowledge of Microsoft Windows system administration. Strong knowledge of Microsoft Office suite, Internet. Solid understanding of computer and server hardware. Conversational level of English (mandatory). Strong organizational and multitasking skills. Team player with a proactive and problem-solving approach. What We Offer: Work in a dynamic and positive team environment; Monthly performance-based bonuses; Opportunities for professional development and continuous learning. Your CV should be submitted in English. Yura Corporation doo Yura Corporation, a global automotive industry supplier of electrical and electronic components, is leading the development of core parts for eco-friendly cars. Yura Corporation specializes in designing, developing, and manufacturing automotive electronics including Wiring harness and ICUs. The company was established in 1993. and today, with a network of 22 corporations and 45 business sites in 16 countries, the company has solidified it’s position as a global specialist in the automotive… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Rača IT IT Administrator IT - GA administrator Blog O nama Česta pi"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1137557",
-   "title": "Senior DevOps Engineer",
-   "company": "Lemon.io",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops",
-    "engineer",
-    "dev",
-    "python",
-    "golang",
-    "aws",
-    "gcp",
-    "kubernetes",
-    "sql",
-    "linux",
-    "ansible",
-    "ai"
-   ],
-   "posted": "2026-10-22",
-   "expires": null,
-   "salary": "50000-150000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
-   "summary": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior DevOps Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-23T17:54:46+00:00"
-  },
-  {
    "source": "infostud",
    "id": "763745",
    "title": "Infrastructure Engineer - Belgrade, hybrid",
@@ -354,116 +322,6 @@
    "first_seen": "2026-10-23T12:42:51+00:00"
   },
   {
-   "source": "infostud",
-   "id": "763629",
-   "title": "Junior Game Tester",
-   "company": "Mebit d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "QA",
-    "Podrška"
-   ],
-   "posted": "2026-10-22",
-   "expires": "27.10.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/junior-game-tester/mebit-doo/763629",
-   "summary": "Role ensures product quality by detecting and reporting game defects and monitoring system performance. The tester maintains product knowledge and facilitates internal communication to support creators and improve testing processes.",
-   "matched": [
-    "junior",
-    "it support"
-   ],
-   "first_seen": "2026-10-22T18:03:37+00:00",
-   "details": "O poslodavcu About Us: Mebit is a dynamic and customer-centric organization dedicated to providing exceptional support and solutions to our clients. We are currently seeking enthusiastic and detail-oriented Game Testers with a passion for gaming and strong analytical skills to join our team and help ensure the highest quality of our products. Job Description As a Game Tester at Mebit, you will be responsible for testing reported issues, monitoring system performance, and ensuring smooth communication between internal teams. Your primary responsibilities will include: Key Responsibilities: Reviewing games and making review report by following exact steps. Providing help for game creators in form of reports about errors and bugs that needs to be fixed. Making sure to provide accurate info with enough details and proper explanation. Maintaining a high level of product knowledge to effectively assist clients. Collaborating with team members and other departments in order to provide best possible service. Seeking opportunities to improve service processes and procedures. Constantly checking channels of communication to stay updated about new procedures. Reference: 59meDPNxYy3NJCGHmDZFhOKsSXu76FmQnbu9FW2hMwCemypVp1cDtaFRNJqcnIlr Qualifications: Advanced English language skills, both written and verbal, knowing terms and expressions in programming is a must. You are a team player opened for suggestions how to improve your work. Discipline and responsibility to follow strict testing patterns. Ability to adapt to evolving technologies and learn new software quickly. Excellent computer skills based on software, web, APIs, Chrome dev tools etc. Strong communication skills, you are able to share your knowledge and explain to others. Ability to work in a rotating 3-shift schedule, including evenings, overnight, weekends, and holidays. Desirable skills: IT-focused education: programming, software development, computer science. Previous experience at similar or software QA jobs. Deep understanding of Casino games and mechanics behind. Proficient with Google Suite (Drive, Spreadsheets, Docs), Slack, GitHub. Ability to think outside of the box. What We Offer: Competitive salary. Yearly bonus. Birthday gift. Private health insurance. Access to a wellbeing platform. Opportunity for career advancement within the company. Training and development programs. Work in a pleasant and dynamic environment at our modern office. Collaboration in an international team. Paid warm meals and a snack bar with beverages and snacks. One hour of break within an eight-hour workday. Access to a lounge room with recreational amenities. Regular team-building activities. How to Apply: If you are passionate about gaming, have a keen eye for detail, and enjoy finding and solving problems, we would love to hear from you. Please submit your resume and a cover letter explaining why you are the ideal candidate for the Game Tester position at Mebit through our online application portal below. *Please check your spam or junk mail folder to make sure you don't miss any of our emails. Mebit is an equal opportunity employer and values diversity in the workplace. We encourage candidates of all backgrounds to apply. Join our team and be a part of our company. Mebit D.O.O. We are a team of specialists, passionate about new technologies Our expertise spans the gambling industry, blockchain, cryptocurrency, and exceptional customer service. We thrive on staying at the forefront of these dynamic"
-  },
-  {
-   "source": "infostud",
-   "id": "763630",
-   "title": "Moderator & Customer Service Representative for a Video Livestreaming Platform",
-   "company": "Mebit d.o.o.",
-   "location": "Trstenik",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Podrška"
-   ],
-   "posted": "2026-10-22",
-   "expires": "27.10.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/moderator-customer-service-representative-for-a-video-livestreaming-platform/mebit-doo/763630",
-   "summary": "Pozicija je fokusirana na održavanje kvaliteta platforme kroz moderaciju strimova i efikasnu korisničku podršku. Kandidat će doprinositi sigurnosti i zadovoljstvu korisnika radeći u smenskom režimu i kolaboraciji sa ostalim timovima.",
-   "matched": [
-    "it podrska",
-    "help desk",
-    "it support",
-    "racunari"
-   ],
-   "first_seen": "2026-10-22T18:03:37+00:00",
-   "details": "O poslodavcu MEBIT d.o.o. širi svoj tim! Voliš da pratiš stream-ove i interesuje te gaming industrija? Imamo posao za tebe! Tražimo Moderatore/Support Agente sa ili bez iskustva koji će našim korisnicima pružati najkvalitetniju i najbržu uslugu. Osnovne informacije o poziciji: Moderacija strimova i pružanje korisničke podrške za korisnike platforme Saradnja sa ostalim timovima na usavršavanju servisa Rad u tri smene Reference: bmjQ_3LN0N_-GqS9fkp4HTnV23Sy3IeDdTgkgZk4lg_mjq4osx0CCGvrWoH6k0k6 Ti si naš idealan kandidat ako: Voliš da pratiš strimove i interesuje te gaming industrija Poseduješ odlično znanje engleskog jezika Poseduješ osnovno znanje rada na računaru Kolegijalan/na si i voliš da radiš u timu Veštine koje nisu neophodne ali bi ti pomogle u bržem prilagođavanju poslu: Brzo kucanje Poznavanje live streaming scene Poznavanje Google Suite programa (Docs, Spreadsheets), i Intercom-a Nudimo ti: Vanprosečnu početnu platu i česte bonuse Mogućnost napredovanja u okviru kompanije Obuke i treninge Rad u prijatnom i dinamičnom okruženju u našoj moderno opremljenoj zgradi u centru Trstenika Rad u internacionalnom timu Mogućnost biranja slobodnih dana Plaćeni topli obrok i snack bar sa pićem i grickalicama Sat vremena pauze u okviru osmočasovnog radnog vremena Korišćenje Lounge sobe sa sadržajima za odmor i rekreaciju Redovne Team Building aktivnosti Mebit D.O.O. We are a team of specialists, passionate about new technologies Our expertise spans the gambling industry, blockchain, cryptocurrency, and exceptional customer service. We thrive on staying at the forefront of these dynamic fields, dedicated to helping businesses succeed in this evolving landscape. Since our journey began in 2016, Mebit has been providing excellent customer service and technical support for prominent iGaming platforms. Our mission goes beyond merely addressing customers'… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Radnik Mebita od 1. februara 2022. godine! Trenutno Senior Support agent na Stake.us & Primedice platformama. Dinamična atmosfera i mogućnost napredovanja nisu kliše i šarena laža koju dobijate…\" Pročitajte celo iskustvo Beneficije Private health insurance Awards, bonuses, gifts Additional days off Wellness Team building Trainings, courses, conferences Food and drinks Relaxation space Work equipment provided Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Trstenik IT IT Help Desk / Support Moderator & Customer Service Representative for a Video Livestreaming Platform Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . S"
-  },
-  {
-   "source": "infostud",
-   "id": "763554",
-   "title": "Concept Artist",
-   "company": "IGT D&B d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "UX Dizajn",
-    "Adobe"
-   ],
-   "posted": "2026-10-22",
-   "expires": "21.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/concept-artist/igt-d-b-doo/763554",
-   "summary": "Senior Concept Artist role exists to establish compelling visual directions and deliver production ready concept art that guides game development. The role focuses on ensuring visual quality and technical feasibility while collaborating across design programming and production to translate ideas into usable assets.",
-   "matched": [
-    "it support"
-   ],
-   "first_seen": "2026-10-22T13:03:53+00:00",
-   "details": "O poslodavcu Location: Belgrade, RS, 11000 Requisition ID: 19324 IGT, where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences—powered by world‑class content, strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. With a team of over 6,000 employees across 30+ countries and products delivered in more than 100 jurisdictions worldwide, we operate at scale while staying closely connected to costumers we serve. If you’re ready to bring your talent to a team shaping the future of entertainment, your next big move starts here - www.igt.com. Overview Hiring location: Serbia,Belgrade Employment type: Full-time position through employment contract. Requirement: Candidates must be fully eligible to work full-time under a local employment contract in Serbia Work setup: Hybrid, connected to the local office in Belgrade Reference: VPaknmQwi4JYV1BmuUm73KMSu6yBeu4r-HbHJiNvdRpwLi6vvWerGC3gW0AsbdWY At IGT, we design and build casino games played by millions of players worldwide. For our Two rivers studio we’re searching for talented Senior Concept Artists based in Belgrade who are passionate about creating and improving art production pipelines. What You Will Do Work closely with Producers, Game Designers, and the Art Team to define and develop the visual direction for new game concepts. Create high-quality concept art for characters, environments, props, symbols, UI elements, and other visual assets for new game titles. Explore multiple visual directions through sketches, thumbnails, mood boards, and visual research. Produce polished concept illustrations that serve as visual guides for production artists throughout the development process. Design concepts with animation, gameplay, and technical implementation in mind, ensuring assets are both visually compelling and production ready. Collaborate with artists, designers, developers, and product managers to iterate visual ideas, incorporate feedback, and ensure designs align with artistic, technical, and production requirements. Propose creative and practical solutions for game assets while working within established artistic, technical, and production guidelines. Help maintain a consistent visual style and high artistic quality across all game assets. Must-Haves Excellent knowledge of Adobe Creative Suite (Photoshop, Illustrator, and After Effects). Strong concept art portfolio demonstrates visual development, ideation, and creative problem-solving skills. Excellent drawing, composition, color, lighting, anatomy, perspective, and visual storytelling skills. Strong understanding of game art production pipelines and technical constraints. Ability to work independently while taking ownership of visual solutions. Passion for game development. Nice to have Good understanding of 2D animation principles and the ability to create or effectively communicate animation concepts. Experience in game development. Experience working with Unity or other game engines. Knowledge of Blender, Maya, or other 3D software to support concept development. Experience creating storyboards, motion studies, or simple 2D animations. Experience working across multiple visual styles. Familiarity "
-  },
-  {
-   "source": "infostud",
-   "id": "763539",
-   "title": "Platform Automation Engineer - Belgrade or Warsaw, hybrid",
-   "company": "IGT D&B d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Linux",
-    "Git",
-    "Python",
-    "AWS",
-    "Windows",
-    "DevOps",
-    "PowerShell",
-    "Bash",
-    "Sistemska administracija"
-   ],
-   "posted": "2026-10-22",
-   "expires": "21.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/platform-automation-engineer-belgrade-or-warsaw-hybrid/igt-d-b-doo/763539",
-   "summary": "Platform Automation Engineer role to design and improve automation and delivery capabilities that enable teams to build test deploy and operate casino products reliably. The successful candidate will remove manual steps increase developer productivity and maintain scalable infrastructure to improve delivery speed and operational stability.",
-   "matched": [
-    "python",
-    "data engineer",
-    "aws",
-    "data platform",
-    "devops",
-    "linux",
-    "administrator",
-    "it support",
-    "windows"
-   ],
-   "first_seen": "2026-10-22T13:03:53+00:00",
-   "details": "O poslodavcu Location: Belgrade, RS, 11000 Warsaw, PL Requisition ID: 19399 IGT, where innovation meets entertainment on a global scale! From the casino floor to your mobile screen, we deliver thrilling, responsible, and unforgettable gaming experiences—powered by world‑class content, strong technical and commercial capabilities and nurtured by a culture of collaboration, accountability, and ownership. Whether it’s spinning reels, placing bets, or enabling secure payments, we turn innovation into impact through disciplined execution and long‑term value creation. With a team of over 6,000 employees across 30+ countries and products delivered in more than 100 jurisdictions worldwide, we operate at scale while staying closely connected to customers we serve. If you’re ready to bring your talent to a team shaping the future of entertainment, your next big move starts here - www.igt.com . Position Overview IGT is seeking a Platform Automation Engineer to join our Casino Systems Platform Engineering team. This role is responsible for designing, implementing, supporting, and continuously improving the automation, infrastructure, and software delivery capabilities that enable engineering teams to build, test, deploy, and operate casino products efficiently and reliably. The ideal candidate is passionate about automation, cloud-native technologies, and developer productivity. You will work closely with software, QA, release, and platform engineering teams to eliminate manual processes, improve delivery workflows, and build scalable, repeatable solutions that enhance engineering efficiency and operational excellence. This position provides opportunities to gain hands-on experience with Kubernetes, Infrastructure as Code, GitOps, CI/CD platforms, and modern software delivery practices while contributing to the evolution of IGT's Platform Engineering capabilities. Responsibilities Build, maintain, and improve CI/CD pipelines using GitHub Actions, Jenkins, and Argo CD. Develop and support infrastructure automation using Terraform, Ansible, and Infrastructure as Code practices. Support Kubernetes-based application platforms and deployment environments. Contribute to platform engineering initiatives that improve developer productivity, self-service capabilities, automation, observability, and operational excellence. Troubleshoot infrastructure, platform, build, and deployment issues across development, test, and production environments. Support AWS and on-premises environments used throughout the software development lifecycle. Collaborate with development teams to improve software delivery workflows, deployment reliability, and developer experience. Create and maintain technical documentation, runbooks, and automation procedures. Participate in Agile development processes including sprint planning, standups, retrospectives, and continuous improvement activities. Reference: ILnEgEerbszbq20-UzNeBjaE4qQPFlmN-TeJ3Cmy7lZlg5mZYy5U8YvSbC6Ag8oO Required Qualifications 2-4 years of experience in Platform Engineering, DevOps, Cloud Engineering, Software Engineering, Data Engineering, Infrastructure Automation, or related technical roles. Experience working with Windows and Linux systems and troubleshooting technical issues. Experience with Git and modern source control practices. Experience with scripting and automation using Python, Bash, PowerShell, or similar technologies. Understanding of CI/CD concepts and software delivery practices. Understanding of con"
-  },
-  {
    "source": "helloworld",
    "id": "763402",
    "title": "Data Analyst in Promotion Department",
@@ -498,7 +356,7 @@
    "expires": "27.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Inkompass-Internship/Philip-Morris-Services-d.o.o/762972",
-   "summary": "Philip Morris Services d.o.o. 5 Fleksibilni rad Niš | Hibrid 27.10.2026. Junior Premium",
+   "summary": "Philip Morris Services d.o.o. 5 Fleksibilni rad Niš | Hibrid 27.10.2026. Junior global.searchSelectItemEvents = {\"762916\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762916\",\"item_name\":\"Functional Consultant MES\",\"item_index\":0,\"item_brand\":\"Enabl3\",\"item_category\":\"Consultant for Business Software\",\"item_category2\":\"Prodaja \\/ konsultanti\",\"item_category3\":\"intermediate\",\"item_c",
    "matched": [
     "helloworld"
    ],
@@ -1003,7 +861,7 @@
    "expires": "27.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Golang-Developer/Silver-Bell-Group-d.o.o/761675",
-   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Docker REST Golang Microservices Kubernetes Senior RSP oglas",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Docker REST Golang Microservices Kubernetes Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se RSP oglas",
    "matched": [
     "helloworld"
    ],
@@ -1024,7 +882,7 @@
    "expires": "27.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-IT-Project-Manager/Silver-Bell-Group-d.o.o/761676",
-   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se RSP oglas",
+   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Senior RSP oglas",
    "matched": [
     "helloworld"
    ],

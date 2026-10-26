@@ -1,0 +1,1043 @@
+{
+ "generated_at": "2026-10-26T06:32:11+00:00",
+ "window_days": 3,
+ "cutoff": "2026-10-23",
+ "count": 35,
+ "new_count": 0,
+ "errors": [],
+ "infostud_queries": {
+  "python": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data engineer": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data inzenjer": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "podaci": {
+   "vraceno": 9,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "etl": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "databricks": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "spark": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "airflow": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "backend": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "sql": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "aws": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data platform": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "kubernetes": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "fastapi": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data analyst": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "devops": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "junior": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 9,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 7,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 28,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 47,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 11,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 22,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "serviser": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "mrezni": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "windows": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "racunari": {
+   "vraceno": 29,
+   "strane": 1,
+   "stop": "kraj"
+  }
+ },
+ "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137569",
+   "title": "Field Phlebotomy Supervisor Northern California",
+   "company": "Getlabs",
+   "location": "Remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "supervisor",
+    "testing",
+    "marketing",
+    "exec",
+    "mobile",
+    "ops",
+    "medical",
+    "full time"
+   ],
+   "posted": "2026-10-24",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+   "summary": "Getlabs is the leading platform for at-home diagnostics. Healthcare organizations use Getlabs to send mobile phlebotomists to patientsâ homes and collect labs, vitals, and advanced diagnostics. By leveraging Getlabs, partners can improve patient adherence and close gaps in care with same-day, nationwide availability. Our team has raised $50M from strategic investors including the two largest dia",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-25T17:06:59+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137568",
+   "title": "Solutions Engineer",
+   "company": "Onebrief",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "ansible",
+    "grafana",
+    "sys admin",
+    "infosec",
+    "python",
+    "docker",
+    "technical",
+    "recruiter",
+    "customer support",
+    "dev",
+    "testing"
+   ],
+   "posted": "2026-10-24",
+   "expires": null,
+   "salary": "180000-220000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+   "summary": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helpi",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-25T06:22:17+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137562",
+   "title": "Senior Frontend Engineer",
+   "company": "B2spin",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "front end",
+    "design",
+    "react",
+    "embedded",
+    "sys admin",
+    "game dev",
+    "technical",
+    "dev",
+    "testing",
+    "marketing",
+    "web dev",
+    "javascript"
+   ],
+   "posted": "2026-10-23",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
+   "summary": "About B2Spin We are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the indus",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-24T16:44:55+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "763818",
+   "title": "IT - GA administrator",
+   "company": "Yura Corporation d.o.o.",
+   "location": "Rača",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-23",
+   "expires": "07.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-ga-administrator/yura-corporation-doo/763818",
+   "summary": "The IT Administrator ensures reliable operation and maintenance of network, server and endpoint systems to support production activities. The role's primary impact is sustaining IT infrastructure availability and compliance by managing networks, Windows servers, MES workstations, CCTV and IT inventory to enable uninterrupted manufacturing operations.",
+   "matched": [
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-23T17:54:46+00:00",
+   "details": "O poslodavcu YURA Corporation is one of the leading wiring harness suppliers for the automotive industry. We started our production in Serbia in 2010. Since then, we have opened four factories and hired more than 6,000 employees in Rača, Niš, and Leskovac. We are proud of our young and ambitious team. To support the continuous growth of our operations, we are looking for a motivated and skilled professional to join our IT department in Rača. IT Administrator Key Responsibilities: Administration and maintenance of network infrastructure, including Cisco and Mikrotik devices; Maintenance and troubleshooting of local area networks (LAN and Wi-Fi); Administration of Windows-based servers, workstations, storage systems, and client-side security solutions; Installation and configuration of MES agents on workstations, including integration with measuring instruments, scanners, and printers; Deployment and maintenance of relevant software packages across end-user devices; Monitoring, administration, and maintenance of video surveillance systems (CCTV); Coordination of procurement, inventory management, and tracking of IT and telecommunications equipment (e.g., computers, mobile devices, printers, consumables); Providing first-level IT support to internal users across departments; Maintenance of documentation and records related to CCTV systems, servers, active network devices, and access control infrastructure; Active involvement in responding to customer requests (e.g., generating reports) and supporting internal and external audit processes (IATF); Coordination of repairs and preventive maintenance, monitoring expenses and preparing reports. Reference: MafT1qZqZPuj0hmFBYOMEpHtorkg4F-Z10fNak_M0PQ0jjawxFhq6Iv4F8aA0VVk What do we expect: Technical education (University degree is a plus). Solid Cisco network equipment understanding. Advanced knowledge of Microsoft Windows system administration. Strong knowledge of Microsoft Office suite, Internet. Solid understanding of computer and server hardware. Conversational level of English (mandatory). Strong organizational and multitasking skills. Team player with a proactive and problem-solving approach. What We Offer: Work in a dynamic and positive team environment; Monthly performance-based bonuses; Opportunities for professional development and continuous learning. Your CV should be submitted in English. Yura Corporation doo Yura Corporation, a global automotive industry supplier of electrical and electronic components, is leading the development of core parts for eco-friendly cars. Yura Corporation specializes in designing, developing, and manufacturing automotive electronics including Wiring harness and ICUs. The company was established in 1993. and today, with a network of 22 corporations and 45 business sites in 16 countries, the company has solidified it’s position as a global specialist in the automotive… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Rača IT IT Administrator IT - GA administrator Blog O nama Česta pi"
+  },
+  {
+   "source": "infostud",
+   "id": "763745",
+   "title": "Infrastructure Engineer - Belgrade, hybrid",
+   "company": "IGT D&B d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "VPN",
+    "BGP",
+    "IPSEC",
+    "QoS",
+    "OSPF",
+    "HSRP",
+    "Sistemska administracija",
+    "IPS"
+   ],
+   "posted": "2026-10-23",
+   "expires": "22.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/infrastructure-engineer-belgrade-hybrid/igt-d-b-doo/763745",
+   "summary": "This role exists to deploy and support network infrastructure for SportsBetting clients ensuring stable secure production environments. The engineer will implement network features and security controls and collaborate across teams to monitor troubleshoot and optimize operational networks.",
+   "matched": [
+    "data engineer",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-23T12:42:51+00:00",
+   "details": "O poslodavcu Your growth matters. At IGT, we're building a culture where people Innovate with Purpose, Compete Intensely & Win, Lead with Heart, Make It Matter, and Create Value. Grow your career while helping shape what's next. Build what's next at IGT. Role Overview As an Infrastructure Engineer your involvement will begin from deploying network infrastructure for SportsBetting clients and continue with support and maintenance once system is in the production. You will be part of SportsBetting infrastructure team and throughout this process, you will closely collaborate with team members from various disciplines, including Database, Operations, Web, Mobile Apps and the Firstline Support team. Also, you will collaborate with our clients, partners and vendors on network infrastructure projects. Your team lead will be there to support you, provide training, and offer technical guidance. We believe in fostering a positive atmosphere, promoting teamwork, and valuing cooperation among all team members. We strongly emphasize personal development and continually invest in training, coaching, and career progression for our employees. We are dedicated to creating a professional environment that encourages growth, collaboration, and a balance between work and personal life. What You'll Do Deploy, manage and troubleshoot the operational state of a production data centers network infrastructure Implement new network-related features and services and optimize existing ones Configure and maintain networking monitoring and logging tools Implement security best practices, including access controls, firewalls, and intrusion detection/prevention systems Collaborate with teams worldwide to streamline processes and workflows Monitor and ensure compliance with operational standards and procedures Troubleshoot and address operational issues promptly Reference: _KklWSQ2u7PcPB3gA83xt-Oi9WR-wO7cZ1jprCCrrLZmArNcYORl-Xcvnyp9wg-Y About You Direct experience with complex networks for at least five years Hands-on experience with FortiGate firewalls including IPS/IDS, SDWAN and VPN technologies Good knowledge of LAN technologies and experience with network switching products from various vendors Deep understanding of networking protocols (e.g., IPSEC, HSRP, BGP, OSPF, 802.11, QoS) Hands-on experience with load balancer products and technologies Knowledge of CDN solutions Experience with network monitoring and logging tools, both enterprise and open source Strong troubleshooting, problem-solving and analytical abilities Ability to work independently and without constant supervision Strong problem-solving skills, attention to details and ability to manage multiple tasks simultaneously Adaptability to work in a fast-paced and dynamic sports betting environment What We'd Prefer Bachelor’s degree in Computer Science, Information Technology, or equivalent experience Industry certifications from networking vendors Passion for sports betting and a good understanding of industry trends Benefits and Culture Vibrant and stimulating work environment within Class-A office space. Opportunity to learn and further improve your skills. Opportunity to develop a career within a stable environment. Full-time/permanent employment and competitive salary. Private health insurance for you and your family. Flexible working hours including work from home and from office. #LI-TJ1 #LI-HYBRID Why join IGT? At IGT, our greatest competitive advantage is our people. We take ownership, work with ur"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-discord-qa-devops-engineer",
+   "title": "QA/DevOps Engineer",
+   "company": "Discord",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-23",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
+   "summary": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, a",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-23T12:42:51+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "763402",
+   "title": "Data Analyst in Promotion Department",
+   "company": "Lidl Srbija KD",
+   "location": "Nova Pazova",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Analyst-in-Promotion-Department/Lidl-Srbija-KD/763402",
+   "summary": "Lidl Srbija KD 4 Nova Pazova 27.10.2026. Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-21T22:32:20+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762972",
+   "title": "Inkompass Internship",
+   "company": "Philip Morris Services d.o.o.",
+   "location": "Niš | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Inkompass-Internship/Philip-Morris-Services-d.o.o/762972",
+   "summary": "Philip Morris Services d.o.o. 5 Fleksibilni rad Niš | Hibrid 27.10.2026. Junior global.searchSelectItemEvents = {\"762916\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762916\",\"item_name\":\"Functional Consultant MES\",\"item_index\":0,\"item_brand\":\"Enabl3\",\"item_category\":\"Consultant for Business Software\",\"item_category2\":\"Prodaja \\/ konsultanti\",\"item_category3\":\"intermediate\",\"item_c",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-20T12:49:08+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761491",
+   "title": "Backend Engineer (Python)",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "mysql",
+    "sql",
+    "git",
+    "python",
+    "docker",
+    "postgresql",
+    "devops",
+    "rest",
+    "mariadb",
+    "kubernetes"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Backend-Engineer-Python/MDPI-AG/761491",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. MySQL SQL Git Python Docker PostgreSQL DevOps REST MariaDB Kubernetes Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762257",
+   "title": "Business Intelligence Developer",
+   "company": "Milšped d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Business-Intelligence-Developer/Milsped-d.o.o/762257",
+   "summary": "Milšped d.o.o. 2.3 Timska druženja Podrška porodici i roditeljstvu Beograd 27.10.2026. SQL Junior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762069",
+   "title": "Data Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Analyst/MaxBet-d.o.o/762069",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. SQL Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761492",
+   "title": "Data Engineer",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "python",
+    "docker"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Engineer/MDPI-AG/761492",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. SQL Python Docker Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762543",
+   "title": "IT Manager",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "windows server",
+    "windows",
+    "cloud",
+    "active directory"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Manager/Prohuman-d.o.o/762543",
+   "summary": "Prohuman d.o.o. Beograd 27.10.2026. Windows Server Windows Cloud Active Directory Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761509",
+   "title": "IT Security Engineer",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "linux",
+    "sharepoint",
+    "bash"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Security-Engineer/MDPI-AG/761509",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. Linux SharePoint Bash Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762597",
+   "title": "IT Service Portfolio Coordinator",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sharepoint"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Service-Portfolio-Coordinator/Prohuman-d.o.o/762597",
+   "summary": "Prohuman d.o.o. Beograd 27.10.2026. SharePoint Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761925",
+   "title": "Inženjer za generativnu veštačku inteligenciju",
+   "company": "Netex d.o.o.",
+   "location": "Beograd, Niš, Novi Sad, Zrenjanin",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "python",
+    "typescript",
+    "cloud"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Inzenjer-za-generativnu-vestacku-inteligenciju/Netex-d.o.o/761925",
+   "summary": "Netex d.o.o. Beograd, Niš, Novi Sad, Zrenjanin online intervju 27.10.2026. JavaScript Python TypeScript Cloud Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762057",
+   "title": "Istraživač",
+   "company": "Institut Mihajlo Pupin d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Istrazivac/Institut-Mihajlo-Pupin-d.o.o/762057",
+   "summary": "Institut Mihajlo Pupin d.o.o. Beograd 27.10.2026. Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762048",
+   "title": "Junior inženjer u sistemima automatskog upravljanja",
+   "company": "Institut Mihajlo Pupin IMP Automatika",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "python"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Junior-inzenjer-u-sistemima-automatskog-upravljanja/Institut-Mihajlo-Pupin-IMP-Automatika/762048",
+   "summary": "Institut Mihajlo Pupin - IMP-Automatika Beograd 27.10.2026. C++ Python Junior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762169",
+   "title": "Product Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "firebase"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Analyst/MaxBet-d.o.o/762169",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. Firebase Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762170",
+   "title": "Product Manager",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "ios",
+    "android"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Manager/MaxBet-d.o.o/762170",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. iOS Android Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762774",
+   "title": "Produkt dizajner",
+   "company": "4Zida - deo Inspira grupe",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Produkt-dizajner/4Zida-deo-Inspira-grupe/762774",
+   "summary": "4Zida - deo Inspira grupe 5 Odgovara na prijave Subotica 27.10.2026. Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762552",
+   "title": "Project Manager",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "jira",
+    "scrum",
+    "agile"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Project-Manager/Prohuman-d.o.o/762552",
+   "summary": "Prohuman d.o.o. Beograd 27.10.2026. Jira SCRUM Agile Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761660",
+   "title": "Senior .NET Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "sql",
+    "entity framework",
+    "rest"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-.NET-Developer/Silver-Bell-Group-d.o.o/761660",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. .NET C# SQL Entity Framework REST .NET Core Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761673",
+   "title": "Senior DevOps Engineer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "aws",
+    "docker",
+    "azure",
+    "devops",
+    "cloud",
+    "kubernetes"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-DevOps-Engineer/Silver-Bell-Group-d.o.o/761673",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. AWS Docker Azure DevOps Cloud Kubernetes Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761674",
+   "title": "Senior Frontend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "css",
+    "html",
+    "angular",
+    "rest",
+    "typescript"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Frontend-Developer/Silver-Bell-Group-d.o.o/761674",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. JavaScript CSS HTML Angular REST TypeScript Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761671",
+   "title": "Senior Full Stack Developer (.NET & Angular/React)",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "sql",
+    "angular",
+    "sql server",
+    "rest"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Developer-.NET-AngularReact/Silver-Bell-Group-d.o.o/761671",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. .NET C# SQL Angular SQL Server REST Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761667",
+   "title": "Senior Full Stack Developer (Node.js & React)",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "node",
+    "nosql",
+    "rest",
+    "typescript"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Developer-Node.javascript-React/Silver-Bell-Group-d.o.o/761667",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Node Node.js NoSQL REST TypeScript Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761675",
+   "title": "Senior Golang Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "docker",
+    "rest",
+    "golang",
+    "microservices",
+    "kubernetes"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Golang-Developer/Silver-Bell-Group-d.o.o/761675",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Docker REST Golang Microservices Kubernetes Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761676",
+   "title": "Senior IT Project Manager",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-IT-Project-Manager/Silver-Bell-Group-d.o.o/761676",
+   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761663",
+   "title": "Senior Java Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "spring",
+    "java",
+    "rest",
+    "microservices"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Java-Developer/Silver-Bell-Group-d.o.o/761663",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Spring Java REST Microservices Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761665",
+   "title": "Senior Node.js Backend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "javascript",
+    "node",
+    "nosql",
+    "postgresql",
+    "typescript",
+    "mongodb",
+    "express"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Node.javascript-Backend-Developer/Silver-Bell-Group-d.o.o/761665",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL JavaScript Node Node.js NoSQL PostgreSQL TypeScript MongoDB Express Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761666",
+   "title": "Senior Python Backend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "python",
+    "django",
+    "postgresql",
+    "rest",
+    "flask"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Python-Backend-Developer/Silver-Bell-Group-d.o.o/761666",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. Python Django PostgreSQL REST Flask Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761656",
+   "title": "Technical Support Specialist – English",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Technical-Support-Specialist-English/Silver-Bell-Group-d.o.o/761656",
+   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Junior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762174",
+   "title": "UX Researcher",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/UX-Researcher/MaxBet-d.o.o/762174",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762173",
+   "title": "UX/Product Designer",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "ios",
+    "android"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/UXProduct-Designer/MaxBet-d.o.o/762173",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. iOS Android Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  }
+ ]
+}
