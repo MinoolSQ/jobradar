@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-26T14:25:58+00:00",
+ "generated_at": "2026-10-26T23:12:26+00:00",
  "window_days": 3,
  "cutoff": "2026-10-23",
  "count": 41,
- "new_count": 6,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 26,
+   "vraceno": 27,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 24,
+   "vraceno": 25,
    "strane": 1,
    "stop": "kraj"
   },
@@ -117,7 +117,7 @@
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 93,
+   "vraceno": 94,
    "strane": 4,
    "stop": "kraj"
   },
@@ -132,7 +132,7 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 36,
+   "vraceno": 37,
    "strane": 2,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 54,
+   "vraceno": 58,
    "strane": 2,
    "stop": "kraj"
   }
