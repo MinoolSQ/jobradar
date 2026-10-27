@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-26T23:12:26+00:00",
+ "generated_at": "2026-10-27T06:28:56+00:00",
  "window_days": 3,
- "cutoff": "2026-10-23",
- "count": 41,
+ "cutoff": "2026-10-24",
+ "count": 37,
  "new_count": 0,
  "errors": [],
  "infostud_queries": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 3,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 27,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 3,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,23 +102,23 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 25,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 15,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 47,
-   "strane": 2,
+   "vraceno": 23,
+   "strane": 1,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 94,
-   "strane": 4,
+   "vraceno": 52,
+   "strane": 2,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,13 +127,13 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 23,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 37,
-   "strane": 2,
+   "vraceno": 16,
+   "strane": 1,
    "stop": "kraj"
   },
   "serviser": {
@@ -142,7 +142,7 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 3,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 58,
+   "vraceno": 35,
    "strane": 2,
    "stop": "kraj"
   }
@@ -368,109 +368,6 @@
    "first_seen": "2026-10-25T06:22:17+00:00"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1137562",
-   "title": "Senior Frontend Engineer",
-   "company": "B2spin",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "front end",
-    "design",
-    "react",
-    "embedded",
-    "sys admin",
-    "game dev",
-    "technical",
-    "dev",
-    "testing",
-    "marketing",
-    "web dev",
-    "javascript"
-   ],
-   "posted": "2026-10-23",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
-   "summary": "About B2Spin We are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the indus",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-24T16:44:55+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "763818",
-   "title": "IT - GA administrator",
-   "company": "Yura Corporation d.o.o.",
-   "location": "Rača",
-   "remote": false,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-23",
-   "expires": "07.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/it-ga-administrator/yura-corporation-doo/763818",
-   "summary": "The IT Administrator ensures reliable operation and maintenance of network, server and endpoint systems to support production activities. The role's primary impact is sustaining IT infrastructure availability and compliance by managing networks, Windows servers, MES workstations, CCTV and IT inventory to enable uninterrupted manufacturing operations.",
-   "matched": [
-    "administrator",
-    "it support"
-   ],
-   "first_seen": "2026-10-23T17:54:46+00:00",
-   "details": "O poslodavcu YURA Corporation is one of the leading wiring harness suppliers for the automotive industry. We started our production in Serbia in 2010. Since then, we have opened four factories and hired more than 6,000 employees in Rača, Niš, and Leskovac. We are proud of our young and ambitious team. To support the continuous growth of our operations, we are looking for a motivated and skilled professional to join our IT department in Rača. IT Administrator Key Responsibilities: Administration and maintenance of network infrastructure, including Cisco and Mikrotik devices; Maintenance and troubleshooting of local area networks (LAN and Wi-Fi); Administration of Windows-based servers, workstations, storage systems, and client-side security solutions; Installation and configuration of MES agents on workstations, including integration with measuring instruments, scanners, and printers; Deployment and maintenance of relevant software packages across end-user devices; Monitoring, administration, and maintenance of video surveillance systems (CCTV); Coordination of procurement, inventory management, and tracking of IT and telecommunications equipment (e.g., computers, mobile devices, printers, consumables); Providing first-level IT support to internal users across departments; Maintenance of documentation and records related to CCTV systems, servers, active network devices, and access control infrastructure; Active involvement in responding to customer requests (e.g., generating reports) and supporting internal and external audit processes (IATF); Coordination of repairs and preventive maintenance, monitoring expenses and preparing reports. Reference: MafT1qZqZPuj0hmFBYOMEpHtorkg4F-Z10fNak_M0PQ0jjawxFhq6Iv4F8aA0VVk What do we expect: Technical education (University degree is a plus). Solid Cisco network equipment understanding. Advanced knowledge of Microsoft Windows system administration. Strong knowledge of Microsoft Office suite, Internet. Solid understanding of computer and server hardware. Conversational level of English (mandatory). Strong organizational and multitasking skills. Team player with a proactive and problem-solving approach. What We Offer: Work in a dynamic and positive team environment; Monthly performance-based bonuses; Opportunities for professional development and continuous learning. Your CV should be submitted in English. Yura Corporation doo Yura Corporation, a global automotive industry supplier of electrical and electronic components, is leading the development of core parts for eco-friendly cars. Yura Corporation specializes in designing, developing, and manufacturing automotive electronics including Wiring harness and ICUs. The company was established in 1993. and today, with a network of 22 corporations and 45 business sites in 16 countries, the company has solidified it’s position as a global specialist in the automotive… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Rača IT IT Administrator IT - GA administrator Blog O nama Česta pi"
-  },
-  {
-   "source": "infostud",
-   "id": "763745",
-   "title": "Infrastructure Engineer - Belgrade, hybrid",
-   "company": "IGT D&B d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "VPN",
-    "BGP",
-    "IPSEC",
-    "QoS",
-    "OSPF",
-    "HSRP",
-    "Sistemska administracija",
-    "IPS"
-   ],
-   "posted": "2026-10-23",
-   "expires": "22.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/infrastructure-engineer-belgrade-hybrid/igt-d-b-doo/763745",
-   "summary": "This role exists to deploy and support network infrastructure for SportsBetting clients ensuring stable secure production environments. The engineer will implement network features and security controls and collaborate across teams to monitor troubleshoot and optimize operational networks.",
-   "matched": [
-    "data engineer",
-    "administrator",
-    "it support"
-   ],
-   "first_seen": "2026-10-23T12:42:51+00:00",
-   "details": "O poslodavcu Your growth matters. At IGT, we're building a culture where people Innovate with Purpose, Compete Intensely & Win, Lead with Heart, Make It Matter, and Create Value. Grow your career while helping shape what's next. Build what's next at IGT. Role Overview As an Infrastructure Engineer your involvement will begin from deploying network infrastructure for SportsBetting clients and continue with support and maintenance once system is in the production. You will be part of SportsBetting infrastructure team and throughout this process, you will closely collaborate with team members from various disciplines, including Database, Operations, Web, Mobile Apps and the Firstline Support team. Also, you will collaborate with our clients, partners and vendors on network infrastructure projects. Your team lead will be there to support you, provide training, and offer technical guidance. We believe in fostering a positive atmosphere, promoting teamwork, and valuing cooperation among all team members. We strongly emphasize personal development and continually invest in training, coaching, and career progression for our employees. We are dedicated to creating a professional environment that encourages growth, collaboration, and a balance between work and personal life. What You'll Do Deploy, manage and troubleshoot the operational state of a production data centers network infrastructure Implement new network-related features and services and optimize existing ones Configure and maintain networking monitoring and logging tools Implement security best practices, including access controls, firewalls, and intrusion detection/prevention systems Collaborate with teams worldwide to streamline processes and workflows Monitor and ensure compliance with operational standards and procedures Troubleshoot and address operational issues promptly Reference: _KklWSQ2u7PcPB3gA83xt-Oi9WR-wO7cZ1jprCCrrLZmArNcYORl-Xcvnyp9wg-Y About You Direct experience with complex networks for at least five years Hands-on experience with FortiGate firewalls including IPS/IDS, SDWAN and VPN technologies Good knowledge of LAN technologies and experience with network switching products from various vendors Deep understanding of networking protocols (e.g., IPSEC, HSRP, BGP, OSPF, 802.11, QoS) Hands-on experience with load balancer products and technologies Knowledge of CDN solutions Experience with network monitoring and logging tools, both enterprise and open source Strong troubleshooting, problem-solving and analytical abilities Ability to work independently and without constant supervision Strong problem-solving skills, attention to details and ability to manage multiple tasks simultaneously Adaptability to work in a fast-paced and dynamic sports betting environment What We'd Prefer Bachelor’s degree in Computer Science, Information Technology, or equivalent experience Industry certifications from networking vendors Passion for sports betting and a good understanding of industry trends Benefits and Culture Vibrant and stimulating work environment within Class-A office space. Opportunity to learn and further improve your skills. Opportunity to develop a career within a stable environment. Full-time/permanent employment and competitive salary. Private health insurance for you and your family. Flexible working hours including work from home and from office. #LI-TJ1 #LI-HYBRID Why join IGT? At IGT, our greatest competitive advantage is our people. We take ownership, work with ur"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-discord-qa-devops-engineer",
-   "title": "QA/DevOps Engineer",
-   "company": "Discord",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-23",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
-   "summary": "Headquarters: San Francisco Bay Area or Remote (U.S.) Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, a",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-23T12:42:51+00:00"
-  },
-  {
    "source": "helloworld",
    "id": "763402",
    "title": "Data Analyst in Promotion Department",
@@ -537,7 +434,7 @@
    "expires": "27.10.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Backend-Engineer-Python/MDPI-AG/761491",
-   "summary": "MDPI AG 2.7 Beograd 27.10.2026. MySQL SQL Git Python Docker PostgreSQL DevOps REST MariaDB Kubernetes Senior RSP oglas",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. MySQL SQL Git Python Docker PostgreSQL DevOps REST MariaDB Kubernetes Senior Istaknuti poslodavci RSP oglas",
    "matched": [
     "helloworld"
    ],

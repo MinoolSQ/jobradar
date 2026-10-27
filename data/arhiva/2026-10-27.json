@@ -1,0 +1,1089 @@
+{
+ "generated_at": "2026-10-27T06:28:56+00:00",
+ "window_days": 3,
+ "cutoff": "2026-10-24",
+ "count": 37,
+ "new_count": 0,
+ "errors": [],
+ "infostud_queries": {
+  "python": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data engineer": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data inzenjer": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "podaci": {
+   "vraceno": 19,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "etl": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "databricks": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "spark": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "airflow": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "backend": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "sql": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "aws": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data platform": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "kubernetes": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "fastapi": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data analyst": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "devops": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "junior": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 17,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 9,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 23,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 52,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 14,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 16,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "serviser": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "mrezni": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "windows": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "racunari": {
+   "vraceno": 35,
+   "strane": 2,
+   "stop": "kraj"
+  }
+ },
+ "jobs": [
+  {
+   "source": "infostud",
+   "id": "763910",
+   "title": "Casino Management System Technician",
+   "company": "Soccerbet",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "CMS",
+    "Sistemska administracija",
+    "BI"
+   ],
+   "posted": "2026-10-26",
+   "expires": "10.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/casino-management-system-technician/soccerbet/763910",
+   "summary": "Tehničar za CMS odgovoran je za održavanje i pouzdan rad casino management sistema na terenu kako bi uplatna mesta bila operativna. Kandidat će vršiti dijagnostiku i servis lokalnih servera i uređaja te instalirati i puštati u rad CMS prilikom otvaranja novih lokacija.",
+   "matched": [
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00",
+   "details": "O poslodavcu Soccerbet je jedan od vodećih brendova u oblasti sportskog klađenja i igara na sreću na tržištu Srbije. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o., koja zapošljava preko 1.500 zaposlenih i posluje na više od 260 lokacija širom zemlje, kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Zbog proširenja obima posla, tražimo novog člana na poziciji CASINO MANAGEMENT SYSTEM TECHNICIAN Tvoje odgovornosti bi bile: Održavanje postojećih CMS instalacija na uplatnim mestima; Dijagnostika, servisiranje i održavanje lokalnih jackpot servera na uplatnim mestima; Instalacija kompletnih CMS sistema prilikom otvaranja novih uplatnih mesta; Održavanje i snabdevanje mreže potrebnim QR kodovima; Vođenje i održavanje lagera eTITO i MCMS SMIB uređaja, kao i ostale pripadajuće opreme; Priprema, zamena, dijagnostika i osnovna popravka CMS hardverskih komponenti; Dijagnostika i održavanje mrežnog segmenta u okviru mreže automata; Provera komunikacije između automata, SMIB uređaja, lokalnih servera i centralnih sistema; Saradnja i koordinacija sa IT sektorom kod problema koji se odnose na mrežnu infrastrukturu, komunikaciju i ostale povezane sisteme; Terenski rad i tehnička podrška uplatnim mestima prema potrebi. Reference: EAtQyRiGvm3iM6f5PxOYFO5zgbUDVMqe4BQKQDFENGNII3Kr7ZWfxot1cKtbHvlF Kvalifikacije i veštine koje je potrebno da imaš: Minimum IV stepen stručne spreme; Minimum 2. godine radnog iskustva u gambling industriji (IT sektor, Casino sektor, itd.); Dobro poznavanje računarske opreme i hardvera; Osnovno poznavanje računarskih mreža; Poznavanje elektronike i dijagnostike elektronskih uređaja predstavlja prednost; Poželjno praktično iskustvo sa računarima, elektronikom, mrežama ili srodnim tehničkim poslovima; Vozačka dozvola B kategorije (aktivan vozač). Ukoliko želite da postanete deo našeg tima, svoju radnu biografiju možete da pošaljete elektronskim putem. Biće kontaktirani samo kandidati koji uđu u uži izbor! NAPOMENA Slanjem prijave, kandidat daje pristanak: da kompanija njegove lične podatke obrađuje u postupku selekcije, a u skladu sa Zakonom o zaštiti podataka o ličnosti; da bude kontaktiran u periodu od godinu dana ukoliko se ukaže prilika za angažovanje na istom ili sličnom radnom mestu. Soccerbet Soccerbet je jedan od lidera u konkurenciji onih koji u Srbiji priređuju sportske igre na sreću. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o. koja zapošljava preko 1000 zaposlenih i posluje najviše od 280 lokacija, širom zemlje kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Uplatna mesta Soccerbet, s brendiranim obeležjima, odišu prijatnim i modernim ambijentima. Korektan odnos zaposlenih, a pre… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician Casino Management System Technician Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti"
+  },
+  {
+   "source": "infostud",
+   "id": "763578",
+   "title": "Customer Support Representative",
+   "company": "Clirel LTD - CRG",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-26",
+   "expires": "25.11.2026",
+   "salary": "bruto 1.400 - 2.000 EUR (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/customer-support-representative/clirel-ltd-crg/763578",
+   "summary": "This remote Customer Support Representative role exists to deliver timely specialist support to iGaming customers across live chat and email and to uphold high service quality standards. The role focuses on accurate case handling and escalation to maintain customer satisfaction and operational compliance.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00",
+   "details": "O poslodavcu CRG is a Cyprus-based B2B service provider specializing in customer support and business solutions for the iGaming industry. We work with international partners to deliver high-quality, efficient, and customer-focused services in a fast-paced and constantly evolving environment. Our team consists of dedicated professionals who value teamwork, innovation, and continuous improvement. As we continue to grow, we are looking for motivated individuals to join our team and contribute to our continued success. We are looking for talented Customer Support Representative to join our team remotely. Monthly salary range: €1,400-€2,000 (gross) + performance bonus Depending on experience and performance. Work schedule: 4 days on, 4 days off. An option of 2 shifts to be permanently put on: 10:00-22:00 or 22:00-10:00 (Cyprus local time). Job Description & Responsibilities: Provide professional and efficient customer support via live chat and email. Assist customers with account-related inquiries, technical issues, payments, withdrawals, bonuses, and promotional offers. Handle customer concerns with empathy, professionalism, and a solution-oriented approach. Maintain a strong understanding of iGaming products, platform features, terms and conditions, and promotional campaigns. Conduct initial investigations into customer inquiries and escalate complex cases to the appropriate departments. Follow internal procedures, compliance requirements, and responsible gaming guidelines. Ensure accurate documentation of customer interactions and maintain high service quality standards. Collaborate with internal teams to ensure a smooth and positive customer experience. Reference: DITnixBLCCgQYlgS2fri23qEPXHBVNCA8-5Hegd_AIQ338bKrrU01gNFs2XMKELN Experience and qualifications: Minimum 2 years of experience in online customer support. Minimum 1 year of experience in the iGaming industry. Excellent written and verbal communication skills in English. Strong computer literacy and typing skills. Ability to multitask efficiently while maintaining attention to detail. Strong problem-solving skills and a customer-focused mindset. Ability to work independently in a remote environment. Familiarity with CRM systems, live chat platforms, and customer support tools is an advantage. What We Offer: A competitive and attractive remuneration package that values your skills and contributions. The chance to join a dynamic, forward-thinking European company and play a key role in its success. Performance-based monthly bonuses. Flexible remote work. We look forward to hearing from you! Please note: Due to the high volume of applications, only shortlisted candidates will be contacted. Thank you for your understanding. Clirel LTD Kipar, Inostranstvo, Aglantzias 21 COMPLEX 21B, floor 2, office 1 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Administracija Službenik za prijem i pomoć klijentima Customer Support Representative Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje "
+  },
+  {
+   "source": "infostud",
+   "id": "763994",
+   "title": "IT tehničar",
+   "company": "Snaga mladosti OZ",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows Server",
+    "Windows",
+    "VPN",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-26",
+   "expires": "10.11.2026",
+   "salary": "neto 120.000 - 130.000 RSD (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar/snaga-mladosti-oz/763994",
+   "summary": "IT tehničar je potreban za održavanje i pouzdano funkcionisanje računarske i mrežne infrastrukture kako bi se omogućio neprekidan rad zaposlenih. Kandidat će obavljati instalaciju i podršku za Windows i server okruženja, mreže, IP video nadzor i pružati svakodnevnu tehničku podršku.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00",
+   "details": "O poslodavcu Poznatoj firmi na opštini Palilula - Krnjača, hitno potreban radnik na poziciji: IT TEHNIČAR m/ž Radno vreme: od 08h do 16h Slobodni dani: Vikend Dogovorena zarada: Početna plata od 120.000 rsd sa tendencijom brzog rasta Opis posla: Održavanje računarske i mrežne opreme (računari, serveri, štampači, ruteri, switchevi, Wi-Fi uređaji i IP video nadzor): Instalacija i konfiguracija hardvera i softvera (Windows i Windows Server okruženja). Podešavanje i održavanje LAN i Wi-Fi mreža, VPN veza i pristupa za udaljeni rad. Instalacija, konfiguracija i održavanje štampača. Instalacija, konfiguracija i održavanje IP video nadzora (IP kamere i NVR uređaji – Hikvision). Instalacija, konfiguracija i održavanje IP telefonskog sistema. podešavanje mobilnih telefona zaposlenih, instalacija i konfiguracija aplikacija (elektronska pošta, pristup video nadzoru i sl.). Zaštita podataka i IT sistema (backup, ažuriranje sistema, antivirusna zaštita i sl.). Administracija korisničkih naloga i elektronske pošte. Tehnička podrška zaposlenima, praćenje i rešavanje IT problema u svakodnevnom radu. Saradnja sa eksternim IT partnerima i dobavljačima. Reference: QvH3UQOwXi7kAf3G3fpiAz8nFQN-sp_KAspamHMmUj5ELXoLEloipd3mFKjJuumS Uslovi: Iskustvo na istim ili sličnim poslovima. Poznavanje instalacije, konfiguracije i održavanja Windows operativnih sistema i Windows Server okruženja. Poznavanje administracije korisničkih naloga i elektronske pošte. Poznavanje podešavanja i održavanja LAN i Wi-Fi mreža i VPN veza. Razumevanje sigurnosnih standarda i procedura. Sposobnost brzog rešavanja problema i samostalnog rada. Vozačka dozvola B kategorije. Poznavanje engleskog jezika. Ukoliko želite stabilan posao, redovnu isplatu u skladu sa zakonom, mogućnost napredovanja i rasta, ovo je posao za Vas. Prijavite se na broj u dnu oglasa ili elektronskim putem. Studentsko-omladinske zadruge mogu angažovati isključivo lica koja nisu mlađa od 15 godina ni starija od 30 godina na osnovu Zakona o zadrugama (član 23). Ostale prijave neće biti uzete u razmatranje. Snaga mladosti OZ Makenzijeva 57, Vracar, Beograd PIB: 107260971 Matični broj: 20770490 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician IT tehničar Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi S"
+  },
+  {
+   "source": "infostud",
+   "id": "764074",
+   "title": "Junior IT poslovni analitičar / Projektni koordinator",
+   "company": "DP Lux Distribution",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-26",
+   "expires": "10.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-it-poslovni-analiticar-projektni-koordinator/dp-lux-distribution/764074",
+   "summary": "Pozicija je namenjena kandidatu koji će podržavati realizaciju IT i digitalnih projekata kroz analizu poslovnih potreba i koordinaciju aktivnosti. Glavni cilj uloge je unapređenje poslovnih procesa i osiguravanje pravovremene implementacije softverskih rešenja uz podršku u profesionalnom napredovanju.",
+   "matched": [
+    "junior",
+    "it podrska"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00",
+   "details": "O poslodavcu Junior IT poslovni analitičar / Projektni koordinator - jedna radna pozicija DP Lux Group O poziciji DP Lux Group traži motivisanu i analitičnu osobu koja želi da razvija karijeru u oblasti poslovne analize, IT projekata i digitalne transformacije. Kao član IT tima, učestvovaćeš u realizaciji projekata unapređenja poslovnih procesa, implementaciji novih softverskih rešenja i razvoju postojećih sistema. Pozicija kombinuje poslovnu analizu i koordinaciju projekata, uz mogućnost postepenog preuzimanja većih odgovornosti i profesionalnog razvoja. Tvoje ključne odgovornosti Saradnja sa poslovnim korisnicima u razumevanju njihovih potreba i identifikovanju mogućnosti za unapređenje procesa. Prikupljanje, analiza i dokumentovanje poslovnih i funkcionalnih zahteva. Učešće u analizi postojećih procesa i definisanju predloga unapređenja. Priprema i održavanje projektne i funkcionalne dokumentacije. Koordinacija projektnih aktivnosti i praćenje zadataka, rokova i realizacije. Komunikacija sa internim timovima, poslovnim korisnicima i eksternim dobavljačima softverskih rešenja. Organizacija sastanaka, priprema zapisnika i praćenje dogovorenih aktivnosti. Učešće u testiranju novih funkcionalnosti, evidentiranju problema i praćenju njihovog rešavanja. Priprema izveštaja o napretku projekata i podrška u identifikovanju rizika i otvorenih pitanja. Reference: qRk5MqckQ-5culTp40wKoiiB3_isJasi4x2HWKkvSsi3yIWfB6nsr-Tp8A2OKElx Šta očekujemo od tebe Visoko obrazovanje ili završne godine studija iz oblasti informacionih tehnologija, organizacionih nauka, ekonomije ili srodnih oblasti. Poželjno prethodno iskustvo do dve godine u poslovnoj analizi, IT projektima, implementaciji poslovnih sistema ili sličnim poslovima. Razvijene analitičke sposobnosti i sposobnost strukturiranja informacija i rešavanja problema. Dobru organizovanost, odgovornost i pažnju prema detaljima. Jasnu pisanu i usmenu komunikaciju i sposobnost saradnje sa različitim timovima. Dobro poznavanje MS Office alata, posebno Excel-a. Proaktivnost, samostalnost u izvršavanju poverenih zadataka i spremnost za učenje. Prednost je ako imaš Iskustvo u radu sa poslovnim softverskim rešenjima (ERP, CRM, BI, e-commerce ili sličnim sistemima). Osnovno razumevanje životnog ciklusa IT projekata i razvoja softverskih rešenja. Iskustvo u prikupljanju i dokumentovanju poslovnih zahteva. Iskustvo u testiranju softvera ili radu sa poslovnim korisnicima prilikom implementacije novih rešenja. Šta nudimo Rad na raznovrsnim IT i digitalnim projektima u okviru DP Lux Group. Priliku da upoznaš poslovne procese i informaciona rešenja kompanije koja posluje na više tržišta. Saradnju sa iskusnim kolegama i eksternim tehnološkim partnerima. Podršku u profesionalnom razvoju i postepenom preuzimanju složenijih zadataka. Ukoliko želite da svojim znanjem i iskustvom doprinesete realizaciji važnih IT i digitalnih inicijativa u kompaniji DP Lux, pozivamo vas da se prijavite. DP Lux Group DP LUX Group je kompanija koja uspešno posluje kao distributer preko 90 brendova u 12 zemalja Evrope i sarađuje sa najznačajnijim „beauty“ trgovinskim lancima u regionu, čime pokriva tržište od preko 65 miliona stanovnika u Evropi. DP Lux Group u svom sastavu ima i jedan od najvećih lanaca niche parfimerija u Evropi, Belodore koji posluje u 6 zemalja, kao i lanac high-end parfimerija Plaza i lanac parfimerija Almara. Na ovaj način DP LUX Group ima zavidnu… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestit"
+  },
+  {
+   "source": "infostud",
+   "id": "764004",
+   "title": "Measurement Specialist",
+   "company": "s360",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "JavaScript",
+    "QA",
+    "Prodaja / konsultanti",
+    "Cloud"
+   ],
+   "posted": "2026-10-26",
+   "expires": "10.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/measurement-specialist/s360/764004",
+   "summary": "This role ensures measurement setups deliver reliable tracking and accurate analytics for Danish clients. The specialist owns implementations, troubleshooting, quality assurance, and documentation to make marketing data trustworthy and operational for client teams.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00",
+   "details": "O poslodavcu Do you enjoy finding out why a conversion stopped firing, and then fixing it properly? Want to turn tracking data into decisions clients can trust? At s360, you will help Danish clients build measurement setups that make their marketing more reliable and useful. You will be working closely with the Measurement team across Europe to make sure the data our clients use to run their marketing is correct. Measurement Specialist is a dedicated measurement and tracking specialist role, not a software development position. Your focus is 100% on tags, analytics pipelines, and data reliability. Deliver tracking that holds up You will work across quick fixes and larger implementations, making sure setups are technically sound, well documented, and ready for client use. On smaller tasks, you will own the process from start to finish, including client contact. On larger builds, a Denmark-based lead will handle scoping and the client relationship while you own the delivery. Your main responsibilities will be: Troubleshooting: Find and fix tracking issues across Google Ads, GA4, Meta and other ad platforms for Danish clients. Implementation projects: Build and configure GA4 and Google Tag Manager setups, client-side and server-side, including Consent Mode v2, Enhanced Conversions and conversion APIs. dataLayer specifications: Write dataLayer specifications for client developers and validate their implementation before go-live. Ownership: Own small tasks end to end, including direct client contact, and deliver the build on larger projects scoped by a Denmark-based lead. Quality assurance: Test every setup before handover so it passes Quality Assurance checks without rework. Documentation: Document each implementation so a colleague can take it over without a handover meeting. Reference: vbMuDrjHwUCBc73yxs0QrVKZSlCHkc4hUVSdMbgg7BMn-loqBfIyDNCRXVoX9THE Join our international Measurement team You will be joining our growing and international Measurement team, made up of specialists from different countries, all sharing the same passion for making data come alive and turning numbers into real impact. Most of your work will be for Danish clients, together with colleagues in Denmark and Barcelona who know these accounts well. We talk through difficult setups in our weekly team meeting, and you'll always have someone to spar with when a problem doesn't make sense. Your day-to-day base will be our office in central Belgrade, which you'll share with s360 colleagues from other teams. You'll be one of the first Measurement specialists in Belgrade, so you'll have a real say in how we set up the work there. Bring hands-on tracking skills and technical depth We are looking for a colleague who can work independently, communicate clearly, and keep quality high across both quick fixes and longer builds. You are the kind of person who tests before you hand anything over, and you speak up when something in a setup doesn't add up. You'll probably be a good fit if you recognise the following about yourself: Advanced Analytics & Tagging: You have 2+ years of hands-on experience with GTM (client- and server-side via Stape/Google Cloud), GA4 (custom events, e-commerce, debugging), plus enough JavaScript to navigate and customize the dataLayer comfortably. Ad Platform Tracking & Privacy Compliance: You are experienced in setting up conversion tracking across Google Ads and Meta (Enhanced Conversions, Conversions API), backed by a solid understanding of Consent Mod"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-upstart-devops-engineer-ii-cloud-platform",
+   "title": "DevOps Engineer II, Cloud Platform",
+   "company": "Upstart",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-26",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
+   "summary": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with b",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137569",
+   "title": "Field Phlebotomy Supervisor Northern California",
+   "company": "Getlabs",
+   "location": "Remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "supervisor",
+    "testing",
+    "marketing",
+    "exec",
+    "mobile",
+    "ops",
+    "medical",
+    "full time"
+   ],
+   "posted": "2026-10-24",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+   "summary": "Getlabs is the leading platform for at-home diagnostics. Healthcare organizations use Getlabs to send mobile phlebotomists to patientsâ homes and collect labs, vitals, and advanced diagnostics. By leveraging Getlabs, partners can improve patient adherence and close gaps in care with same-day, nationwide availability. Our team has raised $50M from strategic investors including the two largest dia",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-25T17:06:59+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137568",
+   "title": "Solutions Engineer",
+   "company": "Onebrief",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "ansible",
+    "grafana",
+    "sys admin",
+    "infosec",
+    "python",
+    "docker",
+    "technical",
+    "recruiter",
+    "customer support",
+    "dev",
+    "testing"
+   ],
+   "posted": "2026-10-24",
+   "expires": null,
+   "salary": "180000-220000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+   "summary": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helpi",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-25T06:22:17+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "763402",
+   "title": "Data Analyst in Promotion Department",
+   "company": "Lidl Srbija KD",
+   "location": "Nova Pazova",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Analyst-in-Promotion-Department/Lidl-Srbija-KD/763402",
+   "summary": "Lidl Srbija KD 4 Nova Pazova 27.10.2026. Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-21T22:32:20+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762972",
+   "title": "Inkompass Internship",
+   "company": "Philip Morris Services d.o.o.",
+   "location": "Niš | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Inkompass-Internship/Philip-Morris-Services-d.o.o/762972",
+   "summary": "Philip Morris Services d.o.o. 5 Fleksibilni rad Niš | Hibrid 27.10.2026. Junior global.searchSelectItemEvents = {\"762916\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762916\",\"item_name\":\"Functional Consultant MES\",\"item_index\":0,\"item_brand\":\"Enabl3\",\"item_category\":\"Consultant for Business Software\",\"item_category2\":\"Prodaja \\/ konsultanti\",\"item_category3\":\"intermediate\",\"item_c",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-20T12:49:08+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761491",
+   "title": "Backend Engineer (Python)",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "mysql",
+    "sql",
+    "git",
+    "python",
+    "docker",
+    "postgresql",
+    "devops",
+    "rest",
+    "mariadb",
+    "kubernetes"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Backend-Engineer-Python/MDPI-AG/761491",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. MySQL SQL Git Python Docker PostgreSQL DevOps REST MariaDB Kubernetes Senior Istaknuti poslodavci RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762257",
+   "title": "Business Intelligence Developer",
+   "company": "Milšped d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Business-Intelligence-Developer/Milsped-d.o.o/762257",
+   "summary": "Milšped d.o.o. 2.3 Timska druženja Podrška porodici i roditeljstvu Beograd 27.10.2026. SQL Junior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762069",
+   "title": "Data Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Analyst/MaxBet-d.o.o/762069",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. SQL Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761492",
+   "title": "Data Engineer",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "python",
+    "docker"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Data-Engineer/MDPI-AG/761492",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. SQL Python Docker Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762543",
+   "title": "IT Manager",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "windows server",
+    "windows",
+    "cloud",
+    "active directory"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Manager/Prohuman-d.o.o/762543",
+   "summary": "Prohuman d.o.o. Beograd 27.10.2026. Windows Server Windows Cloud Active Directory Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761509",
+   "title": "IT Security Engineer",
+   "company": "MDPI AG",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "linux",
+    "sharepoint",
+    "bash"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Security-Engineer/MDPI-AG/761509",
+   "summary": "MDPI AG 2.7 Beograd 27.10.2026. Linux SharePoint Bash Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762597",
+   "title": "IT Service Portfolio Coordinator",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "sharepoint"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/IT-Service-Portfolio-Coordinator/Prohuman-d.o.o/762597",
+   "summary": "Prohuman d.o.o. Beograd 27.10.2026. SharePoint Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761925",
+   "title": "Inženjer za generativnu veštačku inteligenciju",
+   "company": "Netex d.o.o.",
+   "location": "Beograd, Niš, Novi Sad, Zrenjanin",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "python",
+    "typescript",
+    "cloud"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Inzenjer-za-generativnu-vestacku-inteligenciju/Netex-d.o.o/761925",
+   "summary": "Netex d.o.o. Beograd, Niš, Novi Sad, Zrenjanin online intervju 27.10.2026. JavaScript Python TypeScript Cloud Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762057",
+   "title": "Istraživač",
+   "company": "Institut Mihajlo Pupin d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Istrazivac/Institut-Mihajlo-Pupin-d.o.o/762057",
+   "summary": "Institut Mihajlo Pupin d.o.o. Beograd 27.10.2026. Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762048",
+   "title": "Junior inženjer u sistemima automatskog upravljanja",
+   "company": "Institut Mihajlo Pupin IMP Automatika",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "python"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Junior-inzenjer-u-sistemima-automatskog-upravljanja/Institut-Mihajlo-Pupin-IMP-Automatika/762048",
+   "summary": "Institut Mihajlo Pupin - IMP-Automatika Beograd 27.10.2026. C++ Python Junior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762169",
+   "title": "Product Analyst",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "firebase"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Analyst/MaxBet-d.o.o/762169",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. Firebase Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762170",
+   "title": "Product Manager",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "ios",
+    "android"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Manager/MaxBet-d.o.o/762170",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. iOS Android Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762774",
+   "title": "Produkt dizajner",
+   "company": "4Zida - deo Inspira grupe",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Produkt-dizajner/4Zida-deo-Inspira-grupe/762774",
+   "summary": "4Zida - deo Inspira grupe 5 Odgovara na prijave Subotica 27.10.2026. Intermediate RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762552",
+   "title": "Project Manager",
+   "company": "Prohuman d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "jira",
+    "scrum",
+    "agile"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Project-Manager/Prohuman-d.o.o/762552",
+   "summary": "Prohuman d.o.o. Beograd 27.10.2026. Jira SCRUM Agile Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761660",
+   "title": "Senior .NET Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "sql",
+    "entity framework",
+    "rest"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-.NET-Developer/Silver-Bell-Group-d.o.o/761660",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. .NET C# SQL Entity Framework REST .NET Core Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761673",
+   "title": "Senior DevOps Engineer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "aws",
+    "docker",
+    "azure",
+    "devops",
+    "cloud",
+    "kubernetes"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-DevOps-Engineer/Silver-Bell-Group-d.o.o/761673",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. AWS Docker Azure DevOps Cloud Kubernetes Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761674",
+   "title": "Senior Frontend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "css",
+    "html",
+    "angular",
+    "rest",
+    "typescript"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Frontend-Developer/Silver-Bell-Group-d.o.o/761674",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. JavaScript CSS HTML Angular REST TypeScript Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761671",
+   "title": "Senior Full Stack Developer (.NET & Angular/React)",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "sql",
+    "angular",
+    "sql server",
+    "rest"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Developer-.NET-AngularReact/Silver-Bell-Group-d.o.o/761671",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. .NET C# SQL Angular SQL Server REST Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761667",
+   "title": "Senior Full Stack Developer (Node.js & React)",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "node",
+    "nosql",
+    "rest",
+    "typescript"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Full-Stack-Developer-Node.javascript-React/Silver-Bell-Group-d.o.o/761667",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Node Node.js NoSQL REST TypeScript Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761675",
+   "title": "Senior Golang Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "docker",
+    "rest",
+    "golang",
+    "microservices",
+    "kubernetes"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Golang-Developer/Silver-Bell-Group-d.o.o/761675",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Docker REST Golang Microservices Kubernetes Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761676",
+   "title": "Senior IT Project Manager",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-IT-Project-Manager/Silver-Bell-Group-d.o.o/761676",
+   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761663",
+   "title": "Senior Java Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "spring",
+    "java",
+    "rest",
+    "microservices"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Java-Developer/Silver-Bell-Group-d.o.o/761663",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL Spring Java REST Microservices Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761665",
+   "title": "Senior Node.js Backend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sql",
+    "javascript",
+    "node",
+    "nosql",
+    "postgresql",
+    "typescript",
+    "mongodb",
+    "express"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Node.javascript-Backend-Developer/Silver-Bell-Group-d.o.o/761665",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. SQL JavaScript Node Node.js NoSQL PostgreSQL TypeScript MongoDB Express Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761666",
+   "title": "Senior Python Backend Developer",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "python",
+    "django",
+    "postgresql",
+    "rest",
+    "flask"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Python-Backend-Developer/Silver-Bell-Group-d.o.o/761666",
+   "summary": "Silver Bell Group d.o.o. 4.3 Rad od kuće 27.10.2026. Python Django PostgreSQL REST Flask Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "761656",
+   "title": "Technical Support Specialist – English",
+   "company": "Silver Bell Group d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Technical-Support-Specialist-English/Silver-Bell-Group-d.o.o/761656",
+   "summary": "Silver Bell Group d.o.o. 4.3 Beograd | Hibrid 27.10.2026. Junior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762174",
+   "title": "UX Researcher",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/UX-Researcher/MaxBet-d.o.o/762174",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "762173",
+   "title": "UX/Product Designer",
+   "company": "MaxBet d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "ios",
+    "android"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "27.10.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/UXProduct-Designer/MaxBet-d.o.o/762173",
+   "summary": "MaxBet d.o.o. 4.3 Beograd 27.10.2026. iOS Android Intermediate Senior RSP oglas",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Regionalni sajam poslova",
+   "first_seen": "2026-10-19T22:56:37+00:00"
+  }
+ ]
+}
