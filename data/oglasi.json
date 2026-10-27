@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-27T06:28:56+00:00",
+ "generated_at": "2026-10-27T13:24:36+00:00",
  "window_days": 3,
  "cutoff": "2026-10-24",
- "count": 37,
- "new_count": 0,
+ "count": 39,
+ "new_count": 3,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 19,
+   "vraceno": 28,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 2,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,23 +102,23 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 17,
+   "vraceno": 22,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 9,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 23,
-   "strane": 1,
+   "vraceno": 35,
+   "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 52,
-   "strane": 2,
+   "vraceno": 80,
+   "strane": 3,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,12 +127,12 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 14,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 16,
+   "vraceno": 21,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,88 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 35,
+   "vraceno": 53,
    "strane": 2,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "764168",
+   "title": "Product Designer",
+   "company": "CAKE.com",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "CSS",
+    "HTML",
+    "Git",
+    "Figma",
+    "UI"
+   ],
+   "posted": "2026-10-27",
+   "expires": "11.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/product-designer/cakecom/764168",
+   "summary": "This role designs and refines product interfaces to deliver clear and accessible experiences across web and mobile. The designer will own visual identity, keep the design system healthy, and collaborate with engineers to turn concepts into shipped features.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-27T13:24:36+00:00",
+   "details": "O poslodavcu We're looking for a designer to help us elevate our software products further. Who We Are CAKE.com is a unicorn product-based company with a global presence in North America (USA), Europe (primarily in the Balkans), and Asia (Philippines). We build products that power millions worldwide, including: Clockify – The world’s #1 time tracker, trusted by companies like Hewlett-Packard Enterprise, American Express, Amazon and many more. Pumble – The all-in-one team communication app. Plaky – A task management software for simple & visual project planning. Reference: 6BCPDrQhB0g5-An1H9qcWMNLNMN7-RJovhGbbLaB_jM-t51nhz--t7-p-bgKSIT5 What You’ll Do Design and improve interfaces that just make sense to our users. You’ll jump into problems with cross-functional teammates across the whole spectrum—one day tweaking a confusing error screen to make it friendlier, the next helping create a new massive cross-product feature from start to finish. Build wireframes and prototypes in Figma or an agentic IDE to test ideas with stakeholders and show engineers what the final experience should look like. Dig into how competitors solve tricky flows, and use those insights to make our own products better. Keep our design system healthy and up to date, manage tokens, organize components, and add new patterns as we further develop our platform. Make accessibility a natural part of your workflow, ensuring what we ship works well for everyone (meeting WCAG 2.1 AA). Have a sharp eye for visual bugs and UX rough edges, and jump in to help smooth them out. Turn messy product briefs into clean, intuitive designs that solve real user problems without overcomplicating things. Own the visual identity of our products, making sure every screen feels cohesive, polished, and aesthetically pleasing. Team up closely with product managers and engineers to turn ideas into shipped software. Work with engineering directly on making sure the dev library and design systems are synced. Must-Haves 1+ years designing software products. High proficiency using Figma. Experience with AI models and agentic workflows (Claude, Kiro, or similar). Strong copywriting skills. Strong graphic design skills (spacing & typography). Knowledge of UI patterns (mobile & web). Knowledge of HCI principles and various design systems. Fluent in the English language. Basic knowledge of HTML, CSS, and Git. Ability to work in CET timezone. Fluent in Ex-Yu languages (Serbian, Bosnian, Croatian, Montenegrin). Portfolio requirements Portfolio link is required. Make sure you have at least 3-5 case studies that demonstrate your skills. Only product design case studies are considered. Nice-To-Haves Experience with a variety of SaaS productivity tools. Experience in the SaaS industry. Life at CAKE.com Innovative Environment – Work with top tech talent on cutting-edge products. Work-Life Balance – No overtime, no work on weekends and no late working hours. Medical Coverage – Private health insurance. B2B contractor model and generous leave credits – 22 vacation days + 10 sick days yearly. Continuous Learning – In-house learning programs, tech lectures, knowledge sharing. Remote Work Setup – Enjoy the flexibility of working from home with provided laptop equipment to support your work. CAKE.com CAKE.com was founded in 2009 with the goal of helping other startups develop their products. It takes many products to help people around the globe grow and prosper. We’ve created three that cover a wide range of featur"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-upsun-senior-it-systems-engineer",
+   "title": "Senior IT Systems Engineer",
+   "company": "Upsun",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-27",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
+   "summary": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products:",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-27T13:24:36+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137572",
+   "title": "Senior Software Engineer LATAM",
+   "company": "Wagmo",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "design",
+    "react",
+    "sys admin",
+    "python",
+    "django",
+    "typescript",
+    "senior",
+    "medical",
+    "engineer",
+    "digital nomad"
+   ],
+   "posted": "2026-10-26",
+   "expires": null,
+   "salary": "100000-140000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+   "summary": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-27T13:24:36+00:00"
+  },
   {
    "source": "infostud",
    "id": "763910",
@@ -184,28 +260,6 @@
    ],
    "first_seen": "2026-10-26T14:25:58+00:00",
    "details": "O poslodavcu Soccerbet je jedan od vodećih brendova u oblasti sportskog klađenja i igara na sreću na tržištu Srbije. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o., koja zapošljava preko 1.500 zaposlenih i posluje na više od 260 lokacija širom zemlje, kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Zbog proširenja obima posla, tražimo novog člana na poziciji CASINO MANAGEMENT SYSTEM TECHNICIAN Tvoje odgovornosti bi bile: Održavanje postojećih CMS instalacija na uplatnim mestima; Dijagnostika, servisiranje i održavanje lokalnih jackpot servera na uplatnim mestima; Instalacija kompletnih CMS sistema prilikom otvaranja novih uplatnih mesta; Održavanje i snabdevanje mreže potrebnim QR kodovima; Vođenje i održavanje lagera eTITO i MCMS SMIB uređaja, kao i ostale pripadajuće opreme; Priprema, zamena, dijagnostika i osnovna popravka CMS hardverskih komponenti; Dijagnostika i održavanje mrežnog segmenta u okviru mreže automata; Provera komunikacije između automata, SMIB uređaja, lokalnih servera i centralnih sistema; Saradnja i koordinacija sa IT sektorom kod problema koji se odnose na mrežnu infrastrukturu, komunikaciju i ostale povezane sisteme; Terenski rad i tehnička podrška uplatnim mestima prema potrebi. Reference: EAtQyRiGvm3iM6f5PxOYFO5zgbUDVMqe4BQKQDFENGNII3Kr7ZWfxot1cKtbHvlF Kvalifikacije i veštine koje je potrebno da imaš: Minimum IV stepen stručne spreme; Minimum 2. godine radnog iskustva u gambling industriji (IT sektor, Casino sektor, itd.); Dobro poznavanje računarske opreme i hardvera; Osnovno poznavanje računarskih mreža; Poznavanje elektronike i dijagnostike elektronskih uređaja predstavlja prednost; Poželjno praktično iskustvo sa računarima, elektronikom, mrežama ili srodnim tehničkim poslovima; Vozačka dozvola B kategorije (aktivan vozač). Ukoliko želite da postanete deo našeg tima, svoju radnu biografiju možete da pošaljete elektronskim putem. Biće kontaktirani samo kandidati koji uđu u uži izbor! NAPOMENA Slanjem prijave, kandidat daje pristanak: da kompanija njegove lične podatke obrađuje u postupku selekcije, a u skladu sa Zakonom o zaštiti podataka o ličnosti; da bude kontaktiran u periodu od godinu dana ukoliko se ukaže prilika za angažovanje na istom ili sličnom radnom mestu. Soccerbet Soccerbet je jedan od lidera u konkurenciji onih koji u Srbiji priređuju sportske igre na sreću. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o. koja zapošljava preko 1000 zaposlenih i posluje najviše od 280 lokacija, širom zemlje kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Uplatna mesta Soccerbet, s brendiranim obeležjima, odišu prijatnim i modernim ambijentima. Korektan odnos zaposlenih, a pre… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician Casino Management System Technician Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti"
-  },
-  {
-   "source": "infostud",
-   "id": "763578",
-   "title": "Customer Support Representative",
-   "company": "Clirel LTD - CRG",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "Podrška"
-   ],
-   "posted": "2026-10-26",
-   "expires": "25.11.2026",
-   "salary": "bruto 1.400 - 2.000 EUR (mesečno) ",
-   "url": "https://poslovi.infostud.com/posao/customer-support-representative/clirel-ltd-crg/763578",
-   "summary": "This remote Customer Support Representative role exists to deliver timely specialist support to iGaming customers across live chat and email and to uphold high service quality standards. The role focuses on accurate case handling and escalation to maintain customer satisfaction and operational compliance.",
-   "matched": [
-    "it support"
-   ],
-   "first_seen": "2026-10-26T14:25:58+00:00",
-   "details": "O poslodavcu CRG is a Cyprus-based B2B service provider specializing in customer support and business solutions for the iGaming industry. We work with international partners to deliver high-quality, efficient, and customer-focused services in a fast-paced and constantly evolving environment. Our team consists of dedicated professionals who value teamwork, innovation, and continuous improvement. As we continue to grow, we are looking for motivated individuals to join our team and contribute to our continued success. We are looking for talented Customer Support Representative to join our team remotely. Monthly salary range: €1,400-€2,000 (gross) + performance bonus Depending on experience and performance. Work schedule: 4 days on, 4 days off. An option of 2 shifts to be permanently put on: 10:00-22:00 or 22:00-10:00 (Cyprus local time). Job Description & Responsibilities: Provide professional and efficient customer support via live chat and email. Assist customers with account-related inquiries, technical issues, payments, withdrawals, bonuses, and promotional offers. Handle customer concerns with empathy, professionalism, and a solution-oriented approach. Maintain a strong understanding of iGaming products, platform features, terms and conditions, and promotional campaigns. Conduct initial investigations into customer inquiries and escalate complex cases to the appropriate departments. Follow internal procedures, compliance requirements, and responsible gaming guidelines. Ensure accurate documentation of customer interactions and maintain high service quality standards. Collaborate with internal teams to ensure a smooth and positive customer experience. Reference: DITnixBLCCgQYlgS2fri23qEPXHBVNCA8-5Hegd_AIQ338bKrrU01gNFs2XMKELN Experience and qualifications: Minimum 2 years of experience in online customer support. Minimum 1 year of experience in the iGaming industry. Excellent written and verbal communication skills in English. Strong computer literacy and typing skills. Ability to multitask efficiently while maintaining attention to detail. Strong problem-solving skills and a customer-focused mindset. Ability to work independently in a remote environment. Familiarity with CRM systems, live chat platforms, and customer support tools is an advantage. What We Offer: A competitive and attractive remuneration package that values your skills and contributions. The chance to join a dynamic, forward-thinking European company and play a key role in its success. Performance-based monthly bonuses. Flexible remote work. We look forward to hearing from you! Please note: Due to the high volume of applications, only shortlisted candidates will be contacted. Thank you for your understanding. Clirel LTD Kipar, Inostranstvo, Aglantzias 21 COMPLEX 21B, floor 2, office 1 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Administracija Službenik za prijem i pomoć klijentima Customer Support Representative Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje "
   },
   {
    "source": "infostud",
