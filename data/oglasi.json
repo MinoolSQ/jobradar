@@ -1,29 +1,29 @@
 {
- "generated_at": "2026-10-28T06:57:50+00:00",
+ "generated_at": "2026-10-28T14:11:20+00:00",
  "window_days": 3,
  "cutoff": "2026-10-25",
- "count": 11,
- "new_count": 0,
+ "count": 15,
+ "new_count": 4,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 4,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 30,
-   "strane": 1,
+   "vraceno": 46,
+   "strane": 2,
    "stop": "kraj"
   },
   "etl": {
@@ -47,17 +47,17 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -82,12 +82,12 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 7,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,23 +102,23 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 23,
-   "strane": 1,
+   "vraceno": 34,
+   "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 12,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 37,
+   "vraceno": 57,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 83,
-   "strane": 3,
+   "vraceno": 134,
+   "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,17 +127,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 16,
-   "strane": 1,
+   "vraceno": 33,
+   "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 25,
-   "strane": 1,
+   "vraceno": 46,
+   "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,131 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 56,
-   "strane": 2,
+   "vraceno": 87,
+   "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "764489",
+   "title": "B2B Sales Representative – AI Voicebot",
+   "company": "OneClick Solutions d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Prodaja / konsultanti",
+    "CRM"
+   ],
+   "posted": "2026-10-28",
+   "expires": "12.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/b2b-sales-representative-ai-voicebot/oneclick-solutions-doo/764489",
+   "summary": "Pozicija vodi kompletan B2B prodajni proces za AI voicebot rešenja na tržištu Srbije i regiona. Kandidat će identifikovati i kvalifikovati potrebe klijenata te zatvarati ugovore uz koordinaciju sa tehničkim i AI timom.",
+   "matched": [
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-10-28T14:11:20+00:00",
+   "details": "O poslodavcu OneClick Solutions već više od 14 godina razvija telekomunikaciona rešenja za kompanije, uključujući SMS, Viber, call centre i poslovnu telefoniju. Danas širimo poslovanje u oblasti veštačke inteligencije, sa fokusom na AI voicebot rešenja koja automatizuju telefonsku komunikaciju, korisničku podršku, prodaju i druge poslovne procese. Tražimo B2B Sales Representative-a koji će samostalno voditi prodajni proces za naše AI voicebot rešenje, od prvog kontakta do potpisivanja ugovora, prvenstveno na tržištu Srbije i regiona. Tvoje odgovornosti Kontaktiranje potencijalnih B2B klijenata i pronalaženje novih prodajnih prilika Kvalifikacija leadova i procena potreba, budžeta i potencijala za implementaciju voicebot rešenja Vođenje online sastanaka i sastanaka uživo sa klijentima Razumevanje poslovnih problema klijenata i predstavljanje odgovarajućih rešenja kroz prezentacije i demo pozive Samostalno vođenje prodajnog procesa, pregovaranje i zatvaranje ugovora Redovan follow-up sa potencijalnim klijentima Rad sa leadovima koje kompanija obezbeđuje, kao i samostalno pronalaženje novih Organizacija prodajnih aktivnosti i praćenje prilika kroz HubSpot CRM Saradnja sa tehničkim i AI timom tokom definisanja projekta i predaje klijenta nakon prodaje Reference: -I9dv3EMwx56IENA7UwIpv5P3q-jLVwh8OwQP8m7PIsbMvhI51s2fDvA_10NZiIq Šta tražimo Prethodno iskustvo u B2B prodaji Sposobnost samostalnog vođenja prodajnog procesa Odlične komunikacione i pregovaračke veštine Disciplinu u follow-up-u i organizaciji prodajnih aktivnosti Proaktivnost, samoinicijativu i usmerenost na rezultate Sposobnost da razumeš poslovni problem klijenta i prodaš vrednost rešenja, a ne samo njegove funkcionalnosti Dobro znanje engleskog jezika Iskustvo u radu sa CRM sistemima Prednost imaju kandidati sa iskustvom u prodaji SaaS, IT, telekomunikacionih ili call-centar rešenja. Prednost je i poznavanje AI alata poput ChatGPT-a i interesovanje za nove AI tehnologije. Šta nudimo Fiksnu platu + proviziju od ostvarenih rezultata Leadove generisane kroz naše marketinške kampanje Obuku za proizvod, prodajne materijale, prezentacije i demo scenarije Direktnu podršku tehničkog i AI tima tokom prodajnog procesa Mogućnost značajno veće zarade kroz ostvarene rezultate Prostor da aktivno učestvuješ u razvoju i unapređenju prodajnog procesa Rad sa savremenim AI rešenjem koje kompanijama može smanjiti troškove i automatizovati veliki deo telefonske komunikacije Mogućnost razvoja ka međunarodnoj prodaji OneClick Solutions d.o.o. OneClick Solutions više od dve decenije razvija telekomunikaciona i digitalna rešenja za domaće i regionalno tržište. Naš tim kombinuje iskustvo i inovaciju u razvoju Voice, SMS, AI i web sistema visokih performansi. Poznati smo po rešenjima koja funkcionišu u realnom vremenu i obradi velikog broja podataka, uz stabilnost, skalabilnost i stalno unapređenje tehnologije Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Komercijalista B2B Sales Representative – AI Voicebot Blog O n"
+  },
+  {
+   "source": "infostud",
+   "id": "764431",
+   "title": "DevOps Engineer - Belgrade, hybrid",
+   "company": "IGT D&B d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "AWS",
+    "Ansible",
+    "Jira",
+    "DevOps",
+    "QA",
+    "Sistemska administracija",
+    "Agile"
+   ],
+   "posted": "2026-10-28",
+   "expires": "27.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/devops-engineer-belgrade-hybrid/igt-d-b-doo/764431",
+   "summary": "This role ensures reliable and scalable AWS cloud platforms for iGaming products by owning deployments and maintaining production stability. The engineer will design and implement IaC driven delivery pipelines and optimize operational costs while collaborating with cross functional teams.",
+   "matched": [
+    "aws",
+    "devops",
+    "administrator"
+   ],
+   "first_seen": "2026-10-28T14:11:20+00:00",
+   "details": "O poslodavcu IGT: Where Innovation Meets Entertainment —Worldwide IGT is redefining the future of gaming and digital entertainment on a global scale. With the recent union of IGT Gaming & Digital and Everi, we’ve created a powerhouse spanning gaming, digital experiences, and fintech solutions. From the casino floor to mobile platforms, we deliver engaging, responsible, and unforgettable gaming experiences, powered by advanced technology, deep player insights, and a relentless drive to innovate. Whether it’s spinning reels, placing bets, or enabling secure payments, our solutions bring entertainment to life. With 7,000+ employees in more than 100 countries, we’re truly global, with strong local roots. Our teams work hand-in-hand with regulators, governments, and partners to ensure compliance while continuously pushing the boundaries of what’s possible. If you’re ready to shape the future of entertainment and gaming, your next big move starts here. Learn more at www.igt.com or www.everi.com DevOps Engineer We’re looking for an experienced DevOps Engineer to join our Core DevOps team at IGT Playdigital! The role brings with it exciting opportunities to work on some of the largest production iGaming cloud systems, and since the team has ownership of the cloud platforms you will play a vital role in not only building great solutions in AWS, but you will also be involved in the architectural design and planning phases of the deployments too! We believe in constant growth and equal ownership of systems in the IGT Play Digital DevOps team which is why we ensure that all team members work on various project verticals using different technologies and the team constantly rotates throughout the years quarters so ensure knowledge sharing and equal opportunities. What You’ll Do Contribute to new AWS deployment solutions and improvements to existing systems Deliver multiple environments in QA, Stage and Production using our DevOps tooling Implement and further develop various DevOps practices such as Automation, IaC, Configuration Management, CICD, Observability & Security Work alongside other talented DevOps engineers and SMEs within the team Identify areas of improvement, plan out solutions, and own the implementation Practice a FinOps to cost optimize workloads on AWS Implement various industry best practices in our respective fields Improve our established Terragrunt & Terraform framework and respective modules Build out new Ansible playbooks and improve existing ones and existing Ansible framework Work on a wide variety of AWS services and work alongside AWS enterprise solutions architects Take ownership of production environments and associated uptime and stability requirements Work in an agile way using Jira, daily standups and establishing communication channels with various teams Reference: oeHufJNj_kuN13_t9R-E1ImKoLKrhFxprJnnPxtvFe4_Q7FE41eelGeM9HXhXvEH About You Expert knowledge of AWS 5+ years working in a DevOps role Experienced in Terraform, Ansible Expert knowledge of Linux Knowledge of Kubernetes #LI-AM1 #LI-HYBRID IGT is committed to sustaining a workforce that reflects the diversity of the global customers and communities we serve, and to creating a fair and inclusive culture that enables all our employees to feel valued, respected, and engaged. IGT is an equal opportunity employer. We provide equal opportunities without regard to race, color, religion, gender, sexual orientation, gender identity, gender expression, pregnancy, marita"
+  },
+  {
+   "source": "infostud",
+   "id": "764351",
+   "title": "QA Software Engineer",
+   "company": "Muehlbauer Technologies d.o.o.",
+   "location": "Stara Pazova",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "JavaScript",
+    "Java",
+    "NoSQL",
+    "Git",
+    "Python",
+    "Selenium",
+    "XML",
+    "JSON",
+    "REST",
+    "QA",
+    "qa",
+    "TypeScript",
+    "RESTful",
+    "Microservices",
+    "Cypress"
+   ],
+   "posted": "2026-10-28",
+   "expires": "12.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/qa-software-engineer/muehlbauer-technologies-doo/764351",
+   "summary": "The role exists to ensure reliability and quality of complex web applications and backend microservices through comprehensive manual and automated testing. The primary impact is delivering scalable test automation and integrating tests into CI CD pipelines to enable rapid and resilient deployments.",
+   "matched": [
+    "python",
+    "data engineer",
+    "backend",
+    "sql"
+   ],
+   "first_seen": "2026-10-28T14:11:20+00:00",
+   "details": "O poslodavcu Muehlbauer Group is a global leader in the production of biometric documents and related solutions. If you are passionate about cutting-edge technology, you might have found the right place. For more than 40 years, Muehlbauer has been driving innovation, leveraging state-of-the-art technologies to deliver the highest levels of security and precision. Muehlbauer Serbia Group is seeking for motivated QA Software Engineer to join our team! Responsibilities: Design, develop, and execute comprehensive manual and automated test plans for complex web applications and backend microservices. Build and maintain scalable test automation frameworks using modern scripting languages and testing tools (e.g., Selenium, Playwright, Cypress, or REST Assured). Integrate automated testing pipelines into CI/CD workflows to ensure continuous quality and rapid feedback during deployments. Identify, isolate, and document bugs clearly, working closely with software engineers to troubleshoot and verify fixes. Conduct API, integration, and regression testing to validate high availability, throughput, and system resilience. Reference: XkbeCnPYgJRrP9LkB4GJGV88-eKmWJg8-ELd5OX_r71qy_qfITdeKVzT0z9oz7h5 Skills: Proficiency in at least one programming language (e.g., Java, Python, TypeScript, or JavaScript) for test automation. Experience testing RESTful APIs, microservice architectures, and validating data integrity using SQL or NoSQL databases. A solid understanding of JSON/XML, including its structure and usage in data representation and integration. Experience with version control system (e.g. Git). Your profile: Personal Attributes: Strong analytical and problem-solving skills with a keen eye for detail and a first-principles approach to software quality. Eagerness to learn and grow. Team-oriented mindset, eager to collaborate in international environment. Excellent level of English. Education: Master/ Bachelor degree or diploma in computer science, IT, or a related field. Candidates nearing the completion of their studies may also be considered. Experience : Previous working experience, internships or academic projects in software development are plus. What we offer: Private health insurance + annual wellness check-up for our employees; 25 days of vacation; Lunch catering in the company canteen; Coffee lounge where you can spend quality time with colleagues and share ideas; Opportunity to travel worldwide; Additional (New year’s party; present for children, presents for national woman’s day). Muehlbauer Technologies d.o.o. Evropska 17, Stara Pazova, Srbija PIB: 107155413 Matični broj: 20764422 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Stara Pazova IT Automation QA Engineer QA Software Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumev"
+  },
+  {
+   "source": "infostud",
+   "id": "764465",
+   "title": "Team Leader Customer Support",
+   "company": "MTU Maintenance Serbia d.o.o.",
+   "location": "Nova Pazova",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SAP",
+    "Menadžment",
+    "Excel"
+   ],
+   "posted": "2026-10-28",
+   "expires": "12.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/team-leader-customer-support/mtu-maintenance-serbia-doo/764465",
+   "summary": "Role leads a customer support team to ensure timely and high quality order execution and customer satisfaction. The position aligns team workload and KPIs and coordinates cross functional stakeholders to improve service delivery and operational efficiency.",
+   "matched": [
+    "data engineer",
+    "it support"
+   ],
+   "first_seen": "2026-10-28T14:11:20+00:00",
+   "details": "O poslodavcu MTU Aero Engines develops, manufactures, sells, and services commercial and military propulsion systems for airplanes and helicopters, as well as industrial gas turbines. The key to our success lies in developing the propulsion systems of tomorrow - more economical, lower in emissions, and quieter. With over 14,000 employees, we are present worldwide, with our headquarters in Munich, Germany. You, too, can become part of our dedicated team at MTU Maintenance Serbia, a 100% subsidiary of MTU Aero Engines AG. We are looking for Team Leader Customer Support. Tasks Set targets and priorities and regularly oversee team workload, in line with targets, achievements, requirements; Monitor KPI’s to ensure service delivery is achieved; Further support the ramp up activities; Represent the team in cross-functional discussions with all relevant stakeholders; Ensure adherence to local policies and company standards (e.g. EHS, policies); Personnel management regarding recruitment, performance appraisal, goal achievement, staff development, working hours, etc.; Establish regular communication structure within the team to ensure alignment and provide relevant information and updates; Drive team initiatives to ensure engagement and promote MTU culture, runs development conversations, check-ins, coaches the team; Support the team within their daily processes in case of overload; Align with Customer Account Manager about necessary process changes within the team as well as for better customer experience; Provide reports for the senior manager customer account to ensure transparency about workload and also customer satisfaction; Professional management (technical/commercial) of customers, customer contracts and orders at MTU Serbia; Customer service for parts, components and assembly work; Primary interface with the client with responsibility for coordinating internal company departments and ensuring implementation of customer requirements (e.g. scope of work, TAT) as well as optimal (technical and economic) order execution; Customer support including active order communication (user-operator interface) and active support; Technical and economic management of customers, customer orders and customer contracts; Representing the interests of customers in the company, including professional resolution of customer problems and complaints; Organizing team structures and assigning roles adapted to the company's situation in order to achieve company goals; Coordination and planning of all internal departmental activities in order to comply with external requirements, quality standards and required reporting; Complete order fulfillment (order receipt to invoicing). Reference: lZv7k73WFQj7qTZfR87wX3oaeuvVSWWGLhvT-gaFSrHFiUVA1LMEvCYRnUFSt8y5 Requirements Completed studies (BA degree), e.g. in industrial engineering, aerospace engineering, general me-language engineering or business management; Relevant experience in project management coordination of teams; aviation industry desired; Good knowledge of SAP, MS Office tools, e.g. Excel, Power point; Motivating others, leading by example; Intercultural competence; Strong communication skills, able to build and maintain trustful relationships; Well-organized, structured, and capable of coordinating information from multiple sources; Strong customer service mindset with the ability to manage different stakeholders; Proactive problem solver with a focus on outcomes; Very good English language skills. Our Offer"
+  },
   {
    "source": "infostud",
    "id": "762923",
@@ -202,7 +321,7 @@
     "Prakse"
    ],
    "posted": "2026-10-28",
-   "expires": "13.12.2026",
+   "expires": "05.12.2026",
    "salary": null,
    "url": "https://poslovi.infostud.com/posao/inkompass-internship/philip-morris-services-doo/763035",
    "summary": "This internship places early career candidates in a modern manufacturing site to contribute to business and transformation projects. The role develops practical skills through cross functional exposure and mentorship while supporting operational improvements.",
