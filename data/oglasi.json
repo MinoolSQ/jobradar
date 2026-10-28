@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-27T23:01:44+00:00",
+ "generated_at": "2026-10-28T06:57:50+00:00",
  "window_days": 3,
- "cutoff": "2026-10-24",
- "count": 13,
- "new_count": 3,
+ "cutoff": "2026-10-25",
+ "count": 11,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 24,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
@@ -112,12 +112,12 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 38,
+   "vraceno": 37,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 85,
+   "vraceno": 83,
    "strane": 3,
    "stop": "kraj"
   },
@@ -127,12 +127,12 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 17,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 26,
+   "vraceno": 25,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 57,
+   "vraceno": 56,
    "strane": 2,
    "stop": "kraj"
   }
@@ -201,8 +201,8 @@
    "tags": [
     "Prakse"
    ],
-   "posted": null,
-   "expires": "27.11.2026",
+   "posted": "2026-10-28",
+   "expires": "13.12.2026",
    "salary": null,
    "url": "https://poslovi.infostud.com/posao/inkompass-internship/philip-morris-services-doo/763035",
    "summary": "This internship places early career candidates in a modern manufacturing site to contribute to business and transformation projects. The role develops practical skills through cross functional exposure and mentorship while supporting operational improvements.",
@@ -440,66 +440,6 @@
     "weworkremotely"
    ],
    "first_seen": "2026-10-26T14:25:58+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137569",
-   "title": "Field Phlebotomy Supervisor Northern California",
-   "company": "Getlabs",
-   "location": "Remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "supervisor",
-    "testing",
-    "marketing",
-    "exec",
-    "mobile",
-    "ops",
-    "medical",
-    "full time"
-   ],
-   "posted": "2026-10-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
-   "summary": "Getlabs is the leading platform for at-home diagnostics. Healthcare organizations use Getlabs to send mobile phlebotomists to patientsâ homes and collect labs, vitals, and advanced diagnostics. By leveraging Getlabs, partners can improve patient adherence and close gaps in care with same-day, nationwide availability. Our team has raised $50M from strategic investors including the two largest dia",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-25T17:06:59+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137568",
-   "title": "Solutions Engineer",
-   "company": "Onebrief",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "design",
-    "ansible",
-    "grafana",
-    "sys admin",
-    "infosec",
-    "python",
-    "docker",
-    "technical",
-    "recruiter",
-    "customer support",
-    "dev",
-    "testing"
-   ],
-   "posted": "2026-10-24",
-   "expires": null,
-   "salary": "180000-220000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
-   "summary": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helpi",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-25T06:22:17+00:00"
   }
  ]
 }

@@ -1,0 +1,445 @@
+{
+ "generated_at": "2026-10-28T06:57:50+00:00",
+ "window_days": 3,
+ "cutoff": "2026-10-25",
+ "count": 11,
+ "new_count": 0,
+ "errors": [],
+ "infostud_queries": {
+  "python": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data engineer": {
+   "vraceno": 4,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data inzenjer": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "podaci": {
+   "vraceno": 30,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "etl": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "databricks": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "spark": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "airflow": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "backend": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "sql": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "aws": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data platform": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "kubernetes": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "fastapi": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data analyst": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "devops": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "junior": {
+   "vraceno": 7,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 23,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 12,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 37,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 83,
+   "strane": 3,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 16,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 25,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "serviser": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "mrezni": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "windows": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "racunari": {
+   "vraceno": 56,
+   "strane": 2,
+   "stop": "kraj"
+  }
+ },
+ "jobs": [
+  {
+   "source": "infostud",
+   "id": "762923",
+   "title": "Full Stack Angular/NodeJS Developer",
+   "company": "Cyrillic Software",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Node",
+    "Angular",
+    "AWS",
+    "Docker",
+    "NodeJS",
+    "Programiranje",
+    "Agile",
+    "Express"
+   ],
+   "posted": "2026-10-27",
+   "expires": "11.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/full-stack-angular-nodejs-developer/cyrillic-software/762923",
+   "summary": "The role seeks a Full Stack Angular and Node developer to deliver frontend and backend features for a US client while working remotely. The candidate will contribute to a multicultural Agile team and ensure clear English communication to meet client expectations.",
+   "matched": [
+    "aws"
+   ],
+   "first_seen": "2026-10-27T23:01:44+00:00",
+   "details": "O poslodavcu Cyrillic Software is a US based IT Consulting company offering positions in Serbia and in the US for quality, motivated individuals interested in working on a talented team with quality industry leading clients. This is a work from home and remote position, but opportunities to work abroad in the US are also available. The Full Stack Angular/Node JS software developer must have experience in both Angular and Node JS/Express JS frameworks and must have working experience as a Full Stack Developer . The ideal candidate must have experience in building frontend components of web applications utilizing the Angular front end framework, leveraging modern front end development best practices including modern HTML, CSS, and JavaScript technologies and modern frontend libraries and frameworks . This position is part of an existing and multi-cultural Agile development team, for a client based in the US and so excellent verbal and written English communication skills are required. Experience with AWS and container technologies like Docker are also a plus. We are offering: Top Salary offers and willingness to beat existing or competitive offers Working on an international team with Quality individuals and team members Flexibility and remote work Huge potential of future growth, as well as potentially working in the US Reference: 018B83ZTUoqTLEBYmBK_uUTE8wHRHd_aH6PG87TIyzkgEJruqhR5cpUPMovdxbP1 Cyrillic Software Cyrillic Software is a US based company from Rochester Hills, Michigan providing Offshore Staffing and IT Consulting services and custom software development solutions for its clients. We help customers of all sizes in various industries across the globe by creating customer focused solutions and flexible project engagements built around the customers needs in mind, with an utmost focus on Quality and Delivery, at a Competitive Price. Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Full stack developer Full Stack Angular/NodeJS Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "763035",
+   "title": "Inkompass Internship",
+   "company": "Philip Morris Services d.o.o.",
+   "location": "Niš | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prakse"
+   ],
+   "posted": "2026-10-28",
+   "expires": "13.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/inkompass-internship/philip-morris-services-doo/763035",
+   "summary": "This internship places early career candidates in a modern manufacturing site to contribute to business and transformation projects. The role develops practical skills through cross functional exposure and mentorship while supporting operational improvements.",
+   "matched": [
+    "data engineer",
+    "it support"
+   ],
+   "first_seen": "2026-10-27T23:01:44+00:00",
+   "details": "O poslodavcu Discover yourself with INKOMPASS . INKOMPASS is a paid internship program by Philip Morris International that enables you to discover yourself by working in a creative, dynamic, and culturally diverse environment. You'll work alongside industry leaders, gain experience and be part of PMI's transformation journey. During the internship, you will: Make an impact on business projects Learn from industry leaders Support PMI's transformation initiatives Reference: 5hWBri95K_pfMVbqnCqDix21Y-0ab6suEs6hgBo0olFa1ctRp-DKb4_KxstPXt6o Manufacturing facility in Niš Passionate about innovation or process optimization? Want to gain experience in a modern manufacturing environment in Niš? Learn how people, processes and technology come together to support business initiatives. Explore our functions Quality Discover how quality is built into manufacturing through quality systems, risk analysis and continuous improvement, while collaborating with teams across the factory. OPEN+ Explore how continuous improvement, data and digital tools make operations more efficient, and contribute to initiatives that simplify processes and ways of working. EHS Learn how Environment, Health & Safety supports factory operations through workplace safety, risk assessment and environmental practices. Engineering See how engineering combines technology and process improvement to enhance equipment, utilities and manufacturing operations. Production Step into the heart of manufacturing and learn how people, processes and technology come together to drive efficient daily production. Supply Planning Discover how data, planning and collaboration with local and international teams help keep production running smoothly and support effective decisions. IT Explore how systems, data and digital solutions support a modern factory and help teams improve everyday ways of working. Factory Logistics See how materials and products move across factory and warehouse operations, while gaining exposure to process improvement, data analysis and the wider supply chain. Security & Market Safety Discover how Security & Market Safety protects people, operations and the business through risk analysis, prevention initiatives and cross-functional collaboration. Who can apply? University students in their final year of Bachelor's studies, enrolled in Master's studies, or recent graduates Native Serbian speakers proficient in English Curious and eager to develop Agile thinkers with an open and proactive mindset Strong team players with collaboration skills The INKOMPASS 2027 program in Niš is planned to start on 1 February 2027 and run for 12 months. Join us and enjoy the freedom to dream up and deliver better, brighter solutions. Philip Morris Services d.o.o. Beograd Želimo ti dobrodošlicu u Philip Morris International. Sigurno već znaš ko smo mi, ali hajde da se bolje upoznamo. Postojimo već 170 godina kao jedna od vodećih svetskih kompanija u duvanskoj industriji. Nekada se prepoznatljivost naše kompanije vezivala samo za vodeće svetske brendove kao što su Marlboro, Parliament ili L&M. Danas smo na putu transformacije ka budućnosti bez duvanskog dima na kom je naša prva stanica bio ujedno i danas najpoznatiji brend u ovoj kategoriji – IQOS. Smoke –… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodav"
+  },
+  {
+   "source": "helloworld",
+   "id": "762924",
+   "title": "Product Owner",
+   "company": "Cyrillic Software",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "jira",
+    "qa",
+    "scrum",
+    "agile"
+   ],
+   "posted": "2026-10-27",
+   "expires": "11.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Owner/Cyrillic-Software/762924",
+   "summary": "Cyrillic Software 1 Rad od kuće online intervju 11.11.2026. Jira QA SCRUM Agile Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Product Owner Product Owner Cyrillic Software 1 Rad od kuće online intervju 11.11.2026. Jira QA SCRUM Agile intermediate About Cyrillic Software Cyrillic Software is a US based company providing Offshore Staffing and IT Consulting services and custom software development solutions for its clients. We help customers of all sizes in various industries across the globe by creating customer focused solutions and flexible project engagements built around the customers’ needs in mind, with an utmost focus on Quality and Delivery, at a Competitive Price. About the Role We are looking for a Product Owner to help translate business needs into clear development priorities and deliver valuable software solutions. The Product Owner will work closely with stakeholders, product managers, designers, and engineering teams to ensure the team understands what needs to be built, why it matters, and what success looks like. This role is ideal for someone who can balance business priorities with technical considerations, communicate clearly, and keep an Agile development team focused on delivering meaningful results. Responsibilities Maintain and prioritize the product backlog based on business value, customer needs, and project objectives. Gather, analyze, and clarify requirements from clients and other stakeholders. Translate business requirements into clear user stories, acceptance criteria, and actionable development tasks. Collaborate with developers, designers, QA engineers, and project stakeholders throughout the development lifecycle. Participate in Agile ceremonies, including sprint planning, backlog refinement, sprint reviews, and daily stand-ups as needed. Answer questions and resolve ambiguities so the development team can work efficiently. Review completed work and confirm that deliverables meet the agreed requirements and acceptance criteria. Communicate priorities, scope changes, dependencies, and potential risks to relevant stakeholders. Help ensure that delivered features align with business goals and provide value to end users. Qualifications Experience working as a Product Owner, Business Analyst, or in a similar product-focused role. Understanding of Agile methodologies, particularly Scrum. Experience managing product backlogs and writing user stories with acceptance criteria. Strong analytical, organizational, and problem-solving skills. Excellent written and verbal English communication skills. Ability to work effectively with technical and non-technical stakeholders. Familiarity with project management tools such as Jira or similar platforms. Ability to manage competing priorities and make informed decisions in a changing environment. What We Offer Competitive compensation based on experience and qualifications. The opportunity to work with international clients and talented professionals. A collaborative, multicultural working environment. Flexible working arrangements, depending on the position and client requirements. Opportunities for professional growth and involvement in meaningful software projects. Apply Here Upoznaj kompaniju O Kompaniji Iskustva Poslovi Plate A Long History of Quality and Dependability Cyrillic Software, a US based company from Rochester Hills, Michigan, provides offshore staffing services and custom software development solutions. We help customers of all sizes in various industries across the globe. Our utmost focus is on Quality of Delivery and maintaining a Competitive Price. In business, since 2004, we ",
+   "first_seen": "2026-10-27T23:01:44+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "764168",
+   "title": "Product Designer",
+   "company": "CAKE.com",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "CSS",
+    "HTML",
+    "Git",
+    "Figma",
+    "UI"
+   ],
+   "posted": "2026-10-27",
+   "expires": "11.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/product-designer/cakecom/764168",
+   "summary": "This role designs and refines product interfaces to deliver clear and accessible experiences across web and mobile. The designer will own visual identity, keep the design system healthy, and collaborate with engineers to turn concepts into shipped features.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-10-27T13:24:36+00:00",
+   "details": "O poslodavcu We're looking for a designer to help us elevate our software products further. Who We Are CAKE.com is a unicorn product-based company with a global presence in North America (USA), Europe (primarily in the Balkans), and Asia (Philippines). We build products that power millions worldwide, including: Clockify – The world’s #1 time tracker, trusted by companies like Hewlett-Packard Enterprise, American Express, Amazon and many more. Pumble – The all-in-one team communication app. Plaky – A task management software for simple & visual project planning. Reference: 6BCPDrQhB0g5-An1H9qcWMNLNMN7-RJovhGbbLaB_jM-t51nhz--t7-p-bgKSIT5 What You’ll Do Design and improve interfaces that just make sense to our users. You’ll jump into problems with cross-functional teammates across the whole spectrum—one day tweaking a confusing error screen to make it friendlier, the next helping create a new massive cross-product feature from start to finish. Build wireframes and prototypes in Figma or an agentic IDE to test ideas with stakeholders and show engineers what the final experience should look like. Dig into how competitors solve tricky flows, and use those insights to make our own products better. Keep our design system healthy and up to date, manage tokens, organize components, and add new patterns as we further develop our platform. Make accessibility a natural part of your workflow, ensuring what we ship works well for everyone (meeting WCAG 2.1 AA). Have a sharp eye for visual bugs and UX rough edges, and jump in to help smooth them out. Turn messy product briefs into clean, intuitive designs that solve real user problems without overcomplicating things. Own the visual identity of our products, making sure every screen feels cohesive, polished, and aesthetically pleasing. Team up closely with product managers and engineers to turn ideas into shipped software. Work with engineering directly on making sure the dev library and design systems are synced. Must-Haves 1+ years designing software products. High proficiency using Figma. Experience with AI models and agentic workflows (Claude, Kiro, or similar). Strong copywriting skills. Strong graphic design skills (spacing & typography). Knowledge of UI patterns (mobile & web). Knowledge of HCI principles and various design systems. Fluent in the English language. Basic knowledge of HTML, CSS, and Git. Ability to work in CET timezone. Fluent in Ex-Yu languages (Serbian, Bosnian, Croatian, Montenegrin). Portfolio requirements Portfolio link is required. Make sure you have at least 3-5 case studies that demonstrate your skills. Only product design case studies are considered. Nice-To-Haves Experience with a variety of SaaS productivity tools. Experience in the SaaS industry. Life at CAKE.com Innovative Environment – Work with top tech talent on cutting-edge products. Work-Life Balance – No overtime, no work on weekends and no late working hours. Medical Coverage – Private health insurance. B2B contractor model and generous leave credits – 22 vacation days + 10 sick days yearly. Continuous Learning – In-house learning programs, tech lectures, knowledge sharing. Remote Work Setup – Enjoy the flexibility of working from home with provided laptop equipment to support your work. CAKE.com CAKE.com was founded in 2009 with the goal of helping other startups develop their products. It takes many products to help people around the globe grow and prosper. We’ve created three that cover a wide range of featur"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-upsun-senior-it-systems-engineer",
+   "title": "Senior IT Systems Engineer",
+   "company": "Upsun",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-27",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
+   "summary": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products:",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-27T13:24:36+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137572",
+   "title": "Senior Software Engineer LATAM",
+   "company": "Wagmo",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "design",
+    "react",
+    "sys admin",
+    "python",
+    "django",
+    "typescript",
+    "senior",
+    "medical",
+    "engineer",
+    "digital nomad"
+   ],
+   "posted": "2026-10-26",
+   "expires": null,
+   "salary": "100000-140000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+   "summary": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-27T13:24:36+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "763910",
+   "title": "Casino Management System Technician",
+   "company": "Soccerbet",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "CMS",
+    "Sistemska administracija",
+    "BI"
+   ],
+   "posted": "2026-10-26",
+   "expires": "10.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/casino-management-system-technician/soccerbet/763910",
+   "summary": "Tehničar za CMS odgovoran je za održavanje i pouzdan rad casino management sistema na terenu kako bi uplatna mesta bila operativna. Kandidat će vršiti dijagnostiku i servis lokalnih servera i uređaja te instalirati i puštati u rad CMS prilikom otvaranja novih lokacija.",
+   "matched": [
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00",
+   "details": "O poslodavcu Soccerbet je jedan od vodećih brendova u oblasti sportskog klađenja i igara na sreću na tržištu Srbije. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o., koja zapošljava preko 1.500 zaposlenih i posluje na više od 260 lokacija širom zemlje, kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Zbog proširenja obima posla, tražimo novog člana na poziciji CASINO MANAGEMENT SYSTEM TECHNICIAN Tvoje odgovornosti bi bile: Održavanje postojećih CMS instalacija na uplatnim mestima; Dijagnostika, servisiranje i održavanje lokalnih jackpot servera na uplatnim mestima; Instalacija kompletnih CMS sistema prilikom otvaranja novih uplatnih mesta; Održavanje i snabdevanje mreže potrebnim QR kodovima; Vođenje i održavanje lagera eTITO i MCMS SMIB uređaja, kao i ostale pripadajuće opreme; Priprema, zamena, dijagnostika i osnovna popravka CMS hardverskih komponenti; Dijagnostika i održavanje mrežnog segmenta u okviru mreže automata; Provera komunikacije između automata, SMIB uređaja, lokalnih servera i centralnih sistema; Saradnja i koordinacija sa IT sektorom kod problema koji se odnose na mrežnu infrastrukturu, komunikaciju i ostale povezane sisteme; Terenski rad i tehnička podrška uplatnim mestima prema potrebi. Reference: EAtQyRiGvm3iM6f5PxOYFO5zgbUDVMqe4BQKQDFENGNII3Kr7ZWfxot1cKtbHvlF Kvalifikacije i veštine koje je potrebno da imaš: Minimum IV stepen stručne spreme; Minimum 2. godine radnog iskustva u gambling industriji (IT sektor, Casino sektor, itd.); Dobro poznavanje računarske opreme i hardvera; Osnovno poznavanje računarskih mreža; Poznavanje elektronike i dijagnostike elektronskih uređaja predstavlja prednost; Poželjno praktično iskustvo sa računarima, elektronikom, mrežama ili srodnim tehničkim poslovima; Vozačka dozvola B kategorije (aktivan vozač). Ukoliko želite da postanete deo našeg tima, svoju radnu biografiju možete da pošaljete elektronskim putem. Biće kontaktirani samo kandidati koji uđu u uži izbor! NAPOMENA Slanjem prijave, kandidat daje pristanak: da kompanija njegove lične podatke obrađuje u postupku selekcije, a u skladu sa Zakonom o zaštiti podataka o ličnosti; da bude kontaktiran u periodu od godinu dana ukoliko se ukaže prilika za angažovanje na istom ili sličnom radnom mestu. Soccerbet Soccerbet je jedan od lidera u konkurenciji onih koji u Srbiji priređuju sportske igre na sreću. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o. koja zapošljava preko 1000 zaposlenih i posluje najviše od 280 lokacija, širom zemlje kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Uplatna mesta Soccerbet, s brendiranim obeležjima, odišu prijatnim i modernim ambijentima. Korektan odnos zaposlenih, a pre… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician Casino Management System Technician Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti"
+  },
+  {
+   "source": "infostud",
+   "id": "763994",
+   "title": "IT tehničar",
+   "company": "Snaga mladosti OZ",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows Server",
+    "Windows",
+    "VPN",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-26",
+   "expires": "10.11.2026",
+   "salary": "neto 120.000 - 130.000 RSD (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar/snaga-mladosti-oz/763994",
+   "summary": "IT tehničar je potreban za održavanje i pouzdano funkcionisanje računarske i mrežne infrastrukture kako bi se omogućio neprekidan rad zaposlenih. Kandidat će obavljati instalaciju i podršku za Windows i server okruženja, mreže, IP video nadzor i pružati svakodnevnu tehničku podršku.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00",
+   "details": "O poslodavcu Poznatoj firmi na opštini Palilula - Krnjača, hitno potreban radnik na poziciji: IT TEHNIČAR m/ž Radno vreme: od 08h do 16h Slobodni dani: Vikend Dogovorena zarada: Početna plata od 120.000 rsd sa tendencijom brzog rasta Opis posla: Održavanje računarske i mrežne opreme (računari, serveri, štampači, ruteri, switchevi, Wi-Fi uređaji i IP video nadzor): Instalacija i konfiguracija hardvera i softvera (Windows i Windows Server okruženja). Podešavanje i održavanje LAN i Wi-Fi mreža, VPN veza i pristupa za udaljeni rad. Instalacija, konfiguracija i održavanje štampača. Instalacija, konfiguracija i održavanje IP video nadzora (IP kamere i NVR uređaji – Hikvision). Instalacija, konfiguracija i održavanje IP telefonskog sistema. podešavanje mobilnih telefona zaposlenih, instalacija i konfiguracija aplikacija (elektronska pošta, pristup video nadzoru i sl.). Zaštita podataka i IT sistema (backup, ažuriranje sistema, antivirusna zaštita i sl.). Administracija korisničkih naloga i elektronske pošte. Tehnička podrška zaposlenima, praćenje i rešavanje IT problema u svakodnevnom radu. Saradnja sa eksternim IT partnerima i dobavljačima. Reference: QvH3UQOwXi7kAf3G3fpiAz8nFQN-sp_KAspamHMmUj5ELXoLEloipd3mFKjJuumS Uslovi: Iskustvo na istim ili sličnim poslovima. Poznavanje instalacije, konfiguracije i održavanja Windows operativnih sistema i Windows Server okruženja. Poznavanje administracije korisničkih naloga i elektronske pošte. Poznavanje podešavanja i održavanja LAN i Wi-Fi mreža i VPN veza. Razumevanje sigurnosnih standarda i procedura. Sposobnost brzog rešavanja problema i samostalnog rada. Vozačka dozvola B kategorije. Poznavanje engleskog jezika. Ukoliko želite stabilan posao, redovnu isplatu u skladu sa zakonom, mogućnost napredovanja i rasta, ovo je posao za Vas. Prijavite se na broj u dnu oglasa ili elektronskim putem. Studentsko-omladinske zadruge mogu angažovati isključivo lica koja nisu mlađa od 15 godina ni starija od 30 godina na osnovu Zakona o zadrugama (član 23). Ostale prijave neće biti uzete u razmatranje. Snaga mladosti OZ Makenzijeva 57, Vracar, Beograd PIB: 107260971 Matični broj: 20770490 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician IT tehničar Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi S"
+  },
+  {
+   "source": "infostud",
+   "id": "764074",
+   "title": "Junior IT poslovni analitičar / Projektni koordinator",
+   "company": "DP Lux Distribution",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-26",
+   "expires": "10.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-it-poslovni-analiticar-projektni-koordinator/dp-lux-distribution/764074",
+   "summary": "Pozicija je namenjena kandidatu koji će podržavati realizaciju IT i digitalnih projekata kroz analizu poslovnih potreba i koordinaciju aktivnosti. Glavni cilj uloge je unapređenje poslovnih procesa i osiguravanje pravovremene implementacije softverskih rešenja uz podršku u profesionalnom napredovanju.",
+   "matched": [
+    "junior",
+    "it podrska"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00",
+   "details": "O poslodavcu Junior IT poslovni analitičar / Projektni koordinator - jedna radna pozicija DP Lux Group O poziciji DP Lux Group traži motivisanu i analitičnu osobu koja želi da razvija karijeru u oblasti poslovne analize, IT projekata i digitalne transformacije. Kao član IT tima, učestvovaćeš u realizaciji projekata unapređenja poslovnih procesa, implementaciji novih softverskih rešenja i razvoju postojećih sistema. Pozicija kombinuje poslovnu analizu i koordinaciju projekata, uz mogućnost postepenog preuzimanja većih odgovornosti i profesionalnog razvoja. Tvoje ključne odgovornosti Saradnja sa poslovnim korisnicima u razumevanju njihovih potreba i identifikovanju mogućnosti za unapređenje procesa. Prikupljanje, analiza i dokumentovanje poslovnih i funkcionalnih zahteva. Učešće u analizi postojećih procesa i definisanju predloga unapređenja. Priprema i održavanje projektne i funkcionalne dokumentacije. Koordinacija projektnih aktivnosti i praćenje zadataka, rokova i realizacije. Komunikacija sa internim timovima, poslovnim korisnicima i eksternim dobavljačima softverskih rešenja. Organizacija sastanaka, priprema zapisnika i praćenje dogovorenih aktivnosti. Učešće u testiranju novih funkcionalnosti, evidentiranju problema i praćenju njihovog rešavanja. Priprema izveštaja o napretku projekata i podrška u identifikovanju rizika i otvorenih pitanja. Reference: qRk5MqckQ-5culTp40wKoiiB3_isJasi4x2HWKkvSsi3yIWfB6nsr-Tp8A2OKElx Šta očekujemo od tebe Visoko obrazovanje ili završne godine studija iz oblasti informacionih tehnologija, organizacionih nauka, ekonomije ili srodnih oblasti. Poželjno prethodno iskustvo do dve godine u poslovnoj analizi, IT projektima, implementaciji poslovnih sistema ili sličnim poslovima. Razvijene analitičke sposobnosti i sposobnost strukturiranja informacija i rešavanja problema. Dobru organizovanost, odgovornost i pažnju prema detaljima. Jasnu pisanu i usmenu komunikaciju i sposobnost saradnje sa različitim timovima. Dobro poznavanje MS Office alata, posebno Excel-a. Proaktivnost, samostalnost u izvršavanju poverenih zadataka i spremnost za učenje. Prednost je ako imaš Iskustvo u radu sa poslovnim softverskim rešenjima (ERP, CRM, BI, e-commerce ili sličnim sistemima). Osnovno razumevanje životnog ciklusa IT projekata i razvoja softverskih rešenja. Iskustvo u prikupljanju i dokumentovanju poslovnih zahteva. Iskustvo u testiranju softvera ili radu sa poslovnim korisnicima prilikom implementacije novih rešenja. Šta nudimo Rad na raznovrsnim IT i digitalnim projektima u okviru DP Lux Group. Priliku da upoznaš poslovne procese i informaciona rešenja kompanije koja posluje na više tržišta. Saradnju sa iskusnim kolegama i eksternim tehnološkim partnerima. Podršku u profesionalnom razvoju i postepenom preuzimanju složenijih zadataka. Ukoliko želite da svojim znanjem i iskustvom doprinesete realizaciji važnih IT i digitalnih inicijativa u kompaniji DP Lux, pozivamo vas da se prijavite. DP Lux Group DP LUX Group je kompanija koja uspešno posluje kao distributer preko 90 brendova u 12 zemalja Evrope i sarađuje sa najznačajnijim „beauty“ trgovinskim lancima u regionu, čime pokriva tržište od preko 65 miliona stanovnika u Evropi. DP Lux Group u svom sastavu ima i jedan od najvećih lanaca niche parfimerija u Evropi, Belodore koji posluje u 6 zemalja, kao i lanac high-end parfimerija Plaza i lanac parfimerija Almara. Na ovaj način DP LUX Group ima zavidnu… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestit"
+  },
+  {
+   "source": "infostud",
+   "id": "764004",
+   "title": "Measurement Specialist",
+   "company": "s360",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "JavaScript",
+    "QA",
+    "Prodaja / konsultanti",
+    "Cloud"
+   ],
+   "posted": "2026-10-26",
+   "expires": "10.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/measurement-specialist/s360/764004",
+   "summary": "This role ensures measurement setups deliver reliable tracking and accurate analytics for Danish clients. The specialist owns implementations, troubleshooting, quality assurance, and documentation to make marketing data trustworthy and operational for client teams.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00",
+   "details": "O poslodavcu Do you enjoy finding out why a conversion stopped firing, and then fixing it properly? Want to turn tracking data into decisions clients can trust? At s360, you will help Danish clients build measurement setups that make their marketing more reliable and useful. You will be working closely with the Measurement team across Europe to make sure the data our clients use to run their marketing is correct. Measurement Specialist is a dedicated measurement and tracking specialist role, not a software development position. Your focus is 100% on tags, analytics pipelines, and data reliability. Deliver tracking that holds up You will work across quick fixes and larger implementations, making sure setups are technically sound, well documented, and ready for client use. On smaller tasks, you will own the process from start to finish, including client contact. On larger builds, a Denmark-based lead will handle scoping and the client relationship while you own the delivery. Your main responsibilities will be: Troubleshooting: Find and fix tracking issues across Google Ads, GA4, Meta and other ad platforms for Danish clients. Implementation projects: Build and configure GA4 and Google Tag Manager setups, client-side and server-side, including Consent Mode v2, Enhanced Conversions and conversion APIs. dataLayer specifications: Write dataLayer specifications for client developers and validate their implementation before go-live. Ownership: Own small tasks end to end, including direct client contact, and deliver the build on larger projects scoped by a Denmark-based lead. Quality assurance: Test every setup before handover so it passes Quality Assurance checks without rework. Documentation: Document each implementation so a colleague can take it over without a handover meeting. Reference: vbMuDrjHwUCBc73yxs0QrVKZSlCHkc4hUVSdMbgg7BMn-loqBfIyDNCRXVoX9THE Join our international Measurement team You will be joining our growing and international Measurement team, made up of specialists from different countries, all sharing the same passion for making data come alive and turning numbers into real impact. Most of your work will be for Danish clients, together with colleagues in Denmark and Barcelona who know these accounts well. We talk through difficult setups in our weekly team meeting, and you'll always have someone to spar with when a problem doesn't make sense. Your day-to-day base will be our office in central Belgrade, which you'll share with s360 colleagues from other teams. You'll be one of the first Measurement specialists in Belgrade, so you'll have a real say in how we set up the work there. Bring hands-on tracking skills and technical depth We are looking for a colleague who can work independently, communicate clearly, and keep quality high across both quick fixes and longer builds. You are the kind of person who tests before you hand anything over, and you speak up when something in a setup doesn't add up. You'll probably be a good fit if you recognise the following about yourself: Advanced Analytics & Tagging: You have 2+ years of hands-on experience with GTM (client- and server-side via Stape/Google Cloud), GA4 (custom events, e-commerce, debugging), plus enough JavaScript to navigate and customize the dataLayer comfortably. Ad Platform Tracking & Privacy Compliance: You are experienced in setting up conversion tracking across Google Ads and Meta (Enhanced Conversions, Conversions API), backed by a solid understanding of Consent Mod"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-upstart-devops-engineer-ii-cloud-platform",
+   "title": "DevOps Engineer II, Cloud Platform",
+   "company": "Upstart",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-26",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
+   "summary": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with b",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-26T14:25:58+00:00"
+  }
+ ]
+}
