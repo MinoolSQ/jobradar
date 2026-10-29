@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-10-29T07:19:00+00:00",
+ "generated_at": "2026-10-29T14:32:47+00:00",
  "window_days": 3,
  "cutoff": "2026-10-26",
- "count": 16,
- "new_count": 1,
- "errors": [],
+ "count": 24,
+ "new_count": 8,
+ "errors": [
+  "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
+ ],
  "infostud_queries": {
   "python": {
    "vraceno": 1,
@@ -12,17 +14,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 8,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 48,
+   "vraceno": 55,
    "strane": 2,
    "stop": "kraj"
   },
@@ -37,7 +39,7 @@
    "stop": "kraj"
   },
   "spark": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -47,7 +49,7 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +64,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 2,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
@@ -82,17 +84,17 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 8,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,62 +104,272 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 35,
+   "vraceno": 44,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 19,
+   "vraceno": 24,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 62,
+   "vraceno": 81,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 149,
-   "strane": 5,
-   "stop": "kraj"
+   "vraceno": 180,
+   "strane": 6,
+   "stop": "limit"
   },
   "help desk": {
-   "vraceno": 1,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "tehnicka podrska": {
-   "vraceno": 38,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "it support": {
-   "vraceno": 50,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "serviser": {
    "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
-  "mrezni": {
+  "tehnicka podrska": {
+   "vraceno": 47,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 72,
+   "strane": 3,
+   "stop": "kraj"
+  },
+  "serviser": {
    "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
+  "mrezni": {
+   "vraceno": 4,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "windows": {
-   "vraceno": 1,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 89,
-   "strane": 3,
+   "vraceno": 116,
+   "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "764521",
+   "title": "Business Process & Sales Operations Expert",
+   "company": "Tridonic SRB d.o.o.",
+   "location": "Niš",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SAP",
+    "Menadžment"
+   ],
+   "posted": "2026-10-29",
+   "expires": "12.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/business-process-sales-operations-expert/tridonic-srb-doo/764521",
+   "summary": "This role converts data into actionable business value by owning reporting automation and analytics across sales operations. The role drives process improvements and coordinates forecasting to ensure accurate pricing and planning data for strategic decision making.",
+   "matched": [
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-29T14:32:47+00:00",
+   "details": "O poslodavcu Spotlight of the job Turn data into business value. Work with global teams, drive process improvements, and help shape smarter business decisions through analytics, automation, and continuous innovation. Responsibilities Manage and continuously improve Power BI reporting, data flows, and sales process automation in collaboration with global teams. Monitor and support SAP price maintenance automation, ensuring data accuracy and process efficiency. Coordinate forecasting activities, including data collection, consolidation, and collaboration between Sales, Product Management, and Supply Chain. Provide analytical support for budgeting and mid-term planning (MTP), ensuring data consistency and alignment across regions and functions. Develop, maintain, and enhance business reports and dashboards to support Sales Operations and strategic decision-making. Act as a key interface between Sales, Product Management, Customer Services, Supply Chain, IT, and other stakeholders. Identify opportunities for process optimization and lead continuous improvement initiatives across sales operations and reporting. Reference: ypFSk3kkmafgqHR0tyHPrDxvWrlmeur8KOICT8pYD7yhV569wdlr-GW7qicqxN1U Skills & Experience We encourage you to apply even if you do not meet all the requirements. Your motivation and potential matter more than perfection. Basic economic/business administration knowledge; English experienced level; Excel skills advanced; High analytical capabilities; Interdisciplinary working; process-oriented thinking. The following would be considered an advantage: Experience with SAP and Microsoft PowerPlatform. Experience in developing and maintaining reports and dashboards. Tridonic SRB d.o.o. Ulica Cumtobel 1, Niš, Srbija PIB: 110562375 Matični broj: 21363162 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Niš IT Business Intelligence / Data Warehouse Consultant Business Process & Sales Operations Expert Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "764601",
+   "title": "Full-Stack Software Engineer",
+   "company": "Pollard Digital Solutions",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Spring",
+    "Java",
+    "Git",
+    "PostgreSQL",
+    "Programiranje",
+    "TypeScript",
+    "Vue.js",
+    "RESTful",
+    "React"
+   ],
+   "posted": "2026-10-29",
+   "expires": "13.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/full-stack-software-engineer/pollard-digital-solutions/764601",
+   "summary": "Senior Full-Stack Software Engineer to design build and maintain secure scalable iLottery web applications and backend services. The hire will deliver high-quality features across the stack and ensure operational reliability and continuous improvement.",
+   "matched": [
+    "data engineer",
+    "backend",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-10-29T14:32:47+00:00",
+   "details": "O poslodavcu We are looking for a Full-Stack Software Engineer to join our team on the iLottery Platform. In this role, you'll collaborate with cross-functional teams to design, build, and support modern web applications and backend services that power our next-generation digital lottery solutions. You'll contribute to every phase of development - from planning and design to delivery and support - helping create secure, scalable, and innovative experiences for lottery players around the world. Who We Are Pollard Digital Solutions - Europe is a full-solution supplier of lottery management and iLottery technology for lottery markets. We’re a division of Pollard Banknote Ltd - a leading partner to 60 lotteries worldwide, known for high quality instant ticket products, licensed games, retail merchandising solutions, and innovation. Established in 1907 and headquartered in Winnipeg, Canada, Pollard Banknote is publicly traded on the Toronto Stock Exchange (PBL). Our objective is to deliver the most innovative solutions that will render industry-leading returns to good causes in an ethically responsible way. We pride ourselves on a collaborative and inclusive workplace - where creativity, team spirit, and respect are core to how we work. What We Offer: A truly collaborative and supportive working environment Modern office space with on-site parking Private health insurance Coverage for medical treatments outside of Serbia Learning and development budget Profit sharing – every role plays a part in our success Budget for sports activities Team-building and social activities Employee referral bonuses Hybrid work environment Additional employee perks Reference: ZagZ8jOSQJx1F8prfY1fOy4opJUJpUln-XGGyyw3uIFWD_pOskLevTGRZb4tzoMG What You’ll Do: Build and maintain reliable, and scalable web applications across both frontend and backend systems for iLottery gaming products. Design, develop, test, and deploy high-quality software using modern engineering practices. Write clean, efficient, and reusable code that supports evolving business needs and complex workflows. Develop and integrate RESTful APIs and services that enable seamless communication between applications and systems. Participate in code reviews and contribute to technical standards, quality practices, and continuous improvement initiatives. Write and maintain automated tests to ensure the reliability, quality, and maintainability of software solutions. Ensure a great user experience by considering performance, accessibility, usability, security, and operational reliability. Contribute to release activities, production support, troubleshooting, and continuous improvement of the systems owned by the team. Stay current with modern engineering technologies, frameworks, and practices, and identify opportunities to improve tools, processes, and delivery effectiveness. Who You Are: A skilled and thoughtful software engineer who enjoys working across the full application stack and takes pride in delivering high-quality software that creates value for customers. Comfortable working in a collaborative team environment where shared ownership, feedback, and continuous learning are valued. Curious and pragmatic - eager to learn new technologies and approaches while remaining focused on delivering outcomes. Practised in modern engineering fundamentals including version control, automated testing, CI/CD, and monitoring. Able to break down complex problems, identify practical solutions, and deliver work w"
+  },
+  {
+   "source": "infostud",
+   "id": "764667",
+   "title": "IT tehničar",
+   "company": "JEEP Commerce",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows Server",
+    "Windows",
+    "VPN",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-10-29",
+   "expires": "13.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar/jeep-commerce/764667",
+   "summary": "Pozicija je usmerena na obezbeđivanje stabilnog i sigurnog rada IT okruženja kroz održavanje računarske i mrežne opreme. Kandidat će rešavati tehničke probleme, sprovoditi bezbednosne mere i omogućavati neometan rad zaposlenih.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-10-29T14:32:47+00:00",
+   "details": "O poslodavcu Opis posla: Održavanje računarske i mrežne opreme (računari, serveri, štampači, ruteri, switchevi, Wi-Fi uređaji i IP video nadzor): Instalacija i konfiguracija hardvera i softvera (Windows i Windows Server okruženja). Podešavanje i održavanje LAN i Wi-Fi mreža, VPN veza i pristupa za udaljeni rad. Instalacija, konfiguracija i održavanje štampača. Instalacija, konfiguracija i održavanje IP video nadzora (IP kamere i NVR uređaji – Hikvision). Instalacija, konfiguracija i održavanje IP telefonskog sistema. Podešavanje mobilnih telefona zaposlenih, instalacija i konfiguracija aplikacija (elektronska pošta, pristup video nadzoru i slično). Reference: 0B7XEx7HnX4pka3wrUhFnffD3KEUas3ztBiwGl33ajIWVJy068UYp2MmN7oIp5Sd Zaštita podataka i IT sistema (backup, ažuriranje sistema, antivirusna zaštita i slično). Administracija korisničkih naloga i elektronske pošte. Tehnička podrška zaposlenima, praćenje i rešavanje IT problema u svakodnevnom radu. Saradnja sa eksternim IT partnerima i dobavljačima. Uslovi koje kandidat treba da ispunjava: Iskustvo na istim ili sličnim poslovima. Poznavanje instalacije, konfiguracije i održavanja Windows operativnih sistema i Windows Server okruženja. Poznavanje administracije korisničkih naloga i elektronske pošte. Poznavanje podešavanja i održavanja LAN i Wi-Fi mreža i VPN veza. Razumevanje sigurnosnih standarda i procedura. Sposobnost brzog rešavanja problema i samostalnog rada. Aktivan vozač. Poznavanje engleskog jezika. Poslodavac nudi: Redovnu i adekvatnu zaradu; Radno vreme od ponedeljka do petka - od 08:00 - 16:00; Sva prava zagarantovana Zakonom o radu; Topli obrok u kantini poslodavca. JEEP Commerce d.o.o. MI DAJEMO OBLIK ČELIKU JEEP Commerce d.o.o. iz Beograda je kompanija sa 25 godina dugom tradicijom i prepoznatljiv je brend na domaćem i evropskom tržištu u oblasti crne i obojene metalurgije. Proizvodni i poslovni procesi u Kompaniji obavljaju kvalifikovani i uskospecijalizovani kadrovi, uz primenu savremenih tehnologija, a u skladu sa standardima ISO 9001 i CE znakom u proizvodnji čeličnih šavnih cevi, hidrotestiranih cevi i čeličnih konstrukcija . Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician IT tehničar Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "764595",
+   "title": "Reliability & Problem Management Lead",
+   "company": "Pollard Digital Solutions",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Windows",
+    "Jira",
+    "DevOps",
+    "Menadžment",
+    "Cloud",
+    "Microservices"
+   ],
+   "posted": "2026-10-29",
+   "expires": "13.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/reliability-problem-management-lead/pollard-digital-solutions/764595",
+   "summary": "The Reliability and Problem Management Lead owns end to end production health by driving incident intake triage and cross team coordination. The role converts root cause analyses into durable engineering work to reduce recurrence and shift teams from reactive support to proactive prevention.",
+   "matched": [
+    "devops",
+    "cloud",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-10-29T14:32:47+00:00",
+   "details": "O poslodavcu We're looking for a Reliability & Problem Management Lead to own the end-to-end lifecycle of production health across Pollard's platforms. This role is accountable not only for the effective intake, triage, and coordination of production incidents and defects, but also for driving their systemic resolution to prevent recurrence. Acting as the connective tissue between Business, Product, Engineering, Quality, and Operations, this role ensures that high-impact issues are addressed with urgency and discipline, while Root Cause Analysis (RCA) outcomes are translated into durable, long-term fixes that are tracked, prioritized, and delivered. Success in this role is measured by improved system reliability, reduced recurrence, and a sustained shift from reactive support to proactive prevention. Who We Are Pollard Digital Solutions – Europe is a full-solution supplier of lottery management and iLottery technology for lottery markets. We're a division of Pollard Banknote Ltd – a leading partner to 60 lotteries worldwide, known for high-quality instant ticket products, licensed games, retail merchandising solutions, and innovation. Established in 1907 and headquartered in Winnipeg, Canada, Pollard Banknote is publicly traded on the Toronto Stock Exchange (PBL). Our objective is to deliver the most innovative solutions that will render industry-leading returns to good causes in an ethically responsible way. We pride ourselves on a collaborative and inclusive workplace – where creativity, team spirit, and respect are core to how we work. What We Offer: A truly collaborative and supportive working environment Modern office space with on-site parking Private health insurance Coverage for medical treatments outside of Serbia Learning and development budget Profit sharing – every role plays a part in our success Budget for sports activities Team-building and social activities Employee referral bonuses Hybrid work environment Reference: qCVDd7TSMvUgScn1rLR5yGg627dnyJ2OmCYaNSGtJNuwon8XjnUiEk6O7QvlOGoH What You'll Do: Own Production Incident and Bug Intake Take full ownership of the operational queue for all production incidents and bugs (P1–P5), ensuring clear accountability and no loss of signal. Review, triage, and validate incoming issues with business and technical stakeholders to confirm severity, impact, and urgency. Ensure each issue is documented with clear business context, distinguishing between cosmetic issues and those with material customer, revenue, or compliance impact. Drive Prioritization and Cross-Team Coordination Facilitate prioritization discussions across Business, Product, Engineering, and Quality to ensure critical reliability work is appropriately sequenced. Advocate for timely resolution of high-impact incidents and defects, balancing support work against feature delivery. Coordinate closely with Engineering and Release Management to align fixes with safe and appropriate deployment windows. Lead Problem Management and Recurrence Reduction Lead structured RCA sessions for major and recurring incidents, challenging superficial explanations and driving toward true systemic causes. Translate RCA outcomes into well-scoped Jira Epics and Stories that reflect durable corrective actions, not temporary mitigations. Track recurring incidents as formal \"Problems\" and maintain a visible registry of long-term corrective actions, tagged as reliability commitments. Follow corrective actions through to verified resolution in produc"
+  },
+  {
+   "source": "infostud",
+   "id": "764586",
+   "title": "Service Operations Engineer",
+   "company": "Hyperoptic Ltd",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Jira",
+    "Podrška",
+    "React"
+   ],
+   "posted": "2026-10-29",
+   "expires": "13.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/service-operations-engineer/hyperoptic-ltd/764586",
+   "summary": "The Service Operations Engineer serves as first point of contact for customer incidents, monitoring alerts and performing initial troubleshooting to maintain network availability. The role ensures timely resolution or escalation of issues and collaborates with NetOps and SysOps to identify recurring problems and improve operational processes.",
+   "matched": [
+    "administrator"
+   ],
+   "first_seen": "2026-10-29T14:32:47+00:00",
+   "details": "O poslodavcu Job title: Service Operations Engineer Office location: Spanskih boraca, Belgrade - Hybrid working (3 days in the office) Shift rota: Shifts include 06:00 - 14:00 / 14:00 - 22:00 / 22:00 - 06:00 / 09:00- 17:00 / 11:00 - 19:00 About the role and the Team: We are looking for a proactive and customer-focused Service Operations Engineer to join our team and play a key role in maintaining a reliable, high-performing network and IT service. As the first point of contact for customer incidents, you will monitor alerts, respond to issues, carry out initial troubleshooting, and ensure incidents are resolved or escalated promptly to the appropriate technical teams. With a strong focus on service quality and customer experience, you will help us maintain network availability and resolve or escalate 95% of customer issues within 24 hours. Working closely with our NetOps and SysOps teams, you will also help identify recurring issues, improve processes, and ensure customers receive a responsive and consistently high standard of service. What will you be doing? Incident Management React promptly to alarms received from monitoring tools, ticketing system or emails Maintain clear communications with relevant teams during the resolution of any network incident Keep record of all network and IT issues with the remedy and send report to line manager Escalate to relevant internal or external parties to resolve the issue quickly Take proactive steps and actions to avoid network incidents Reference: ZyCC4IWolJwMyEz0pXz_wR1yu1gs95XwZP5tlOEV_ZDzjV-c9UsUdjBYHsaBbONJ Customer-Related Ticket Handling Manage and respond to incoming customer tickets involving network or system issues. Conduct basic troubleshooting for network-related tickets and escalate to NetOps if the issue requires advanced analysis. Troubleshoot system-related tickets and escalate to SysOps for more in-depth resolution if needed. Collaboration and Reporting Work closely with NetOps and SysOps teams to ensure seamless issue resolution and efficient ticket flow between levels. Provide input on common incident trends to assist in identifying recurring issues and areas for process improvement. Maintain detailed records of all incidents, resolutions, and escalations, contributing to the overall knowledge base. What we are looking for: Bachelor's degree Good understanding of troubleshooting network & IT services issues Good knowledge on Ethernet, IP, Broadband and IT technologies Experience with ticketing systems such as Jira. Strong communication skills and the ability to interact effectively with both technical and non-technical teams Excellent English, written and spoken Analytical thinker with strong attention to details Why work for us? We're in your corner and our vision is to be the UK's most loved and desired broadband provider, that shows the way broadband is done! Awarded Broadband Provider of the Year 2023 Uswitch Telecoms Awards, as voted for by 20,000 customers, plus Fair Terms Gold Award 2023. We're also very proud to have been awarded Great Place to Work Certification (2022-23) and UK's Best Workplaces for Wellbeing (2022) In our Belgrade office, we work with our UK colleagues in a shared mission: to gigabit Britain. Our office started up in 2013 with what was then 20 developers, now we're more than 700 people. Do you want to be a part of our next adventure? Some of our key Benefits: Competitive salary Global Remote working for up to 2 week per year for those who are able "
+  },
+  {
+   "source": "helloworld",
+   "id": "764700",
+   "title": "AI Forward Deployed Engineer",
+   "company": "NTT Data Business Solutions OOD Ogranak Beograd",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "python",
+    "typescript",
+    "cloud"
+   ],
+   "posted": "2026-10-29",
+   "expires": "13.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/AI-Forward-Deployed-Engineer/NTT-Data-Business-Solutions-OOD-Ogranak-Beograd/764700",
+   "summary": "NTT Data Business Solutions OOD Ogranak Beograd Rad od kuće online intervju 13.11.2026. JavaScript Python TypeScript Cloud Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "AI Forward Deployed Engineer AI Forward Deployed Engineer NTT Data Business Solutions OOD Ogranak Beograd Rad od kuće online intervju 13.11.2026. JavaScript Python TypeScript Cloud intermediate As part of the global NTT DATA Group, one of the top 5 IT service providers worldwide, we specialize in value-added SAP solutions. At NTT DATA Business Solutions, our focus is SAP Consulting, SAP Development, Managed Cloud Services, and Application Management Services (AMS) & Technology. Across the globe, we support customers in their digital transformation from start to finish. OUR RECIPE FOR SUCCESS: DIVERSITY, OPENNESS, RESPECT, AND TOGETHERNESS. With more than 13,000 employees from 64 nations in over 29 countries, our diverse workforce reflects our values. People are and will always be vital to our mission, playing a decisive role in everything we do. ARE YOU READY TO BREAK NEW GROUND? Location : Serbia, Belgrade 1. What makes us special: Team-oriented corporate culture, collaboration as equals and steady knowledge transfer Diversity & Inclusion (e.g. various initiatives & communities) Inhouse Academy with a variety of professional technical training, soft skills training, SAP Learning Hub and certification opportunities Company benefits (Generali Private Health Insurance, FitPass, 24 days Annual paid leave) Working from home with the option of a great located office space at New Belgrade At NTT DATA Business Solutions OOD Ogranak Beograd, we're seeking dedicated AI Forward Deployed Engineer to help turn real business and service challenges into working AI solutions. Dive into the heart of digital transformation and become a part of our journey towards innovation and growth. This role sits at the intersection of AI engineering, full-stack development, and enterprise service operations. You will work directly with internal teams and selected customer teams to identify practical AI use cases, build production-grade MVPs, validate them with real users and real data, and prepare successful solutions for handover into delivery or production teams. This is not a research or strategy-only role. It is a build-and-prove role for someone who wants to stay close to users, close to the code, and close to measurable impact. 2. What you will do Work directly with internal teams and selected customer teams to understand real operational problems. Translate business and service challenges into AI-enabled solution designs. Build production-grade MVPs that can be tested with real users and real data. Develop data ingestion and processing pipelines. Build and optimize RAG components, retrieval strategies, embeddings, prompts, and grounding logic. Implement AI output evaluation and quality monitoring. Build front-end applications, backend services, APIs, and data models. Integrate authentication, authorization, and access control. Connect applications to AI services, enterprise systems, and workflows. Create reusable patterns, components, and documentation for future use cases. Prepare solutions for handover to delivery or production teams. 3. What you bring Strong software engineering fundamentals. Experience with Python, TypeScript, JavaScript, or similar languages. Front-end, backend, API, and database development experience. Understanding of authentication and access management. Practical experience with LLM APIs, RAG frameworks, embeddings, and vector databases. Understanding of prompt engineering, context engineering, and grounding. Experience with documen",
+   "first_seen": "2026-10-29T14:32:47+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "764657",
+   "title": "Game Designer",
+   "company": "IGT D&B d.o.o.",
+   "location": "London",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-29",
+   "expires": "28.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Game-Designer/IGT-DB-d.o.o/764657",
+   "summary": "IGT D&B d.o.o. 3.7 London 28.11.2026. Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Game Designer Game Designer IGT D&B d.o.o. 3.7 London 28.11.2026. senior Your growth matters. At IGT, we're building a culture where people Innovate with Purpose, Compete Intensely & Win, Lead with Heart, Make It Matter, and Create Value. Grow your career while helping shape what's next. Build what's next at IGT. Overview Hiring location: UK or EU Employment type: Full-time position through employment contract. Requirement: Candidates must be fully eligible to work full-time under a local employment contract Work setup: Hybrid, connected to the local office At IGT, we design and build casino games played by millions of players worldwide. For our studio we’re searching for talented Game Designer who is passionate about creating innovative game concepts, designing engaging gameplay experiences, and bringing unique ideas to life. What You'll Do As a Game Designer, you will play a pivotal role in the creative process, leading the ideation of exciting casino and slot game concepts. You will work closely with a diverse team of professionals, including game designers, mathematicians, producers, animators, sound designers, and software engineers, to deliver outstanding games to the market. Concept Development: Generate innovative ideas and themes that align with creative briefs for new casino and slot games. Collaboration: Work collaboratively with the studio throughout the development process to ensure the execution of your concepts meets high-quality standards. Documentation: Create detailed design documents outlining game mechanics, features, and requirements. Creative Oversight: Serve as the creative gatekeeper during achievement ceremonies, ensuring all elements align with the project's vision and standards. Education: Provide mentorship to key creatives on standard methodologies in casino game design, tailored to various key markets. About You Experience in slots and casino game design Strong understanding of existing game types, features, and mechanics relevant to casino and slot games. Proficiency in visual design tools for creating storyboards and conceptualizing ideas. Familiarity with mathematical game methods and their application in game design and implementation. Creative and innovative problem solver with a passion for game design and excellent communication and collaboration skills. Diligent with strong organizational abilities. Benefits and Culture Vibrant and stimulating work environment within Class-A office space. Opportunity to learn and further improve your skills. Opportunity to develop a career within a stable environment. Full-time/permanent employment and competitive salary. Private health insurance for you and your family. Flexible working hours including work from home and from office. Ready to level up your career? Your first step starts with applying and see where it leads. Let’s build games played by millions together! Why join IGT? At IGT, our greatest competitive advantage is our people. We take ownership, work with urgency, act with integrity, stay curious, and create value for our customers and each other. Join us and help shape what's next. IGT is committed to fostering a diverse, equitable, and inclusive workplace that reflects the global communities and customers we serve. We strive to create an environment where all employees feel valued, respected, and empowered. IGT is an equal opportunity employer. We provide equal employment opportunities to all applicants and employees without regard to race, color, r",
+   "first_seen": "2026-10-29T14:32:47+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-zoominfo-technologies-llc-principal-data-engineer",
+   "title": "Principal Data Engineer",
+   "company": "ZoomInfo Technologies LLC",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-29",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
+   "summary": "Headquarters: Remote-US ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. We are seeking a highly experien",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-29T14:32:47+00:00"
+  },
   {
    "source": "infostud",
    "id": "764536",
