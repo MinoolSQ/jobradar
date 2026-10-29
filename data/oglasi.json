@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-29T14:32:47+00:00",
+ "generated_at": "2026-10-29T23:25:59+00:00",
  "window_days": 3,
  "cutoff": "2026-10-26",
- "count": 24,
- "new_count": 8,
+ "count": 29,
+ "new_count": 5,
  "errors": [
   "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
  ],
@@ -24,7 +24,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 55,
+   "vraceno": 58,
    "strane": 2,
    "stop": "kraj"
   },
@@ -49,7 +49,7 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -114,7 +114,7 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 81,
+   "vraceno": 84,
    "strane": 3,
    "stop": "kraj"
   },
@@ -129,17 +129,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 47,
+   "vraceno": 50,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 72,
+   "vraceno": 75,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -154,12 +154,129 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 116,
+   "vraceno": 120,
    "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "764777",
+   "title": "Guided Transcription Operator",
+   "company": "Allyant",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-29",
+   "expires": "28.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/guided-transcription-operator/allyant/764777",
+   "summary": "This entry level role prepares educational materials for blind and low vision users by converting source PDFs into accessible documents using proprietary software and Microsoft Word. The successful candidate will also produce tactile graphics to transform print illustrations and diagrams into readable tactile formats.",
+   "matched": [
+    "administrator"
+   ],
+   "first_seen": "2026-10-29T23:25:59+00:00",
+   "details": "O poslodavcu DUTIES: Learning a custom built software to create accessible documents for the blind and low vision consumer in the education marketplace. Working within MS Word to format and proofread documents that have been initially processed and transcribed using the custom built software. This includes: receiving documents in a PDF format, running documents through the proprietary software, following the rules, guidelines and prompts to make decisions regarding the formatting of the documents. Producing tactile graphics using graphic software to transform print illustrations, maps, images, diagrams, etc. into readable tactual format for the blind. Reference: ih_RxXI0qpkIcqN840tPH4nEt4ah1FUe-O6mWQX2DCUv4CLfdGcnkJgyNxCP1ugj QUALIFICATIONS: A minimum of a 2 year college diploma, or equivalent, is required. This is an entry level role; some previous experience working in an office or production setting would be an asset. Experience in writing reports and document structuring is an asset. KNOWLEDGE: Proficient in using Microsoft office tools (Microsoft Word, Excel) and Adobe Acrobat, PDF. Experience working with graphic software, such as InDesign or Corel Draw, would be considered an asset. Knowledge of braille and/or accessible formats would be considered an asset. SKILLS: Strong proof reading skills. Strong attention to detail. Strong ability to prioritize tasks and troubleshoot problems and issues. Well organized and have logical problem solving skills. Good relationship and team building skills. Good interpersonal skills. Desktop publishing skills would be considered an asset. ABILITIES: Exceptional attention to detail and accuracy and ability to learn things quickly. Ability to manipulate word, learn a user interface to create tactile graphics or document layout formatting. Ability to learn technical details and provide feedback on user experience for the tools used. Ability to work in a dynamic team environment. Ability to take initiative and work independently. Ability to remain calm under the pressure of tight deadlines. LANGUAGE: Excellent oral and written communication skills in English. Fluency in French and/or Spanish would be an asset. Please submit your resume and motivational letter in English. PLEASE DO NOT include your photo, date of birth or marital status! Allyant 885 Meadowlands Drive East, Suite 401, Ottawa K2C 3N2, Canada Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Administracija Administrativni radnik Guided Transcription Operator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadr"
+  },
+  {
+   "source": "infostud",
+   "id": "764691",
+   "title": "Senior Flutter Mobile Developer",
+   "company": "BRRM d.o.o.",
+   "location": "Novi Sad | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "iOS",
+    "Android",
+    "Git",
+    "JSON",
+    "REST",
+    "MVVM",
+    "Dart",
+    "QA",
+    "Programiranje",
+    "Flutter"
+   ],
+   "posted": "2026-10-29",
+   "expires": "13.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-flutter-mobile-developer/brrm-doo/764691",
+   "summary": "Senior Flutter developer vodi migraciju postojećih iOS i Android aplikacija na Flutter uz očuvanje funkcionalnosti i stabilnosti. Kandidat će doprinositi razvoju novih funkcionalnosti, rešavanju produkcionih problema i donošenju tehničkih odluka.",
+   "matched": [
+    "podaci",
+    "backend"
+   ],
+   "first_seen": "2026-10-29T23:25:59+00:00",
+   "details": "O poslodavcu Tražimo iskusnog Senior Flutter Mobile Developera koji će se pridružiti našem timu i učestvovati u migraciji postojećih mobilnih aplikacija na Flutter tehnologiju, kao i u njihovom daljem razvoju i održavanju. Trenutno imamo više mobilnih aplikacija razvijenih u nativnim tehnologijama — iOS aplikacije u Swiftu, a Android aplikacije u Kotlinu. Naš cilj je da ih postepeno migriramo na Flutter, uz očuvanje postojećih funkcionalnosti, kvaliteta i stabilnosti, kao i mogućnost daljeg unapređenja proizvoda. Tražimo osobu koja ima napredno poznavanje Fluttera, iskustvo u razvoju produkcionih mobilnih aplikacija i sposobnost da samostalno donosi tehničke odluke, planira implementaciju i sarađuje sa ostatkom razvojnog tima. Ključne odgovornosti: Migracija postojećih iOS aplikacija razvijenih u Swiftu i Android aplikacija razvijenih u Kotlinu na Flutter. Analiza postojećih aplikacija, njihove arhitekture i funkcionalnosti pre početka migracije. Planiranje i sprovođenje migracije uz očuvanje postojećeg korisničkog iskustva i poslovne logike. Razvoj novih funkcionalnosti i unapređenje postojećih mobilnih aplikacija. Održavanje, optimizacija performansi i rešavanje tehničkih problema u produkcionim aplikacijama. Integracija mobilnih aplikacija sa backend servisima putem REST API-ja i drugih odgovarajućih interfejsa. Implementacija nativnih funkcionalnosti iOS-a i Androida kada je to potrebno, uključujući povezivanje Fluttera sa postojećim nativnim kodom. Pisanje kvalitetnog, čitljivog i održivog koda, uz primenu odgovarajućih arhitektonskih obrazaca i principa dobre razvojne prakse. Pisanje i održavanje testova, otklanjanje grešaka i učešće u procesu objavljivanja aplikacija. Saradnja sa backend, frontend, QA i drugim članovima tima u planiranju i realizaciji razvojnih zadataka. Reference: 2EhXzqRW1YUqelQySGtf6WE83gdYhcl6-RLhzInghmCvTVjvPwAH0qmetCctFWex Obavezni uslovi: Minimum 3 godine profesionalnog iskustva u razvoju mobilnih aplikacija. Napredno, odnosno senior-level poznavanje Fluttera i programskog jezika Dart. Iskustvo u razvoju, objavljivanju i održavanju mobilnih aplikacija koje se koriste u produkciji. Dobro razumevanje arhitekture mobilnih aplikacija, upravljanja stanjem, asinhronog programiranja i životnog ciklusa aplikacija. Iskustvo u integraciji aplikacija sa REST API servisima i radu sa JSON podacima. Razumevanje razlika između iOS i Android platformi i njihovih specifičnosti. Sposobnost samostalnog rešavanja tehničkih problema i preuzimanja odgovornosti za kvalitet isporučenog rešenja. Spremnost za timski rad, razmenu znanja i saradnju sa kolegama iz različitih razvojnih oblasti. Prednost imaju kandidati koji poseduju iskustvo u migraciji nativnih iOS i Android aplikacija na Flutter. Praktično iskustvo sa Swiftom i Kotlinom, posebno u kontekstu povezivanja Fluttera sa nativnim kodom. Iskustvo sa Flutter platform channels, odnosno komunikacijom između Flutter i nativnih modula. Poznavanje arhitektonskih obrazaca kao što su Clean Architecture, MVVM ili slični pristupi. Iskustvo sa alatima za upravljanje stanjem, kao što su BLoC, Riverpod ili Provider. Iskustvo sa automatizovanim testiranjem, CI/CD procesima i automatizacijom izgradnje i objavljivanja aplikacija. Iskustvo sa objavljivanjem i održavanjem aplikacija na Google Play i Apple App Store platformama. Poznavanje Git-a i rada kroz code review procese. Završene osnovne ili master akademske studije na tehničkom fakultetu, prvenstveno iz oblasti računarstva, informatike"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-bitovi-backend-platform-developer-consultant-temporal-kubernetes",
+   "title": "Backend / Platform Developer Consultant (Temporal & Kubernetes)",
+   "company": "Bitovi",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-29",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes",
+   "summary": "Headquarters: United States URL: https://bitovi.com JOIN OUR TEAM! Bitovi is looking for a Backend / Platform Developer Consultant to join us as we transform technology delivery. We build and operate durable, distributed systems for enterprise clients — heavy on Java Services, Temporal for workflow orchestration, Kafka for event streaming, and Kubernetes-native platform engineering on AWS to run i",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-29T23:25:59+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "764565",
+   "title": "Game Designer",
+   "company": "Elite Diplomatic d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "3d"
+   ],
+   "posted": "2026-10-30",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Game-Designer/Elite-Diplomatic-d.o.o/764565",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. 3D Junior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Game Designer Game Designer Elite Diplomatic d.o.o. Odgovara na prijave Beograd Beograd: Jurija Gagarina 76 14.11.2026. 3D junior Hey we’re looking for a Game Designer (Belgrade). We’re a small indie studio in Belgrade, and we’re building an old-school first-person shooter fast, weighty gunplay, the kind of movement and punch you remember from the immersive sims of the late 90s/early 2000s, but rebuilt with a look that’s our own. There’s a real story underneath it too: a grim, dystopian sciencepunk world where the choices you make actually change how things play out. It’s still unannounced, it’s aiming at AA scope, and we want an eager, capable Game Designer to actually design the thing. You’d be shaping systems that end up in players’ hands. What you’d be doing Designing and prototyping the core gameplay; Working closely with our Creative Director and Writer on the branching, choice-driven stuff; Teaming up with the 3D, Environment, and Tech folks to get levels standing up; Living in UE5 greyboxing, building, iterating until it feels right. What we’re hoping you bring A real want to learn and get better, and to take notes without taking them personally; Hands-on UE5 time (greyboxing and prototyping especially); A good feel for what makes shooters and story games click extra love if you’re into immersive sims; Some sense of how a game actually comes together start to finish; Nice to have, not required: something you’ve made a shipped game, a student project, a jam entry, anything that shows how your head works. What you’d get A fair salary for your experience, and we revisit it regularly raises included; A studio that means it about work-life balance; Someone in your corner to help you grow tell us where you want to go and we’ll help you get there. Feel free to drop your résumé and portfolio electronically. Apply Here Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * Izaberi sa liste Problem pri slanju prijave za posao Problem sa registracijom ili loginom Odjava sa mejling liste Aktivacija ili deaktivacija korisničkog naloga Ostalo Poruka Pošalji Odustani Greška ... Ok Budi obavešten! Prati kompaniju i ne propusti nove važne informacije. Dobićeš email obaveštenje kada poslodavac objavi novi oglas za posao, kada neko podeli platu, iskustvo o radu ili sa intervjua. Prati Odustani Tvoj Infostud profil je spreman Jedan korak te deli do kreiranog profila. Završi popunjavanje",
+   "first_seen": "2026-10-29T23:25:59+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "764566",
+   "title": "Unreal Engine Programmer (Systems&Smartobjects)",
+   "company": "Elite Diplomatic d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "c"
+   ],
+   "posted": "2026-10-30",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Unreal-Engine-Programmer-SystemsSmartobjects/Elite-Diplomatic-d.o.o/764566",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. C++ Intermediate Senior global.searchSelectItemEvents = {\"762008\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762008\",\"item_name\":\"Senior Marketing Manager\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"marketing menad\\u017eer\",\"item_category2\":\"UX Dizajn, Menad\\u017ement\",\"item_category3\":\"senior\",\"item_cate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Unreal Engine Programmer (Systems&Smartobjects) Unreal Engine Programmer (Systems&Smartobjects) Elite Diplomatic d.o.o. Odgovara na prijave Beograd Beograd: Jurija Gagarina 76 14.11.2026. C++ intermediate senior We're looking for a Unreal Engine Programmer . We're a small indie studio in Belgrade, and we're building an old-school first-person shooter fast, weighty gunplay, the kind of movement and punch you remember from the immersive sims of the late 90s/early 2000s, but rebuilt with a look that's our own. There's a real story underneath it too: a grim, dystopian sciencepunk world where the choices you make actually change how things play out. It's still unannounced, it's aiming at AA scope, and we want an eager, capable developer to make the thing. Focus: Implementing and extending Unreal Engine's Smart Objects system for AI/world interactions, architecting custom Control Rigs, and establishing runtime optimization standards. Requirements: Strong C++ and Blueprint proficiency, deep understanding of UE5's AI/Gameplay subsystems (Smart Objects, Gameplay Behaviors), and hands-on performance profiling experience. Feel free to drop your résumé and portfolio here or submit them electronically. Apply Here Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * Izaberi sa liste Problem pri slanju prijave za posao Problem sa registracijom ili loginom Odjava sa mejling liste Aktivacija ili deaktivacija korisničkog naloga Ostalo Poruka Pošalji Odustani Greška ... Ok Budi obavešten! Prati kompaniju i ne propusti nove važne informacije. Dobićeš email obaveštenje kada poslodavac objavi novi oglas za posao, kada neko podeli platu, iskustvo o radu ili sa intervjua. Prati Odustani Tvoj Infostud profil je spreman Jedan korak te deli do kreiranog profila. Završi popunjavanje",
+   "first_seen": "2026-10-29T23:25:59+00:00"
+  },
   {
    "source": "infostud",
    "id": "764521",
@@ -324,7 +441,7 @@
    "expires": "13.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/AI-Forward-Deployed-Engineer/NTT-Data-Business-Solutions-OOD-Ogranak-Beograd/764700",
-   "summary": "NTT Data Business Solutions OOD Ogranak Beograd Rad od kuće online intervju 13.11.2026. JavaScript Python TypeScript Cloud Intermediate Novo",
+   "summary": "NTT Data Business Solutions OOD Ogranak Beograd Rad od kuće online intervju 13.11.2026. JavaScript Python TypeScript Cloud Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -400,7 +517,7 @@
   {
    "source": "infostud",
    "id": "764489",
-   "title": "B2B Sales Representative – AI Voicebot",
+   "title": "B2B Sales Representative",
    "company": "OneClick Solutions d.o.o.",
    "location": "Beograd",
    "remote": false,
@@ -412,7 +529,7 @@
    "posted": "2026-10-28",
    "expires": "12.11.2026",
    "salary": null,
-   "url": "https://poslovi.infostud.com/posao/b2b-sales-representative-ai-voicebot/oneclick-solutions-doo/764489",
+   "url": "https://poslovi.infostud.com/posao/b2b-sales-representative/oneclick-solutions-doo/764489",
    "summary": "Pozicija vodi kompletan B2B prodajni proces za AI voicebot rešenja na tržištu Srbije i regiona. Kandidat će identifikovati i kvalifikovati potrebe klijenata te zatvarati ugovore uz koordinaciju sa tehničkim i AI timom.",
    "matched": [
     "it podrska",
@@ -722,7 +839,6 @@
     "it tehnicar",
     "sistem administrator",
     "administrator",
-    "it podrska",
     "tehnicka podrska",
     "mrezni",
     "windows",
