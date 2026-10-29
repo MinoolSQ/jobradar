@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-28T23:21:44+00:00",
+ "generated_at": "2026-10-29T07:19:00+00:00",
  "window_days": 3,
- "cutoff": "2026-10-25",
- "count": 15,
- "new_count": 0,
+ "cutoff": "2026-10-26",
+ "count": 16,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -107,32 +107,32 @@
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 18,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 61,
+   "vraceno": 62,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 143,
+   "vraceno": 149,
    "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 36,
+   "vraceno": 38,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 49,
+   "vraceno": 50,
    "strane": 2,
    "stop": "kraj"
   },
@@ -142,7 +142,7 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,39 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 87,
+   "vraceno": 89,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "764536",
+   "title": "Saradnik za tehničku podršku",
+   "company": "Adriatic Bank a.d.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-10-29",
+   "expires": "13.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/saradnik-za-tehnicku-podrsku/adriatic-bank-ad/764536",
+   "summary": "Pozicija pruža operativnu tehničku podršku za radne stanice i periferiju unutar IT sektora. Kandidat će instalirati i konfigurisati računare i štampače te pružati prvi nivo podrške korisnicima i rešavati uobičajene IT probleme.",
+   "matched": [
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-10-29T07:19:00+00:00",
+   "details": "O poslodavcu Adriatic Bank a.d. Beograd zapošljava motivisanog kandidata sa relevantnim iskustvom na poslovima SARADNIK ZA TEHNIČKU PODRŠKU u Sektoru za informacione sisteme i infrastrukturu Dužnosti i odgovornosti: Instalacija, konfiguracija i održavanje radnih stanica (desktop računara i laptopova). Instalacija, podešavanje i održavanje Windows operativnih sistema. Instalacija i konfiguracija lokalnih i mrežnih štampača, skenera i druge periferne opreme. Instalacija, konfiguracija i ažuriranje aplikacija, drajvera i poslovnog softvera. Priprema i podešavanje računara za krajnje korisnike. Dijagnostika i otklanjanje hardverskih i softverskih problema. Pružanje tehničke podrške korisnicima i rešavanje svakodnevnih IT problema. Osnovno podešavanje mrežnih konekcija i pristupa deljenim mrežnim resursima. Podešavanje korisničkih profila, prenos podataka i priprema računara prilikom zamene opreme. Osnovno održavanje i zamena računarskih komponenti. Instalacija i ažuriranje antivirusnog softvera i bezbednosnih zakrpa. Evidencija IT opreme, instalacija i izvršenih intervencija. Podrška korisnicima putem telefona, elektronske pošte ili alata za udaljeni pristup. Reference: stFfhGejXCCqhrmpZ5kud2uyHbSOFosPSgC7lsvLIs4qn-sTzL-zFqtRyGSvOQWW Potrebna znanja i kvalifikacije Dobro poznavanje Windows 11 operativnih sistema, instalacije, konfiguracije i rešavanja problema. Dobro poznavanje računarskog hardvera i periferne opreme. Iskustvo u instalaciji i konfiguraciji lokalnih i mrežnih štampača. Osnovno poznavanje računarskih mreža, TCP/IP protokola, IP adresa, DNS-a i DHCP-a. Osnovno poznavanje Active Directory okruženja i rada sa korisničkim nalozima. Poznavanje Microsoft Office i Microsoft 365 aplikacija, uključujući Outlook. Sposobnost dijagnostike i samostalnog rešavanja uobičajenih hardverskih i softverskih problema. Osnovno poznavanje alata za udaljenu tehničku podršku. Lične osobine Odgovornost, preciznost i organizovanost. Dobre komunikacione veštine i ljubazan odnos prema korisnicima. Sistematičnost u radu i sposobnost određivanja prioriteta. Spremnost za timski rad i usvajanje novih znanja. Poželjno Prethodno iskustvo na poslovima instalacije i održavanja računarske opreme ili korisničke IT podrške. Iskustvo u pripremi i zameni radnih stanica u poslovnom okruženju. Vozačka dozvola B kategorije. Pozivamo sve zainteresovane kandidate da dostave svoju biografiju. Samo kandidati koji uđu u uži izbor će biti kontaktirani. Adriatic Bank a.d. Beograd Adriatic Bank je moderna univerzalna banka sa sedištem u Beogradu, koja pruža širok spektar finansijskih usluga za fizička i pravna lica. Poslujemo u Srbiji sa tradicijom dužom od tri decenije, a od 2023. godine prisutni smo pod novim imenom, uz fokus na digitalizaciju i unapređenje korisničkog… Više o poslodavcu Više o poslodavcu na HelloWorld Beneficije Dobrovoljno zdravstveno osiguranje Kompanijski popusti Edukacija, profesionalni razvoj Obezbeđena oprema za rad Dodatni slobodni dani Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd I"
+  },
   {
    "source": "infostud",
    "id": "764489",
