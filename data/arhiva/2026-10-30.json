@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-30T14:25:54+00:00",
+ "generated_at": "2026-10-30T23:03:49+00:00",
  "window_days": 3,
  "cutoff": "2026-10-27",
- "count": 27,
- "new_count": 3,
+ "count": 28,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,17 +12,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 10,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 47,
+   "vraceno": 48,
    "strane": 2,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 8,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 13,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
@@ -112,12 +112,12 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 85,
+   "vraceno": 89,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 173,
+   "vraceno": 176,
    "strane": 6,
    "stop": "kraj"
   },
@@ -132,7 +132,7 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 81,
+   "vraceno": 83,
    "strane": 3,
    "stop": "kraj"
   },
@@ -152,12 +152,44 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 112,
+   "vraceno": 115,
    "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137600",
+   "title": "Cloud Engineer Automation",
+   "company": "Smile Digital Health",
+   "location": "Toronto, Ontario",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "grafana",
+    "infosec",
+    "python",
+    "customer support",
+    "marketing",
+    "dev",
+    "quality assurance",
+    "devops",
+    "education",
+    "cloud",
+    "git"
+   ],
+   "posted": "2026-10-29",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+   "summary": "Working for a company like Smile Digital Health means supporting our mandate for #BetterGlobalHealth . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which are used in over 20 countries. We were #19 on Deloitte's Technology Fast 50 Ranking for 2024! Smile Digital Health makes it easy for healthc",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-10-30T23:03:49+00:00"
+  },
   {
    "source": "infostud",
    "id": "764918",
@@ -554,7 +586,7 @@
    "expires": "13.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/AI-Forward-Deployed-Engineer/NTT-Data-Business-Solutions-OOD-Ogranak-Beograd/764700",
-   "summary": "NTT Data Business Solutions OOD Ogranak Beograd Rad od kuće online intervju 13.11.2026. JavaScript Python TypeScript Cloud Intermediate Novo",
+   "summary": "NTT Data Business Solutions OOD Ogranak Beograd Rad od kuće online intervju 13.11.2026. JavaScript Python TypeScript Cloud Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -574,7 +606,7 @@
    "expires": "28.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Game-Designer/IGT-DB-d.o.o/764657",
-   "summary": "IGT D&B d.o.o. 3.7 London 28.11.2026. Senior Novo",
+   "summary": "IGT D&B d.o.o. 3.7 London 28.11.2026. Senior",
    "matched": [
     "helloworld"
    ],
