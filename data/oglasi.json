@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-10-30T07:21:29+00:00",
+ "generated_at": "2026-10-30T14:25:54+00:00",
  "window_days": 3,
  "cutoff": "2026-10-27",
- "count": 24,
- "new_count": 1,
+ "count": 27,
+ "new_count": 3,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 9,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 42,
+   "vraceno": 47,
    "strane": 2,
    "stop": "kraj"
   },
@@ -52,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 4,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 9,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
@@ -97,28 +97,28 @@
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 2,
+   "strane": 1,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 31,
+   "vraceno": 40,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 18,
+   "vraceno": 25,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 69,
+   "vraceno": 85,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 144,
-   "strane": 5,
+   "vraceno": 173,
+   "strane": 6,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,17 +127,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 37,
+   "vraceno": 45,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 64,
+   "vraceno": 81,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 3,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,96 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 91,
+   "vraceno": 112,
    "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "764918",
+   "title": "Security Engineer",
+   "company": "Semaphore Technologies d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "Python",
+    "Bash",
+    "Sistemska administracija",
+    "SaaS",
+    "SoC",
+    "IAM"
+   ],
+   "posted": "2026-10-30",
+   "expires": "29.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/security-engineer/semaphore-technologies-doo/764918",
+   "summary": "This hands on role is the technical owner of information security for cloud infrastructure and internal systems ensuring technical controls are implemented operated and tested. The role focuses on improving monitoring driving vulnerability remediation automating security operations and providing reliable audit evidence to reduce risk and maintain compliance.",
+   "matched": [
+    "python",
+    "data engineer",
+    "data platform",
+    "linux",
+    "it support"
+   ],
+   "first_seen": "2026-10-30T14:25:54+00:00",
+   "details": "O poslodavcu About Semaphore Semaphore is a remote-first software company helping engineering teams build, test, and deliver software with confidence. Our customers rely on Semaphore Cloud and our self-hosted enterprise products to run critical development workflows securely and reliably. We maintain SOC 2 Type 2 and ISO 27001:2022 compliance and are hiring a Security Engineer to own the technical side of our security program. About the role You will be the technical owner of information security across our infrastructure and internal systems. You will work closely with Engineering, Infrastructure, and our Compliance Manager to turn security and compliance requirements into practical, reliable controls. This is a hands-on role. You will investigate vulnerabilities, operate security monitoring, improve infrastructure and access controls, automate recurring work, and lead technical remediation. Our Compliance Manager owns the ISMS, policies, audit coordination, and legal or regulatory interpretation; you will own the implementation, operation, and testing of the technical controls behind them. We care more about demonstrated ownership and sound judgment than a specific number of years or a previous job title. What you will own Run the vulnerability-management lifecycle: scanning, triage, prioritization, remediation, exceptions, and verification. Operate and improve security monitoring and SIEM tooling, including alert quality, dashboards, detection rules, and integrations. Investigate security alerts and lead the technical response to security incidents. Improve the security of Linux hosts, cloud infrastructure, networks, firewalls, containers, and internal services. Own technical controls for identity and access management, least privilege, just-in-time access, secrets, and certificates. Automate patching, evidence collection, recurring control checks, and other security operations. Coordinate penetration tests and drive technical findings through remediation and verification. Translate SOC 2 and ISO 27001 control requirements into effective technical implementations. Produce clear technical evidence for internal and external audits in partnership with the Compliance Manager. Maintain security runbooks, system documentation, risk-based priorities, and operational metrics. Help engineering teams make practical security decisions without adding unnecessary process. Reference: 60UjvO9e-eBJ2TxayPLbvZszIGksZqS_5w3328CSmDQl5O2x-ZrKWBgtW-YglfmG What we are looking for Proven ownership of technical security in a production SaaS, cloud, hosting, or infrastructure environment. Strong Linux systems, networking, and cloud-security fundamentals. Hands-on experience with vulnerability management, patching, hardening, and remediation at scale. Experience operating SIEM or security-monitoring systems and investigating security events. Practical understanding of IAM, privileged access, secrets management, certificates, and network controls. Ability to automate operational work using Python, Bash, infrastructure-as-code, or similar tools. Experience participating in incident response and communicating clearly during high-pressure situations. Working knowledge of ISO 27001, SOC 2, or similar security-control frameworks. Strong written and spoken English and comfort working independently in a remote, asynchronous team. Good risk judgment: the ability to distinguish urgent security problems, acceptable exceptions, and low-value processes. Nice to have Experi"
+  },
+  {
+   "source": "infostud",
+   "id": "764879",
+   "title": "Technology Risk Associate IT Audit",
+   "company": "Ernst & Young d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "Linux",
+    "Oracle",
+    "SAP",
+    "Menadžment",
+    "SoC",
+    "Excel",
+    "Active Directory"
+   ],
+   "posted": "2026-10-30",
+   "expires": "14.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/technology-risk-associate-it-audit/ernst-young-doo/764879",
+   "summary": "The Technology Risk Associate will execute IT audit engagements to identify IT control weaknesses and provide practical recommendations that reduce client IT risk exposure. The role focuses on performing ITGC testing, contributing to final reports, and supporting quality assurance while developing technical audit capabilities.",
+   "matched": [
+    "sql",
+    "data platform",
+    "junior",
+    "linux",
+    "it support"
+   ],
+   "first_seen": "2026-10-30T14:25:54+00:00",
+   "details": "O poslodavcu At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity We are currently seeking an Associate to participate in challenging IT Audit engagements and to contribute to the delivery of quality services for our diverse clients. This position offers excellent opportunities for learning and career advancement, apply your expertise, mentor junior team members, and play a key role in driving project success and client satisfaction. Your key responsibilities Our IT and auditing practice revolves around helping our clients effectively manage their exposure to IT risks proactively and responsibly. As part of a local and global team of IT auditors, you will perform IT Audit projects for clients from various business areas and industries, as well as for clients utilizing the various technology platforms and solutions. Our unwavering commitment to quality service and our technical networks enable you to help clients reduce inefficiencies, mitigate risk and improve opportunities within their IT functions. Main responsibilities will include: Support the delivery of IT audit engagements, including IT General Controls (ITGC) audits, regulatory and group IT audits, IT due diligence projects, client-requested IT reviews, and SOC reporting engagements, through control assessments, risk identification, testing activities, and the development of practical recommendations. Control environment review, identification of IT risks, identification of findings, providing recommendations Assist in IT audit controls testing and fieldwork activities Work effectively as an IT audit team member, sharing responsibility, providing support, maintaining communication and updating senior team members on progress Assist in preparing final reports on technology risk services that will be delivered to clients and other parties Maintain an educational program to develop personal skills on an ongoing basis Support quality assurance and risk management on digital transformation initiatives and system implementation reviews. Stay up to date with industry trends, emerging technologies, and regulatory developments, while actively contributing to knowledge sharing and team development. Reference: HOj0i9npWeCiw7yqDnwHOU0JETef4w37MRrGc2rqSNP4jNtXtYe19ls1j2J82jAJ Skills and attributes for success: Experience in ITGC, planning and executing IT audits in accordance with international frameworks (e.g. COBIT, ISO 27001, SOC 1/2, etc.) is a plus Experience in auditing or monitoring of some of the following solutions or technologies: SAP, MS Business Central, SQL or Oracle Database Server, Linux/Win OS or Active Directory will be considered as advantage Problem solver Team player Good oral and written communication skills Proficiency using Microsoft products including MS Word, Excel, and PowerPoint Very strong ambition and priorities related to professional achievements Project management skills and ability to coordinate engagements with cross-functional teams What we look for Minimum of 2 years of relevant experience in areas of IT Audit, Information/Cyber security, IT Governance and compliance. A degree in information technology/computer information systems or related (Preferable). Understanding of IT audit methodologies (Preferable) Strong attention to detail with an analytical mind and out"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+   "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
+   "company": "Smartsheet",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-30",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+   "summary": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creati",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-30T14:25:54+00:00"
+  },
   {
    "source": "infostud",
    "id": "764781",
@@ -174,7 +258,7 @@
     "SaaS",
     "Cloud"
    ],
-   "posted": null,
+   "posted": "2026-10-30",
    "expires": "14.11.2026",
    "salary": null,
    "url": "https://poslovi.infostud.com/posao/senior-devops-engineer/tieto-doo-tieto-banktech/764781",
@@ -695,29 +779,6 @@
    "details": "O poslodavcu Cyrillic Software is a US based IT Consulting company offering positions in Serbia and in the US for quality, motivated individuals interested in working on a talented team with quality industry leading clients. This is a work from home and remote position, but opportunities to work abroad in the US are also available. The Full Stack Angular/Node JS software developer must have experience in both Angular and Node JS/Express JS frameworks and must have working experience as a Full Stack Developer . The ideal candidate must have experience in building frontend components of web applications utilizing the Angular front end framework, leveraging modern front end development best practices including modern HTML, CSS, and JavaScript technologies and modern frontend libraries and frameworks . This position is part of an existing and multi-cultural Agile development team, for a client based in the US and so excellent verbal and written English communication skills are required. Experience with AWS and container technologies like Docker are also a plus. We are offering: Top Salary offers and willingness to beat existing or competitive offers Working on an international team with Quality individuals and team members Flexibility and remote work Huge potential of future growth, as well as potentially working in the US Reference: 018B83ZTUoqTLEBYmBK_uUTE8wHRHd_aH6PG87TIyzkgEJruqhR5cpUPMovdxbP1 Cyrillic Software Cyrillic Software is a US based company from Rochester Hills, Michigan providing Offshore Staffing and IT Consulting services and custom software development solutions for its clients. We help customers of all sizes in various industries across the globe by creating customer focused solutions and flexible project engagements built around the customers needs in mind, with an utmost focus on Quality and Delivery, at a Competitive Price. Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Full stack developer Full Stack Angular/NodeJS Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
   },
   {
-   "source": "infostud",
-   "id": "763035",
-   "title": "Inkompass Internship",
-   "company": "Philip Morris Services d.o.o.",
-   "location": "Niš | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "Prakse"
-   ],
-   "posted": "2026-10-28",
-   "expires": "05.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/inkompass-internship/philip-morris-services-doo/763035",
-   "summary": "This internship places early career candidates in a modern manufacturing site to contribute to business and transformation projects. The role develops practical skills through cross functional exposure and mentorship while supporting operational improvements.",
-   "matched": [
-    "data engineer",
-    "it support"
-   ],
-   "first_seen": "2026-10-27T23:01:44+00:00",
-   "details": "O poslodavcu Discover yourself with INKOMPASS . INKOMPASS is a paid internship program by Philip Morris International that enables you to discover yourself by working in a creative, dynamic, and culturally diverse environment. You'll work alongside industry leaders, gain experience and be part of PMI's transformation journey. During the internship, you will: Make an impact on business projects Learn from industry leaders Support PMI's transformation initiatives Reference: 5hWBri95K_pfMVbqnCqDix21Y-0ab6suEs6hgBo0olFa1ctRp-DKb4_KxstPXt6o Manufacturing facility in Niš Passionate about innovation or process optimization? Want to gain experience in a modern manufacturing environment in Niš? Learn how people, processes and technology come together to support business initiatives. Explore our functions Quality Discover how quality is built into manufacturing through quality systems, risk analysis and continuous improvement, while collaborating with teams across the factory. OPEN+ Explore how continuous improvement, data and digital tools make operations more efficient, and contribute to initiatives that simplify processes and ways of working. EHS Learn how Environment, Health & Safety supports factory operations through workplace safety, risk assessment and environmental practices. Engineering See how engineering combines technology and process improvement to enhance equipment, utilities and manufacturing operations. Production Step into the heart of manufacturing and learn how people, processes and technology come together to drive efficient daily production. Supply Planning Discover how data, planning and collaboration with local and international teams help keep production running smoothly and support effective decisions. IT Explore how systems, data and digital solutions support a modern factory and help teams improve everyday ways of working. Factory Logistics See how materials and products move across factory and warehouse operations, while gaining exposure to process improvement, data analysis and the wider supply chain. Security & Market Safety Discover how Security & Market Safety protects people, operations and the business through risk analysis, prevention initiatives and cross-functional collaboration. Who can apply? University students in their final year of Bachelor's studies, enrolled in Master's studies, or recent graduates Native Serbian speakers proficient in English Curious and eager to develop Agile thinkers with an open and proactive mindset Strong team players with collaboration skills The INKOMPASS 2027 program in Niš is planned to start on 1 February 2027 and run for 12 months. Join us and enjoy the freedom to dream up and deliver better, brighter solutions. Philip Morris Services d.o.o. Beograd Želimo ti dobrodošlicu u Philip Morris International. Sigurno već znaš ko smo mi, ali hajde da se bolje upoznamo. Postojimo već 170 godina kao jedna od vodećih svetskih kompanija u duvanskoj industriji. Nekada se prepoznatljivost naše kompanije vezivala samo za vodeće svetske brendove kao što su Marlboro, Parliament ili L&M. Danas smo na putu transformacije ka budućnosti bez duvanskog dima na kom je naša prva stanica bio ujedno i danas najpoznatiji brend u ovoj kategoriji – IQOS. Smoke –… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodav"
-  },
-  {
    "source": "helloworld",
    "id": "762924",
    "title": "Product Owner",
@@ -786,6 +847,35 @@
     "weworkremotely"
    ],
    "first_seen": "2026-10-27T13:24:36+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "763251",
+   "title": "Application Security Engineer",
+   "company": "CCBill SRB d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "javascript",
+    "java",
+    "python",
+    "perl",
+    "jenkins",
+    "agile"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "20.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Application-Security-Engineer/CCBill-SRB-d.o.o/763251",
+   "summary": "CCBill SRB d.o.o. 4.3 Rad od kuće online intervju 20.11.2026. Oglas dostupan i osobama sa invaliditetom .NET C# JavaScript Java Python Perl Jenkins Agile Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details_error": "ne mogu da skinem https://www.helloworld.rs/posao/Application-Security-Engineer/CCBill-SRB-d.o.o/763251: HTTP Error 500: Internal Server Error",
+   "first_seen": "2026-10-21T13:01:52+00:00"
   }
  ]
 }
