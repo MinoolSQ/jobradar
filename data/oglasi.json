@@ -1,12 +1,10 @@
 {
- "generated_at": "2026-10-29T23:25:59+00:00",
+ "generated_at": "2026-10-30T07:21:29+00:00",
  "window_days": 3,
- "cutoff": "2026-10-26",
- "count": 29,
- "new_count": 5,
- "errors": [
-  "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
- ],
+ "cutoff": "2026-10-27",
+ "count": 24,
+ "new_count": 1,
+ "errors": [],
  "infostud_queries": {
   "python": {
    "vraceno": 1,
@@ -14,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 11,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
@@ -24,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 58,
+   "vraceno": 42,
    "strane": 2,
    "stop": "kraj"
   },
@@ -39,7 +37,7 @@
    "stop": "kraj"
   },
   "spark": {
-   "vraceno": 2,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
@@ -54,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -64,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 5,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -84,12 +82,12 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 11,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
@@ -104,24 +102,24 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 44,
+   "vraceno": 31,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 24,
+   "vraceno": 18,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 84,
+   "vraceno": 69,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 180,
-   "strane": 6,
-   "stop": "limit"
+   "vraceno": 144,
+   "strane": 5,
+   "stop": "kraj"
   },
   "help desk": {
    "vraceno": 2,
@@ -129,37 +127,68 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 50,
+   "vraceno": 37,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 75,
+   "vraceno": 64,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 4,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "mrezni": {
-   "vraceno": 4,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "windows": {
    "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
+  "mrezni": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "windows": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "racunari": {
-   "vraceno": 120,
+   "vraceno": 91,
    "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "764781",
+   "title": "Senior DevOps Engineer",
+   "company": "Tieto d.o.o. - Tieto Banktech",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "Azure",
+    "DevOps",
+    "Sistemska administracija",
+    "SaaS",
+    "Cloud"
+   ],
+   "posted": null,
+   "expires": "14.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-devops-engineer/tieto-doo-tieto-banktech/764781",
+   "summary": "Senior DevOps Engineer will build production ready Azure platform foundations using Terraform and automated CI CD to enable secure and scalable banking workloads. The role focuses on elevating platform resiliency availability and cloud governance to support mission critical enterprise applications.",
+   "matched": [
+    "sql",
+    "devops",
+    "cloud",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-30T07:21:29+00:00",
+   "details": "O poslodavcu At Tieto Banktech , we power some of the Nordics' most trusted banking systems with secure, reliable, and scalable cloud solutions. We are on an exciting transformation journey-modernizing core banking through automation, infrastructure-as-code, AI, and cutting-edge Azure technologies. We are looking for Senior DevOps Engineer (Azure Infrastructure & Cloud Operations) to join our Platform Engineering team and help us build production-ready, resilient platform foundations with Terraform, automated deployment pipelines, and reliable cloud operations on enterprise scale. If you thrive in a talented, forward-leaning engineering team where people collaborate, challenge ideas constructively, and help each other grow, this is your opportunity to make a lasting impact. Why You'll Love Working with Us High-Impact Work: Build and host mission-critical financial applications serving Nordic banking customers. Modern Engineering Standards: Full commitment to Infrastructure as Code (Terraform), GitOps, and DevSecOps principles—no manual click-ops. True Work-Life Balance & Flexibility: We support a modern, hybrid work culture that respects your time and well-being. Culture of Continuous Learning: Technology moves fast, and so do we. We dedicate time and resources for unlearning, relearning, certifications, and mastering new technologies. Collaborative & Open Environment: Work closely with cross-functional architecture, security, and product development teams in a flat, supportive organization. Knowledge Sharing & Team Growth: Join a talented, forward-leaning Platform Engineering team where sharing knowledge, mentoring colleagues, and helping others grow are part of how we work. Reference: KyF01OIwQtH4wYiU7VcDXQGmzlxuLoWGxxWYdss1eG_w3WGBfykc-wU2jx8JZuO1 What you will contribute to Infrastructure as Code & Automation Collaborate with the team to design, build, and maintain enterprise Azure infrastructure using Terraform and modular engineering patterns. Automate end-to-end resource provisioning and lifecycle management via GitHub Actions and CI/CD pipelines. Contribute to reusable deployment modules and automated cloud governance templates that can be adopted and improved by the wider engineering organization. Azure Platform Engineering Help evolve and scale enterprise Azure Landing Zones together with the team, adhering to high availability and security benchmarks. Partner with development teams to accelerate cloud adoption, offering paved-road developer platforms and self-service capabilities. Standardize hybrid networking, API management, and identity integration across multi-tenant banking environments. Operations & Reliability Engineering Ensure maximum availability and performance for business-critical SaaS products running in Azure. Monitor platform health, establish pro-active alerts, and contribute to root-cause analysis for complex operational challenges. Bring a Site Reliability Engineering (SRE) mindset to continuously elevate platform resiliency and performance together with the team. Cloud security & compliance Implement robust zero-trust security controls and identity management using Microsoft Entra ID. Secure secrets, keys, and certificates via Azure Key Vault and automated vault rotators. Ensure platform compliance with strict Nordic financial regulation standards and security audits. What brings you success in this role Must-Haves: Deep Terraform Expertise: Proven hands-on experience writing modular, production-ready Infr"
+  },
   {
    "source": "infostud",
    "id": "764777",
@@ -248,7 +277,7 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Game-Designer/Elite-Diplomatic-d.o.o/764565",
-   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. 3D Junior Novo",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. 3D Junior global.searchSelectItemEvents = {\"762008\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762008\",\"item_name\":\"Senior Marketing Manager\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"marketing menad\\u017eer\",\"item_category2\":\"UX Dizajn, Menad\\u017ement\",\"item_category3\":\"senior\",\"item_category4\":\"Premiu",
    "matched": [
     "helloworld"
    ],
@@ -270,7 +299,7 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Unreal-Engine-Programmer-SystemsSmartobjects/Elite-Diplomatic-d.o.o/764566",
-   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. C++ Intermediate Senior global.searchSelectItemEvents = {\"762008\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762008\",\"item_name\":\"Senior Marketing Manager\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"marketing menad\\u017eer\",\"item_category2\":\"UX Dizajn, Menad\\u017ement\",\"item_category3\":\"senior\",\"item_cate",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. C++ Intermediate Senior Novo",
    "matched": [
     "helloworld"
    ],
@@ -441,7 +470,7 @@
    "expires": "13.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/AI-Forward-Deployed-Engineer/NTT-Data-Business-Solutions-OOD-Ogranak-Beograd/764700",
-   "summary": "NTT Data Business Solutions OOD Ogranak Beograd Rad od kuće online intervju 13.11.2026. JavaScript Python TypeScript Cloud Intermediate",
+   "summary": "NTT Data Business Solutions OOD Ogranak Beograd Rad od kuće online intervju 13.11.2026. JavaScript Python TypeScript Cloud Intermediate Novo",
    "matched": [
     "helloworld"
    ],
@@ -757,163 +786,6 @@
     "weworkremotely"
    ],
    "first_seen": "2026-10-27T13:24:36+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137572",
-   "title": "Senior Software Engineer LATAM",
-   "company": "Wagmo",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "dev",
-    "design",
-    "react",
-    "sys admin",
-    "python",
-    "django",
-    "typescript",
-    "senior",
-    "medical",
-    "engineer",
-    "digital nomad"
-   ],
-   "posted": "2026-10-26",
-   "expires": null,
-   "salary": "100000-140000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
-   "summary": "Senior Software Engineer Remote role based in Latin America. Must work at least 6 hours of overlap with US Eastern Time. Â What We Do Wagmo is a modern pet healthcare company built around how pet parents actually care for their pets. We partner with employers to provide a complete approach to pet and pet-parent wellbeing, from preventive wellness plans and emergency coverage to 24/7 pet telehealth",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-10-27T13:24:36+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "763910",
-   "title": "Casino Management System Technician",
-   "company": "Soccerbet",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "CMS",
-    "Sistemska administracija",
-    "BI"
-   ],
-   "posted": "2026-10-26",
-   "expires": "10.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/casino-management-system-technician/soccerbet/763910",
-   "summary": "Tehničar za CMS odgovoran je za održavanje i pouzdan rad casino management sistema na terenu kako bi uplatna mesta bila operativna. Kandidat će vršiti dijagnostiku i servis lokalnih servera i uređaja te instalirati i puštati u rad CMS prilikom otvaranja novih lokacija.",
-   "matched": [
-    "it podrska",
-    "tehnicka podrska",
-    "mrezni",
-    "racunari"
-   ],
-   "first_seen": "2026-10-26T14:25:58+00:00",
-   "details": "O poslodavcu Soccerbet je jedan od vodećih brendova u oblasti sportskog klađenja i igara na sreću na tržištu Srbije. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o., koja zapošljava preko 1.500 zaposlenih i posluje na više od 260 lokacija širom zemlje, kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Zbog proširenja obima posla, tražimo novog člana na poziciji CASINO MANAGEMENT SYSTEM TECHNICIAN Tvoje odgovornosti bi bile: Održavanje postojećih CMS instalacija na uplatnim mestima; Dijagnostika, servisiranje i održavanje lokalnih jackpot servera na uplatnim mestima; Instalacija kompletnih CMS sistema prilikom otvaranja novih uplatnih mesta; Održavanje i snabdevanje mreže potrebnim QR kodovima; Vođenje i održavanje lagera eTITO i MCMS SMIB uređaja, kao i ostale pripadajuće opreme; Priprema, zamena, dijagnostika i osnovna popravka CMS hardverskih komponenti; Dijagnostika i održavanje mrežnog segmenta u okviru mreže automata; Provera komunikacije između automata, SMIB uređaja, lokalnih servera i centralnih sistema; Saradnja i koordinacija sa IT sektorom kod problema koji se odnose na mrežnu infrastrukturu, komunikaciju i ostale povezane sisteme; Terenski rad i tehnička podrška uplatnim mestima prema potrebi. Reference: EAtQyRiGvm3iM6f5PxOYFO5zgbUDVMqe4BQKQDFENGNII3Kr7ZWfxot1cKtbHvlF Kvalifikacije i veštine koje je potrebno da imaš: Minimum IV stepen stručne spreme; Minimum 2. godine radnog iskustva u gambling industriji (IT sektor, Casino sektor, itd.); Dobro poznavanje računarske opreme i hardvera; Osnovno poznavanje računarskih mreža; Poznavanje elektronike i dijagnostike elektronskih uređaja predstavlja prednost; Poželjno praktično iskustvo sa računarima, elektronikom, mrežama ili srodnim tehničkim poslovima; Vozačka dozvola B kategorije (aktivan vozač). Ukoliko želite da postanete deo našeg tima, svoju radnu biografiju možete da pošaljete elektronskim putem. Biće kontaktirani samo kandidati koji uđu u uži izbor! NAPOMENA Slanjem prijave, kandidat daje pristanak: da kompanija njegove lične podatke obrađuje u postupku selekcije, a u skladu sa Zakonom o zaštiti podataka o ličnosti; da bude kontaktiran u periodu od godinu dana ukoliko se ukaže prilika za angažovanje na istom ili sličnom radnom mestu. Soccerbet Soccerbet je jedan od lidera u konkurenciji onih koji u Srbiji priređuju sportske igre na sreću. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o. koja zapošljava preko 1000 zaposlenih i posluje najviše od 280 lokacija, širom zemlje kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Uplatna mesta Soccerbet, s brendiranim obeležjima, odišu prijatnim i modernim ambijentima. Korektan odnos zaposlenih, a pre… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician Casino Management System Technician Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti"
-  },
-  {
-   "source": "infostud",
-   "id": "763994",
-   "title": "IT tehničar",
-   "company": "Snaga mladosti OZ",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Windows Server",
-    "Windows",
-    "VPN",
-    "Sistemska administracija"
-   ],
-   "posted": "2026-10-26",
-   "expires": "10.11.2026",
-   "salary": "neto 120.000 - 130.000 RSD (mesečno) ",
-   "url": "https://poslovi.infostud.com/posao/it-tehnicar/snaga-mladosti-oz/763994",
-   "summary": "IT tehničar je potreban za održavanje i pouzdano funkcionisanje računarske i mrežne infrastrukture kako bi se omogućio neprekidan rad zaposlenih. Kandidat će obavljati instalaciju i podršku za Windows i server okruženja, mreže, IP video nadzor i pružati svakodnevnu tehničku podršku.",
-   "matched": [
-    "it tehnicar",
-    "sistem administrator",
-    "administrator",
-    "tehnicka podrska",
-    "mrezni",
-    "windows",
-    "racunari"
-   ],
-   "first_seen": "2026-10-26T14:25:58+00:00",
-   "details": "O poslodavcu Poznatoj firmi na opštini Palilula - Krnjača, hitno potreban radnik na poziciji: IT TEHNIČAR m/ž Radno vreme: od 08h do 16h Slobodni dani: Vikend Dogovorena zarada: Početna plata od 120.000 rsd sa tendencijom brzog rasta Opis posla: Održavanje računarske i mrežne opreme (računari, serveri, štampači, ruteri, switchevi, Wi-Fi uređaji i IP video nadzor): Instalacija i konfiguracija hardvera i softvera (Windows i Windows Server okruženja). Podešavanje i održavanje LAN i Wi-Fi mreža, VPN veza i pristupa za udaljeni rad. Instalacija, konfiguracija i održavanje štampača. Instalacija, konfiguracija i održavanje IP video nadzora (IP kamere i NVR uređaji – Hikvision). Instalacija, konfiguracija i održavanje IP telefonskog sistema. podešavanje mobilnih telefona zaposlenih, instalacija i konfiguracija aplikacija (elektronska pošta, pristup video nadzoru i sl.). Zaštita podataka i IT sistema (backup, ažuriranje sistema, antivirusna zaštita i sl.). Administracija korisničkih naloga i elektronske pošte. Tehnička podrška zaposlenima, praćenje i rešavanje IT problema u svakodnevnom radu. Saradnja sa eksternim IT partnerima i dobavljačima. Reference: QvH3UQOwXi7kAf3G3fpiAz8nFQN-sp_KAspamHMmUj5ELXoLEloipd3mFKjJuumS Uslovi: Iskustvo na istim ili sličnim poslovima. Poznavanje instalacije, konfiguracije i održavanja Windows operativnih sistema i Windows Server okruženja. Poznavanje administracije korisničkih naloga i elektronske pošte. Poznavanje podešavanja i održavanja LAN i Wi-Fi mreža i VPN veza. Razumevanje sigurnosnih standarda i procedura. Sposobnost brzog rešavanja problema i samostalnog rada. Vozačka dozvola B kategorije. Poznavanje engleskog jezika. Ukoliko želite stabilan posao, redovnu isplatu u skladu sa zakonom, mogućnost napredovanja i rasta, ovo je posao za Vas. Prijavite se na broj u dnu oglasa ili elektronskim putem. Studentsko-omladinske zadruge mogu angažovati isključivo lica koja nisu mlađa od 15 godina ni starija od 30 godina na osnovu Zakona o zadrugama (član 23). Ostale prijave neće biti uzete u razmatranje. Snaga mladosti OZ Makenzijeva 57, Vracar, Beograd PIB: 107260971 Matični broj: 20770490 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician IT tehničar Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi S"
-  },
-  {
-   "source": "infostud",
-   "id": "764074",
-   "title": "Junior IT poslovni analitičar / Projektni koordinator",
-   "company": "DP Lux Distribution",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-26",
-   "expires": "10.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/junior-it-poslovni-analiticar-projektni-koordinator/dp-lux-distribution/764074",
-   "summary": "Pozicija je namenjena kandidatu koji će podržavati realizaciju IT i digitalnih projekata kroz analizu poslovnih potreba i koordinaciju aktivnosti. Glavni cilj uloge je unapređenje poslovnih procesa i osiguravanje pravovremene implementacije softverskih rešenja uz podršku u profesionalnom napredovanju.",
-   "matched": [
-    "junior",
-    "it podrska"
-   ],
-   "first_seen": "2026-10-26T14:25:58+00:00",
-   "details": "O poslodavcu Junior IT poslovni analitičar / Projektni koordinator - jedna radna pozicija DP Lux Group O poziciji DP Lux Group traži motivisanu i analitičnu osobu koja želi da razvija karijeru u oblasti poslovne analize, IT projekata i digitalne transformacije. Kao član IT tima, učestvovaćeš u realizaciji projekata unapređenja poslovnih procesa, implementaciji novih softverskih rešenja i razvoju postojećih sistema. Pozicija kombinuje poslovnu analizu i koordinaciju projekata, uz mogućnost postepenog preuzimanja većih odgovornosti i profesionalnog razvoja. Tvoje ključne odgovornosti Saradnja sa poslovnim korisnicima u razumevanju njihovih potreba i identifikovanju mogućnosti za unapređenje procesa. Prikupljanje, analiza i dokumentovanje poslovnih i funkcionalnih zahteva. Učešće u analizi postojećih procesa i definisanju predloga unapređenja. Priprema i održavanje projektne i funkcionalne dokumentacije. Koordinacija projektnih aktivnosti i praćenje zadataka, rokova i realizacije. Komunikacija sa internim timovima, poslovnim korisnicima i eksternim dobavljačima softverskih rešenja. Organizacija sastanaka, priprema zapisnika i praćenje dogovorenih aktivnosti. Učešće u testiranju novih funkcionalnosti, evidentiranju problema i praćenju njihovog rešavanja. Priprema izveštaja o napretku projekata i podrška u identifikovanju rizika i otvorenih pitanja. Reference: qRk5MqckQ-5culTp40wKoiiB3_isJasi4x2HWKkvSsi3yIWfB6nsr-Tp8A2OKElx Šta očekujemo od tebe Visoko obrazovanje ili završne godine studija iz oblasti informacionih tehnologija, organizacionih nauka, ekonomije ili srodnih oblasti. Poželjno prethodno iskustvo do dve godine u poslovnoj analizi, IT projektima, implementaciji poslovnih sistema ili sličnim poslovima. Razvijene analitičke sposobnosti i sposobnost strukturiranja informacija i rešavanja problema. Dobru organizovanost, odgovornost i pažnju prema detaljima. Jasnu pisanu i usmenu komunikaciju i sposobnost saradnje sa različitim timovima. Dobro poznavanje MS Office alata, posebno Excel-a. Proaktivnost, samostalnost u izvršavanju poverenih zadataka i spremnost za učenje. Prednost je ako imaš Iskustvo u radu sa poslovnim softverskim rešenjima (ERP, CRM, BI, e-commerce ili sličnim sistemima). Osnovno razumevanje životnog ciklusa IT projekata i razvoja softverskih rešenja. Iskustvo u prikupljanju i dokumentovanju poslovnih zahteva. Iskustvo u testiranju softvera ili radu sa poslovnim korisnicima prilikom implementacije novih rešenja. Šta nudimo Rad na raznovrsnim IT i digitalnim projektima u okviru DP Lux Group. Priliku da upoznaš poslovne procese i informaciona rešenja kompanije koja posluje na više tržišta. Saradnju sa iskusnim kolegama i eksternim tehnološkim partnerima. Podršku u profesionalnom razvoju i postepenom preuzimanju složenijih zadataka. Ukoliko želite da svojim znanjem i iskustvom doprinesete realizaciji važnih IT i digitalnih inicijativa u kompaniji DP Lux, pozivamo vas da se prijavite. DP Lux Group DP LUX Group je kompanija koja uspešno posluje kao distributer preko 90 brendova u 12 zemalja Evrope i sarađuje sa najznačajnijim „beauty“ trgovinskim lancima u regionu, čime pokriva tržište od preko 65 miliona stanovnika u Evropi. DP Lux Group u svom sastavu ima i jedan od najvećih lanaca niche parfimerija u Evropi, Belodore koji posluje u 6 zemalja, kao i lanac high-end parfimerija Plaza i lanac parfimerija Almara. Na ovaj način DP LUX Group ima zavidnu… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestit"
-  },
-  {
-   "source": "infostud",
-   "id": "764004",
-   "title": "Measurement Specialist",
-   "company": "s360",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "JavaScript",
-    "QA",
-    "Prodaja / konsultanti",
-    "Cloud"
-   ],
-   "posted": "2026-10-26",
-   "expires": "10.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/measurement-specialist/s360/764004",
-   "summary": "This role ensures measurement setups deliver reliable tracking and accurate analytics for Danish clients. The specialist owns implementations, troubleshooting, quality assurance, and documentation to make marketing data trustworthy and operational for client teams.",
-   "matched": [
-    "data engineer",
-    "data platform",
-    "cloud",
-    "it support"
-   ],
-   "first_seen": "2026-10-26T14:25:58+00:00",
-   "details": "O poslodavcu Do you enjoy finding out why a conversion stopped firing, and then fixing it properly? Want to turn tracking data into decisions clients can trust? At s360, you will help Danish clients build measurement setups that make their marketing more reliable and useful. You will be working closely with the Measurement team across Europe to make sure the data our clients use to run their marketing is correct. Measurement Specialist is a dedicated measurement and tracking specialist role, not a software development position. Your focus is 100% on tags, analytics pipelines, and data reliability. Deliver tracking that holds up You will work across quick fixes and larger implementations, making sure setups are technically sound, well documented, and ready for client use. On smaller tasks, you will own the process from start to finish, including client contact. On larger builds, a Denmark-based lead will handle scoping and the client relationship while you own the delivery. Your main responsibilities will be: Troubleshooting: Find and fix tracking issues across Google Ads, GA4, Meta and other ad platforms for Danish clients. Implementation projects: Build and configure GA4 and Google Tag Manager setups, client-side and server-side, including Consent Mode v2, Enhanced Conversions and conversion APIs. dataLayer specifications: Write dataLayer specifications for client developers and validate their implementation before go-live. Ownership: Own small tasks end to end, including direct client contact, and deliver the build on larger projects scoped by a Denmark-based lead. Quality assurance: Test every setup before handover so it passes Quality Assurance checks without rework. Documentation: Document each implementation so a colleague can take it over without a handover meeting. Reference: vbMuDrjHwUCBc73yxs0QrVKZSlCHkc4hUVSdMbgg7BMn-loqBfIyDNCRXVoX9THE Join our international Measurement team You will be joining our growing and international Measurement team, made up of specialists from different countries, all sharing the same passion for making data come alive and turning numbers into real impact. Most of your work will be for Danish clients, together with colleagues in Denmark and Barcelona who know these accounts well. We talk through difficult setups in our weekly team meeting, and you'll always have someone to spar with when a problem doesn't make sense. Your day-to-day base will be our office in central Belgrade, which you'll share with s360 colleagues from other teams. You'll be one of the first Measurement specialists in Belgrade, so you'll have a real say in how we set up the work there. Bring hands-on tracking skills and technical depth We are looking for a colleague who can work independently, communicate clearly, and keep quality high across both quick fixes and longer builds. You are the kind of person who tests before you hand anything over, and you speak up when something in a setup doesn't add up. You'll probably be a good fit if you recognise the following about yourself: Advanced Analytics & Tagging: You have 2+ years of hands-on experience with GTM (client- and server-side via Stape/Google Cloud), GA4 (custom events, e-commerce, debugging), plus enough JavaScript to navigate and customize the dataLayer comfortably. Ad Platform Tracking & Privacy Compliance: You are experienced in setting up conversion tracking across Google Ads and Meta (Enhanced Conversions, Conversions API), backed by a solid understanding of Consent Mod"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-upstart-devops-engineer-ii-cloud-platform",
-   "title": "DevOps Engineer II, Cloud Platform",
-   "company": "Upstart",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-26",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
-   "summary": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape access to credit, helping millions move forward financially with clarity and confidence. As the leading AI lending marketplace, we partner with b",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-26T14:25:58+00:00"
   }
  ]
 }
