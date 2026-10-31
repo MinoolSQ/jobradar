@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-30T23:03:49+00:00",
+ "generated_at": "2026-10-31T07:09:51+00:00",
  "window_days": 3,
- "cutoff": "2026-10-27",
- "count": 28,
- "new_count": 1,
+ "cutoff": "2026-10-28",
+ "count": 24,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 11,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 48,
+   "vraceno": 37,
    "strane": 2,
    "stop": "kraj"
   },
@@ -57,12 +57,12 @@
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 2,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 9,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,38 +87,38 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 14,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 2,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 40,
+   "vraceno": 34,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 25,
+   "vraceno": 24,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 89,
+   "vraceno": 76,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 176,
-   "strane": 6,
+   "vraceno": 146,
+   "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,12 +127,12 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 45,
+   "vraceno": 43,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 83,
+   "vraceno": 73,
    "strane": 3,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 115,
+   "vraceno": 92,
    "strane": 4,
    "stop": "kraj"
   }
@@ -216,6 +216,7 @@
     "python",
     "data engineer",
     "data platform",
+    "cloud",
     "linux",
     "it support"
    ],
@@ -393,7 +394,7 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Game-Designer/Elite-Diplomatic-d.o.o/764565",
-   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. 3D Junior global.searchSelectItemEvents = {\"762008\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762008\",\"item_name\":\"Senior Marketing Manager\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"marketing menad\\u017eer\",\"item_category2\":\"UX Dizajn, Menad\\u017ement\",\"item_category3\":\"senior\",\"item_category4\":\"Premiu",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. 3D Junior Novo",
    "matched": [
     "helloworld"
    ],
@@ -415,7 +416,7 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Unreal-Engine-Programmer-SystemsSmartobjects/Elite-Diplomatic-d.o.o/764566",
-   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. C++ Intermediate Senior Novo",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. C++ Intermediate Senior global.searchSelectItemEvents = {\"762008\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762008\",\"item_name\":\"Senior Marketing Manager\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"marketing menad\\u017eer\",\"item_category2\":\"UX Dizajn, Menad\\u017ement\",\"item_category3\":\"senior\",\"item_cate",
    "matched": [
     "helloworld"
    ],
@@ -477,6 +478,7 @@
     "data engineer",
     "backend",
     "data platform",
+    "cloud",
     "it support"
    ],
    "first_seen": "2026-10-29T14:32:47+00:00",
@@ -708,6 +710,8 @@
    "matched": [
     "aws",
     "devops",
+    "cloud",
+    "linux",
     "administrator"
    ],
    "first_seen": "2026-10-28T14:11:20+00:00",
@@ -777,108 +781,6 @@
    ],
    "first_seen": "2026-10-28T14:11:20+00:00",
    "details": "O poslodavcu MTU Aero Engines develops, manufactures, sells, and services commercial and military propulsion systems for airplanes and helicopters, as well as industrial gas turbines. The key to our success lies in developing the propulsion systems of tomorrow - more economical, lower in emissions, and quieter. With over 14,000 employees, we are present worldwide, with our headquarters in Munich, Germany. You, too, can become part of our dedicated team at MTU Maintenance Serbia, a 100% subsidiary of MTU Aero Engines AG. We are looking for Team Leader Customer Support. Tasks Set targets and priorities and regularly oversee team workload, in line with targets, achievements, requirements; Monitor KPI’s to ensure service delivery is achieved; Further support the ramp up activities; Represent the team in cross-functional discussions with all relevant stakeholders; Ensure adherence to local policies and company standards (e.g. EHS, policies); Personnel management regarding recruitment, performance appraisal, goal achievement, staff development, working hours, etc.; Establish regular communication structure within the team to ensure alignment and provide relevant information and updates; Drive team initiatives to ensure engagement and promote MTU culture, runs development conversations, check-ins, coaches the team; Support the team within their daily processes in case of overload; Align with Customer Account Manager about necessary process changes within the team as well as for better customer experience; Provide reports for the senior manager customer account to ensure transparency about workload and also customer satisfaction; Professional management (technical/commercial) of customers, customer contracts and orders at MTU Serbia; Customer service for parts, components and assembly work; Primary interface with the client with responsibility for coordinating internal company departments and ensuring implementation of customer requirements (e.g. scope of work, TAT) as well as optimal (technical and economic) order execution; Customer support including active order communication (user-operator interface) and active support; Technical and economic management of customers, customer orders and customer contracts; Representing the interests of customers in the company, including professional resolution of customer problems and complaints; Organizing team structures and assigning roles adapted to the company's situation in order to achieve company goals; Coordination and planning of all internal departmental activities in order to comply with external requirements, quality standards and required reporting; Complete order fulfillment (order receipt to invoicing). Reference: lZv7k73WFQj7qTZfR87wX3oaeuvVSWWGLhvT-gaFSrHFiUVA1LMEvCYRnUFSt8y5 Requirements Completed studies (BA degree), e.g. in industrial engineering, aerospace engineering, general me-language engineering or business management; Relevant experience in project management coordination of teams; aviation industry desired; Good knowledge of SAP, MS Office tools, e.g. Excel, Power point; Motivating others, leading by example; Intercultural competence; Strong communication skills, able to build and maintain trustful relationships; Well-organized, structured, and capable of coordinating information from multiple sources; Strong customer service mindset with the ability to manage different stakeholders; Proactive problem solver with a focus on outcomes; Very good English language skills. Our Offer"
-  },
-  {
-   "source": "infostud",
-   "id": "762923",
-   "title": "Full Stack Angular/NodeJS Developer",
-   "company": "Cyrillic Software",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "JavaScript",
-    "CSS",
-    "HTML",
-    "Node",
-    "Angular",
-    "AWS",
-    "Docker",
-    "NodeJS",
-    "Programiranje",
-    "Agile",
-    "Express"
-   ],
-   "posted": "2026-10-27",
-   "expires": "11.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/full-stack-angular-nodejs-developer/cyrillic-software/762923",
-   "summary": "The role seeks a Full Stack Angular and Node developer to deliver frontend and backend features for a US client while working remotely. The candidate will contribute to a multicultural Agile team and ensure clear English communication to meet client expectations.",
-   "matched": [
-    "aws"
-   ],
-   "first_seen": "2026-10-27T23:01:44+00:00",
-   "details": "O poslodavcu Cyrillic Software is a US based IT Consulting company offering positions in Serbia and in the US for quality, motivated individuals interested in working on a talented team with quality industry leading clients. This is a work from home and remote position, but opportunities to work abroad in the US are also available. The Full Stack Angular/Node JS software developer must have experience in both Angular and Node JS/Express JS frameworks and must have working experience as a Full Stack Developer . The ideal candidate must have experience in building frontend components of web applications utilizing the Angular front end framework, leveraging modern front end development best practices including modern HTML, CSS, and JavaScript technologies and modern frontend libraries and frameworks . This position is part of an existing and multi-cultural Agile development team, for a client based in the US and so excellent verbal and written English communication skills are required. Experience with AWS and container technologies like Docker are also a plus. We are offering: Top Salary offers and willingness to beat existing or competitive offers Working on an international team with Quality individuals and team members Flexibility and remote work Huge potential of future growth, as well as potentially working in the US Reference: 018B83ZTUoqTLEBYmBK_uUTE8wHRHd_aH6PG87TIyzkgEJruqhR5cpUPMovdxbP1 Cyrillic Software Cyrillic Software is a US based company from Rochester Hills, Michigan providing Offshore Staffing and IT Consulting services and custom software development solutions for its clients. We help customers of all sizes in various industries across the globe by creating customer focused solutions and flexible project engagements built around the customers needs in mind, with an utmost focus on Quality and Delivery, at a Competitive Price. Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Full stack developer Full Stack Angular/NodeJS Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
-  },
-  {
-   "source": "helloworld",
-   "id": "762924",
-   "title": "Product Owner",
-   "company": "Cyrillic Software",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "jira",
-    "qa",
-    "scrum",
-    "agile"
-   ],
-   "posted": "2026-10-27",
-   "expires": "11.11.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Product-Owner/Cyrillic-Software/762924",
-   "summary": "Cyrillic Software 1 Rad od kuće online intervju 11.11.2026. Jira QA SCRUM Agile Intermediate",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Product Owner Product Owner Cyrillic Software 1 Rad od kuće online intervju 11.11.2026. Jira QA SCRUM Agile intermediate About Cyrillic Software Cyrillic Software is a US based company providing Offshore Staffing and IT Consulting services and custom software development solutions for its clients. We help customers of all sizes in various industries across the globe by creating customer focused solutions and flexible project engagements built around the customers’ needs in mind, with an utmost focus on Quality and Delivery, at a Competitive Price. About the Role We are looking for a Product Owner to help translate business needs into clear development priorities and deliver valuable software solutions. The Product Owner will work closely with stakeholders, product managers, designers, and engineering teams to ensure the team understands what needs to be built, why it matters, and what success looks like. This role is ideal for someone who can balance business priorities with technical considerations, communicate clearly, and keep an Agile development team focused on delivering meaningful results. Responsibilities Maintain and prioritize the product backlog based on business value, customer needs, and project objectives. Gather, analyze, and clarify requirements from clients and other stakeholders. Translate business requirements into clear user stories, acceptance criteria, and actionable development tasks. Collaborate with developers, designers, QA engineers, and project stakeholders throughout the development lifecycle. Participate in Agile ceremonies, including sprint planning, backlog refinement, sprint reviews, and daily stand-ups as needed. Answer questions and resolve ambiguities so the development team can work efficiently. Review completed work and confirm that deliverables meet the agreed requirements and acceptance criteria. Communicate priorities, scope changes, dependencies, and potential risks to relevant stakeholders. Help ensure that delivered features align with business goals and provide value to end users. Qualifications Experience working as a Product Owner, Business Analyst, or in a similar product-focused role. Understanding of Agile methodologies, particularly Scrum. Experience managing product backlogs and writing user stories with acceptance criteria. Strong analytical, organizational, and problem-solving skills. Excellent written and verbal English communication skills. Ability to work effectively with technical and non-technical stakeholders. Familiarity with project management tools such as Jira or similar platforms. Ability to manage competing priorities and make informed decisions in a changing environment. What We Offer Competitive compensation based on experience and qualifications. The opportunity to work with international clients and talented professionals. A collaborative, multicultural working environment. Flexible working arrangements, depending on the position and client requirements. Opportunities for professional growth and involvement in meaningful software projects. Apply Here Upoznaj kompaniju O Kompaniji Iskustva Poslovi Plate A Long History of Quality and Dependability Cyrillic Software, a US based company from Rochester Hills, Michigan, provides offshore staffing services and custom software development solutions. We help customers of all sizes in various industries across the globe. Our utmost focus is on Quality of Delivery and maintaining a Competitive Price. In business, since 2004, we ",
-   "first_seen": "2026-10-27T23:01:44+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "764168",
-   "title": "Product Designer",
-   "company": "CAKE.com",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "CSS",
-    "HTML",
-    "Git",
-    "Figma",
-    "UI"
-   ],
-   "posted": "2026-10-27",
-   "expires": "11.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/product-designer/cakecom/764168",
-   "summary": "This role designs and refines product interfaces to deliver clear and accessible experiences across web and mobile. The designer will own visual identity, keep the design system healthy, and collaborate with engineers to turn concepts into shipped features.",
-   "matched": [
-    "it support"
-   ],
-   "first_seen": "2026-10-27T13:24:36+00:00",
-   "details": "O poslodavcu We're looking for a designer to help us elevate our software products further. Who We Are CAKE.com is a unicorn product-based company with a global presence in North America (USA), Europe (primarily in the Balkans), and Asia (Philippines). We build products that power millions worldwide, including: Clockify – The world’s #1 time tracker, trusted by companies like Hewlett-Packard Enterprise, American Express, Amazon and many more. Pumble – The all-in-one team communication app. Plaky – A task management software for simple & visual project planning. Reference: 6BCPDrQhB0g5-An1H9qcWMNLNMN7-RJovhGbbLaB_jM-t51nhz--t7-p-bgKSIT5 What You’ll Do Design and improve interfaces that just make sense to our users. You’ll jump into problems with cross-functional teammates across the whole spectrum—one day tweaking a confusing error screen to make it friendlier, the next helping create a new massive cross-product feature from start to finish. Build wireframes and prototypes in Figma or an agentic IDE to test ideas with stakeholders and show engineers what the final experience should look like. Dig into how competitors solve tricky flows, and use those insights to make our own products better. Keep our design system healthy and up to date, manage tokens, organize components, and add new patterns as we further develop our platform. Make accessibility a natural part of your workflow, ensuring what we ship works well for everyone (meeting WCAG 2.1 AA). Have a sharp eye for visual bugs and UX rough edges, and jump in to help smooth them out. Turn messy product briefs into clean, intuitive designs that solve real user problems without overcomplicating things. Own the visual identity of our products, making sure every screen feels cohesive, polished, and aesthetically pleasing. Team up closely with product managers and engineers to turn ideas into shipped software. Work with engineering directly on making sure the dev library and design systems are synced. Must-Haves 1+ years designing software products. High proficiency using Figma. Experience with AI models and agentic workflows (Claude, Kiro, or similar). Strong copywriting skills. Strong graphic design skills (spacing & typography). Knowledge of UI patterns (mobile & web). Knowledge of HCI principles and various design systems. Fluent in the English language. Basic knowledge of HTML, CSS, and Git. Ability to work in CET timezone. Fluent in Ex-Yu languages (Serbian, Bosnian, Croatian, Montenegrin). Portfolio requirements Portfolio link is required. Make sure you have at least 3-5 case studies that demonstrate your skills. Only product design case studies are considered. Nice-To-Haves Experience with a variety of SaaS productivity tools. Experience in the SaaS industry. Life at CAKE.com Innovative Environment – Work with top tech talent on cutting-edge products. Work-Life Balance – No overtime, no work on weekends and no late working hours. Medical Coverage – Private health insurance. B2B contractor model and generous leave credits – 22 vacation days + 10 sick days yearly. Continuous Learning – In-house learning programs, tech lectures, knowledge sharing. Remote Work Setup – Enjoy the flexibility of working from home with provided laptop equipment to support your work. CAKE.com CAKE.com was founded in 2009 with the goal of helping other startups develop their products. It takes many products to help people around the globe grow and prosper. We’ve created three that cover a wide range of featur"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-upsun-senior-it-systems-engineer",
-   "title": "Senior IT Systems Engineer",
-   "company": "Upsun",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-27",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
-   "summary": "Headquarters: Remote • Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two products:",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-27T13:24:36+00:00"
   },
   {
    "source": "helloworld",
