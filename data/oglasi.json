@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-31T07:09:51+00:00",
+ "generated_at": "2026-10-31T13:45:05+00:00",
  "window_days": 3,
  "cutoff": "2026-10-28",
- "count": 24,
- "new_count": 0,
+ "count": 26,
+ "new_count": 2,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -92,12 +92,12 @@
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 5,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 3,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -159,6 +159,44 @@
  },
  "jobs": [
   {
+   "source": "weworkremotely",
+   "id": "wwr-dropbox-backend-product-software-engineer-1",
+   "title": "Backend Product Software Engineer",
+   "company": "Dropbox",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-31",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
+   "summary": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experiences. You will work closely with cross-functional teams, turning innovative ideas into robust, scalab",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-31T13:45:05+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-dropbox-backend-product-software-engineer",
+   "title": "Backend Product Software Engineer",
+   "company": "Dropbox",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-31",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer",
+   "summary": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experiences. You will work closely with cross-functional teams, turning innovative ideas into robust, scalab",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-31T13:45:05+00:00"
+  },
+  {
    "source": "remoteok",
    "id": "remoteok-1137600",
    "title": "Cloud Engineer Automation",
@@ -216,7 +254,6 @@
     "python",
     "data engineer",
     "data platform",
-    "cloud",
     "linux",
     "it support"
    ],
@@ -478,7 +515,6 @@
     "data engineer",
     "backend",
     "data platform",
-    "cloud",
     "it support"
    ],
    "first_seen": "2026-10-29T14:32:47+00:00",
@@ -710,8 +746,6 @@
    "matched": [
     "aws",
     "devops",
-    "cloud",
-    "linux",
     "administrator"
    ],
    "first_seen": "2026-10-28T14:11:20+00:00",
