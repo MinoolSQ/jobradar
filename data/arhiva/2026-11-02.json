@@ -1,0 +1,388 @@
+{
+ "generated_at": "2026-11-02T07:49:59+00:00",
+ "window_days": 3,
+ "cutoff": "2026-10-30",
+ "count": 9,
+ "new_count": 0,
+ "errors": [],
+ "infostud_queries": {
+  "python": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data engineer": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data inzenjer": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "podaci": {
+   "vraceno": 6,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "etl": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "databricks": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "spark": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "airflow": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "backend": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "sql": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "aws": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data platform": {
+   "vraceno": 5,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "kubernetes": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "fastapi": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data analyst": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "devops": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "junior": {
+   "vraceno": 5,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 16,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 10,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 27,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 39,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 8,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 24,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "serviser": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "mrezni": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "windows": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "racunari": {
+   "vraceno": 28,
+   "strane": 1,
+   "stop": "kraj"
+  }
+ },
+ "jobs": [
+  {
+   "source": "weworkremotely",
+   "id": "wwr-dropbox-backend-product-software-engineer-1",
+   "title": "Backend Product Software Engineer",
+   "company": "Dropbox",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-31",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
+   "summary": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experiences. You will work closely with cross-functional teams, turning innovative ideas into robust, scalab",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-31T13:45:05+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-dropbox-backend-product-software-engineer",
+   "title": "Backend Product Software Engineer",
+   "company": "Dropbox",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-31",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer",
+   "summary": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experiences. You will work closely with cross-functional teams, turning innovative ideas into robust, scalab",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-31T13:45:05+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "764918",
+   "title": "Security Engineer",
+   "company": "Semaphore Technologies d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "Python",
+    "Bash",
+    "Sistemska administracija",
+    "SaaS",
+    "SoC",
+    "IAM"
+   ],
+   "posted": "2026-10-30",
+   "expires": "29.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/security-engineer/semaphore-technologies-doo/764918",
+   "summary": "This hands on role is the technical owner of information security for cloud infrastructure and internal systems ensuring technical controls are implemented operated and tested. The role focuses on improving monitoring driving vulnerability remediation automating security operations and providing reliable audit evidence to reduce risk and maintain compliance.",
+   "matched": [
+    "python",
+    "data engineer",
+    "data platform",
+    "linux",
+    "it support"
+   ],
+   "first_seen": "2026-10-30T14:25:54+00:00",
+   "details": "O poslodavcu About Semaphore Semaphore is a remote-first software company helping engineering teams build, test, and deliver software with confidence. Our customers rely on Semaphore Cloud and our self-hosted enterprise products to run critical development workflows securely and reliably. We maintain SOC 2 Type 2 and ISO 27001:2022 compliance and are hiring a Security Engineer to own the technical side of our security program. About the role You will be the technical owner of information security across our infrastructure and internal systems. You will work closely with Engineering, Infrastructure, and our Compliance Manager to turn security and compliance requirements into practical, reliable controls. This is a hands-on role. You will investigate vulnerabilities, operate security monitoring, improve infrastructure and access controls, automate recurring work, and lead technical remediation. Our Compliance Manager owns the ISMS, policies, audit coordination, and legal or regulatory interpretation; you will own the implementation, operation, and testing of the technical controls behind them. We care more about demonstrated ownership and sound judgment than a specific number of years or a previous job title. What you will own Run the vulnerability-management lifecycle: scanning, triage, prioritization, remediation, exceptions, and verification. Operate and improve security monitoring and SIEM tooling, including alert quality, dashboards, detection rules, and integrations. Investigate security alerts and lead the technical response to security incidents. Improve the security of Linux hosts, cloud infrastructure, networks, firewalls, containers, and internal services. Own technical controls for identity and access management, least privilege, just-in-time access, secrets, and certificates. Automate patching, evidence collection, recurring control checks, and other security operations. Coordinate penetration tests and drive technical findings through remediation and verification. Translate SOC 2 and ISO 27001 control requirements into effective technical implementations. Produce clear technical evidence for internal and external audits in partnership with the Compliance Manager. Maintain security runbooks, system documentation, risk-based priorities, and operational metrics. Help engineering teams make practical security decisions without adding unnecessary process. Reference: 60UjvO9e-eBJ2TxayPLbvZszIGksZqS_5w3328CSmDQl5O2x-ZrKWBgtW-YglfmG What we are looking for Proven ownership of technical security in a production SaaS, cloud, hosting, or infrastructure environment. Strong Linux systems, networking, and cloud-security fundamentals. Hands-on experience with vulnerability management, patching, hardening, and remediation at scale. Experience operating SIEM or security-monitoring systems and investigating security events. Practical understanding of IAM, privileged access, secrets management, certificates, and network controls. Ability to automate operational work using Python, Bash, infrastructure-as-code, or similar tools. Experience participating in incident response and communicating clearly during high-pressure situations. Working knowledge of ISO 27001, SOC 2, or similar security-control frameworks. Strong written and spoken English and comfort working independently in a remote, asynchronous team. Good risk judgment: the ability to distinguish urgent security problems, acceptable exceptions, and low-value processes. Nice to have Experi"
+  },
+  {
+   "source": "infostud",
+   "id": "764879",
+   "title": "Technology Risk Associate IT Audit",
+   "company": "Ernst & Young d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "Linux",
+    "Oracle",
+    "SAP",
+    "Menadžment",
+    "SoC",
+    "Excel",
+    "Active Directory"
+   ],
+   "posted": "2026-10-30",
+   "expires": "14.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/technology-risk-associate-it-audit/ernst-young-doo/764879",
+   "summary": "The Technology Risk Associate will execute IT audit engagements to identify IT control weaknesses and provide practical recommendations that reduce client IT risk exposure. The role focuses on performing ITGC testing, contributing to final reports, and supporting quality assurance while developing technical audit capabilities.",
+   "matched": [
+    "sql",
+    "data platform",
+    "junior",
+    "linux",
+    "it support"
+   ],
+   "first_seen": "2026-10-30T14:25:54+00:00",
+   "details": "O poslodavcu At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. The opportunity We are currently seeking an Associate to participate in challenging IT Audit engagements and to contribute to the delivery of quality services for our diverse clients. This position offers excellent opportunities for learning and career advancement, apply your expertise, mentor junior team members, and play a key role in driving project success and client satisfaction. Your key responsibilities Our IT and auditing practice revolves around helping our clients effectively manage their exposure to IT risks proactively and responsibly. As part of a local and global team of IT auditors, you will perform IT Audit projects for clients from various business areas and industries, as well as for clients utilizing the various technology platforms and solutions. Our unwavering commitment to quality service and our technical networks enable you to help clients reduce inefficiencies, mitigate risk and improve opportunities within their IT functions. Main responsibilities will include: Support the delivery of IT audit engagements, including IT General Controls (ITGC) audits, regulatory and group IT audits, IT due diligence projects, client-requested IT reviews, and SOC reporting engagements, through control assessments, risk identification, testing activities, and the development of practical recommendations. Control environment review, identification of IT risks, identification of findings, providing recommendations Assist in IT audit controls testing and fieldwork activities Work effectively as an IT audit team member, sharing responsibility, providing support, maintaining communication and updating senior team members on progress Assist in preparing final reports on technology risk services that will be delivered to clients and other parties Maintain an educational program to develop personal skills on an ongoing basis Support quality assurance and risk management on digital transformation initiatives and system implementation reviews. Stay up to date with industry trends, emerging technologies, and regulatory developments, while actively contributing to knowledge sharing and team development. Reference: HOj0i9npWeCiw7yqDnwHOU0JETef4w37MRrGc2rqSNP4jNtXtYe19ls1j2J82jAJ Skills and attributes for success: Experience in ITGC, planning and executing IT audits in accordance with international frameworks (e.g. COBIT, ISO 27001, SOC 1/2, etc.) is a plus Experience in auditing or monitoring of some of the following solutions or technologies: SAP, MS Business Central, SQL or Oracle Database Server, Linux/Win OS or Active Directory will be considered as advantage Problem solver Team player Good oral and written communication skills Proficiency using Microsoft products including MS Word, Excel, and PowerPoint Very strong ambition and priorities related to professional achievements Project management skills and ability to coordinate engagements with cross-functional teams What we look for Minimum of 2 years of relevant experience in areas of IT Audit, Information/Cyber security, IT Governance and compliance. A degree in information technology/computer information systems or related (Preferable). Understanding of IT audit methodologies (Preferable) Strong attention to detail with an analytical mind and out"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+   "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
+   "company": "Smartsheet",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-10-30",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
+   "summary": "Headquarters: -REMOTE, BULGARIA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creati",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-10-30T14:25:54+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "764781",
+   "title": "Senior DevOps Engineer",
+   "company": "Tieto d.o.o. - Tieto Banktech",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "Azure",
+    "DevOps",
+    "Sistemska administracija",
+    "SaaS",
+    "Cloud"
+   ],
+   "posted": "2026-10-30",
+   "expires": "14.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-devops-engineer/tieto-doo-tieto-banktech/764781",
+   "summary": "Senior DevOps Engineer will build production ready Azure platform foundations using Terraform and automated CI CD to enable secure and scalable banking workloads. The role focuses on elevating platform resiliency availability and cloud governance to support mission critical enterprise applications.",
+   "matched": [
+    "sql",
+    "devops",
+    "cloud",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-10-30T07:21:29+00:00",
+   "details": "O poslodavcu At Tieto Banktech , we power some of the Nordics' most trusted banking systems with secure, reliable, and scalable cloud solutions. We are on an exciting transformation journey-modernizing core banking through automation, infrastructure-as-code, AI, and cutting-edge Azure technologies. We are looking for Senior DevOps Engineer (Azure Infrastructure & Cloud Operations) to join our Platform Engineering team and help us build production-ready, resilient platform foundations with Terraform, automated deployment pipelines, and reliable cloud operations on enterprise scale. If you thrive in a talented, forward-leaning engineering team where people collaborate, challenge ideas constructively, and help each other grow, this is your opportunity to make a lasting impact. Why You'll Love Working with Us High-Impact Work: Build and host mission-critical financial applications serving Nordic banking customers. Modern Engineering Standards: Full commitment to Infrastructure as Code (Terraform), GitOps, and DevSecOps principles—no manual click-ops. True Work-Life Balance & Flexibility: We support a modern, hybrid work culture that respects your time and well-being. Culture of Continuous Learning: Technology moves fast, and so do we. We dedicate time and resources for unlearning, relearning, certifications, and mastering new technologies. Collaborative & Open Environment: Work closely with cross-functional architecture, security, and product development teams in a flat, supportive organization. Knowledge Sharing & Team Growth: Join a talented, forward-leaning Platform Engineering team where sharing knowledge, mentoring colleagues, and helping others grow are part of how we work. Reference: KyF01OIwQtH4wYiU7VcDXQGmzlxuLoWGxxWYdss1eG_w3WGBfykc-wU2jx8JZuO1 What you will contribute to Infrastructure as Code & Automation Collaborate with the team to design, build, and maintain enterprise Azure infrastructure using Terraform and modular engineering patterns. Automate end-to-end resource provisioning and lifecycle management via GitHub Actions and CI/CD pipelines. Contribute to reusable deployment modules and automated cloud governance templates that can be adopted and improved by the wider engineering organization. Azure Platform Engineering Help evolve and scale enterprise Azure Landing Zones together with the team, adhering to high availability and security benchmarks. Partner with development teams to accelerate cloud adoption, offering paved-road developer platforms and self-service capabilities. Standardize hybrid networking, API management, and identity integration across multi-tenant banking environments. Operations & Reliability Engineering Ensure maximum availability and performance for business-critical SaaS products running in Azure. Monitor platform health, establish pro-active alerts, and contribute to root-cause analysis for complex operational challenges. Bring a Site Reliability Engineering (SRE) mindset to continuously elevate platform resiliency and performance together with the team. Cloud security & compliance Implement robust zero-trust security controls and identity management using Microsoft Entra ID. Secure secrets, keys, and certificates via Azure Key Vault and automated vault rotators. Ensure platform compliance with strict Nordic financial regulation standards and security audits. What brings you success in this role Must-Haves: Deep Terraform Expertise: Proven hands-on experience writing modular, production-ready Infr"
+  },
+  {
+   "source": "helloworld",
+   "id": "764565",
+   "title": "Game Designer",
+   "company": "Elite Diplomatic d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "3d"
+   ],
+   "posted": "2026-10-30",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Game-Designer/Elite-Diplomatic-d.o.o/764565",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. 3D Junior",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Game Designer Game Designer Elite Diplomatic d.o.o. Odgovara na prijave Beograd Beograd: Jurija Gagarina 76 14.11.2026. 3D junior Hey we’re looking for a Game Designer (Belgrade). We’re a small indie studio in Belgrade, and we’re building an old-school first-person shooter fast, weighty gunplay, the kind of movement and punch you remember from the immersive sims of the late 90s/early 2000s, but rebuilt with a look that’s our own. There’s a real story underneath it too: a grim, dystopian sciencepunk world where the choices you make actually change how things play out. It’s still unannounced, it’s aiming at AA scope, and we want an eager, capable Game Designer to actually design the thing. You’d be shaping systems that end up in players’ hands. What you’d be doing Designing and prototyping the core gameplay; Working closely with our Creative Director and Writer on the branching, choice-driven stuff; Teaming up with the 3D, Environment, and Tech folks to get levels standing up; Living in UE5 greyboxing, building, iterating until it feels right. What we’re hoping you bring A real want to learn and get better, and to take notes without taking them personally; Hands-on UE5 time (greyboxing and prototyping especially); A good feel for what makes shooters and story games click extra love if you’re into immersive sims; Some sense of how a game actually comes together start to finish; Nice to have, not required: something you’ve made a shipped game, a student project, a jam entry, anything that shows how your head works. What you’d get A fair salary for your experience, and we revisit it regularly raises included; A studio that means it about work-life balance; Someone in your corner to help you grow tell us where you want to go and we’ll help you get there. Feel free to drop your résumé and portfolio electronically. Apply Here Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * Izaberi sa liste Problem pri slanju prijave za posao Problem sa registracijom ili loginom Odjava sa mejling liste Aktivacija ili deaktivacija korisničkog naloga Ostalo Poruka Pošalji Odustani Greška ... Ok Budi obavešten! Prati kompaniju i ne propusti nove važne informacije. Dobićeš email obaveštenje kada poslodavac objavi novi oglas za posao, kada neko podeli platu, iskustvo o radu ili sa intervjua. Prati Odustani Tvoj Infostud profil je spreman Jedan korak te deli do kreiranog profila. Završi popunjavanje",
+   "first_seen": "2026-10-29T23:25:59+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "764566",
+   "title": "Unreal Engine Programmer (Systems&Smartobjects)",
+   "company": "Elite Diplomatic d.o.o",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "c"
+   ],
+   "posted": "2026-10-30",
+   "expires": "14.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Unreal-Engine-Programmer-SystemsSmartobjects/Elite-Diplomatic-d.o.o/764566",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. C++ Intermediate Senior global.searchSelectItemEvents = {\"762918\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762918\",\"item_name\":\"Trainee Functional Consultant MES\",\"item_index\":0,\"item_brand\":\"Enabl3\",\"item_category\":\"Consultant for Business Software\",\"item_category2\":\"Prodaja \\/ konsultanti\",\"item_category3\":\"junio",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Unreal Engine Programmer (Systems&Smartobjects) Unreal Engine Programmer (Systems&Smartobjects) Elite Diplomatic d.o.o. Odgovara na prijave Beograd Beograd: Jurija Gagarina 76 14.11.2026. C++ intermediate senior We're looking for a Unreal Engine Programmer . We're a small indie studio in Belgrade, and we're building an old-school first-person shooter fast, weighty gunplay, the kind of movement and punch you remember from the immersive sims of the late 90s/early 2000s, but rebuilt with a look that's our own. There's a real story underneath it too: a grim, dystopian sciencepunk world where the choices you make actually change how things play out. It's still unannounced, it's aiming at AA scope, and we want an eager, capable developer to make the thing. Focus: Implementing and extending Unreal Engine's Smart Objects system for AI/world interactions, architecting custom Control Rigs, and establishing runtime optimization standards. Requirements: Strong C++ and Blueprint proficiency, deep understanding of UE5's AI/Gameplay subsystems (Smart Objects, Gameplay Behaviors), and hands-on performance profiling experience. Feel free to drop your résumé and portfolio here or submit them electronically. Apply Here Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * Izaberi sa liste Problem pri slanju prijave za posao Problem sa registracijom ili loginom Odjava sa mejling liste Aktivacija ili deaktivacija korisničkog naloga Ostalo Poruka Pošalji Odustani Greška ... Ok Budi obavešten! Prati kompaniju i ne propusti nove važne informacije. Dobićeš email obaveštenje kada poslodavac objavi novi oglas za posao, kada neko podeli platu, iskustvo o radu ili sa intervjua. Prati Odustani Tvoj Infostud profil je spreman Jedan korak te deli do kreiranog profila. Završi popunjavanje",
+   "first_seen": "2026-10-29T23:25:59+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "763251",
+   "title": "Application Security Engineer",
+   "company": "CCBill SRB d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "javascript",
+    "java",
+    "python",
+    "perl",
+    "jenkins",
+    "agile"
+   ],
+   "posted": null,
+   "posted_window": "helloworld filter bez filtera",
+   "expires": "20.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Application-Security-Engineer/CCBill-SRB-d.o.o/763251",
+   "summary": "CCBill SRB d.o.o. 4.3 Rad od kuće online intervju 20.11.2026. Oglas dostupan i osobama sa invaliditetom .NET C# JavaScript Java Python Perl Jenkins Agile Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details_error": "ne mogu da skinem https://www.helloworld.rs/posao/Application-Security-Engineer/CCBill-SRB-d.o.o/763251: HTTP Error 500: Internal Server Error",
+   "first_seen": "2026-10-21T13:01:52+00:00"
+  }
+ ]
+}
