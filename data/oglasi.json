@@ -1,28 +1,28 @@
 {
- "generated_at": "2026-11-02T07:49:59+00:00",
+ "generated_at": "2026-11-02T22:22:55+00:00",
  "window_days": 3,
  "cutoff": "2026-10-30",
- "count": 9,
- "new_count": 0,
+ "count": 21,
+ "new_count": 12,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 1,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 6,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
@@ -52,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 2,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 5,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,62 +102,354 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 16,
-   "strane": 1,
+   "vraceno": 32,
+   "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 10,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 27,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "it podrska": {
-   "vraceno": 39,
+   "vraceno": 47,
    "strane": 2,
    "stop": "kraj"
   },
+  "it podrska": {
+   "vraceno": 80,
+   "strane": 3,
+   "stop": "kraj"
+  },
   "help desk": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 2,
+   "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 8,
+   "vraceno": 18,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 24,
-   "strane": 1,
+   "vraceno": 42,
+   "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 3,
+   "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 28,
-   "strane": 1,
+   "vraceno": 61,
+   "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "765077",
+   "title": "Cloud Data Inženjer Ekpert",
+   "company": "OTP banka Srbija",
+   "location": "Novi Sad, Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "Python",
+    "Programiranje",
+    "ETL"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/cloud-data-inzenjer-ekpert/otp-banka-srbija/765077",
+   "summary": "",
+   "matched": [
+    "python",
+    "data inzenjer",
+    "sql"
+   ],
+   "first_seen": "2026-11-02T22:22:55+00:00",
+   "details": "O poslodavcu Reference: bg7vHM3cueUGlXOYrsEsRx-yoDHebmO3zTU6YMadCPF8e0ZC3tKWftQhYmvGksZw OTP banka Mi nismo samo bankari. Mi živimo inovacije, znamo gde želimo da stignemo i zato širimo pozitivnu energiju promena. Svakodnevno odlazimo na posao s ciljem da svojoj porodici, komšijama i ljudima oko nas život učinimo lepšim i lakšim. Našu strategiju čine oni elementi koje klijenti najviše cene: stabilnost, profitabilnost, rast i inovacije. Nastojimo da delamo bolje i drugačije kako bismo doprinosili poslovnom uspehu naših klijenata i nas samih. Svojim transparentnim i timskim radom negujemo… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Data Warehouse / Business Intelligence Developer Cloud Data Inženjer Ekpert Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "765163",
+   "title": "Customer Support Agent L1 - Dutch Speaker",
+   "company": "NCR d.o.o. - NCR Voyix",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-11-02",
+   "expires": "02.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/customer-support-agent-l1-dutch-speaker/ncr-doo-ncr-voyix/765163",
+   "summary": "This role delivers firstline technical support and account access assistance for Dutch speaking customers, resolving password and login issues to maintain service continuity. The agent will ensure secure identity verification and accurate processing of access requests during scheduled shifts.",
+   "matched": [
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-11-02T22:22:55+00:00",
+   "details": "O poslodavcu Title: Customer Support Agent - Dutch Language Location: Belgrade, Serbia This position requires basic level of technical support for software and hardware products. This level of support is designed to handle dynamic, high-volume support which generally requires some technical knowledge. The ability to learn and support an enterprise-level, mission-critical, full-featured suite of products is essential. Key Areas of Responsibility Handle inquiries regarding customers' work accounts via phone. Process password reset requests promptly and accurately. Diagnose and solve account related issues that originate from our customers. Assist users with account access issues, including troubleshooting login problems. Verify user identity according to security protocols before proceeding with password resets. Maintain logs of password resets and access request. To resolve problems by applying established policies, procedures and tactics and using pro-active communication with our customer. Manage operations during scheduled shifts using on-hand tools and observations. Perform other corresponding duties and tasks in accordance with his qualifications, as directed by Employer. Reference: HuAu2potgYdNtk6aKg1D98uOtn3J4eGSkTM2_EYT-mQR2zFal1IJiUggJfKRPWg9 Languages Dutch & English – Proficient (written and spoken) Education and/or Requirements Required Candidates should possess a minimum High School degree or equivalent. Candidates are expected to have excellent communications and interpersonal skills. Candidates are expected to have basic computer knowledge. Candidates should have firm organizational skills. Preferred (but not crucial) Out of the box way of thinking; Experience in customer facing roles or in technical support; Experience in retail environment; Experience with ITIL practices, Linux Command Line, Windows and MS Office. NCR Voyix NCR Voyix Corporation (NYSE: VYX) is a global platform-powered leader in unified commerce for shopping and dining. Combining a flexible, intelligent platform with end-to-end payments capabilities and services developed through its deep industry experience, NCR Voyix empowers retailers and restaurants to accelerate new possibilities for their operations, experiences and business outcomes. NCR Voyix is headquartered in Atlanta, Georgia, and serves customers in more than 35 countries worldwide.… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"I have been part of NCR Voyix for almost three years, currently working as a Senior Finance Analyst. What I value the most is the opportunity to collaborate with colleagues around the world in…\" Pročitajte celo iskustvo Beneficije Flexible working hours Private health insurance Education, professional development Awards, bonuses, gifts Sport and fitness Food and drinks Trainings, courses, conferences Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support Customer Support Agent L1 - Dutch Speaker Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenj"
+  },
+  {
+   "source": "infostud",
+   "id": "765154",
+   "title": "IT serviser",
+   "company": "Centrosinergija d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-serviser/centrosinergija-doo/765154",
+   "summary": "Pozicija postoji da obezbedi ispravno funkcionisanje mPOS terminala kroz dijagnostiku servisiranje i pripremu opreme. Kandidat će direktno uticati na pouzdanost operativnih procesa pružanjem servisne podrške i vođenjem evidencije zaliha.",
+   "matched": [
+    "it podrska",
+    "tehnicka podrska",
+    "racunari"
+   ],
+   "first_seen": "2026-11-02T22:22:55+00:00",
+   "details": "O poslodavcu Centrosinergija je domaća distributersko-logistička kompanija, čija je delatnost zasnovana na distribuciji duvanskih proizvoda, robe široke potrošnje, SIM kartica i elektronskih dopuna pripejd kredita za mobilnu telefoniju. Naš cilj je da daljim proširenjem distributivnog portfolija i obima poslovanja na društveno odgovoran način, uz negovanje korporativne kulture zasnovane na poštovanju zaposlenih, poslovnih partnera, lokalne zajednice i očuvanju životne sredine, stvaramo vrednosti za buduće generacije. Ako volite rad sa tehnikom, uživate u rešavanju tehničkih izazova i želite da svoja znanja razvijate kroz praktičan rad, pozivamo Vas da postanete deo IT tima Centrosinergije na poziciji: IT SERVISER Vaše ključne odgovornosti: Prijem i evidentiranje mPOS terminala i prateće opreme, dijagnostika kvarova, servisiranje i održavanje; Servisiranje elektronske opreme sa SMT/SMD i Through-Hole komponentama; Priprema i provera ispravnosti mPOS terminala za isporuku; Vođenje i ažuriranje evidencije zaliha mPOS terminala i prateće opreme; Primena internih procedura i standarda kvaliteta, zaštite životne sredine i bezbednosti i zdravlja na radu; Učešće u ostalim servisnim aktivnostima i svakodnevnim operativnim zadacima. Reference: sKSE3Q6HP1b0l6HbAHYIBfD6-nfG9DBWv5HMxGCgG3LbCQpw2IrcPeXSEPsiioVA Od Vas očekujemo: Završenu srednju školu tehničkog usmerenja, III ili IV stepen (poželjno elektronika ili telekomunikacije); Osnovno poznavanje elektronike i elektronskih komponenti; Osnovno iskustvo u radu sa opremom za lemljenje; Poznavanje elektroničarskih alata i mernih instrumenata; Poznavanje rada na računaru i MS Office paketa; Osnovno znanje engleskog jezika; Preciznost, odgovornost i spremnost za učenje i timski rad. Šta nudimo: Detaljnu uvodnu obuku i mentorsku podršku iskusnih kolega; Priliku za sticanje novih znanja i usavršavanje tehničkih veština kroz praktičan rad i doprinos timu koji ima snažan uticaj na svakodnevne procese u kompaniji; Stabilno i podsticajno radno okruženje koje neguje saradnju, razmenu znanja i profesionalni razvoj. Ako želite da svoje interesovanje za elektroniku pretvorite u priliku za profesionalni razvoj, radujemo se Vašoj prijavi! Centrosinergija d.o.o. Beograd CENTROSINERGIJA d.o.o. Beograd (http://www.centrosinergija.rs) je domaća distributersko-logistička kompanija čija je delatnost zasnovana na distribuciji duvanskih proizvoda, robe široke potrošnje, SIM kartica i elektronskih dopuna pripejd kredita za mobilnu telefoniju. Deo smo poslovnog sistema Moj Kiosk Group koji zapošljava više od 3.700 ljudi. Korišćenjem najsavremenijih tehnoloških rešenja i inovativnim pristupom, uz visoku poslovnu i radnu etiku i dobru organizaciju poslovnih procesa,… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician IT serviser Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za me"
+  },
+  {
+   "source": "infostud",
+   "id": "765217",
+   "title": "IT tehničar",
+   "company": "Dialog d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar/dialog-doo/765217",
+   "summary": "Ova pozicija postoji da obezbedi pouzdano funkcionisanje IT infrastrukture kroz brzo otkrivanje i otklanjanje kvarova. Kandidat će direktno doprineti dostupnosti sistema upravljanjem mreža i optimizacijom performansi.",
+   "matched": [
+    "it tehnicar",
+    "it podrska",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-11-02T22:22:55+00:00",
+   "details": "O poslodavcu Kompanija DIALOG Beograd (HP partner) traži kandidate za poziciju IT tehničara. Osnovne odgovornosti: Dijagnostika i rešavanje hardverskih i softverskih problema; Nadgledanje i optimizacija performansi sistema i IT infrastrukture; Upravljanje računarskim mrežama i mrežnom opremom; Analiza i unapređenje postojećih sistema kroz nadogradnje i poboljšanja. Reference: gXygtPoeEhbwC1tj4ANBqsqWmVOZQwiYZtodo-xIZZjY2auYDlc8wXDpA4-xZnc0 Preduslovi: Diploma tehničkog smera; Poželjno iskustvo na sličnoj poziciji; Poznavanje računarske arhitekture i mrežnih protokola; Poznavanje engleskog jezika. Naša ponuda: Mogućnost stručnog usavršavanja i školovanja; Konkurentna zarada i stimulativno nagrađivanje; Dobra radna atmosfera i podrška tima. Prijave možete poslati elektronskim putem. Dialog Dialog d.o.o. je jedan od najstarijih HP partnera na prostorima bivše Jugoslavije. Od našeg osnivanja 1993. godine, našim klijentima pored implementacije savremenih IT rešenja, nudimo i podršku prilikom razvoja celokupne IT infrastrukture. Danas, nakon 25 godina uspešne saradnje sa velikim brojem zadovoljnih korisnika, možemo da se pohvalimo iskustvom i osposobljenošću da svakog novog korisnika učinimo još efikasnijim i profitabilnijim. Partnerstvo sa kompanijom HP, kao i partnerstva sa… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician IT tehničar Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "765229",
+   "title": "Lider digitalne platforme za finansije",
+   "company": "Koncern Bambi a.d.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SAP",
+    "Menadžment"
+   ],
+   "posted": "2026-11-02",
+   "expires": "11.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/lider-digitalne-platforme-za-finansije/koncern-bambi-ad/765229",
+   "summary": "Ova pozicija vodi lokalnu realizaciju globalnih digitalnih inicijativa u oblasti finansija i fokusirana je na isporuku digitalnih rešenja koja unapređuju finansijske procese. Kandidat će povezivati finansije i tehnologiju kako bi unapredio efikasnost, omogućio automatizaciju i obezbedio kontinuitet ključnih finansijskih funkcija.",
+   "matched": [
+    "it podrska"
+   ],
+   "first_seen": "2026-11-02T22:22:55+00:00",
+   "details": "O poslodavcu Iza svakog uspešnog finansijskog procesa stoje ljudi koji umeju da povežu biznis potrebe, tehnologiju i prave partnere. Ukoliko razumeš finansije, uživaš u vođenju projekata i motiviše te da globalne inicijative pretvoriš u lokalne uspešne priče, možda si upravo ti naš novi lider digitalne platforme za finansije! Tvoje odgovornosti: Bićeš ključni partner Finance timu u prepoznavanju poslovnih potreba i definisanju prioriteta za digitalna rešenja i unapređenje procesa; Vodićeš lokalnu implementaciju globalnih DTPS (IT) inicijativa, od planiranja i koordinacije stakeholdera do uspešnog puštanja rešenja u rad; Sarađivaćeš sa centralnim DTPS (IT) timovima i Product Ownerima kako bi lokalni zahtevi i regulatorni okviri bili adekvatno uključeni u razvoj rešenja; Upravljaćeš portfoliom digitalnih rešenja koja podržavaju finansijske procese, izveštavanje, planiranje i kontrolu poslovanja; Prepoznavaćeš prilike za automatizaciju, standardizaciju i unapređenje finansijskih procesa; Pratićeš uspešnost implementiranih rešenja i njihov uticaj na efikasnost procesa i ostvarenje poslovnih ciljeva; Koordiniraćeš rešavanje kritičnih izazova i pružati podršku kontinuitetu ključnih finansijskih procesa. Reference: B1h4vTLZTo0SdQMdr_AY7DESBdBznIqEvEOHuaWL992pEnrkraVK2INQWw5p5LuO Kvalifikacije: Najmanje 3 godine iskustva u digitalnim proizvodima, finansijskim procesima ili vođenju krosfunkcionalnih projekata. Visoko obrazovanje iz oblasti informacionih sistema, ekonomije, finansija, računovodstva, organizacionih nauka ili druge struke. Iskustvo u vođenju projekata i koordinaciji različitih stakeholdera. Dobro razumevanje ključnih finansijskih procesa i način njihovog funkcionisanja. Znanje engleskog jezika i MS Office paketa. Dodatno: razumevanje end-to-end Finance procesa, SAP ili drugih finansijskih sistema i sistemskih integracija; razvijene veštine analize procesa, upravljanje kontrolama i poslovnim benefitima. O tvom novom timu: Bambi je kompanija sa dugom tradicijom u prehrambenoj industriji, prepoznatljiva po svojim snažnim brendovima i kvalitetu proizvoda. Kao deo Coca-Cola HBC sistema, spajamo lokalno znanje sa visokim standardima poslovanja i kontinuirano radimo na unapređenju naših proizvoda i procesa. Naš tim čine ljudi različitih iskustava i ekspertiza, a okruženje u kome radimo podstiče saradnju, učenje i razvoj. Verujemo u to da svakome damo prostor da preuzme inicijativu, doprinese idejama i dalje se razvija. Ponosni smo na ono što smo izgradili, ali ostajemo fokusirani na dalji razvoj i unapređenje. Bambi je posvećen stvaranju inkluzivnog i podsticajnog radnog okruženja. Svi kandidati biće razmatrani bez obzira na pol, starost, rasu, etničko poreklo, religiju, invaliditet, seksualnu orijentaciju ili bilo koje drugo lično svojstvo. Verujemo da različitost doprinosi jačim timovima i boljim rezultatima. Koncern Bambi a.d. Kompanija BambiVeć preko pola veka generacije potrošača iskazuju zadovoljstvo našom bogatom ponudom slatkih i slanih proizvoda. O Bambiju najbolje govore naši brendovi, lojalnost naših potrošača i brojna priznanja. Ovo se pre svega odnosi na najprepoznatljiviju Plazmu, koja je danas prerasla u… Više o poslodavcu Beneficije Hrana i piće Rad od kuće Fleksibilno radno vreme Zdravlje Nagrade, bonusi, pokloni Porodica i roditeljstvo Timska druženja Edukacija, profesionalni razvoj Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji,"
+  },
+  {
+   "source": "infostud",
+   "id": "765060",
+   "title": "Sales Agent - Swiss German",
+   "company": "Cynatic",
+   "location": "Beograd (širi) | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Prodaja / konsultanti"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026",
+   "salary": "bruto 1.000 - 2.500 EUR (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/sales-agent-swiss-german/cynatic/765060",
+   "summary": "This role exists to expand sales across the German speaking market through proactive outreach and reliable client support. The successful candidate will own lead generation, first level customer care, and pipeline hygiene to drive revenue growth.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-11-02T22:22:55+00:00",
+   "details": "O poslodavcu Sales Agent / Call Agent B2B (m/f/d) – Remote in Belgrade Languages: Swiss German (ideally) or German (fluent / business level) Location : 100% Remote (Belgrade & surrounding area) Type: Full-time / Part-time (flexible working hours) Industry: Software Solutions & Digital Marketing About Us Cynatic GmbH is a Swiss digital agency specializing in custom software development, process automation, and performance marketing. We build smart solutions for businesses and scale digital business models. To support our growing team, we are looking for a strong communicator based in Belgrade to actively drive our business in the German-speaking market (DACH / Switzerland). Your Responsibilities Focus 100% on proactive outbound prospecting, cold calling. Booking high-quality qualification meetings for our sales closers. Pipeline Management: Maintain clean records of all activities in our CRM system and follow up on leads effectively. Reference: 4bEmDuR5F3igk53cFB8sRMI6k50wdHHWljU-DQLsV-jNhfuvNGe2C5dX6dW7nzpI What You Bring to the Table Language Skills: Business fluent German (C1/C2) is required. Understanding or speaking Swiss German is a huge plus. Proven Sales Experience: A track record of success in B2B outbound cold calling, telemarketing, or appointment setting. You thrive under pressure, effortlessly handle gatekeepers, and treat a 'no' as the start of a real conversation. Digital Affinity: Genuine interest in software, automation, and digital marketing. Independence: Reliable, structured, and self-motivated when working from home. What We Offer High Earning Potential: Attractive, punctual salary with performance-based commissions. Great results are rewarded. 100% Remote & Flexibility: Work comfortably from home in Belgrade with flexible working hours. Modern Work Culture: A young, dynamic team with flat hierarchies, fast decision-making, and an informal atmosphere. Thorough Onboarding: We set you up for success with a structured onboarding process, modern tools, and continuous support. Ready to Join Us? Send us your application documents (CV). We look forward to hearing from you! Cynatic Švajcarska, Inostranstvo, Hauptstrasse 90 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Pozivni centri Telefonski operater Sales Agent - Swiss German Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenj"
+  },
+  {
+   "source": "infostud",
+   "id": "765047",
+   "title": "Tehničar ICT sistema",
+   "company": "Via Log d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/tehnicar-ict-sistema/via-log-doo/765047",
+   "summary": "Pozicija postoji da obezbedi ispravan rad IT i security sistema kroz instalaciju opreme, tehničku podršku i edukaciju korisnika. Kandidat će biti odgovoran za brzo dijagnostikovanje problema, proveru kvaliteta izvedenih radova i realizaciju unapređenja sistema.",
+   "matched": [
+    "it tehnicar",
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni"
+   ],
+   "first_seen": "2026-11-02T22:22:55+00:00",
+   "details": "O poslodavcu Opis posla: Pružanje tehničke podrške krajnjim korisnicima iz oblasti IT i security rešenja Isporuka, instalacija, ugradnja, podešavanje i puštanje u rad uređaja, opreme i proizvoda Provera kvaliteta izvršene usluge i ispravnosti uređaja i opreme Uredno vođenje dokumentacije iz oblasti delokruga odeljenja Planiranje i realizacija unapređenja sistema i opreme korisnika Edukacija korisnika za korišćenje proizvoda i usluga iz oblasti delatnosti preduzeća Reference: 5HDbfWesYZs037msdV75O4F6PLrlWFdbNB558qcKhTQMc4kAmPsrkvIY-JODtq7X Od kandidata očekujemo: Savesnost i pedantnost Sposobnost brzog uočavanja, reagovanja i dijagnostikovanja problema Dobra koordinacija i sposobnost rada u timu Napredno poznavanje mrežnog okruženja, operativnih sistema, hardvera (server, radne stanice...), mrežne opreme Potrebno je poznavanje IP sistema tehničke zaštite, video nadzor, kontrola pristupa… Engleski jezik Vozačka dozvola B kategorije. Zaposlenima nudimo: Pozitivno radno okruženje Odlične uslove rada Mogućnost napretka i profesionalnog razvoja VIA LOG d.o.o. VIA LOG je osnovan 1997 godine. Mi smo tim mladih i obrazovanih ljudi koji pre svega vole ono čime se bave. Ono sto našu firmu čini prepoznatljivom na ICT tržištu ove regije jeste da smo od samog pocetka shvatili značaj ljudskih resursa i međuljudskih odnosa u firmi i ulagali i njih. Zato smo mi sada jedna velika familija i medjusobno vodimo računa jedni o drugima: mi o firmi, a ona o nama i našim potrebama. Ponosni smo sto u nasoj kući vlada takva atmosfera. Nas cilj je da budemo jedna od… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Technician Tehničar ICT sistema Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "765173",
+   "title": "Tehničar podrške - I nivo tehničke podrške",
+   "company": "Petrolsoft Ing d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Windows",
+    "Podrška",
+    "Hardware"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/tehnicar-podrske-i-nivo-tehnicke-podrske/petrolsoft-ing-doo/765173",
+   "summary": "Tehničar podrške prvog nivoa odgovoran je za prijem i analizu korisničkih zahteva, rešavanje osnovnih tehničkih problema i obezbeđivanje kontinuirane korisničke podrške. Ključni cilj je održavanje stabilnog rada sistema i brzo rešavanje incidenata kako bi se očuvao kvalitet usluge.",
+   "matched": [
+    "sql",
+    "it tehnicar",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-11-02T22:22:55+00:00",
+   "details": "O poslodavcu Uvek tražimo motivisane pojedince koji dele naš cilj razvoja i pružanja najvišeg kvaliteta usluga našoj rastućoj bazi klijenata. Petrolsoft Ing nudi izuzetne mogućnosti za rad u profesionalnom i dinamičkom okruženju. Tražimo ljude koji imaju želju i sposobnost da kontinuirano uče i razvijaju se, i koji su posvećeni kvalitetu i izvrsnosti. Naša reputacija se zasniva na profesionalizmu, kompetentnosti i kvalitetu naših ljudi. Nudimo mogućnost talentovanim pojedincima da se pridruže našoj kompaniji na radnom mestu: Tehničar podrške - I nivo tehničke podrške Na ovom radnom mestu, od vas se očekuje da obavljate poslove analiziranje zahteva, rešavanje problema, instaliranje hardverskih i softverskih rešenja i pružanje podrške korisnicima. Potrebne kvalifikacije: Visoka ili srednja stručna sprema iz oblasti računarstva Osnovno poznavanja SQL Dobro poznavanje Windows operativnog sistema Dobro poznavanje hardvera Iskustvo u radu na benzinskoj pumpi smatraće se prednošću Poznavanje i rad .ORFEJ sistemu smatraće se prednošću Poželjno radno iskustvo na sličnim poslovima Reference: QhuQHmq9fYAVeZqJYoHhzOMj5VmXZ8BEvv7rOZlyQfZ3jmR0QepGnK_lEWpHRmmP Profil kandidata Odgovornost i pravovremenost u radu Dobre organizacione i komunikacione veštine Sposobnost rada sa više paralelnih zadataka i klijenata Proaktivnost i sposobnost samostalnog rešavanja problema Spremnost na kontinuirano učenje i profesionalni razvoj Nudimo Rad u stabilnoj i rastućoj IT kompaniji sa fokusom na naftnu industriju Rad na kompleksnim i zanimljivim projektima Dinamično i profesionalno radno okruženje Saradnju sa domaćim i internacionalnim klijentima Mogućnost stručnog usavršavanja i napredovanja Konkurentne uslove rada PetrolSoftIng d.o.o Patrijarha Dimitrija 12i 110000, Beograd, Srbija PIB: 102065539 Matični broj: 07697180 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support Tehničar podrške - I nivo tehničke podrške Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "helloworld",
+   "id": "765175",
+   "title": "Engineering Manager | Remote | Europe",
+   "company": "n8n",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "node",
+    "saas",
+    "typescript"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Engineering-Manager-Remote-Europe/n8n/765175",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 17.11.2026. JavaScript Node Node.js SaaS TypeScript Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Engineering Manager | Remote | Europe Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Engineering Manager | Remote | Europe n8n Inostranstvo | Rad od kuće 17.11.2026. JavaScript Node Node.js SaaS TypeScript intermediate The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact. Since our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve: Cultivated a community of more than 650,000 active developers and builders Earned 190K+ GitHub stars, making us one of the world’s Top 40 most popular projects Backed by top investors, from Sequoia’s first German seed to our SAP's recent strategic investment - bringing us to a $5.2bn valuation That’s the company we’ve built. Now we’d love to see what you can build. If you’re applying, try n8n out - whether you’re technical or not - and share a screenshot of your first workflow with us. The easiest place to start is here: app.n8n.cloud/register . We’re in a defining moment of an incredible journey. Come and build with us. Your main goal will be to build and lead a high-performing engineering team that makes n8n a trusted platform for enterprise automation. As Engineering Manager of the Enterprise Nodes & Partnerships team, you'll empower engineers to grow, deliver secure and reliable enterprise integrations, and build strong technical partnerships while navigating the opportunities of a fast-moving, AI-native world. Here's how you'll make an impact Build enterprise-grade integrations and strategic partnerships Lead the team responsible for building and maintaining the integrations that make n8n a trusted orchestration platform across the enterprise technology stack. Drive successful technical collaborations with strategic partners, aligning on requirements, timelines, and delivery to build strong, lasting partnerships. Ensure enterprise integrations meet high standards for security, reliability, scalability, and production readiness. Build and develop a high-performing engineering team Coach and develop engineers through regular feedback, career development, and meaningful opportunities to grow their ownership and impact. Foster a high-trust environment where engineers feel empowered to make decisions, learn through experimentation, and take accountability for outcomes. Lead hiring, onboarding, and team development to build a strong, collaborative engineering team as n8n scales. Drive execution and cross-functional alignment Partner with Product, Design, and other stakeholders to align priorities, navigate trade-offs, and deliver meaningful product and platform outcomes. Create clarity and focus as priorities evolve, helping your team navigate uncertainty and embrace opportunities emerging from AI. Establish lightweight processes and clear expectations that enable fast execution without compromising engineering quality, maintainability, or team health. Lead with technical credibility and sound judgment Guide architectural and technical decisions, helping engineers navig",
+   "first_seen": "2026-11-02T22:22:55+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "765174",
+   "title": "Forward Deployed Engineer - EMEA",
+   "company": "n8n",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "node",
+    "web api",
+    "rest"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Forward-Deployed-Engineer-EMEA/n8n/765174",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 17.11.2026. Node WEB API REST Senior global.searchSelectItemEvents = {\"762918\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762918\",\"item_name\":\"Trainee Functional Consultant MES\",\"item_index\":0,\"item_brand\":\"Enabl3\",\"item_category\":\"Consultant for Business Software\",\"item_category2\":\"Prodaja \\/ konsultanti\",\"item_category3\":\"junior\",\"it",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Forward Deployed Engineer - EMEA Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Forward Deployed Engineer - EMEA n8n Inostranstvo | Rad od kuće 17.11.2026. Node WEB API REST senior The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact. Since our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve: Cultivated a community of more than 650,000 active developers and builders Earned 190K+ GitHub stars, making us one of the world’s Top 40 most popular projects Backed by top investors, from Sequoia’s first German seed to our SAP's recent strategic investment - bringing us to a $5.2bn valuation That’s the company we’ve built. Now we’d love to see what you can build. If you’re applying, try n8n out - whether you’re technical or not - and share a screenshot of your first workflow with us. The easiest place to start is here: app.n8n.cloud/register . We’re in a defining moment of an incredible journey. Come and build with us. Your main goal will be to turn n8n’s most strategic enterprise deployments into production-ready success stories by embedding on-site, solving real customer problems, and building reusable automation patterns that shape our product. To do so, you’ll work directly with customers, Deployment Strategists, and Product to make every engagement high-impact, scalable, and repeatable: Drive high-impact enterprise deployments Embed on-site with enterprise customers for focused 5-day deployment engagements, arriving with a hypothesis and leaving with production workflows in place. Partner closely with Deployment Strategists to align technical execution with customer priorities, stakeholder needs, and adoption goals. Build trust with technical and non-technical stakeholders by turning complex customer environments into clear, actionable solutions. Build production-grade automation solutions Design and build workflows, integrations, and custom nodes tailored to each customer’s environment and scalable beyond the initial use case. Extend existing n8n nodes or add missing functionality where needed to unlock high-value enterprise use cases. Translate ambiguous business problems into concrete automation designs that prioritize real customer value over technical complexity. Work across industries and tech stacks, getting productive quickly in new environments. Bridge customer needs with Product and Engineering Identify when a bespoke customer requirement should become a reusable node improvement, product feature, or platform capability. Create a clear feedback loop with Product and Engineering by documenting technical gaps, customer context, implementation learnings, and prioritization signals. Contribute reusable learnings, workflows, custom nodes, and integration patterns to an internal playbook library. Turn customer learnings into product and playbooks Identify when a bespoke customer requirement should become a core product feature and document it clearly for Product. Contribute reusable learnings, w",
+   "first_seen": "2026-11-02T22:22:55+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "765172",
+   "title": "Medior Dev Project Manager Niš",
+   "company": "Peaksel d.o.o.",
+   "location": "Niš",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "agile"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Medior-Dev-Project-Manager-Nis/Peaksel-d.o.o/765172",
+   "summary": "Peaksel d.o.o. 2 Niš 17.11.2026. Agile Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Medior Dev Project Manager Niš Medior Dev Project Manager Niš Peaksel d.o.o. 2 Niš Niš: Kuršumlijska 1 17.11.2026. Agile intermediate O nama: Peaksel je kompanija iz Niša koja se bavi razvojem i objavom video igara i mobilnih aplikacija (development & publishing). Poslujemo od 2012. godine i trenutno naša ekipa broji 50+ zaposlenih. Iza nas je 300+ igara i aplikacija sa 500M+ preuzimanja, koje su deo našeg portfolija. Video igre smo počeli kao mobile-first kompanija, ali zadnjih godina svi projekti se planiraju i rade multiplatform: za mobilne uređaje, PC i konzole. Samostalno upravljamo razvojem kompanije i našeg portfolija, bez uticaja eksternih investitora. Za više informacija o nama i portfolio, poseti naš sajt: https://peaksel.com . Opis posla: Vođenje projekata od inicijalne faze do završetka, uz praćenje ciljeva, rokova i kvaliteta isporuke. Planiranje i praćenje milestone-ova, rokova i deliverable-a, uz pravovremeno prepoznavanje odstupanja. Koordinacija multidisciplinarnih timova (art, development, design, QA, marketing) na paralelnim projektima sa deljenim resursima. Praćenje napretka, organizacija prioriteta i usklađivanje aktivnosti i kapaciteta tima. Prepoznavanje rizika i blokera, iniciranje njihovog rešavanja i pravovremena eskalacija kompleksnijih problema. Jasna i transparentna komunikacija sa timom i stejkholderima o statusu projekta, rizicima i promenama. Primena projektnih metodologija i alata, uz predlaganje unapređenja procesa. Dokumentovanje projektnih odluka, praćenje dogovorenih aktivnosti i jasno definisanje odgovornosti i očekivanja. Podsticanje otvorene komunikacije i konstruktivne razmene feedbacka u timu, uz jasno prenošenje očekivanja i usmeravanje saradnje ka uspešnoj realizaciji projekta. Potrebno iskustvo i znanje: Minimum 4+ godine iskustva na poziciji Project Manager-a u IT industriji; iskustvo u mobile gaming industriji predstavlja prednost. Iskustvo u samostalnom vođenju projekata i koordinaciji multidisciplinarnih timova. Iskustvo u radu na više paralelnih projekata ili u okruženju sa deljenim resursima. Iskustvo u korišćenju ClickUp-a ili sličnih alata za upravljanje projektima i zadacima. Dobro razumevanje end-to-end development lifecycle-a. Razumevanje odnosa između rokova, kvaliteta, obima posla i raspoloživih resursa. Dobro poznavanje Agile, Waterfall ili hibridnih pristupa i sposobnost njihove praktične primene u skladu sa potrebama projekta. Fluentno znanje engleskog jezika, pisano i usmeno. Soft skills: Preuzimanje odgovornosti za aktivnosti, odluke i rezultate projekta. Samostalno organizovanje rada, prepoznavanje potencijalnih problema i iniciranje njihovog rešavanja. Efikasno upravljanje zadacima, rokovima i promenama prioriteta. Usklađivanje različitih timova i definisanje očekivanja. Prilagođavanje promenama uz fokus na ostvarivanje dogovorenih ciljeva. Razvijene komunikacione i liderske veštine, uz sposobnost motivisanja i usmeravanja tima, kao i efikasnog usklađivanja različitih perspektiva i potreba. Sposobnost davanja i primanja konstruktivnog feedbacka, uz otvorenost za različita mišljenja i spremnost na kontinuirano unapređenje. Konstruktivno rešavanje problema i konflikata uz održavanje dobre saradnje u timu. Šta možeš da očekuješ: Kompenzacija na osnovu senioriteta i iskustva uz godišnju reviziju. Za uspešne projekte, bonusi po projektu. Privatno zdravstveno osiguranje za tebe i tvoju porodicu. Privatna penzija nakon dve godine rada. Goal-oriented, ali i prijatna ‚‚start-up vib",
+   "first_seen": "2026-11-02T22:22:55+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "765176",
+   "title": "UX Researcher",
+   "company": "Ruby Labs",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "ruby",
+    "figma"
+   ],
+   "posted": "2026-11-02",
+   "expires": "17.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/UX-Researcher/Ruby-Labs/765176",
+   "summary": "Ruby Labs Inostranstvo, Inostranstvo | Rad od kuće 17.11.2026. Ruby Figma Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "UX Researcher Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. UX Researcher Ruby Labs Inostranstvo | Rad od kuće 17.11.2026. Ruby Figma intermediate About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ About the role We’re looking for a sharp, user-focused UX Researcher to help shape and improve the overall player experience. You’ll act as the voice of the user by conducting research, uncovering behavioral insights, and turning those findings into clear, actionable product decisions. You’ll work closely with Product, Design, and Data teams , ensuring that product decisions are driven by real user needs and behaviors rather than assumptions. This is a high-impact opportunity for someone who enjoys working with ambiguity, finding meaningful insights, and turning research into measurable product outcomes. Key Responsibilities User Research Operations — Plan and execute qualitative and quantitative research studies including user interviews, surveys, usability tests, and diary studies across the full player journey. Behavioral Analysis — Analyze user behavior across our platform using analytics tools, session recordings, heatmaps, and funnel data to identify friction points and opportunities. Competitor & Market Research — Conduct structured competitive analysis of sweepstakes casino products to benchmark our UX against industry standards and identify gaps. Wireframing & Prototyping — Use Figma or Visily to translate research insights into wireframes, user flows, and low-to-mid fidelity prototypes that guide product and design decisions. User Personas & Journey Mapping — Develop and maintain player personas, customer journey maps, and mental models that inform product strategy and prioritization. Cross-Functional Collaboration — Work directly with Product Managers, Designers, and Developers to embed user insights into the product lifecycle from ideation through launch. Stakeholder Reporting — Document and present research findings clearly to stakeholders, making complex insights accessible and actionable. UX Standards — Champion user-centered design principles, accessibility standards, and usability best practices across all product initiatives. Continuous Discovery — Proactively identify new research questions, monitor industry UX trends, and propose process improvements to keep our research function sharp. Qualifications 2+ years of hands-on experience in UX research, with a portfolio or case studies demonstrating research-to-product impact. Proficiency in Figma and/or Visily for wireframing, prototyping, and user flow design. Proven experience conducting user interviews, usability testing, and surveys — both moderated and unmoderated. Familiarity with analytics and behavioral tools such as Mixpanel, Hotjar, FullStory, or Google Analytics. Strong analytical mindset — ability to synthesize qualitative and quantitative data into clear, prioritized insights. Excellent written and verbal communication skills; able to present research clearly to non-research audiences. Advanced AI user — comfortable leveraging AI tools to accelerate research synthesis, generate inter",
+   "first_seen": "2026-11-02T22:22:55+00:00"
+  },
   {
    "source": "weworkremotely",
    "id": "wwr-dropbox-backend-product-software-engineer-1",
@@ -348,7 +640,7 @@
    "expires": "14.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Unreal-Engine-Programmer-SystemsSmartobjects/Elite-Diplomatic-d.o.o/764566",
-   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. C++ Intermediate Senior global.searchSelectItemEvents = {\"762918\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762918\",\"item_name\":\"Trainee Functional Consultant MES\",\"item_index\":0,\"item_brand\":\"Enabl3\",\"item_category\":\"Consultant for Business Software\",\"item_category2\":\"Prodaja \\/ konsultanti\",\"item_category3\":\"junio",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd 14.11.2026. C++ Intermediate Senior Novo",
    "matched": [
     "helloworld"
    ],
