@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-03T08:06:05+00:00",
+ "generated_at": "2026-11-03T20:10:47+00:00",
  "window_days": 3,
  "cutoff": "2026-10-31",
- "count": 18,
- "new_count": 3,
+ "count": 25,
+ "new_count": 8,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 2,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 12,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,13 +62,13 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "kubernetes": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "fastapi": {
@@ -87,57 +87,57 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 3,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 0,
-   "strane": 0,
-   "stop": "kraj"
-  },
-  "linux": {
    "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
-  "it tehnicar": {
-   "vraceno": 24,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "sistem administrator": {
-   "vraceno": 5,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "administrator": {
-   "vraceno": 32,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "it podrska": {
-   "vraceno": 57,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "help desk": {
+  "linux": {
    "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
+  "it tehnicar": {
+   "vraceno": 29,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 15,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 60,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 98,
+   "strane": 4,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 4,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "tehnicka podrska": {
-   "vraceno": 12,
+   "vraceno": 21,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 23,
-   "strane": 1,
+   "vraceno": 42,
+   "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 1,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
@@ -147,17 +147,222 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 2,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 46,
-   "strane": 2,
+   "vraceno": 75,
+   "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "765460",
+   "title": "Cloud Engineer",
+   "company": "PRODYNA",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Linux",
+    "Docker",
+    "Sistemska administracija",
+    "Cloud",
+    "Kubernetes"
+   ],
+   "posted": "2026-11-03",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/cloud-engineer/prodyna/765460",
+   "summary": "Role exists to design and implement scalable secure cloud and cloud native architectures and to migrate and operate complex distributed applications in production. The successful candidate will lead technical coordination, improve observability and development workflows, and mentor colleagues to ensure reliable and optimised delivery of cloud solutions.",
+   "matched": [
+    "data engineer",
+    "kubernetes",
+    "junior",
+    "cloud",
+    "linux",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-11-03T20:10:47+00:00",
+   "details": "O poslodavcu Are you looking for a workplace where a positive attitude and team spirit are highly valued? We validate and implement new technologies and develop tailor-made solutions for our customers. We are committed to a culture of innovation and the integration of new technologies. We are bold when it comes to advocating for the best solution, and honest with our customers and colleagues. We value teamwork and collaboration, and we believe that our joint efforts are crucial to achieving our goals and those of our customers. Become part of our team and let's shape the future together! Your tasks You design and implement dynamically scalable, highly available, and secure cloud and cloud-native solutions You design parts of a larger application architecture and also take on the migration of existing applications to the cloud as well as the implementation of the cloud architecture You configure and manage complex distributed systems as well You work closely with developers to improve the development process, resolve issues quickly, and support the rollout of new features You integrate monitoring, logging, and observability tools (e.g., Datadog, OpenTelemetry) and make sure that development and production environments are always optimized and monitored You are also responsible for the development and technical coordination of the IT environment at PRODYNA and at the customer's site You have your own area of responsibility, a team of colleagues with the opportunity to mentor junior colleagues, and you will play a significant role in shaping PRODYNA's culture Reference: akPQBHkWolty9lb4Nju67VPhv3XXdJtw6a2d5t43ZcFwhh0YzTCaDj-oBPbY5Wsh Why PRODYNA Location in the city center 24 vacation days Private health insurance Health support and well-being Business travels Team events Global event participations Employee education Flexible working hours Fruits in the office Employee referral program Your profile You already have several years of experience with distributed systems and containerization using Kubernetes, Docker, and other open-source projects from the CNCF ecosystem You have very good knowledge of the common cloud providers (preferably Azure) You also have a solid understanding of Infrastructure as Code / automation frameworks You have extensive experience in Linux, networking, and security best practices Experience with observability tools such as Datadog, Prometheus, and OpenTelemetry to monitor and improve system behavior. You are a team player, a strong communicator, and work in a solution-oriented and independent way PRODYNA D.O.O. PRODYNA is an innovative IT consultancy specialized on the topic of digital business. The name PRODYNA stands for PROfessional and DYNAmic. Our core competencies are implementing user-centric, technologically innovative solutions and their secure operation. With experience and knowledge in… Više o poslodavcu Više o poslodavcu na HelloWorld Beneficije Trainings, courses, conferences Private health insurance Flexible working hours Team building Sport and fitness Awards, bonuses, gifts Education, professional development Fun & Entertainment Health and wellbeing Food and drinks Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglas"
+  },
+  {
+   "source": "infostud",
+   "id": "765555",
+   "title": "Help Desk Specialist - French language",
+   "company": "M Plus Serbia d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Windows",
+    "Podrška"
+   ],
+   "posted": "2026-11-03",
+   "expires": "18.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/help-desk-specialist-french-language/m-plus-serbia-doo/765555",
+   "summary": "This role delivers first line technical support and language specific assistance to French speaking customers while ensuring SLA compliance. The specialist resolves technical issues, conducts service audits, and supports team onboarding to maintain high customer satisfaction.",
+   "matched": [
+    "help desk",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-11-03T20:10:47+00:00",
+   "details": "O poslodavcu WE'RE HIRING! Help Desk Specialist - French language M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. Are you proud of your French language communication as well as problem-solving skills? Would you describe yourself as a tech-savvy person with the ability to absorb and retain information quickly? If so, you would be a perfect fit for our Help Desk Specialist position! While providing quality technical support and presenting ideas in user-friendly language, your main duties would be: Talking customers through basic problem-solving processes Ensuring that customer faults are being worked in a manner that will result in the achievement of customer Service Level Agreement and customer satisfaction Troubleshooting undocumented problems Allocating workload, assisting new employees, and providing feedback for improvement Understanding the end-to-end processes that underpin quality customer service Conducting service audits Reference: LR_blmgdieLHATSUi2myhIi2vM8RmMrZPhzUZVR6uJg5BzwEa0y0NXQreTt-2Acx What we expect from you: High school diploma Fluency in speaking and writing of French language Intermediate knowledge of the English language Advanced knowledge level of Windows OS Analytical and problem-solving attitude Exceptional customer service orientation and team spirit Flexibility to work shifts (yes, including weekends!) in our 24/7 operation What you will get from us: A hybrid model of work Opportunity to develop skills through paid training Work in a large, international team Advancement opportunities/Career development Possibility of conversion to a contract with a client with all of the benefits included There is no need for previous experience, as long as you are ready to learn and have fun during that process! If you want to give yourself a try in the new role, apply with your CV in English and join us! Only shortlisted candidates will be contacted. Good luck! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od 10 godina. Mplus mi je kroz godine dao prostora za razvoj karijere, to je ono što motiviše mene i…\" Pročitajte celo iskustvo Beneficije Obuke, konferencije Edukacija, profesionalni razvoj Zabavni sadržaj Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Timska druženja Zdravlje Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na "
+  },
+  {
+   "source": "infostud",
+   "id": "765262",
+   "title": "IT System Administrator",
+   "company": "Skill Vision",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "VPN",
+    "Sistemska administracija",
+    "DNS",
+    "TCP/IP",
+    "VOIP",
+    "CRM",
+    "MikroTik"
+   ],
+   "posted": "2026-11-03",
+   "expires": "18.11.2026",
+   "salary": "neto 1.200 - 1.500 EUR (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/it-system-administrator/skill-vision/765262",
+   "summary": "Sistemski administrator će održavati i administrirati IT infrastrukturu kako bi obezbedio stabilan rad servisa i radnih mesta. Kandidat će pružati tehničku podršku i brzo rešavati mrežne i sistemske probleme koristeći znanje ruskog jezika za svakodnevnu komunikaciju.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "windows"
+   ],
+   "first_seen": "2026-11-03T20:10:47+00:00",
+   "details": "O poslodavcu Skill Vision je međunarodna kompanija koja traži sistemskog administratora koji će pomoći u održavanju stabilnog rada IT infrastrukture kompanije i pružati kvalitetnu tehničku podršku našem timu. Odgovornosti: kreiranje i podešavanje korisničkih naloga; rad sa CRM sistemima, korporativnom elektronskom poštom i RDP-om (Remote Desktop Protocol); kreiranje i podešavanje naloga na platformama Telegram, Skype, Slack i Signal; osnovno podešavanje MikroTik rutera; razumevanje principa rada TCP/IP, DNS, DHCP, VPN i VLAN tehnologija; instalacija i podešavanje VoIP telefonije (MicroSIP); podešavanje i tehnička podrška radnih mesta zaposlenih; instalacija, podešavanje i administracija Windows operativnih sistema; osnovno poznavanje Ubuntu sistema (instalacija i podešavanje); rad sa CRM sistemima; podešavanje i povezivanje multifunkcionalnih uređaja (MFP) i druge kancelarijske opreme; sklapanje, podešavanje i tehničko održavanje računara. Reference: MTWvJL3kiuyjh7S0zNQpVUKT_Nx2YtCRZxFoMt2Spwbcm8D3RGcoMUHFXCuajKW_ Važno nam je: najmanje 1 godina iskustva na poziciji sistemskog administratora; znanje ruskog jezika na nivou koji omogućava svakodnevnu komunikaciju; odgovornost, iskrenost, sposobnost timskog rada i usmerenost na rezultate; pažljivost i spremnost za brzo rešavanje tehničkih problema. Šta nudimo: rad u prijatnoj i modernoj kancelariji i prijateljski tim profesionalaca; konkurentnu zaradu od 1.200 do 1.500 EUR, u zavisnosti od iskustva i profesionalnih veština; radno vreme od 10:00 do 19:00, od ponedeljka do petka; mogućnosti za profesionalni razvoj i usavršavanje; stabilno zaposlenje u međunarodnoj kompaniji. Pridružite se timu Skill Vision! Ako se dobro snalazite u IT svetu, volite da pronalazite rešenja i želite da se profesionalno razvijate zajedno sa međunarodnom kompanijom, biće nam drago da vas upoznamo! Skill Vision Ukrajina, Inostranstvo, вул. Антоновича 172, офіс 53 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator IT System Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "765483",
+   "title": "Software Support Engineer",
+   "company": "M Plus Serbia d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-03",
+   "expires": "18.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/software-support-engineer/m-plus-serbia-doo/765483",
+   "summary": "The Software Support Engineer resolves customer and partner technical incidents by diagnosing and remediating software issues while ensuring SLA compliance. The role monitors incoming incidents, coordinates remote and on-site actions, and tracks progress with technical teams to restore service promptly.",
+   "matched": [
+    "data engineer",
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-11-03T20:10:47+00:00",
+   "details": "O poslodavcu WE'RE HIRING! Software Support Engineer M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. We are looking for a Software Support Engineer to provide technical support to our customers, field engineers, and partners. In this role, you will monitor incoming incidents, troubleshoot technical issues, coordinate their resolution, and ensure compliance with agreed service level agreements. What you'll be doing: Monitor incoming customer calls, emails, tickets, and system notifications to identify and respond to technical incidents Identify, analyze, diagnose, and remotely resolve technical issues whenever possible Create troubleshooting and resolution plans, communicate proposed solutions, and coordinate their implementation Escalate complex or unresolved incidents to the appropriate technical teams in accordance with established procedures Dispatch incidents for on-site support when remote resolution is not possible, ensuring they meet the required technical criteria Track incident progress and coordinate with field engineers and other support teams to ensure timely resolution Maintain accurate incident records, update customer information, and ensure databases are up to date Prepare standard service reports and detailed incident and exception reports, ensuring accurate SLA tracking and reporting Support the resolution of known software issues and follow up on issues requiring fixes in future releases Develop an understanding of internal systems, operational processes, and policies to effectively resolve customer issues Reference: 7ws0_qPWFIRS1RRJIGIOnmIDE8hd5w2OtwY1GwgWt7LI-wYTmzEGJQ979XQb9g89 Here’s what we are looking for in YOU: Relevant IT experience, preferably in IT support Strong Microsoft Office skills, particularly Excel (formulas, pivot tables, and data analysis) Understanding of software deployment lifecycles, ITIL processes, and change management procedures Strong problem-solving, organizational, and communication skills Ability to troubleshoot technical issues, manage multiple incidents, and meet service level agreements (SLAs) Availability to work Monday to Friday, in shifts from 9 AM to 5 PM or 3 PM to 11 PM. Night shifts and weekend work may be required when needed What’s in it for YOU? A hybrid work model that lets you balance in-office and remote work Structured training programs to help you develop your skills and grow your career The chance to work in a vibrant, international team Modern office spaces in the heart of New Belgrade’s business district Career advancement opportunities and the potential to convert to a client contract with full benefits Ready to take the next step in your career? Submit your CV in English and become part of our team! Please note that only shortlisted candidates will be contacted. We look forward to reviewing your application! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskus"
+  },
+  {
+   "source": "infostud",
+   "id": "765410",
+   "title": "Stručnjak za veštačku inteligenciju, AI agente i automatizaciju poslovnih procesa - ChatGPT Claude",
+   "company": "eTech Schaltanlagenbau d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "AI/ML"
+   ],
+   "posted": "2026-11-03",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/strucnjak-za-vestacku-inteligenciju-ai-agente-i-automatizaciju-poslovnih-procesa-chatgpt-claude/etech-schaltanlagenbau-doo/765410",
+   "summary": "Ova pozicija postoji da identifikuje i realizuje primenu AI agenata radi automatizacije i unapređenja poslovnih procesa. Kandidat će prepoznavati prilike za automatizaciju, implementirati praktična rešenja i obezbediti pouzdane integracije na daljinu.",
+   "matched": [
+    "podaci",
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-11-03T20:10:47+00:00",
+   "details": "O poslodavcu eTech Schaltanlagenbau d.o.o. traži stručnjaka ili stručnjakinju za veštačku inteligenciju, AI agente i automatizaciju poslovnih procesa, sa iskustvom u radu sa alatima kao što su ChatGPT i Claude. Pozicija je namenjena osobi koja ume da prepozna mogućnosti za primenu AI tehnologija i pretvori ih u praktična rešenja koja unapređuju svakodnevni rad. Rad se obavlja isključivo od kuće. Odgovornosti: Razvoj, testiranje i unapređivanje AI agenata i rešenja zasnovanih na alatima kao što su ChatGPT i Claude. Automatizacija poslovnih procesa i povezivanje AI rešenja sa postojećim sistemima i alatima. Analiza potreba različitih timova i prepoznavanje procesa pogodnih za automatizaciju. Izrada i optimizacija promptova, tokova rada i integracija radi pouzdanih i kvalitetnih rezultata. Praćenje performansi AI rešenja, otklanjanje problema i predlaganje unapređenja. Dokumentovanje razvijenih rešenja i pružanje podrške kolegama u njihovoj primeni. Odgovorno postupanje sa poslovnim podacima, uz poštovanje internih pravila i važećih propisa o zaštiti podataka. Reference: XwQ_07DXic8qr8Iz3l6CreJfpwt5GJ36X6CmLIAC9_ifWPfULC_zavWyr9R1HYxX Kvalifikacije: Iskustvo u primeni veštačke inteligencije, razvoju AI agenata i automatizaciji poslovnih procesa. Praktično poznavanje alata i modela kao što su ChatGPT i Claude, uključujući osmišljavanje i testiranje promptova. Razumevanje poslovnih procesa i sposobnost da se prepoznaju mogućnosti za njihovo unapređenje automatizacijom. Iskustvo u povezivanju AI rešenja sa poslovnim alatima i sistemima predstavlja prednost. Analitičnost, samostalnost i sistematičan pristup rešavanju problema. Dobre komunikacione veštine i sposobnost jasnog predstavljanja tehničkih rešenja kolegama i saradnicima. Spremnost za isključivo rad od kuće i pouzdano organizovanje rada na daljinu. Znanje jezika * Engleski jezik: minimum C1 – obavezno. * Nemački jezik: C1 – velika prednost, ali nije obavezan. Šta nudimo: Isključivo rad od kuće, uz saradnju sa timom kompanije eTech Schaltanlagenbau d.o.o. Priliku da razvijate i primenjujete rešenja zasnovana na veštačkoj inteligenciji, AI agentima i automatizaciji poslovnih procesa. Uslove rada, zaradu i radno vreme dogovaramo sa kandidatima u skladu sa iskustvom i obimom posla. Ako želite da razvijate AI agente i automatizujete poslovne procese u kompaniji eTech Schaltanlagenbau d.o.o., uz mogućnost rada isključivo od kuće, radujemo se vašoj prijavi. Biografiju (CV) je obavezno dostaviti na srpskom jeziku. eTech Schaltanlagenbau d.o.o. Srbija, Kraljevo, Hajduk Veljkova 3 PIB: 110815993 Matični broj: 21390062 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT AI Engineer Stručnjak za veštačku inteligenciju, AI agente i automatizaciju poslovnih procesa - ChatGPT Claude Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razum"
+  },
+  {
+   "source": "helloworld",
+   "id": "765179",
+   "title": "Product Manager - Administration & Governance",
+   "company": "Supabase",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-03",
+   "expires": "18.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Manager-Administration-Governance/Supabase/765179",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 18.11.2026. Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Product Manager - Administration & Governance Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Product Manager - Administration & Governance Supabase Inostranstvo | Rad od kuće 18.11.2026. senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Product Manager, Administration & Governance to join our Product Team and make Supabase the default starting point for software built inside a company. Supabase already spreads from the bottom up: someone has an idea, creates a project, and builds something useful. Inside most companies, Supabase starts the same way: someone has an idea, creates a project, and builds something useful. The next step is making that momentum company-wide: one platform where anyone can start building, and where IT can see what’s running, who owns it, and what it costs. You’ll own how companies run Supabase as their internal development platform: approved by IT and easy for anyone in the company to use. You’ll make it possible for people and the agents they work with to start building without waiting on infrastructure, while giving platform, IT, and security teams the controls they need to say yes. The goal is to make the approved path the easiest path, from an early experiment to a production application, with the controls companies need built in. What You’ll Be Responsible For Own the product strategy and roadmap for internal innovation, from a company’s first IT-approved rollout to adoption across teams and business units. Make getting started self-service, whether someone creates a project in Supabase, through an internal developer portal, or with an agent. Give builders the access and infrastructure they need without a ticket for every project. Steer scattered usage into a manageable company-wide platform. Give companies one view of everything they run on Supabase. Shape how ownership, delegated access, and boundaries work so teams can move independently as usage grows. Partner closely with platform, IT, security, and finance teams to understand what it takes to approve Supabase and keep it approved. Translate their needs into practical identity, policy, audit, and spend controls that don’t slow builders down. Define the path from experiment to production, including project ownership, access, and the guardrails that change as an application becomes important to the business. Work with Engineering, Design, Sales, and Customer Success to turn early customer rollouts into a repeatable experience, rather than a new custom integration for every company. Define what success looks like, instrument it end to end, and let the data guide what gets built next—from time to first project and self-service adoption to production usage and expansion across the company. You Might Be a Good Fit If You Have 7+ years of product management on developer tools, infrastructure, or internal developer platforms. Have built self-service products that developers love and platform or IT teams trust. You understand both the person trying to ship an app and the team responsible for how it runs. Can reason about identity, permissions, organization boundaries, and usage attribution, and turn those systems into workflows people can actually understand.",
+   "first_seen": "2026-11-03T20:10:47+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "765178",
+   "title": "Product Manager - Spark",
+   "company": "Supabase",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "prototype"
+   ],
+   "posted": "2026-11-03",
+   "expires": "18.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Manager-Spark/Supabase/765178",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 18.11.2026. Prototype Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Product Manager - Spark Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Product Manager - Spark Supabase Inostranstvo | Rad od kuće 18.11.2026. Prototype senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Product Manager, Spark Projects to join our Product Team and lead a new Supabase project type built for how agents use infrastructure. Agents are creating an unprecedented amount of software, and every app, prototype, preview, and experiment needs a backend from the moment it’s created. Spark projects provision in a second, scale down when idle, and are cheap to enough to use liberally, guilt-free. while keeping the Supabase interface agents already know. Some of these projects will be small and short-lived while others will grow and graduate to larger instances on Supabase. This role owns establishing Spark as the default starting point for agent-built software and how projects grow from an early experiments into production workloads on Supabase. What You’ll Be Responsible For Own the product strategy and roadmap for Spark projects, from early MVP through general availability. Make Spark effortless for agents and the platforms they run on, so a backend exists the moment an idea does. Define the path from experiment to production, including how projects get claimed, upgraded, and grown into the full Supabase platform. Shape packaging and pricing with Engineering, Growth, and Finance so Spark is economical at very large scale. Partner closely with Supabase for Platforms customers to understand their needs and bring Spark to them first. Define what success looks like, instrument it end to end, and let the data guide what gets built next. You Might Be a Good Fit If You Have 5+ years of product management on developer tools or infrastructure, or are an ex-founder with strong product instincts. Have a strong point of view on agent-driven development and how it changes what developers and platforms need from a backend. Know your way around AI Evals, controlled experimentation, and data analysis. Are biased toward speed and would rather ship, learn, and iterate than perfect a spec. Build with what you own and form opinions through first-hand use. Use AI tools to compress research, drafting, and feedback synthesis so you can focus on judgment calls. Work async by default, making decisions in writing in a fully remote team. What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work. Health Benefits Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us. Annual Off-Sites Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year. Flexi",
+   "first_seen": "2026-11-03T20:10:47+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "765180",
+   "title": "Senior Product Builder - Hub",
+   "company": "Camunda",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "java",
+    "c",
+    "saas",
+    "kubernetes"
+   ],
+   "posted": "2026-11-03",
+   "expires": "18.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-Product-Builder-Hub/Camunda/765180",
+   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 18.11.2026. Java C SaaS Kubernetes Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior Product Builder - Hub Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Senior Product Builder - Hub Camunda Inostranstvo | Rad od kuće 18.11.2026. Java C SaaS Kubernetes senior Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the Role Camunda Hub is where enterprises run Camunda at scale. From Hub they manage their clusters and tenants, decide who can do what, and roll changes out across the whole organization. We’re looking for a Senior Product Builder to own the backend and architecture that let Hub manage a whole fleet of clusters. Your first focus will be the mechanism that sends access, secret, tenant and licence changes out to every connected cluster and brings deployments, health and audit records back. From there, you’ll shape Hub’s foundations: its event model, the service boundaries and data model other teams build on, and how Hub behaves when things fail or get upgraded. The platform is your product. Your users are platform administrators, Centres of Excellence and the builders across Camunda who depend on what you create. You’ll join a new two-person pod in our remote-first team. You’ll have real ownership as the person who makes the call, and you’ll build AI-first, from written specs through to production. Our customers run mission-critical processes on Camunda, so your work will matter to them every day. What You Will Do Take over Hub's fleet propagation mechanism from the team building its first version, and make it work for access, secrets, tenants, licences and custom roles Write short design documents for foundational changes, get them reviewed by the teams that depend on them, and turn them into tested, shipped code Design how Hub behaves when things go wrong: offline clusters, partial failures, Hub outages, and clusters being adopted or detached Build the path from clusters back to Hub, starting with deployment inventory, health, audit records and licence status Design Hub's first event and webhook mechanism, so admins and agents can react to changes instead of polling for them Join the pod's rotations and Hub on-call, and help other builders take on backend work through reviews, guidelines and contract tests What You Will Bring to the Role Experience building and running backend systems in production that other teams or customers de",
+   "first_seen": "2026-11-03T20:10:47+00:00"
+  },
   {
    "source": "infostud",
    "id": "765285",
@@ -570,35 +775,6 @@
     "weworkremotely"
    ],
    "first_seen": "2026-10-31T13:45:05+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "763251",
-   "title": "Application Security Engineer",
-   "company": "CCBill SRB d.o.o.",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "c",
-    "javascript",
-    "java",
-    "python",
-    "perl",
-    "jenkins",
-    "agile"
-   ],
-   "posted": null,
-   "posted_window": "helloworld filter bez filtera",
-   "expires": "20.11.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Application-Security-Engineer/CCBill-SRB-d.o.o/763251",
-   "summary": "CCBill SRB d.o.o. 4.3 Rad od kuće online intervju 20.11.2026. Oglas dostupan i osobama sa invaliditetom .NET C# JavaScript Java Python Perl Jenkins Agile Intermediate",
-   "matched": [
-    "helloworld"
-   ],
-   "details_error": "ne mogu da skinem https://www.helloworld.rs/posao/Application-Security-Engineer/CCBill-SRB-d.o.o/763251: HTTP Error 500: Internal Server Error",
-   "first_seen": "2026-10-21T13:01:52+00:00"
   }
  ]
 }
