@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-03T20:10:47+00:00",
+ "generated_at": "2026-11-04T07:38:51+00:00",
  "window_days": 3,
- "cutoff": "2026-10-31",
+ "cutoff": "2026-11-01",
  "count": 25,
- "new_count": 8,
+ "new_count": 2,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 19,
+   "vraceno": 20,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,22 +102,22 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 29,
+   "vraceno": 30,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 15,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 60,
-   "strane": 2,
+   "vraceno": 61,
+   "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 98,
+   "vraceno": 102,
    "strane": 4,
    "stop": "kraj"
   },
@@ -127,17 +127,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 21,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 42,
+   "vraceno": 43,
    "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 5,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,77 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 75,
+   "vraceno": 82,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "765564",
+   "title": "Web Developer (Webflow, WordPress)",
+   "company": "Thrive Talent Solutions d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "PHP",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "HTML5",
+    "CSS3",
+    "WordPress",
+    "CMS",
+    "Programiranje",
+    "DNS",
+    "Figma",
+    "SEO"
+   ],
+   "posted": "2026-11-04",
+   "expires": "19.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/web-developer-webflow-wordpress/thrive-talent-solutions-doo/765564",
+   "summary": "This role builds and optimizes Webflow and WordPress websites by translating design assets into responsive high-performance sites. The developer independently manages projects from concept to launch and ensures performance accessibility and third-party integrations for client digital experiences.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-11-04T07:38:51+00:00",
+   "details": "O poslodavcu We are currently seeking a Web Developer (Webflow, WordPress) to join our team in support of our US-based partner company. Our partner company is a creative production and AI Visibility studio helping brands communicate complex ideas through engaging digital experiences and premium content. As a Web Developer, you will build, maintain, and optimize high-performing websites for the company and clients. You will combine technical expertise with a good eye for design, understand modern web development practices, and can independently manage projects from concept to launch. Responsibilities: Design, develop, and maintain responsive websites using Webflow and WordPress; Convert Figma designs and creative concepts into pixel-perfect, functional websites; Build custom Webflow interactions, animations, CMS collections, and dynamic content structures; Develop and customize WordPress websites, themes, plugins, and page-builder solutions; Write clean, maintainable HTML, CSS, JavaScript, and PHP when required; Ensure websites are optimized for speed, performance, accessibility, and SEO; Troubleshoot technical issues, identify bugs, and implement effective solutions; Integrate third-party tools, APIs, forms, analytics, and marketing platforms; Maintain and improve existing websites, ensuring security, functionality, and compatibility; Collaborate with designers, marketers, and project managers to deliver projects on time; Take ownership of assigned projects and contribute ideas for improving website functionality and user experience. Reference: n193BPTBAvv2EFCj1XN0sVH-cSDhIAPNZDjnAQkbewyZUyy6xQLRliWWVPRD-hXY Qualifications: 3-5+ years of professional web development experience; Strong hands-on experience with Webflow and WordPress; Solid understanding of HTML5, CSS3, JavaScript, and responsive web development; Experience translating Figma or other design files into accurate, responsive websites; Good knowledge of WordPress themes, plugins, customizations, and CMS architecture; Experience building and managing Webflow CMS-powered websites; Understanding of website performance optimization, technical SEO, and accessibility best practices; Familiarity with website hosting, domains, DNS, SSL, and deployment workflows; Ability to troubleshoot independently and solve technical challenges; Strong attention to detail and a commitment to delivering high-quality work; Good English communication skills and the ability to collaborate with a creative team; Ability to manage multiple projects and meet deadlines. We offer: Full-time, remote work; Working hours: Monday to Friday, starting between 11am CET and 3pm CET; Private Health Insurance from day 1; Timely and organized performance reviews. If this seems like the right job for you, we invite you to submit your resume in English. Please keep in mind that resumes in other languages might not be considered. Thrive Talent Solutions Are you ready to take your career to new heights? At Thrive, we specialize in employing top-tier talent. We connect you with exciting opportunities provided by companies across the United States. But our role doesn't stop there - we are also your dedicated success partner. We accompany you every step of the way and provide comprehensive HR support and guidance. From recruitment and seamless onboarding processes to tailored training programs, proactive performance management, continuous… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomen"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137622",
+   "title": "Tax Manager Private Client",
+   "company": "Aprio",
+   "location": "Scotch Plains, NJ",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "exec",
+    "education",
+    "consulting",
+    "technical",
+    "customer support",
+    "dev",
+    "marketing",
+    "accounting",
+    "finance",
+    "junior",
+    "sales",
+    "full time"
+   ],
+   "posted": "2026-11-03",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
+   "summary": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. By bringing together proven expertise, deep understanding, and strategic foresight for fast-growing industries, Aprio ensures clients are prepared for wherever life or business ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-04T07:38:51+00:00"
+  },
   {
    "source": "infostud",
    "id": "765460",
@@ -356,7 +421,7 @@
    "expires": "18.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Product-Builder-Hub/Camunda/765180",
-   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 18.11.2026. Java C SaaS Kubernetes Senior Novo",
+   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 18.11.2026. Java C SaaS Kubernetes Senior global.searchSelectItemEvents = {\"762458\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762458\",\"item_name\":\"Senior AI Engineer (LLM & Edge AI)\",\"item_index\":0,\"item_brand\":\"TrustMotion\",\"item_category\":\"AI Engineer\",\"item_category2\":\"\",\"item_category3\":\"senior\",\"item_category4\":\"Premium\",\"ite",
    "matched": [
     "helloworld"
    ],
@@ -662,7 +727,7 @@
    "expires": "17.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Engineering-Manager-Remote-Europe/n8n/765175",
-   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 17.11.2026. JavaScript Node Node.js SaaS TypeScript Intermediate Novo",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 17.11.2026. JavaScript Node Node.js SaaS TypeScript Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -686,7 +751,7 @@
    "expires": "17.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Forward-Deployed-Engineer-EMEA/n8n/765174",
-   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 17.11.2026. Node WEB API REST Senior Novo",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 17.11.2026. Node WEB API REST Senior",
    "matched": [
     "helloworld"
    ],
@@ -708,7 +773,7 @@
    "expires": "17.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Medior-Dev-Project-Manager-Nis/Peaksel-d.o.o/765172",
-   "summary": "Peaksel d.o.o. 2 Niš 17.11.2026. Agile Intermediate Novo",
+   "summary": "Peaksel d.o.o. 2 Niš 17.11.2026. Agile Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -731,50 +796,12 @@
    "expires": "17.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/UX-Researcher/Ruby-Labs/765176",
-   "summary": "Ruby Labs Inostranstvo, Inostranstvo | Rad od kuće 17.11.2026. Ruby Figma Intermediate global.searchSelectItemEvents = {\"765299\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_765299\",\"item_name\":\"Senior Azure DevOps Engineer (Data Platform)\",\"item_index\":0,\"item_brand\":\"Keba d.o.o.\",\"item_category\":\"DevOps System Administrator \\/ Engineer\",\"item_category2\":\"Sistemska administracija\"",
+   "summary": "Ruby Labs Inostranstvo, Inostranstvo | Rad od kuće 17.11.2026. Ruby Figma Intermediate global.searchSelectItemEvents = {\"762458\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_762458\",\"item_name\":\"Senior AI Engineer (LLM & Edge AI)\",\"item_index\":0,\"item_brand\":\"TrustMotion\",\"item_category\":\"AI Engineer\",\"item_category2\":\"\",\"item_category3\":\"senior\",\"item_category4\":\"Premium\",\"item_ca",
    "matched": [
     "helloworld"
    ],
    "details": "UX Researcher Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. UX Researcher Ruby Labs Inostranstvo | Rad od kuće 17.11.2026. Ruby Figma intermediate About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ About the role We’re looking for a sharp, user-focused UX Researcher to help shape and improve the overall player experience. You’ll act as the voice of the user by conducting research, uncovering behavioral insights, and turning those findings into clear, actionable product decisions. You’ll work closely with Product, Design, and Data teams , ensuring that product decisions are driven by real user needs and behaviors rather than assumptions. This is a high-impact opportunity for someone who enjoys working with ambiguity, finding meaningful insights, and turning research into measurable product outcomes. Key Responsibilities User Research Operations — Plan and execute qualitative and quantitative research studies including user interviews, surveys, usability tests, and diary studies across the full player journey. Behavioral Analysis — Analyze user behavior across our platform using analytics tools, session recordings, heatmaps, and funnel data to identify friction points and opportunities. Competitor & Market Research — Conduct structured competitive analysis of sweepstakes casino products to benchmark our UX against industry standards and identify gaps. Wireframing & Prototyping — Use Figma or Visily to translate research insights into wireframes, user flows, and low-to-mid fidelity prototypes that guide product and design decisions. User Personas & Journey Mapping — Develop and maintain player personas, customer journey maps, and mental models that inform product strategy and prioritization. Cross-Functional Collaboration — Work directly with Product Managers, Designers, and Developers to embed user insights into the product lifecycle from ideation through launch. Stakeholder Reporting — Document and present research findings clearly to stakeholders, making complex insights accessible and actionable. UX Standards — Champion user-centered design principles, accessibility standards, and usability best practices across all product initiatives. Continuous Discovery — Proactively identify new research questions, monitor industry UX trends, and propose process improvements to keep our research function sharp. Qualifications 2+ years of hands-on experience in UX research, with a portfolio or case studies demonstrating research-to-product impact. Proficiency in Figma and/or Visily for wireframing, prototyping, and user flow design. Proven experience conducting user interviews, usability testing, and surveys — both moderated and unmoderated. Familiarity with analytics and behavioral tools such as Mixpanel, Hotjar, FullStory, or Google Analytics. Strong analytical mindset — ability to synthesize qualitative and quantitative data into clear, prioritized insights. Excellent written and verbal communication skills; able to present research clearly to non-research audiences. Advanced AI user — comfortable leveraging AI tools to accelerate research synthesis, generate inter",
    "first_seen": "2026-11-02T22:22:55+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-dropbox-backend-product-software-engineer-1",
-   "title": "Backend Product Software Engineer",
-   "company": "Dropbox",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-31",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
-   "summary": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experiences. You will work closely with cross-functional teams, turning innovative ideas into robust, scalab",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-31T13:45:05+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-dropbox-backend-product-software-engineer",
-   "title": "Backend Product Software Engineer",
-   "company": "Dropbox",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-10-31",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer",
-   "summary": "Headquarters: Remote - Mexico Role Description As a Product Engineer at Dropbox, you will play a pivotal role in shaping the future of collaboration and file sharing. Your responsibilities will revolve around developing and enhancing our suite of Dropbox Products to deliver exceptional user experiences. You will work closely with cross-functional teams, turning innovative ideas into robust, scalab",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-10-31T13:45:05+00:00"
   }
  ]
 }
