@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-04T20:28:19+00:00",
+ "generated_at": "2026-11-05T08:00:08+00:00",
  "window_days": 3,
- "cutoff": "2026-11-01",
- "count": 37,
- "new_count": 12,
+ "cutoff": "2026-11-02",
+ "count": 38,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 31,
+   "vraceno": 36,
    "strane": 2,
    "stop": "kraj"
   },
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 35,
+   "vraceno": 38,
    "strane": 2,
    "stop": "kraj"
   },
@@ -112,13 +112,13 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 78,
+   "vraceno": 81,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 140,
-   "strane": 5,
+   "vraceno": 155,
+   "strane": 6,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,7 +127,7 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 33,
+   "vraceno": 37,
    "strane": 2,
    "stop": "kraj"
   },
@@ -137,7 +137,7 @@
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 10,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,32 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 109,
+   "vraceno": 117,
    "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "765652",
+   "title": "Pomoćni radnik u kuhinji - operater za prijem i obradu porudžbina (sa poznavanjem rada na računaru )",
+   "company": "UTR Renaissance",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-05",
+   "expires": "20.11.2026",
+   "salary": "neto 60.000 - 80.000 RSD (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/pomocni-radnik-u-kuhinji-operater-za-prijem-i-obradu-porudzbina-sa-poznavanjem-rada-na-racunaru/utr-renaissance/765652",
+   "summary": "",
+   "matched": [
+    "racunari"
+   ],
+   "first_seen": "2026-11-05T08:00:08+00:00",
+   "details": "O poslodavcu Prijem telefonskih i online porudžbina (aplikacija, Wolt, Glovo), unos u sistem, organizacija dostave, kontakt sa dostavljačima i kontrola porudžbina. Osnovno poznavanje rada na računaru i grada Subotice. Reference: 7aSqhy2fvvzgUp7wsoLLM_nCF1nr0nXQSQoZCkXEMnccDiRj3tI1OPRbR0_kJCc0 UTR \"RENAISSANCE\" MATIJE KORVINA 13 24000 SUBOTICA, SUBOTICA, Srbija PIB: 100855040 Matični broj: 53473873 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Subotica Logistika Dispečer Pomoćni radnik u kuhinji - operater za prijem i obradu porudžbina (sa poznavanjem rada na računaru ) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
   {
    "source": "infostud",
    "id": "765747",
@@ -439,7 +459,7 @@
    "expires": "19.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Principal-Product-Analytics/Synthesia-Ltd/765182",
-   "summary": "Synthesia Ltd Inostranstvo, Inostranstvo | Rad od kuće 19.11.2026. ARM Senior Novo",
+   "summary": "Synthesia Ltd Inostranstvo, Inostranstvo | Rad od kuće 19.11.2026. ARM Senior global.searchSelectItemEvents = {\"765627\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_765627\",\"item_name\":\"Digital Sales Functional Consultant\",\"item_index\":0,\"item_brand\":\"Robert Bosch d.o.o.\",\"item_category\":\"Consultant for Business Software\",\"item_category2\":\"Prodaja \\/ konsultanti\",\"item_category3\":\"",
    "matched": [
     "helloworld"
    ],
@@ -718,7 +738,7 @@
    "expires": "18.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Product-Manager-Administration-Governance/Supabase/765179",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 18.11.2026. Senior Novo",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 18.11.2026. Senior",
    "matched": [
     "helloworld"
    ],
@@ -740,7 +760,7 @@
    "expires": "18.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Product-Manager-Spark/Supabase/765178",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 18.11.2026. Prototype Senior Novo",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 18.11.2026. Prototype Senior",
    "matched": [
     "helloworld"
    ],
