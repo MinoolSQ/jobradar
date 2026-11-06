@@ -1,10 +1,12 @@
 {
- "generated_at": "2026-11-06T08:04:34+00:00",
+ "generated_at": "2026-11-06T19:59:46+00:00",
  "window_days": 3,
  "cutoff": "2026-11-03",
- "count": 36,
- "new_count": 1,
- "errors": [],
+ "count": 43,
+ "new_count": 8,
+ "errors": [
+  "infostud: pretrage it podrska su napunile svih 6 strana, mozda ima jos"
+ ],
  "infostud_queries": {
   "python": {
    "vraceno": 1,
@@ -12,7 +14,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 12,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +24,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 37,
+   "vraceno": 46,
    "strane": 2,
    "stop": "kraj"
   },
@@ -62,7 +64,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 7,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +89,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 10,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -97,47 +99,47 @@
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 5,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 33,
+   "vraceno": 40,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 23,
+   "vraceno": 27,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 82,
-   "strane": 3,
+   "vraceno": 91,
+   "strane": 4,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 158,
+   "vraceno": 180,
    "strane": 6,
-   "stop": "kraj"
+   "stop": "limit"
   },
   "help desk": {
-   "vraceno": 5,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 38,
+   "vraceno": 49,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 61,
+   "vraceno": 67,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 13,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
@@ -147,17 +149,234 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 5,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 114,
-   "strane": 4,
+   "vraceno": 134,
+   "strane": 5,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "766159",
+   "title": "Help Desk Specialist - English language",
+   "company": "M Plus Serbia d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Windows",
+    "Podrška",
+    "Hardware"
+   ],
+   "posted": "2026-11-06",
+   "expires": "21.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/help-desk-specialist-english-language/m-plus-serbia-doo/766159",
+   "summary": "The Help Desk Specialist provides first-line technical support to customers and field engineers, resolving hardware and software issues to maintain operational continuity. The role ensures SLA compliance, supports team onboarding and training, and drives service quality through troubleshooting and audits.",
+   "matched": [
+    "help desk",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-11-06T19:59:46+00:00",
+   "details": "O poslodavcu WE'RE HIRING! Help Desk Specialist - English language M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. Are you the go-to person in your circle for solving problems and explaining tech? Do you have a passion for helping people while tackling new challenges? If so, we want YOU to join our team as a Help Desk Specialist! In this dynamic role, you will be at the forefront of customer support, where your ability to guide and solve technical issues with ease will make a real impact. Your main duties will include: Walking customers through troubleshooting steps with patience and clarity Identifying, analyzing, diagnosing, and resolving issues quickly and efficiently Responding to incoming phone calls, emails, or tickets from clients and field engineers, while keeping an eye on the notification and ticket queue screens Troubleshooting both known and undocumented problems, ensuring smooth operations Managing customer issues in line with Service Level Agreements to guarantee satisfaction Supporting new employees with training, guidance, and feedback to enhance team performance Gaining an in-depth understanding of the processes that ensure top-tier customer service Conducting audits to ensure service quality and continual improvement Reference: eRLHrgAupmreJW9aIwRy1RDnJCTCy9JHvwFs9pU9cU81cgG296SJMzmLwZJ-D1vr Here’s what we are looking for in YOU: A high school diploma (and if you have a technical degree or IT knowledge, even better!) Fluency in English, both spoken and written Solid working knowledge of Windows OS A problem-solving mindset with an eye for detail Strong ability to troubleshoot hardware and software issues A passion for delivering exceptional customer service with a team-oriented spirit Flexibility to work shifts (yes, including weekends!) in our 24/7 operation What’s in it for YOU? A hybrid work model that lets you balance in-office and remote work Structured training programs to help you develop your skills and grow your career The chance to work in a vibrant, international team Modern office spaces in the heart of New Belgrade’s business district Career advancement opportunities and the potential to convert to a client contract with full benefits Don’t have experience? No problem! We’re looking for someone who’s eager to learn, grow, and enjoy the process. If you’re excited to dive into a new role, we’re excited to help you get there! Ready to join a team that values creativity, growth, and a bit of fun? Apply now with your CV in English, and let’s get started! Note: Only shortlisted candidates will be contacted. Best of luck, we can’t wait to meet you! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od"
+  },
+  {
+   "source": "infostud",
+   "id": "766125",
+   "title": "Junior System Administrator",
+   "company": "Grand Casino d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-06",
+   "expires": "21.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/junior-system-administrator/grand-casino-doo/766125",
+   "summary": "Pozicija Junior System Administratora postoji da obezbedi stabilno funkcionisanje serverske i infrastrukturne okoline i omogući sticanje praktičnih IT veština kroz mentorstvo. Kandidat će pratiti servere, održavati infrastrukturne servise i pružati osnovnu IT podršku zaposlenima.",
+   "matched": [
+    "junior",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "mrezni",
+    "windows"
+   ],
+   "first_seen": "2026-11-06T19:59:46+00:00",
+   "details": "O poslodavcu Grand Casino Admiral traži motivisanu i proaktivnu osobu koja želi da se pridruži našem IT timu na poziciji Junior System Administrator . Ukoliko si student završne godine ili diplomac tehničkog fakulteta, sa usmerenjem na računarstvo, informacione tehnologije ili srodne oblasti, i želiš da započneš svoju karijeru u IT sektoru, ovo je odlična prilika za tebe. Prethodno radno iskustvo nije neophodno! Na ovoj poziciji imaćeš priliku da stekneš praktično iskustvo, radiš u dinamičnom i specifičnom okruženju i razvijaš svoje veštine uz podršku i mentorstvo iskusnijih kolega. Ključna zaduženja: Praćenje rada servera i sistema i sprovođenje preventivnog održavanja; Instalacija, konfiguracija i održavanje infrastrukturnih servisa; Administracija operativnih sistema i softvera; Dijagnostikovanje i rešavanje hardverskih, softverskih, mrežnih i sistemskih problema; Pružanje osnovne IT podrške zaposlenima (Help Desk); Vođenje i ažuriranje tehničke dokumentacije o sistemima i procedurama. Reference: FHD8_Es0qer93DjMwU3lcuy8DgKQkmjmONLk5cYwPOoXJKkS64TOT18DRg74xp79 Uslovi: Osnovno poznavanje Windows operativnih sistema i IT infrastrukture; Spremnost za učenje i upoznavanje sa platformama za virtuelizaciju; Interesovanje za informacionu bezbednost i dobre prakse u ovoj oblasti; Dobre organizacione veštine i sposobnost vođenja dokumentacije; Dobro poznavanje srpskog i engleskog jezika. Šta nudimo: Priliku za učenje i sticanje vrednog praktičnog iskustva u regulisanoj i dinamičnoj industriji; Organizovan proces uvođenja u posao i mentorstvo; Mogućnost profesionalnog razvoja i napredovanja; Privatno zdravstveno osiguranje nakon šest meseci zaposlenja; Besplatne obroke za sve zaposlene; Profesionalno i podržavajuće radno okruženje. Želiš da započneš svoju IT karijeru u okruženju koje ti pruža priliku za učenje, razvoj i nove izazove? Pošalji nam svoju prijavu, radujemo se prilici da te upoznamo! Grand Casino d.o.o. Beograd Grand Casino Beograd nije samo najveći kazino u Srbiji – to je mesto na kojem svakog dana više od stotinu ljudi iz različitih profesija zajedno stvara iskustvo koje gosti pamte. Kao deo međunarodne Novomatic grupacije, poslujemo prema visokim evropskim standardima, uz fokus na odgovorno poslovanje, bezbednost, kvalitet usluge i razvoj zaposlenih. Iza svakog uspešnog događaja, svake igre i svakog osmeha gosta stoji tim ljudi koji rade u HR-u, marketingu, IT-u, finansijama, bezbednosti,… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator Junior System Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infos"
+  },
+  {
+   "source": "infostud",
+   "id": "766027",
+   "title": "Senior Digital Marketing Specialist",
+   "company": "Davies Meyer d.o.o.",
+   "location": "Novi Sad | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prodaja / konsultanti"
+   ],
+   "posted": "2026-11-06",
+   "expires": "21.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-digital-marketing-specialist/davies-meyer-doo/766027",
+   "summary": "This role leads development and execution of integrated digital marketing campaigns to deliver measurable client outcomes. The person will coordinate cross-channel delivery, analyze performance, and convert insights into strategic recommendations.",
+   "matched": [
+    "data engineer",
+    "data platform"
+   ],
+   "first_seen": "2026-11-06T19:59:46+00:00",
+   "details": "O poslodavcu Are you a digital marketing mind who connects strategy, channels, and audiences? Ready to turn bold ideas into meaningful impact? Help shape the next generation of digital campaigns and join our international team! Key Tasks: Develop and execute integrated digital marketing strategies across paid, owned, and earned channels Plan and coordinate campaigns across platforms such as Meta, TikTok, LinkedIn, Google, and other relevant channels Define target audiences, channel roles, messaging, and customer journeys based on business objectives and audience insights Coordinate campaign delivery with internal teams, clients, creative partners, and media platforms Monitor campaign and channel performance, identify opportunities, and recommend improvements Prepare reports and presentations with clear insights and actionable recommendations Advise clients on digital marketing trends, channel strategies, and campaign opportunities Contribute to pitches, workshops, and new business initiatives Reference: 6Tm6Kb-x5Q6gBW7uFKiE_v64xfviWIZOG0ajmJiZvhz6gh4zDO77cTOWAubaCMQZ Your skills: Several years of experience in digital marketing, ideally within an agency environment Broad understanding of digital channels, campaign formats, and customer journeys Experience with major advertising platforms, such as Meta, TikTok, LinkedIn, and Google Proficiency in analytics, tracking, and reporting tools, such as Google Analytics Strong strategic and analytical skills, with the ability to translate data into recommendations Confident in managing projects and coordinating stakeholders Independent, structured working style with excellent consulting and communication skills Fluent in English, written and spoken What we offer International enterprise projects with direct client contact — your work is visible, not buried in a ticket queue An AI-native engineering setup you'll help push forward, not catch up to Real influence on how we work: standards, tooling, architecture decisions Private health insurance Hybrid work arrangement A culture of continuous learning and knowledge sharing Unlimited coffee, tea, juices and water in the office, fresh fruit every Monday and various cereals every day to kick-start your day Birthday gifts, plus special recognition and gifts for 5- and 10-year work anniversaries. Davies Meyer DOO Novi Sad Davies Meyer je digitalna marketinška agencija sa kancelarijama u Hamburgu, Novom Sadu, Berlinu, Cirihu i Londonu. Agencija je osnovana 2000. godine u Hamburgu i danas broji više od 140 zaposlenih. Kancelarija u Novom Sadu je osnovana 2015. i od samog početka je specijalizovana za web programiranje i razvoj aplikacija. Novosadski tim broji 26 zaposlenih i nastavlja da raste... Više o nama pronađite na https://daviesmeyer.com/en/about-us/ Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad Marketing, promocija Menadžer za digitalni marketing Senior Digital Marketing Specialist Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o "
+  },
+  {
+   "source": "infostud",
+   "id": "766017",
+   "title": "Senior Performance Marketing Specialist",
+   "company": "Davies Meyer d.o.o.",
+   "location": "Novi Sad | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Prodaja / konsultanti"
+   ],
+   "posted": "2026-11-06",
+   "expires": "21.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-performance-marketing-specialist/davies-meyer-doo/766017",
+   "summary": "This role converts performance data into growth by planning optimizing and scaling paid acquisition campaigns across major ad platforms. The specialist will lead measurement experiments manage budgets and advise clients to improve CPA ROAS and conversion outcomes.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-11-06T19:59:46+00:00",
+   "details": "O poslodavcu Are you a performance-driven thinker who sees more in the numbers? Ready to turn data into growth and take campaigns to the next level? Help shape the future of performance marketing and join our international team! Key Tasks: Plan, launch, and optimize performance campaigns across platforms such as Google Ads, Meta, TikTok, LinkedIn, and other relevant channels Manage campaign budgets and bids to achieve targets such as CPA, ROAS, revenue, or lead volume Develop and test audience, channel, creative, and landing page strategies Monitor campaign performance and use data to identify trends, issues, and growth opportunities Set up and evaluate experiments, including A/B tests and incrementality or conversion tests Work with analytics and tracking setups to support reliable measurement and attribution Prepare performance reports and present results, insights, and actionable recommendations Advise clients on performance strategy, measurement, and budget allocation Participate in pitches, workshops, and new business initiatives Reference: Du9oykm4jLvT-6E_y7GLxTF5n-KobJ5o8410iVV5geHWsL2QoV6JULRQXBWPpjf0 Your skills: Several years of professional experience in performance marketing, ideally within an agency environment Strong hands-on knowledge of platforms such as Google Ads, Meta, TikTok, and LinkedIn Experience with campaign measurement, conversion tracking, attribution, and analytics tools such as Google Analytics Strong understanding of performance metrics, including CPA, ROAS, conversion rate, and revenue Analytical, data-driven mindset and confidence working with large data sets Ability to turn performance insights into clear optimization actions Independent, structured working style with strong consulting, presentation, and communication skills Fluent in English, written and spoken What we offer International enterprise projects with direct client contact — your work is visible, not buried in a ticket queue An AI-native engineering setup you'll help push forward, not catch up to Real influence on how we work: standards, tooling, architecture decisions Private health insurance Hybrid work arrangement A culture of continuous learning and knowledge sharing Unlimited coffee, tea, juices and water in the office, fresh fruit every Monday and various cereals every day to kick-start your day Birthday gifts, plus special recognition and gifts for 5- and 10-year work anniversaries. Davies Meyer DOO Novi Sad Davies Meyer je digitalna marketinška agencija sa kancelarijama u Hamburgu, Novom Sadu, Berlinu, Cirihu i Londonu. Agencija je osnovana 2000. godine u Hamburgu i danas broji više od 140 zaposlenih. Kancelarija u Novom Sadu je osnovana 2015. i od samog početka je specijalizovana za web programiranje i razvoj aplikacija. Novosadski tim broji 26 zaposlenih i nastavlja da raste... Više o nama pronađite na https://daviesmeyer.com/en/about-us/ Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad Marketing, promocija Menadžer za digitalni marketing Senior Pe"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137691",
+   "title": "Feltsense AI Engineer",
+   "company": "Silver.dev",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "sys admin",
+    "exec",
+    "technical",
+    "customer support",
+    "dev",
+    "testing",
+    "javascript",
+    "cloud",
+    "postgres",
+    "typescript",
+    "node"
+   ],
+   "posted": "2026-11-05",
+   "expires": null,
+   "salary": "60000-110000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+   "summary": "About the company We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2. We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses. Our system identifies business opportunit",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-06T19:59:46+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "766040",
+   "title": "Key Account Manager",
+   "company": "GoPro d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-11-06",
+   "expires": "21.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Key-Account-Manager/GoPro-d.o.o/766040",
+   "summary": "GoPro d.o.o. Beograd | Hibrid 21.11.2026. Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Key Account Manager Key Account Manager GoPro d.o.o. Beograd | Hibrid Beograd: Palmira Toljatija 68b 21.11.2026. intermediate Opis poslova: Kontinuirana analiza tržišta, konkurencije i perspektive razvoja poslovanja, sa posebnim osvrtom na postojeće klijente; Staranje o zadovoljstvu postojećih klijenata i održavanje dugoročnih poslovnih odnosa; Ostvarivanje novih i učvršćivanje postojećih kontakata sa postojećim i potencijalnim klijentima; Identifikovanje, proširenje i unapređenje postojećih, kao i otvaranje novih prodajnih prilika, u skladu sa strategijom razvoja kompanije; Povećanje vrednosti portfolija usluga i rešenja kod postojećih klijenata; Predlaganje novih projekata u skladu sa identifikovanim potrebama klijenata i poslovnim prilikama; Neposredno učešće u kreiranju novih proizvoda i usluga na osnovu potreba postojećih klijenata i tržišta; Priprema i prezentacija portfolija proizvoda i usluga kompanije; Planiranje marketinških aktivnosti; Organizacija, koordinacija i priprema tenderske dokumentacije prilikom učešća kompanije na tenderima i drugim nabavkama; Praćenje i realizacija naplate potraživanja od kupaca; Kontinuirano praćenje i izveštavanje o razvoju poslovanja u okviru domena odgovornosti. Profil kandidata: Diploma osnovnih studija iz oblasti poslovanja, marketinga ili srodne oblasti; Prethodno radno iskustvo na poziciji Key Account Manager-a ili drugoj relevantnoj poziciji, sa dokazanim uspehom u prodaji u softverskoj industriji; Dobro razumevanje i iskustvo u primeni Solution Selling metodologije ili sličnih prodajnih pristupa; Iskustvo u kreiranju i implementaciji strategije razvoja poslovanja; Visok nivo komunikacionih i pregovaračkih veština; Sposobnost upravljanja složenim projektima uz odlične organizacione veštine; Samostalnost u radu, proaktivnost i inicijativa; Tečno znanje engleskog jezika. Šta nudimo: Hibridni model rada; Neograničeni broj dana godišnjeg odmora; Nedokumentovano odsustvo (3 dana godišnje); Balans između poslovnog i privatnog života; Privatno zdravstveno osiguranje; Mogućnost rada na međunarodnim projektima i sticanja znanja iz različitih industrija, kao što su distribucija, logistika i proizvodnja; Mogućnosti za profesionalni razvoj kroz napredne treninge, edukacije i sertifikacije; Plaćene sportske aktivnosti i časovi stranih jezika; Organizovani team building događaji; Prijateljsko, inspirativno i kreativno radno okruženje. Konkuriši Upoznaj kompaniju O Kompaniji Iskustva Plate GoPro zapošljava iskusne i sertifikovane ljude u oblasti implementacije i razvoja poslovnih rešenja. Izbor naše firme daje klijentima vrednost iskustva u implementaciji i razvoju u više od 50 domaćih i stranih kompanija, sa različitim i specifičnim zahtevima poslovanja. Naše znanje, reference i dugogodišnje iskustvo u ovoj oblasti, predstavljaju najveći kapital i vrednost firme. Konstantno ulaganje u ljude, njihov lični razvoj i edukaciju doprinelo je tome da je naš tim stručnjaka u potpunosti spreman da odgovori i najzahtevnijim zadacima koji se pred njima postave. Orijentacija ka klijentima i njihovim potrebama, kao i briga o optimizaciji i unapređenju njihovog poslovanja, jedan je od najvažnijih ciljeva naše firme. Poverenje i zadovoljstvo klijenata je snažna motivacija koja nas pokreće da stalno razvijamo nova rešenja i usluge, da uvek osluškujemo i pratimo njihove potrebe. Misija firme je da pomogne klijentima u poboljšanju njihovog poslovanja koristeći proverenu metodologiju i vrhunsku tehnologiju, pružajući im ",
+   "first_seen": "2026-11-06T19:59:46+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137690",
+   "title": "Operations Expert with Python for AI Supply Chain Task Design",
+   "company": "Toptal",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Docker",
+    "Git",
+    "Inventory Management",
+    "Supply Chain",
+    "Microsoft Excel",
+    "Python",
+    "SAP",
+    "SAP Production Planning",
+    "SQL",
+    "Supply Chain Operations"
+   ],
+   "posted": "2026-11-05",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+   "summary": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CH",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-06T19:59:46+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137688",
+   "title": "Senior Vue Developer",
+   "company": "Lemon.io",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "engineer",
+    "dev",
+    "full time",
+    "full stack",
+    "remote",
+    "remote work",
+    "javascript",
+    "typescript",
+    "php",
+    "laravel",
+    "node",
+    "dot net"
+   ],
+   "posted": "2026-11-05",
+   "expires": null,
+   "salary": "50000-180000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+   "summary": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior Vue Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. Y",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-06T19:59:46+00:00"
+  },
   {
    "source": "remoteok",
    "id": "remoteok-1137687",
@@ -409,7 +628,7 @@
    "expires": "20.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Zoho-Developer/Dulcedo-Management/765890",
-   "summary": "Dulcedo Management Inostranstvo, Inostranstvo | Rad od kuće 20.11.2026. JavaScript Python ERP CRM Senior global.searchSelectItemEvents = {\"765847\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_765847\",\"item_name\":\"ERP konsultant\",\"item_index\":0,\"item_brand\":\"Coming - Computer Engineering d.o.o.\",\"item_category\":\"ERP\\/sapsysapppro\\/ABAP Consultant\",\"item_category2\":\"Prodaja \\/ konsul",
+   "summary": "Dulcedo Management Inostranstvo, Inostranstvo | Rad od kuće 20.11.2026. JavaScript Python ERP CRM Senior global.searchSelectItemEvents = {\"766040\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766040\",\"item_name\":\"Key Account Manager\",\"item_index\":0,\"item_brand\":\"GoPro d.o.o.\",\"item_category\":\"menad\\u017eer za klju\\u010dne kupce\",\"item_category2\":\"Prodaja \\/ konsultanti\",\"item_categ",
    "matched": [
     "helloworld"
    ],
@@ -459,7 +678,7 @@
    "expires": "20.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Wordpress-Developer/SoftSerbia-d.o.o/765803",
-   "summary": "SoftSerbia d.o.o. Kragujevac 20.11.2026. 750,00 - 1.500,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima SQL WordPress Junior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu P",
+   "summary": "SoftSerbia d.o.o. Kragujevac 20.11.2026. 750,00 - 1.500,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima SQL WordPress Junior Novo",
    "matched": [
     "helloworld"
    ],
@@ -1099,37 +1318,6 @@
    ],
    "details": "Senior Product Builder - Hub Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Senior Product Builder - Hub Camunda Inostranstvo | Rad od kuće 18.11.2026. Java C SaaS Kubernetes senior Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the Role Camunda Hub is where enterprises run Camunda at scale. From Hub they manage their clusters and tenants, decide who can do what, and roll changes out across the whole organization. We’re looking for a Senior Product Builder to own the backend and architecture that let Hub manage a whole fleet of clusters. Your first focus will be the mechanism that sends access, secret, tenant and licence changes out to every connected cluster and brings deployments, health and audit records back. From there, you’ll shape Hub’s foundations: its event model, the service boundaries and data model other teams build on, and how Hub behaves when things fail or get upgraded. The platform is your product. Your users are platform administrators, Centres of Excellence and the builders across Camunda who depend on what you create. You’ll join a new two-person pod in our remote-first team. You’ll have real ownership as the person who makes the call, and you’ll build AI-first, from written specs through to production. Our customers run mission-critical processes on Camunda, so your work will matter to them every day. What You Will Do Take over Hub's fleet propagation mechanism from the team building its first version, and make it work for access, secrets, tenants, licences and custom roles Write short design documents for foundational changes, get them reviewed by the teams that depend on them, and turn them into tested, shipped code Design how Hub behaves when things go wrong: offline clusters, partial failures, Hub outages, and clusters being adopted or detached Build the path from clusters back to Hub, starting with deployment inventory, health, audit records and licence status Design Hub's first event and webhook mechanism, so admins and agents can react to changes instead of polling for them Join the pod's rotations and Hub on-call, and help other builders take on backend work through reviews, guidelines and contract tests What You Will Bring to the Role Experience building and running backend systems in production that other teams or customers de",
    "first_seen": "2026-11-03T20:10:47+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "765285",
-   "title": "Administrator IT podrške - junior",
-   "company": "PaySpot d.o.o.",
-   "location": "Novi Sad",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Linux",
-    "Windows",
-    "Podrška",
-    "MikroTik"
-   ],
-   "posted": "2026-11-03",
-   "expires": "18.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/administrator-it-podrske-junior/payspot-doo/765285",
-   "summary": "Pozicija je namenjena jačanju i unapređenju operativne IT podrške putem administracije i brzog rešavanja tehničkih problema. Kandidat će održavati radne stanice i mrežu, pružati podršku korisnicima i doprinositi unapređenjima radi veće stabilnosti i dostupnosti sistema.",
-   "matched": [
-    "junior",
-    "linux",
-    "sistem administrator",
-    "administrator",
-    "it podrska",
-    "mrezni",
-    "windows"
-   ],
-   "first_seen": "2026-11-03T08:06:05+00:00",
-   "details": "O poslodavcu Fin-tech kompanija PaySpot d.o.o. Novi Sad želi da zaposli Administratora IT podrške (više kandidata) u svojoj centrali u Novom Sadu, kako bi ojačala i dodatno unapredila IT podršku. Odabrana osoba će biti deo kompaktnog i dobro ukomponovanog IT tima sastavljenog od mladih i od iskusnih IT stručnjaka dokazanih u oblastima kojima se bave. Rad u pažljivo biranom timu, u dinamičnom i brzo rastućem poslovnom okruženju, zasnovanom na sopstvenom razvoju i saradnji sa partnerima iz zemlje i inostranstva će vam omogućiti brzi lični i profesionalni razvoj. Od vas se pre svega očekuje spremnost za rad u timu, sposobnost odlične komunikacija sa kolegama i korisnicima IT sistema, kao i izražena želja za učenje i savladavanje novih znanja, veština i tehnologija koje se primenjuju u IT sistemu kompanije. Odgovornosti i zaduženja: Najvažnije odgovornosti i zaduženja odabranog kandidata biće: Poslovi instalacije, konfiguracije i administracije radnih stanica, perifernih uređaja, mrežnih uređaja, i softvera u IT sistemu kompanije. Monitoring IT sistema, detektovanje i rešavanje problema nastalih u njemu. Administracija i podrška radu korisnika IT sistema u poslovnoj mreži kompanije. Komunikacija i saradnja sa eksternim isporučiocima IT usluga i opreme. Učešće u planiranju i realizaciji nabavke IT opreme iz domena za koji je zadužen. Istraživanje novih tehnologija i IT rešenja, analiza i testiranje novih sistema, predlaganje unapređenja postojećeg sistema, u domenu u kome je angažovan. Poslovi instalacije, konfiguracije i administracije radnih stanica, perifernih uređaja, mrežnih uređaja, i softvera u IT sistemu kompanije. Monitoring IT sistema, detektovanje i rešavanje problema nastalih u njemu. Administracija i podrška radu korisnika IT sistema u poslovnoj mreži kompanije. Komunikacija i saradnja sa eksternim isporučiocima IT usluga i opreme. Učešće u planiranju i realizaciji nabavke IT opreme iz domena za koji je zadužen. Istraživanje novih tehnologija i IT rešenja, analiza i testiranje novih sistema i predlaganje unapređenja postojećeg sistema, u domenu u kome je angažovan. Reference: VXxx3VZxvFM44Itj0lGJQLthKjud0xWvYBY67nHkw1gywGnwIZlx-Egr7oFUkkfd Potrebna iskustva, znanja i veštine: Instalacija i konfiguracija Windows operativnih sistema, korisničkih softverskih rešenja, kao i perifernih uređaja različitog tipa. Instalacija i konfiguracija Linux operativnih sistema, korisničkih softverskih rešenja, kao i perifernih uređaja različitog tipa. Prednost je iskustvo u instalaciji drajvera za specifične periferne uređaje na Linux i Windows OS. Osnovno poznavanje mrežnih protokola, iskustvo u instalaciji i konfiguraciji mrežnih uređaja je prednost. Poznavanje rada sa ruterima proizvođača Mikrotik je prednost. Sposobnost usmene i pismene komunikacije na engleskom jeziku se podrazumeva. Zahtevi radnog mesta: Najmanje diploma srednje škole, visoke škole ili fakulteta u oblasti IT tehnologija. Znanje i iskustvo u korišćenju standardnih IT softverskih alata. Sposobnost rada u heterogenom IT sistemu, uočavanja i rešavanja hardverskih i softverskih problema, uz poštovanje postojećih procedura i protokola. Sistematičnost, preciznost i upornost u rešavanju postavljenih zadataka. Samostalnost u radu, analitičnost, odgovornost i posvećenost detaljima. Odlične komunikacione sposobnosti sa zaposlenima u kompaniji, korisnicima IT sistema i eksternim saradnicima se podrazumevaju. Sposobnost rada u timu i poštovanje timskog duha se podrazumeva. Sposobnost brz"
   },
   {
    "source": "infostud",
