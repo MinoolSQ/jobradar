@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-07T07:24:53+00:00",
+ "generated_at": "2026-11-07T18:07:25+00:00",
  "window_days": 3,
  "cutoff": "2026-11-04",
  "count": 33,
- "new_count": 2,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -112,8 +112,8 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 60,
-   "strane": 2,
+   "vraceno": 61,
+   "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
@@ -132,7 +132,7 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 46,
+   "vraceno": 47,
    "strane": 2,
    "stop": "kraj"
   },
@@ -160,6 +160,34 @@
  "jobs": [
   {
    "source": "remoteok",
+   "id": "remoteok-1137700",
+   "title": "Junior Market Analyst",
+   "company": "MEYA HOLDINGS",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "other",
+    "crypto",
+    "finance",
+    "remote work",
+    "remote",
+    "junior",
+    "part time",
+    "analyst"
+   ],
+   "posted": "2026-11-06",
+   "expires": null,
+   "salary": "60000-80000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
+   "summary": "MEYA HOLDINGS LTD is an international company specializing in digital assets, cryptocurrency markets, and financial research. We focus on developing data-driven trading approaches and optimizing market operations. Our remote team brings together professionals from different parts of the world. We are looking for a motivated Junior Market Analyst with at least 1 year of experience in cryptocurrency",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-07T18:07:25+00:00"
+  },
+  {
+   "source": "remoteok",
    "id": "remoteok-1137694",
    "title": "Accountant",
    "company": "Serve Robotics",
@@ -184,38 +212,6 @@
    "salary": "90000-110000 USD",
    "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
    "summary": "At Serve Robotics, weâre reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. Itâs designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles, Miami, Dallas, Atlanta and Chicago",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-07T07:24:53+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137693",
-   "title": "Senior Full Stack Engineer People Products",
-   "company": "Thumbtack",
-   "location": "Toronto",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "full stack",
-    "design",
-    "saas",
-    "react",
-    "salesforce",
-    "hr",
-    "front end",
-    "python",
-    "technical",
-    "customer support",
-    "dev",
-    "virtual assistant"
-   ],
-   "posted": "2026-11-06",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
-   "summary": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home â from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects ",
    "matched": [
     "remoteok"
    ],
