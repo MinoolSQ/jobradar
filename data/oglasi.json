@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-08T22:58:26+00:00",
+ "generated_at": "2026-11-09T08:12:54+00:00",
  "window_days": 3,
- "cutoff": "2026-11-05",
- "count": 23,
- "new_count": 0,
+ "cutoff": "2026-11-06",
+ "count": 11,
+ "new_count": 3,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 5,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 25,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
@@ -47,13 +47,13 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "aws": {
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 6,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -82,8 +82,8 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "junior": {
@@ -92,57 +92,57 @@
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 25,
+   "vraceno": 12,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 9,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 39,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "it podrska": {
-   "vraceno": 98,
-   "strane": 4,
-   "stop": "kraj"
-  },
-  "help desk": {
-   "vraceno": 3,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "tehnicka podrska": {
-   "vraceno": 26,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "it support": {
    "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
+  "it podrska": {
+   "vraceno": 55,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 14,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 12,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "serviser": {
-   "vraceno": 7,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 2,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,75 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 62,
-   "strane": 3,
+   "vraceno": 35,
+   "strane": 2,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "766148",
+   "title": "Konsultant za obračun zarada (Payoll Consultant)",
+   "company": "GoPro d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SAP",
+    "Prodaja / konsultanti",
+    "ERP",
+    "Pantheon"
+   ],
+   "posted": "2026-11-09",
+   "expires": "24.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/konsultant-za-obracun-zarada-payoll-consultant/gopro-doo/766148",
+   "summary": "Pozicija postoji da vodi implementaciju i prilagođavanje HR i Payroll modula u ERP okruženju kako bi klijenti imali tačan i usklađen obračun zarada. Kandidat će analizirati poslovne procese, primenjivati zakonske izmene i pružati podršku i obuku korisnicima tokom obračuna plata.",
+   "matched": [
+    "it podrska"
+   ],
+   "first_seen": "2026-11-09T08:12:54+00:00",
+   "details": "O poslodavcu Opis pozicije: Implementacija HR i Payroll modula u Microsoft Dynamics 365 Business Central kod klijenata; Analiza poslovnih procesa klijenata vezanih za obračun zarada; Prilagođavanje sistemskih parametara u skladu sa važećom zakonskom regulativom; Pružanje korisničke podrške klijentima; Obuka korisnika za rad u HR i Payroll modulu; Testiranje funkcionalnosti i podrška prilikom obračuna plata; Dokumentovanje rešenja i korisničkih uputstava; Praćenje zakonskih izmena iz oblasti obračuna zarada i njihova primena u sistemu. Reference: dzdN6lnMcwvPpElVWMryHW4tSMKRhxX2Hv3E4l8W7MIJhHSDTi1wEEEb8x5hiVtI Zahtevi pozicije: Minimum 3 godine iskustva u radu sa softverima za obračun zarada (kao što su NAV/Business Central, Pantheon, SAP ili slična rešenja), HR i payroll procesima; Razumevanje poreske i radno-pravne regulative u Srbiji; Analitičnost, preciznost i odgovornost u radu; Dobre komunikacione veštine i rad sa klijentima; Spremnost za učenje i rad u dinamičnom IT okruženju; Napredno poznavanje excel-a. Poželjno: Poznavanje Microsoft Dynamics 365 Business Central; Iskustvo u ERP implementacijama; Rad sa korisnicima u podršci ili konsultantskoj ulozi; Iskustvo u obračunu zarada za srednje i velike organizacije. Nudimo: Neograničeni broj dana godišnjeg odmora; Privatno zdravstveno osiguranje; Hibridni model rada; Nedokumentovano odsustvo (3 dana godišnje); Balans između poslovnog i privatnog života; Mogućnosti za napredne treninge i sertifikaciju, team building događaje, plaćene časove engleskog jezik. GoPro d.o.o. GoPro je nastao 2009. godine u Beogradu sa idejom da kompanija može da posluje i bude vrlo uspešna i da ceo proces rada bude lep i ugodan podjednako za ljude koji u njoj rade, kao i za klijente sa kojima sarađuje, a pre svega da donese vrednost onima koji nam poklone poverenje da im svojim rešenjima pomognemo da budu uspešniji. Mi smo kompanija koja zapošljava preko 50 inženjera informacionih tehnologija - konsultante, projekt menadžere i programere… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Consultant for Business Software Konsultant za obračun zarada (Payoll Consultant) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-edgewater-federal-solutions-inc-full-stack-platform-engineer",
+   "title": "Full-Stack Platform Engineer",
+   "company": "Edgewater Federal Solutions, Inc.",
+   "location": "USA Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-09",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer",
+   "summary": "Headquarters: United States URL: https://www.edgewaterit.com Overview Edgewater Federal Solutions is seeking an experienced Full-Stack Platform Engineer . The Full-Stack Platform Engineer provides senior technical leadership and hands-on engineering for a secure enterprise data analytics platform supporting a federal environment. The role designs and delivers scalable web applications, APIs, data ",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-09T08:12:54+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-halcyon-senior-backend-cloud-engineer",
+   "title": "Senior Backend Cloud Engineer",
+   "company": "Halcyon",
+   "location": "USA Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-09",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer",
+   "summary": "Headquarters: United States URL: http://www.halcyon.ai What we do: Halcyon is the industry’s first dedicated, adaptive security platform that combines multiple proprietary advanced prevention engines along with AI models focused specifically on stopping ransomware. Who we are: Halcyon was formed in 2021 by a team of cyber industry veterans after battling the scourge of ransomware (and advanced thr",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-09T08:12:54+00:00"
+  },
   {
    "source": "remoteok",
    "id": "remoteok-1137701",
@@ -353,38 +416,6 @@
    "details": "O poslodavcu Are you a performance-driven thinker who sees more in the numbers? Ready to turn data into growth and take campaigns to the next level? Help shape the future of performance marketing and join our international team! Key Tasks: Plan, launch, and optimize performance campaigns across platforms such as Google Ads, Meta, TikTok, LinkedIn, and other relevant channels Manage campaign budgets and bids to achieve targets such as CPA, ROAS, revenue, or lead volume Develop and test audience, channel, creative, and landing page strategies Monitor campaign performance and use data to identify trends, issues, and growth opportunities Set up and evaluate experiments, including A/B tests and incrementality or conversion tests Work with analytics and tracking setups to support reliable measurement and attribution Prepare performance reports and present results, insights, and actionable recommendations Advise clients on performance strategy, measurement, and budget allocation Participate in pitches, workshops, and new business initiatives Reference: Du9oykm4jLvT-6E_y7GLxTF5n-KobJ5o8410iVV5geHWsL2QoV6JULRQXBWPpjf0 Your skills: Several years of professional experience in performance marketing, ideally within an agency environment Strong hands-on knowledge of platforms such as Google Ads, Meta, TikTok, and LinkedIn Experience with campaign measurement, conversion tracking, attribution, and analytics tools such as Google Analytics Strong understanding of performance metrics, including CPA, ROAS, conversion rate, and revenue Analytical, data-driven mindset and confidence working with large data sets Ability to turn performance insights into clear optimization actions Independent, structured working style with strong consulting, presentation, and communication skills Fluent in English, written and spoken What we offer International enterprise projects with direct client contact — your work is visible, not buried in a ticket queue An AI-native engineering setup you'll help push forward, not catch up to Real influence on how we work: standards, tooling, architecture decisions Private health insurance Hybrid work arrangement A culture of continuous learning and knowledge sharing Unlimited coffee, tea, juices and water in the office, fresh fruit every Monday and various cereals every day to kick-start your day Birthday gifts, plus special recognition and gifts for 5- and 10-year work anniversaries. Davies Meyer DOO Novi Sad Davies Meyer je digitalna marketinška agencija sa kancelarijama u Hamburgu, Novom Sadu, Berlinu, Cirihu i Londonu. Agencija je osnovana 2000. godine u Hamburgu i danas broji više od 140 zaposlenih. Kancelarija u Novom Sadu je osnovana 2015. i od samog početka je specijalizovana za web programiranje i razvoj aplikacija. Novosadski tim broji 26 zaposlenih i nastavlja da raste... Više o nama pronađite na https://daviesmeyer.com/en/about-us/ Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad Marketing, promocija Menadžer za digitalni marketing Senior Pe"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1137691",
-   "title": "Feltsense AI Engineer",
-   "company": "Silver.dev",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "design",
-    "sys admin",
-    "exec",
-    "technical",
-    "customer support",
-    "dev",
-    "testing",
-    "javascript",
-    "cloud",
-    "postgres",
-    "typescript",
-    "node"
-   ],
-   "posted": "2026-11-05",
-   "expires": null,
-   "salary": "60000-110000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
-   "summary": "About the company We raised $5.1M to build agents that operate as fully autonomous founders. Our backers include Matt Schlicht (founder of Moltbook), the founders of Crunchbase and Republic, and VCs including Draper, Precursor, and Liquid2. We're working at the frontier of autonomous systems, building agents that don't just chat, but run entire businesses. Our system identifies business opportunit",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-06T19:59:46+00:00"
-  },
-  {
    "source": "helloworld",
    "id": "766040",
    "title": "Key Account Manager",
@@ -397,402 +428,12 @@
    "expires": "21.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Key-Account-Manager/GoPro-d.o.o/766040",
-   "summary": "GoPro d.o.o. Beograd | Hibrid 21.11.2026. Intermediate @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se",
+   "summary": "GoPro d.o.o. Beograd | Hibrid 21.11.2026. Intermediate",
    "matched": [
     "helloworld"
    ],
    "details": "Key Account Manager Key Account Manager GoPro d.o.o. Beograd | Hibrid Beograd: Palmira Toljatija 68b 21.11.2026. intermediate Opis poslova: Kontinuirana analiza tržišta, konkurencije i perspektive razvoja poslovanja, sa posebnim osvrtom na postojeće klijente; Staranje o zadovoljstvu postojećih klijenata i održavanje dugoročnih poslovnih odnosa; Ostvarivanje novih i učvršćivanje postojećih kontakata sa postojećim i potencijalnim klijentima; Identifikovanje, proširenje i unapređenje postojećih, kao i otvaranje novih prodajnih prilika, u skladu sa strategijom razvoja kompanije; Povećanje vrednosti portfolija usluga i rešenja kod postojećih klijenata; Predlaganje novih projekata u skladu sa identifikovanim potrebama klijenata i poslovnim prilikama; Neposredno učešće u kreiranju novih proizvoda i usluga na osnovu potreba postojećih klijenata i tržišta; Priprema i prezentacija portfolija proizvoda i usluga kompanije; Planiranje marketinških aktivnosti; Organizacija, koordinacija i priprema tenderske dokumentacije prilikom učešća kompanije na tenderima i drugim nabavkama; Praćenje i realizacija naplate potraživanja od kupaca; Kontinuirano praćenje i izveštavanje o razvoju poslovanja u okviru domena odgovornosti. Profil kandidata: Diploma osnovnih studija iz oblasti poslovanja, marketinga ili srodne oblasti; Prethodno radno iskustvo na poziciji Key Account Manager-a ili drugoj relevantnoj poziciji, sa dokazanim uspehom u prodaji u softverskoj industriji; Dobro razumevanje i iskustvo u primeni Solution Selling metodologije ili sličnih prodajnih pristupa; Iskustvo u kreiranju i implementaciji strategije razvoja poslovanja; Visok nivo komunikacionih i pregovaračkih veština; Sposobnost upravljanja složenim projektima uz odlične organizacione veštine; Samostalnost u radu, proaktivnost i inicijativa; Tečno znanje engleskog jezika. Šta nudimo: Hibridni model rada; Neograničeni broj dana godišnjeg odmora; Nedokumentovano odsustvo (3 dana godišnje); Balans između poslovnog i privatnog života; Privatno zdravstveno osiguranje; Mogućnost rada na međunarodnim projektima i sticanja znanja iz različitih industrija, kao što su distribucija, logistika i proizvodnja; Mogućnosti za profesionalni razvoj kroz napredne treninge, edukacije i sertifikacije; Plaćene sportske aktivnosti i časovi stranih jezika; Organizovani team building događaji; Prijateljsko, inspirativno i kreativno radno okruženje. Konkuriši Upoznaj kompaniju O Kompaniji Iskustva Plate GoPro zapošljava iskusne i sertifikovane ljude u oblasti implementacije i razvoja poslovnih rešenja. Izbor naše firme daje klijentima vrednost iskustva u implementaciji i razvoju u više od 50 domaćih i stranih kompanija, sa različitim i specifičnim zahtevima poslovanja. Naše znanje, reference i dugogodišnje iskustvo u ovoj oblasti, predstavljaju najveći kapital i vrednost firme. Konstantno ulaganje u ljude, njihov lični razvoj i edukaciju doprinelo je tome da je naš tim stručnjaka u potpunosti spreman da odgovori i najzahtevnijim zadacima koji se pred njima postave. Orijentacija ka klijentima i njihovim potrebama, kao i briga o optimizaciji i unapređenju njihovog poslovanja, jedan je od najvažnijih ciljeva naše firme. Poverenje i zadovoljstvo klijenata je snažna motivacija koja nas pokreće da stalno razvijamo nova rešenja i usluge, da uvek osluškujemo i pratimo njihove potrebe. Misija firme je da pomogne klijentima u poboljšanju njihovog poslovanja koristeći proverenu metodologiju i vrhunsku tehnologiju, pružajući im ",
    "first_seen": "2026-11-06T19:59:46+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137690",
-   "title": "Operations Expert with Python for AI Supply Chain Task Design",
-   "company": "Toptal",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "Docker",
-    "Git",
-    "Inventory Management",
-    "Supply Chain",
-    "Microsoft Excel",
-    "Python",
-    "SAP",
-    "SAP Production Planning",
-    "SQL",
-    "Supply Chain Operations"
-   ],
-   "posted": "2026-11-05",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
-   "summary": "Overview A fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work. ***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CH",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-06T19:59:46+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137688",
-   "title": "Senior Vue Developer",
-   "company": "Lemon.io",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "engineer",
-    "dev",
-    "full time",
-    "full stack",
-    "remote",
-    "remote work",
-    "javascript",
-    "typescript",
-    "php",
-    "laravel",
-    "node",
-    "dot net"
-   ],
-   "posted": "2026-11-05",
-   "expires": null,
-   "salary": "50000-180000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
-   "summary": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior Vue Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. Y",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-06T19:59:46+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137687",
-   "title": "Senior Staff Infrastructure & Security Engineer",
-   "company": "CivilGrid",
-   "location": "Boston",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "infosec",
-    "design",
-    "dev",
-    "marketing",
-    "exec",
-    "devops",
-    "cloud",
-    "senior",
-    "sys admin",
-    "medical",
-    "engineer",
-    "digital nomad"
-   ],
-   "posted": "2026-11-05",
-   "expires": null,
-   "salary": "137318-192960 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
-   "summary": "ABOUT CIVILGRID CivilGrid is the trusted civil design platform powering affordable infrastructure renewal and growth. We give utilities, civil engineers, and municipalities a single, collaborative source of truth for what's underground so teams can plan, design, and build faster, smarter, and safer. Our platform consolidates utility records, geotechnical and environmental data, paving moratoriums,",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-06T08:04:34+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "765921",
-   "title": "C++ Developer",
-   "company": "TeleTrader d.o.o.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "SQL",
-    "C++",
-    "Programiranje",
-    "OOP"
-   ],
-   "posted": "2026-11-05",
-   "expires": "05.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/c-developer/teletrader-doo/765921",
-   "summary": "This role exists to design implement and optimize high performance distributed backend services that collect process and distribute real time market data. The developer will improve system throughput reliability and tooling while supporting the team in resolving technical challenges.",
-   "matched": [
-    "backend",
-    "sql"
-   ],
-   "first_seen": "2026-11-05T20:44:23+00:00",
-   "details": "O poslodavcu TeleTrader d.o.o. is a software company specialized in stock market data and financial analysis, offering a broad portfolio of tools for the processing, visualization and analysis of stock market data. TeleTrader is a global company, active on the international market and headquartered in Vienna, Austria. It is part of baha Group, which develops its software in Belgrade, while selling its products globally across Europe, North America, and Asia. TeleTrader is announcing the following vacancy within its Market Data Server Department: C++ Developer Main tasks: Developing high performance distributed backend services for collecting, processing, storing and distributing real-time stock exchange market data Enhancing and optimizing existing services Developing and enhancing various internal tools Developing and enhancing unit tests Helping team members to solve issues in the best possible manner Research new technologies applicable to the company’s needs Reference: FtEavZ2yquOCIbCAOCzxfkDplRrmZh-ztD7RKZWcIBWyhPVdMyrlkUUg3TSZErwc Requirements: 4+ years' experience with C++ Good knowledge of OOP, algorithms, multithreading and data structures Basic knowledge of relational databases and SQL Pragmatic spirit Ability to effectively communicate and cooperate with peers Fluent written and spoken English Nice to have: Knowledge of stock exchange terminology and basic concepts Experience with complex distributed systems Experience with transition from Windows to Linux Working knowledge of CMake What we offer: Work in an established company with market leadership Be part of an experienced and dynamic team The advantage of learning the cutting-edge technologies Internal education Flexible working hours Professional physiotherapist (massage and exercises) Fully equipped gym in company premises Fruit and hot beverages for employees Team-building and sports activities Employee discounts TeleTrader d.o.o. Ko smo mi? TeleTrader je austrijska softverska kompanija, osnovana 1995. godine u Beču. Sa razvojem poslovanja 1997. godine osniva se ćerka kompanija u Beogradu, a danas je TeleTrader deo baha grupe i jedan je od vodećih distributera berzanskih podataka, tehnologije i web rešenja na svetskom tržištu kapitala, sa razvojnim timom od 160 stalno zaposlenih u Beogradu. Obezbeđuje finansijske informacije iz celog sveta za institucije poput banaka, brokerskih kuća, berzi, finansijskih… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT C#/C++ Developer C++ Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 ."
-  },
-  {
-   "source": "infostud",
-   "id": "765847",
-   "title": "ERP konsultant",
-   "company": "Coming - Computer Engineering d.o.o.",
-   "location": "Niš",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Prodaja / konsultanti",
-    "ERP"
-   ],
-   "posted": "2026-11-05",
-   "expires": "20.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/erp-konsultant/coming-computer-engineering-do/765847",
-   "summary": "Ova pozicija ima za cilj implementaciju i prilagođavanje Microsoft Dynamics ERP rešenja radi optimizacije poslovnih procesa. Kandidat će obezbeđivati funkcionalnu dokumentaciju, podršku korisnicima i obuku kako bi se osigurala uspešna primena sistema.",
-   "matched": [
-    "it podrska"
-   ],
-   "first_seen": "2026-11-05T20:44:23+00:00",
-   "details": "O poslodavcu Microsoft Dynamics ERP consultant COMING SOFTWARE ENGINEERING, NIŠ Opis posla i odgovornosti: Učešće u tehničkoj i funkcionalnoj implementaciji modula, konfiguracija sistema prema poslovnim zahtevima, testiranje i optimizacija procesa Uspostavljanje procedure i korisničkih uputstava za navedenu oblast Obučavanje korisnika za primenu implementiranog BC/NAV i BI okruženja Pomoć i podrška u korišćenju implementiranih sistema Analiza korisničkih zahteva, izrada funkcionalne dokumentacije i izveštavanje Reference: 9vwAgHRIW_jNCBOptJkexyGIefZcqJFOitDjTzsellVJXgttZf2YzHblJhLDeAjD Uslovi: Završen fakultet tehničkog ili ekonomskog usmerenja Minimum 2 godine relevantnog iskustva u radu sa ERP sistemima (poželjno Dynamics BC/NAV) Poznavanje poslovnih procesa (finansije, nabavka, prodaja, logistika..) Sposobnost analize poslovnih zahteva i proaktivnog predlaganja funkcionalnih rešenja Znanje engleskog jezika (pisano i usmeno) Vozačka dozvole B kategorije Prednosti: Poznavanje procesa u računovodstvu i finansijama Iskustvo u komunikaciji sa klijentima i internim timovima, sposobnost da se prepoznaju potrebe korisnika i predlože optimalna rešenja Posedovanje relevantnih sertifikata (Microsoft, ERP, BI) Prethodno iskustvo sa relacionim bazama podataka (SQL Server, Power BI…) Prethodno iskustvo u vođenju manjih projekata Šta cenimo: Pozicija je namenjena kandidatima koji imaju osnovno iskustvo u ERP implementaciji i žele da dalje razvijaju ekspertizu uz podršku iskusnog tima Sposobnost rada u timu, uspostavljanje dobre saradnje sa kolegama Samostalnost i proaktivnost u radu Posvećenost poslu, rezilijentnost, agilnost i podnošenje kratkih rokova Otvorenost za razmenu znanja, konstruktivnu komunikaciju i preuzimanje inicijative u projektima Profesionalnost i poštovanje procedura Zauzvrat nudimo: Stalan, zanimljiv i dinamičan posao Rad sa rešenjima vodećih svetskih IT kompanija Priliku za stalno stručno usavršavanje i napredovanje kroz projekte, treninge i konferencije u zemlji i inostranstvu Klizno radno vreme, organizovane nedeljne sportske aktivnosti Privatno zdravstveno osiguranje, sistem bonusnog nagrađivanja Hibridni model rada i druge pogodnosti za zaposlene Coming - Computer Engineering d.o.o. COMING – Computer Engineering je ICT sistem integrator i cloud provajder osnovan 1991. godine sa ciljem da razvija, implementira i pruža usluge podrške za IT tehnologije i sisteme, kako bi izašao u susret potrebama i zahtevima klijenata i tržišta. Svoju poziciju gradimo kroz poslovne uspehe i… Više o poslodavcu Više o poslodavcu na HelloWorld Beneficije Obuke, konferencije Timska druženja Nagrade, bonusi, pokloni Sport i rekreacija Edukacija, profesionalni razvoj Fleksibilno radno vreme Dobrovoljno zdravstveno osiguranje Porodica i roditeljstvo Obezbeđena oprema za rad Program mentorstva Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Niš IT ERP/SAP/ABAP Consultant ERP konsultant Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao P"
-  },
-  {
-   "source": "infostud",
-   "id": "765849",
-   "title": "Engineering Manager",
-   "company": "Pollard Digital Solutions",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "DevOps",
-    "Menadžment",
-    "Cloud",
-    "Agile"
-   ],
-   "posted": "2026-11-05",
-   "expires": "20.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/engineering-manager/pollard-digital-solutions/765849",
-   "summary": "Engineering Manager responsible for leading one to two stream aligned product teams to deliver scalable reliable software and to shape engineering practices. The role focuses on improving team performance quality and delivery flow by combining people leadership with ownership of execution and technical standards.",
-   "matched": [
-    "data engineer",
-    "data platform",
-    "devops",
-    "cloud",
-    "it support"
-   ],
-   "first_seen": "2026-11-05T20:44:23+00:00",
-   "details": "O poslodavcu We’re hiring an Engineering Manager to lead one or more of our high-impact, cross-functional product-development teams. Our engineering organization centers on teams aligned to domain-specific workstreams, supported by a dedicated Platform Engineering group. As part of our fast-scaling engineering organization, you’ll play a key leadership role in developing both the people and the systems behind the products that matter most to our customers. Reporting to a Director of Engineering and collaborating closely with Product, Architecture, and other engineering leaders, you will be accountable for your teams’ outcomes and for shaping the engineering ecosystem – fostering quality, high-performing teams and a smooth flow from concept to production. You will help shape a strong team culture rooted in ownership, collaboration, and continuous improvement – supporting engineers to do their best work and teams to deliver real value at speed and scale. Who We Are Pollard Digital Solutions - Europe is a full-solution supplier of lottery management and iLottery technology for lottery markets. We’re a division of Pollard Banknote Ltd - a leading partner to 60 lotteries worldwide, known for high-quality instant ticket products, licensed games, retail merchandising solutions, and innovation. Established in 1907 and headquartered in Winnipeg, Canada, Pollard Banknote is publicly traded on the Toronto Stock Exchange (PBL). Our objective is to deliver the most innovative solutions that will render industry-leading returns to good causes in an ethically responsible way. We pride ourselves on a collaborative and inclusive workplace - where creativity, team spirit, and respect are core to how we work. What We Offer: A truly collaborative and supportive working environment Modern office space with on-site parking Private health insurance Coverage for medical treatments outside of Serbia Learning and development budget Profit sharing – every role plays a part in our success Budget for sports activities Team-building and social activities Employee referral bonuses Hybrid work environment Additional employee perks Reference: mNkyQ571HHOZqsmy7qmAOJgrRNk2Mr1m-vCt5XGL7b6T_iRO__ZNBTwfcnUvAyfm What You’ll Do: Lead & grow 1–2 Stream-Aligned teams: coach, mentor and empower engineers while delivering meaningful business outcomes. Foster continuous delivery & feedback loops: cultivate iterative delivery, rapid feedback and data-driven learning to uphold quality. Shape the roadmap with Product & Architecture: collaborate to scope work, balance near-term goals with long-term sustainability and communicate trade-offs. Drive engineering excellence: embed testing, observability, performance, maintainability and scalability into everyday work. Own delivery management and drive execution excellence: measure and optimize flow, remove bottlenecks and ensure predictable delivery. Scale & nurture the organization: hire, onboard and retain diverse talent, reinforce team health and foster an inclusive engineering culture. Champion cross-team initiatives: partner with Platform to improve developer experience, reduce friction and support sustainable growth. Manage change & incidents: steer teams calmly through organizational shifts and production issues, protecting focus and morale. Engage stakeholders: maintain transparent communication, celebrate wins and align expectations across product, design and leadership. Who You Are: An engineer at heart with a solid software deve"
-  },
-  {
-   "source": "infostud",
-   "id": "765945",
-   "title": "Konsultant za tehničku podršku (španski jezik)",
-   "company": "Transcom Worldwide",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "Podrška"
-   ],
-   "posted": "2026-11-05",
-   "expires": "20.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/konsultant-za-tehnicku-podrsku-spanski-jezik/transcom-worldwide/765945",
-   "summary": "Agent tehničke podrške na španskom jeziku pruža direktnu pomoć korisnicima za bele tehnike rešavanjem manjih kvarova i koordinacijom servisnih intervencija. Cilj pozicije je obezbediti brzo i jasno rešenje za korisničke probleme uz podršku procesa garancije i reklamacije.",
-   "matched": [
-    "it podrska",
-    "help desk",
-    "tehnicka podrska",
-    "it support"
-   ],
-   "first_seen": "2026-11-05T20:44:23+00:00",
-   "details": "O poslodavcu Ukoliko voliš zanimljivosti iz oblasti bele tehnike, pratiš inovacije koje olakšavaju svakodnevni život kroz upotrebu raznovrsnih kućnih aparata, onda je ovo oglas za tebe. Ako te uz to i inspiriše rad sa ljudima sa kojima želiš da podeliš znanja i rešenja kojima ćemo te naučiti, možda si ti naš budući kolega/koleginica! Šta možeš da očekuješ od prvog dana angažovanja? Privatno zdravstveno osiguranje za sve zaposlene Mogućnost rada od kuće Ugovor o radu od prvog dana obuke Mesečni bonusi Popust na FitPass članarinu Pristup internoj platformi za učenje Interni događaji i obuke namenjeni tvom ličnom i profesionalnom razvoju Reference: sk9AkfXELBFEf9su-3E60DQIqNsSxfQ5PZXCQnyjRiInV-cUgktzh3yPsl1HV-mH Pridruži nam se kao Agent tehničke podrške u oblasti bele tehnike (španski jezik)! Tvoje osnovne odgovornosti bi bile: Odgovaranje na upite klijenata na španskom jeziku Rešavanje sitnijih popravki uređaja i nedoumica klijenata Pružanje informacija o trenutnom stanju garancije Organizovanje dolaska složenijeg servisa koji će popraviti uređaj Asistiranje prilikom procesa reklamacije Prepoznavanje prilika za prodaju produženih garancija Praćenje tehničkih inovacija shodno promenama na tržištu Kako da znaš da si ti prava osoba za naš tim? Poseduješ odlično poznavanje španskog jezika (C1/C2) Komunikativan/na si i voliš da pomažeš ljudima Timski si igrač i dinamično okruženje ti prija Motivisan/a si i odgovoran/na Prethodno iskustvo u prodaji je prednost Želiš da se razvijaš u ovoj industriji Kako izgleda život u Transcomu? U Transcomu smo neumorno posvećeni. Našim klijentima i jedni drugima. Svakog dana neko započne svoje putovanje sa Transcomom. Uzimajući potencijal koji imaju danas i pretvarajući ga u veštine za budućnost. Dobijanje priznanja za naporan rad, timskog igrača i podršku drugima. Zagovaranje pozitivnih, trajnih promena u svojim timovima i zajednicama. Takvi smo mi u Transcomu. Ovde nam je stalo i navijamo jedni za druge. Uključeni ste, baš takvi kakvi jeste, od prvog dana. A sa pravim načinom razmišljanja, nema granice koliko daleko možemo ići zajedno. Transcom Worldwide d.o.o. Dobrodošli u naš svet! Kao švedska multinacionalna kompanija, ponosni smo što smo prisutni širom sveta i što sa sobom nosimo bogato iskustvo u upravljanju projektima u oblastima kao što su turizam, online bankarstvo, bela tehnika, eSIM tehnologije i još mnogo toga. Od 2014. godine, naš tim u Beogradu, a kasnije i u Novom Sadu od 2018. i Nišu od 2022. godine, radi na stvaranju rešenja koja unapređuju korisničko iskustvo. Sa više od 850 strastvenih stručnjaka na raspolaganju, pružamo usluge na 25… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Pitali smo našu koleginucu Aleksandru, kako bi ona opisala rad u internacionalnom timu. Evo iskustva iz prve ruke: \"Rad u internacionalnom okruženju pruža priliku za svakodnevnu saradnju sa kolegama…\" Pročitajte celo iskustvo Beneficije Obezbeđena oprema za rad Prostor za opuštanje Sport i rekreacija Zdravlje Rad od kuće Dobrovoljno zdravstveno osiguranje Edukacija, profesionalni razvoj Hrana i piće Kompanijski popusti Nagrade, bonusi, pokloni Timska druženja Obuke, konferencije Porodica i roditeljstvo Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor izmeđ"
-  },
-  {
-   "source": "infostud",
-   "id": "765931",
-   "title": "Level 2 Support Engineer – Hosting & Infrastructure Service",
-   "company": "Webglobe",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "MySQL",
-    "Linux",
-    "Apache",
-    "NginX",
-    "Podrška",
-    "HTTP",
-    "DNS",
-    "Proxy",
-    "Cloud",
-    "MariaDB"
-   ],
-   "posted": "2026-11-05",
-   "expires": "05.12.2026",
-   "salary": "bruto 130.000 - 145.000 RSD (mesečno) ",
-   "url": "https://poslovi.infostud.com/posao/level-2-support-engineer-hosting-infrastructure-service/webglobe/765931",
-   "summary": "The Level 2 Support Engineer serves as the escalation point for complex web hosting incidents ensuring uptime security and performance across server and DNS environments. The role resolves advanced server mail and network issues and improves platform reliability through troubleshooting automation and documentation.",
-   "matched": [
-    "data engineer",
-    "cloud",
-    "linux",
-    "administrator",
-    "it support"
-   ],
-   "first_seen": "2026-11-05T20:44:23+00:00",
-   "details": "O poslodavcu About the Role We are looking for a skilled and proactive Level 2 Support Engineer to join our hosting operations team. In this role, you will act as the crucial escalation point for complex technical issues involving web hosting, server environments, DNS infrastructure, and Linux systems. You will troubleshoot, diagnose, and resolve advanced client and infrastructure challenges, ensuring maximum uptime, security, and performance across our hosting ecosystem. If you are passionate about Linux, web servers, and automation, and thrive on solving intricate technical puzzles, we want to hear from you. Work: remote Compensation: 130 000 - 145 000 RSD (gross 1) When: As soon as you can Key Responsibilities Advanced Troubleshooting: Handle Tier 2 ticket escalations, diagnosing and resolving complex issues related to web servers, database servers, mail services, and network protocols. Server & Service Management: Configure, maintain, and troubleshoot Web Servers (Apache, Nginx, LiteSpeed), MySQL/MariaDB databases, and SMTP mail services. DNS & Domain Management: Manage DNS infrastructure, configure and troubleshoot various DNS records (A, CNAME, MX, TXT, SRV, etc.), and integrate services with Cloudflare. Control Panel Administration: Administer and troubleshoot hosting environments utilizing WHM/cPanel, CloudLinux, and Ubuntu Server. Linux Command Line Operations: Perform advanced server administration, log analysis, file manipulation, and script execution via the Linux CLI. Security & Performance Optimization: Investigate security incidents (malware, brute force attacks, spam), optimize server resources, and enforce best practices for server hardening. Collaboration & Documentation: Work closely with Tier 1 and Tier 3 engineering teams, document troubleshooting steps, and contribute to internal knowledge bases. Reference: ya5qBcqLWNBgl2gt5Mnn6lD2IVV6_hp_P6_21lNiWRKkEuKy7za7RKQ8JEs-P9bA Required Knowledge & Technical Skills Hosting Applications & Protocols: Deep understanding of web hosting architectures, core internet protocols (HTTP/HTTPS, FTP, SSH, SMTP, IMAP/POP3), and their respective settings. Core Server Stack: Web Servers: Apache, Nginx, or LiteSpeed configuration and troubleshooting. Database Servers: MySQL / MariaDB administration, user management, and performance tuning. Mail Servers: SMTP server configuration, mail routing, deliverability troubleshooting (SPF, DKIM, DMARC), and anti-spam measures. DNS & CDN Management: Comprehensive knowledge of DNS resolution, DNS propagation, zone files, and experience with Cloudflare (SSL/TLS, caching, security rules, proxy settings). Operating Systems & Environment: Linux CLI: Proficiency in command-line administration, text processing, file permissions, and process management. Distributions: Hands-on experience with Ubuntu and CloudLinux (including cgroups/LVE manager. Control Panels: Advanced operational experience with WHM/cPanel (account creation, reseller management, EasyApache, MultiPHP manager, backup/restore procedures). Experience & Qualifications Experience: 2–4 years of experience in a technical support or system administration role within the web hosting, cloud infrastructure, or managed services industry. Education: Degree or certification in Computer Science, Information Technology, or equivalent practical experience (Linux/cPanel certifications are a strong plus). Soft Skills: Excellent written and verbal English communication skills. Strong analytical and root-cause"
-  },
-  {
-   "source": "infostud",
-   "id": "765893",
-   "title": "Test and Quality Assurance Junior Specialist (Fixed Term Contract)",
-   "company": "Yettel d.o.o.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "iOS",
-    "Android",
-    "Jira",
-    "Confluence",
-    "QA",
-    "qa",
-    "TestRail"
-   ],
-   "posted": "2026-11-05",
-   "expires": "20.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/test-and-quality-assurance-junior-specialist-fixed-term-contract/yettel-doo/765893",
-   "summary": "The role exists to ensure reliable and consistent TV service quality across Smart TVs set-top boxes mobile devices and web browsers. The candidate will focus on manual testing defect verification and maintaining test cases to ensure smooth user playback and application behaviour across supported platforms.",
-   "matched": [
-    "data platform",
-    "junior",
-    "it support"
-   ],
-   "first_seen": "2026-11-05T20:44:23+00:00",
-   "details": "O poslodavcu As a Test and QA Junior Specialist in Yettel’s QA team, you will help ensure the quality of our TV service across Smart TVs, set-top boxes, mobile devices and web browsers. Your role will focus on manual testing of TV applications, identifying and reporting defects, and verifying that users have a reliable and consistent viewing experience across supported platforms. You will collaborate with developers, solution architects, business analysts and other QA colleagues, while gradually developing your skills in test automation. What we will expect from you: Execute functional, regression and exploratory tests across TV, mobile and web applications. Test key features such as login, live TV, channel switching, the electronic programme guide (EPG), catch-up TV, video on demand, search and parental controls. Verify video and audio playback, playback controls and application behaviour under different network conditions. Check application compatibility across supported devices, operating systems, screen sizes and application versions. Test navigation and usability using remote controls, touchscreens and web browsers. Create and maintain test cases based on requirements and acceptance criteria. Document defects clearly, including steps to reproduce, device details, application versions and relevant screenshots, videos or logs. Track reported defects, verify fixes and communicate testing progress and results. Prepare and maintain test data and support the readiness of test devices and application configurations. Participate in project test phases and release validation. Use tools such as Jira, Confluence and TestRail. Reference: GIWe1IFhQGCoKtw_W8SbiHCyYvjkyRiXa6TRO89Q6PT2rEAHAYk4qb8BDxr8qFEE For a good start, you will need: A university degree, or to be in the final year of studies, preferably in IT, telecommunications or a related field. A basic understanding of software testing principles, test cases, defect reporting and the software development lifecycle. An interest in TV services, streaming technologies and testing applications across different devices. Strong attention to detail and the ability to describe issues clearly and accurately. Analytical thinking and problem-solving skills. Good communication skills and a collaborative approach. The ability to organize tasks and work methodically. Good written and spoken English. A proactive attitude and willingness to learn. It would be a plus if you have: Familiarity with Smart TV platforms, Android TV/Google TV, set-top boxes, Android or iOS applications. A basic understanding of streaming concepts, buffering and the impact of network connectivity on playback. Experience from university or personal projects involving software testing. Basic knowledge of APIs, application logs or test automation tools. Why we think you should apply: Hybrid working, with on-site testing when access to physical devices is required. 25 days of annual leave. Health package. A mobile phone with unlimited internet and a Family Yettel tariff package. Recreation or health programme. In-house training and development programmes. Career development opportunities. Please include your references in your CV, as reference checks are an integral part of our selection process. Yettel d.o.o. Yettel je deo e& PPF Telekom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („e&”). e& PPF Telekom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i "
-  },
-  {
-   "source": "helloworld",
-   "id": "765886",
-   "title": "Middle Full-Stack Developer (Next.js)",
-   "company": "Ruby Labs",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "css",
-    "node",
-    "git",
-    "ruby",
-    "postgresql",
-    "rest",
-    "cms",
-    "http",
-    "typescript",
-    "crm",
-    "cypress",
-    "express"
-   ],
-   "posted": "2026-11-05",
-   "expires": "20.11.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Middle-Full-Stack-Developer-Next.javascript/Ruby-Labs/765886",
-   "summary": "Ruby Labs Inostranstvo, Inostranstvo | Rad od kuće 20.11.2026. CSS Node Node.js Git Ruby PostgreSQL REST CMS HTTP TypeScript CRM Cypress Express Intermediate",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Middle Full-Stack Developer (Next.js) Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Middle Full-Stack Developer (Next.js) Ruby Labs Inostranstvo | Rad od kuće 20.11.2026. CSS Node Node.js Git Ruby PostgreSQL REST CMS HTTP TypeScript CRM Cypress Express intermediate About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ About the role We are looking for a disciplined, highly autonomous Middle Next.js Developer to build and ship product features for one of our core D2C subscription products. You will own features end to end across a TypeScript monorepo — a Next.js App Router client, a Fastify + Payload CMS API on PostgreSQL, and Cloudflare Workers at the edge — from the moment you receive a task, through breaking it down, estimating, implementing, testing, and observability, to a clean release to production and confirmation that it works for real users. This is a hands-on engineering role suited for someone who treats production as the standard, not the finish line. Half-tested code, silent failures, and unverified AI-generated output are not acceptable. The codebase is convention-heavy — a layered Feature-Sliced Design structure with strict import rules — and you are expected to work inside those conventions rather than around them. You are accountable for every task you take on and for every area of the product you touch: if it breaks, regresses, or stays half-finished, that is yours to see through. We expect maximum autonomy and real involvement in the product — you work independently within a sprint, communicate risks before they become blockers, and escalate architectural decisions to senior engineers rather than guessing. Key Responsibilities Feature Development Build features across the Next.js client and the Fastify + Payload CMS backend according to product requirements Write code that follows the team's Feature-Sliced Design layering, naming, and import conventions Ship changes behind feature flags and A/B experiments, fully localized across every supported locale Integrate third-party providers — billing, email/CRM, analytics — over REST APIs and webhooks Quality & Reliability Cover functionality with unit, integration, and e2e tests at the level the team expects Run a thorough self-review before code review, and review teammates' code with the same rigour Fix bugs and perform root-cause analysis for recurring issues Optimize page and endpoint performance — rendering and caching strategy, database queries, bundle size Security & Observability Apply secure development practices: schema validation, access control, safe handling of secrets Follow observability practices — structured logging, metrics, and alerts — using existing tooling Collaboration Break down, estimate, and ship your own tasks to production within the sprint — and stay accountable for them after release Own the areas of the product you work in: their stability, performance, and follow-up fixes Surface requirement clarifications, estimate changes, and risks early and in writing Escalate complex architectural decisions and critical risks to senior engineers Qualifications Must-Have Experi",
-   "first_seen": "2026-11-05T20:44:23+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "765890",
-   "title": "Senior Zoho Developer",
-   "company": "Dulcedo Management",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "javascript",
-    "python",
-    "erp",
-    "crm"
-   ],
-   "posted": "2026-11-05",
-   "expires": "20.11.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Senior-Zoho-Developer/Dulcedo-Management/765890",
-   "summary": "Dulcedo Management Inostranstvo, Inostranstvo | Rad od kuće 20.11.2026. JavaScript Python ERP CRM Senior",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Senior Zoho Developer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Senior Zoho Developer Dulcedo Management Inostranstvo | Rad od kuće 20.11.2026. JavaScript Python ERP CRM senior We Are Dulcedo What sets Dulcedo apart is that, for us, this business is not a numbers game. We are a full-service talent management agency dedicated to building lasting brands around our creators. We promote process, structure, and sustainable growth, all within an extremely collaborative setup where everyone shares the same goal: delivering white-glove service to the talents we represent and the brands who want to partner with them. Our focus goes beyond short-term wins. It's about fostering meaningful careers, elevating creative voices, and creating long-term value for both talents and partners alike. As the largest multidisciplinary talent management group in Canada and a leading force across North America, Dulcedo represents and manages the international careers of creators across the influencer, entertainment, sports, and gaming industries. The Opportunity We're looking for a Senior Zoho Developer to help us accelerate the development, customization, and optimization of our internal business systems. This isn't a traditional Zoho Administrator role. We're looking for someone who can understand a business challenge, architect a solution, and independently bring it to life. You'll play a key role in building scalable systems, automating complex workflows, and improving how our teams operate across Finance, Accounting, Talent Management, and Operations. We're also looking for someone who embraces AI-assisted development , using modern tools to accelerate delivery, solve complex problems, and build smarter solutions without compromising quality or security. What You'll Do Design, develop, and optimize advanced solutions across the Zoho ecosystem, including Zoho CRM, Zoho Creator, Zoho Flow, and Deluge scripting. Independently architect and deliver complex technical solutions, from understanding business requirements through development, testing, and deployment. Build and maintain integrations between Zoho and external platforms using APIs, webhooks, and other integration technologies. Develop automations and workflows that improve operational efficiency and reduce manual processes. Troubleshoot existing applications, identify root causes, and implement reliable, long-term solutions. Leverage AI-assisted development tools such as Cursor, Claude Code, GitHub Copilot, or equivalent technologies to accelerate development and improve productivity. Collaborate with internal stakeholders to translate operational challenges into practical, scalable technical solutions. Ensure solutions are secure, maintainable, well-documented, and built to support long-term business growth. What We're Looking For 6+ years of professional software development experience, including at least 4 years of hands-on Zoho development. Advanced expertise across the Zoho ecosystem, particularly Zoho CRM, Zoho Creator, Deluge scripting, and workflow automation. Proven experience independently architecting, developing, and delivering complex Zoho solutions in a production environment. Strong knowledge of APIs, webhooks, system integrations, and technical troubleshooting. Demonstrated experience using AI-assisted development tools such as Cursor, Claude Code, GitHub Copilot, or equivalent technologies in real development workflows. Strong software enginee",
-   "first_seen": "2026-11-05T20:44:23+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "765888",
-   "title": "Software Engineer - AI Tooling Infrastructure",
-   "company": "Supabase",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "node",
-    "docker",
-    "postgresql",
-    "typescript",
-    "less",
-    "oauth"
-   ],
-   "posted": "2026-11-05",
-   "expires": "20.11.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Software-Engineer-AI-Tooling-Infrastructure/Supabase/765888",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 20.11.2026. Node Node.js Docker PostgreSQL TypeScript LESS Oauth Senior",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Software Engineer - AI Tooling Infrastructure Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Software Engineer - AI Tooling Infrastructure Supabase Inostranstvo | Rad od kuće 20.11.2026. Node Node.js Docker PostgreSQL TypeScript LESS Oauth senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Software Engineer, AI Tooling Infrastructure to join our AI Tooling team and help build and run the backend services behind Supabase’s AI products. The Supabase MCP server is one example of what the team runs in production, alongside the services that support agent skills and the dashboard assistant. You’ll work closely with the Platform, SRE, Auth, Billing and Edge Functions teams, and with the engineers on the AI Tooling team who build the product surfaces. The AI Tooling team runs its own services in production and carries its own on-call. Traffic from AI clients and agents behaves differently from traffic from people: hundreds of calls a minute, retry loops, and no reading of deprecation warnings. This role makes sure the services they use are reliable, correctly authorized and observable. It is a systems and infrastructure role rather than a product AI role, and it is not an SRE role. You will build and operate these systems, not only advise on them. This role is ideal for someone who thrives in async, fast-paced environments, owns what they ship in production, and is excited about building developer tools that scale to millions. What You’ll Be Responsible For In this role, you’ll Build and operate the production backend services behind Supabase’s AI products, including the MCP server: deployment, scaling, configuration and release. Take ownership of how those services are structured, including splitting or reshaping a service when that makes it safer to run and easier to change. Define, measure and meet reliability targets for the services the team runs. Set SLOs with the SRE team, track error budgets, and use them to decide what to fix first. Participate in the AI Tooling team on-call rotation, and be a first responder for incidents in those services. Investigate, fix, coordinate with other teams during incidents, and write the follow-ups and runbooks. Work the AI Tooling team support queue alongside on-call, and turn recurring issues into fixes rather than repeated manual answers. Own authentication and authorization for AI and agent clients: OAuth apps, scoped tokens, and permissions that make sense for agents as well as humans, including how we change or deprecate a permission without breaking existing integrations. Own observability for the services the team runs: metrics, traces, logs, dashboards and alerts, so we find problems before customers do. Handle capacity and abuse for agent traffic: rate limits, cost and safety controls, and behavior under load or when a dependency degrades. Improve the architecture of the services the team owns as they grow, including splitting or reshaping a service when that makes it safer to run and easier to change. Work with the Platform team on shared code, review ownership and release process, and with the SRE team on infrastructure, alerting and incident practice. Contribute to the code of the AI Toolin",
-   "first_seen": "2026-11-05T20:44:23+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "765803",
-   "title": "Wordpress Developer",
-   "company": "SoftSerbia d.o.o",
-   "location": "Kragujevac",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "sql",
-    "wordpress"
-   ],
-   "posted": "2026-11-05",
-   "expires": "20.11.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Wordpress-Developer/SoftSerbia-d.o.o/765803",
-   "summary": "SoftSerbia d.o.o. Kragujevac 20.11.2026. 750,00 - 1.500,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima SQL WordPress Junior",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Wordpress Developer Wordpress Developer SoftSerbia d.o.o. Kragujevac Kragujevac: Dragoslava Srejovića 29/62 20.11.2026. 750,00 - 1.500,00 EUR (net) Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima SQL WordPress junior SoftSerbia d.o.o. raspisuje konkurs za poziciju: # WordPress developer Neophodne veštine: Osnove programiranja; SQL / osnove baza podataka; Engleski jezik (čitanje, pisanje); WordPress. Poželjne veštine: PHP, Python; Html, Css, Javascript; Ruby, RubyOnRails; Linux; MySQL, PostgreSQL, NoSQL. U okviru selekcije kandidata u prvoj fazi radiće se (onlajn) testiranje, a u drugoj fazi najozbiljniji kandidati biće pozvani na intervju. Konkuriši Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * Izaberi sa liste Problem pri slanju prijave za posao Problem sa registracijom ili loginom Odjava sa mejling liste Aktivacija ili deaktivacija korisničkog naloga Ostalo Poruka Pošalji Odustani Greška ... Ok Budi obavešten! Prati kompaniju i ne propusti nove važne informacije. Dobićeš email obaveštenje kada poslodavac objavi novi oglas za posao, kada neko podeli platu, iskustvo o radu ili sa intervjua. Prati Odustani Tvoj Infostud profil je spreman Jedan korak te deli do kreiranog profila. Završi popunjavanje",
-   "first_seen": "2026-11-05T20:44:23+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "765652",
-   "title": "Pomoćni radnik u kuhinji - operater za prijem i obradu porudžbina (sa poznavanjem rada na računaru )",
-   "company": "UTR Renaissance",
-   "location": "Subotica",
-   "remote": false,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-05",
-   "expires": "20.11.2026",
-   "salary": "neto 60.000 - 80.000 RSD (mesečno) ",
-   "url": "https://poslovi.infostud.com/posao/pomocni-radnik-u-kuhinji-operater-za-prijem-i-obradu-porudzbina-sa-poznavanjem-rada-na-racunaru/utr-renaissance/765652",
-   "summary": "",
-   "matched": [
-    "racunari"
-   ],
-   "first_seen": "2026-11-05T08:00:08+00:00",
-   "details": "O poslodavcu Prijem telefonskih i online porudžbina (aplikacija, Wolt, Glovo), unos u sistem, organizacija dostave, kontakt sa dostavljačima i kontrola porudžbina. Osnovno poznavanje rada na računaru i grada Subotice. Reference: 7aSqhy2fvvzgUp7wsoLLM_nCF1nr0nXQSQoZCkXEMnccDiRj3tI1OPRbR0_kJCc0 UTR \"RENAISSANCE\" MATIJE KORVINA 13 24000 SUBOTICA, SUBOTICA, Srbija PIB: 100855040 Matični broj: 53473873 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Subotica Logistika Dispečer Pomoćni radnik u kuhinji - operater za prijem i obradu porudžbina (sa poznavanjem rada na računaru ) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
   }
  ]
 }
