@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-09T08:12:54+00:00",
+ "generated_at": "2026-11-09T23:03:16+00:00",
  "window_days": 3,
  "cutoff": "2026-11-06",
- "count": 11,
- "new_count": 3,
+ "count": 19,
+ "new_count": 9,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 3,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,8 +22,8 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 17,
-   "strane": 1,
+   "vraceno": 32,
+   "strane": 2,
    "stop": "kraj"
   },
   "etl": {
@@ -47,13 +47,13 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 3,
+   "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "aws": {
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 3,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -82,62 +82,62 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 4,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 0,
-   "strane": 0,
-   "stop": "kraj"
-  },
-  "linux": {
-   "vraceno": 0,
-   "strane": 0,
-   "stop": "kraj"
-  },
-  "it tehnicar": {
-   "vraceno": 12,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "sistem administrator": {
-   "vraceno": 6,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "administrator": {
-   "vraceno": 23,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "it podrska": {
-   "vraceno": 55,
-   "strane": 2,
-   "stop": "kraj"
-  },
-  "help desk": {
    "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
+  "linux": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 26,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 16,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 44,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 92,
+   "strane": 4,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "tehnicka podrska": {
-   "vraceno": 14,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 12,
+   "vraceno": 29,
    "strane": 1,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 4,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -147,17 +147,277 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 2,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 35,
-   "strane": 2,
+   "vraceno": 62,
+   "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "766171",
+   "title": "Backend / Embedded Systems Developer",
+   "company": "LMB Soft d.o.o.",
+   "location": "Niš",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "MySQL",
+    ".NET",
+    "C#",
+    "ASP.NET",
+    "SQL",
+    "Linux",
+    "JavaScript",
+    "Node",
+    "Node.js",
+    "C++",
+    "NoSQL",
+    "Git",
+    "Entity Framework",
+    "PostgreSQL",
+    "WebSockets",
+    "WEB API",
+    "DevOps",
+    "REST",
+    "C",
+    "SQLite",
+    "Programiranje",
+    "HTTP",
+    "Hardware",
+    "Cloud",
+    "Embedded",
+    "MongoDB",
+    "RESTful",
+    "Microservices",
+    "C programming",
+    ".NET Core",
+    "ASP.NET Core"
+   ],
+   "posted": null,
+   "expires": "25.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/backend-embedded-systems-developer/lmb-soft-doo/766171",
+   "summary": "This role connects low-level embedded devices with cloud and enterprise backend architectures to deliver reliable firmware and server side services. The successful candidate will design and maintain APIs and embedded software to ensure data integrity performance and device reliability.",
+   "matched": [
+    "data engineer",
+    "backend",
+    "sql",
+    "devops",
+    "cloud",
+    "linux",
+    "it support"
+   ],
+   "first_seen": "2026-11-09T23:03:16+00:00",
+   "details": "O poslodavcu About Us LMB Soft d.o.o. Niš is a research and development company with over 40 years of experience and a trusted leader in the medical technology field. We specialize in the development and production of blood transfusion devices and are proud to be part of the MacoPharma Group, a global leader in the manufacturing of blood bags and in-line systems. Through close integration with international teams and systems, our employees gain valuable professional experience and continuous development in a dynamic, multidisciplinary, and highly regulated environment. Position Overview – Backend / Embedded Systems Developer LMB Soft is looking for a versatile and motivated Backend & Embedded Systems Developer with expertise in C#, JavaScript/Node.js, and C / Embedded OS to join our engineering team. In this role, you will bridge the gap between low-level device/hardware systems and high-level cloud or enterprise backend architectures. You will design and maintain reliable server-side services, RESTful APIs, and firmware/embedded software for edge devices. Key Responsibilities Designing, developing, and maintaining high-performance backend services and APIs using C# (.NET / .NET Core) and JavaScript (Node.js); Writing, testing, and maintaining efficient C/C++ code for embedded systems and real-time operating systems (RTOS) or Embedded Linux; Connecting embedded/IoT devices with backend cloud architectures, MQTT/WebSockets messaging pipelines, and database systems; Designing and optimizing relational (e.g. PostgreSQL, MySQL Server) and non-relational (e.g. MongoDB) databases for scalable data ingestion; Writing clean, maintainable code and conducting hardware/software debugging, unit testing, and integration testing across environments; Optimizing low-level device performance, memory footprint, power consumption, and backend query response times; Collaborating closely with hardware engineers, frontend developers, DevOps, and product managers to deliver end-to-end solutions. Reference: 7JYCzifwapzJpm7RdW9bPFA3LSXPHf4kB8TZv5C3Eo26-FR4ZzelgwPlP2xJVt8l Qualifications and Competencies Professional Requirements: University degree in Computer Science, Electrical Engineering, Electronics, or a related technical field; 2–5+ years of hands-on experience in C programming for embedded systems, microcontrollers (MCU), or Embedded OS environments (e.g. FreeRTOS, Embedded Linux); Solid experience with C# and the .NET Framework / .NET Core (ASP.NET Core Web API); Experience developing backend microservices and APIs using JavaScript (Node.js); Knowledge of IoT/device communication protocols (e.g. MQTT, WebSockets, Modbus, CAN bus, UART, SPI, I2C, HTTP/REST); Experience working with SQL/NoSQL databases and ORMs (e.g. PostgreSQL, SQLite, Entity Framework); Proficiency with Git and Git workflow tools (GitHub, GitLab, or Bitbucket); High level of English proficiency, both written and spoken (mandatory). Soft Skills: High level of motivation, versatility, and ownership mindset; Strong analytical and problem-solving skills, especially in hardware/software debugging; Clear communication and collaboration across multidisciplinary teams; Well-organized, systematic, and able to manage multiple tasks and projects; Willingness to learn and work across both low-level and high-level technologies. What We Offer: Work on both embedded and backend systems for real medical technology products; Direct impact on the reliability and performance of our devices and systems; Dy"
+  },
+  {
+   "source": "infostud",
+   "id": "766303",
+   "title": "IT tehničar",
+   "company": "Soccerbet",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-09",
+   "expires": "24.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar/soccerbet/766303",
+   "summary": "Tehničar je zadužen za instalaciju i održavanje IT i pasivne telekomunikacione opreme kako bi obezbedio dostupnost i stabilnost sistema na terenu. Kandidat pruža tehničku podršku zaposlenima i vrši servisiranje računara i mreža širom Republike Srbije.",
+   "matched": [
+    "it tehnicar",
+    "it podrska",
+    "serviser",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-11-09T23:03:16+00:00",
+   "details": "O poslodavcu Soccerbet je jedan od vodećih brendova u oblasti sportskog klađenja i igara na sreću na tržištu Srbije. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o. koja zapošljava preko 1800 zaposlenih i posluje na više od 290 lokacija širom zemlje kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Za potrebe razvoja kompanije tražimo novog člana na poziciji IT TEHNIČAR. Odgovornosti: Vrši montažu i demontažu uređaja (regali, kablovi, REK ormani, itd.); Vrši instalacije pasivne telekomunikacione mrežne opreme; Izrada, servisiranje i održavanje računara, računarskih mreža; Podrška i pomoć zaposlenima; Terenski rad na teritoriji Republike Srbije. Reference: WKK9QrOOUoZiOrcFt0O_36qAXjtWNAP49Til-dnbMKPrKg-3GLOzEpmY9ImlklbE Potrebna znanja i iskustva: Poželjno radno iskustvo od minimum 1. godinu, na istim ili sličnim poslovima; IV stepen stručne spreme, poželjno elektro usmerenja; Vozačka dozvola B kategorije (aktivan vozač, minimum 3 godine); Dobro poznavanje osnova umrežavanja; Iskustvo u instalaciji i konfiguraciji sistemskog i korisničkog softvera; Znanje o računarskim sistemima i IT komponentama. Očekivane lične osobine: Posvećenost poslu; Odgovornost; Sposobnost rada u timu; Sposobnost rada pod pritiskom rokova i visokih standarda; Dobre komunikacione sposobnosti (govorne i pisane). Ukoliko želite da postanete deo našeg tima svoje prijave sa radnom biografijom možete slati elektronskim putem. Biće kontaktirani samo kandidati koji uđu u uži izbor! NAPOMENA : Slanjem prijave, kandidat daje pristanak: da kompanija njegove lične podatke obrađuje u postupku selekcije a u skladu sa Zakonom o zaštiti podataka o ličnosti. da bude kontaktiran u periodu od godinu dana ukoliko se ukaže prilika za angažovanjem na istom ili sličnom radnom mestu. Soccerbet Soccerbet je jedan od lidera u konkurenciji onih koji u Srbiji priređuju sportske igre na sreću. Soccerbet se nalazi u vlasništvu kompanije Phuket d.o.o. koja zapošljava preko 1000 zaposlenih i posluje najviše od 280 lokacija, širom zemlje kao i u online segmentu. Kvalitet, profesionalnost i prepoznatljiv odnos prema igračima izdvajaju naše usluge na tržištu. Uplatna mesta Soccerbet, s brendiranim obeležjima, odišu prijatnim i modernim ambijentima. Korektan odnos zaposlenih, a pre… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd Elektrotehnika Serviser IT tehničar Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno"
+  },
+  {
+   "source": "infostud",
+   "id": "766373",
+   "title": "Principal Full-Stack Engineer",
+   "company": "Digistore24/Eklektika",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "PHP",
+    "Node",
+    "Node.js",
+    "Python",
+    "Prototype",
+    "Programiranje",
+    "TypeScript",
+    "Cloud"
+   ],
+   "posted": "2026-11-10",
+   "expires": "25.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/principal-full-stack-engineer/digistore24-eklektika/766373",
+   "summary": "The Principal Full-Stack Engineer will convert high-level direction into production software, owning prototypes through to hardened services with a backend-first focus. The role centers on running agent-driven development at scale, ensuring deployments, monitoring, and cost control while delivering new AI-enabled platform capabilities to real users.",
+   "matched": [
+    "python",
+    "data engineer",
+    "backend",
+    "data platform",
+    "cloud"
+   ],
+   "first_seen": "2026-11-09T23:03:16+00:00",
+   "details": "O poslodavcu PRINCIPAL FULL-STACK ENGINEER REMOTE/FULL-TIME Reports to: CTO About the role We're hiring a Principal Full-Stack Engineer to work directly with our CTO on new strategic initiatives at Digistore24. You'll take an idea from a rough direction to working software in production, mostly on your own. This is a hands-on role: you'll write a lot of code, and you'll orchestrate a lot of agents to write more of it. Who is Digistore24? Digistore24 is the all-in-one online sales platform that combines the world's largest international affiliate marketplace with industry-leading conversion tools. Founded in Germany in 2012, we've been the online market leader in Germany since 2014 and have been expanding rapidly in the US since 2020. Today, more than 5 million users and 125,000+ active affiliates work with us, and over $5.1 billion in sales has gone through the platform. We're self-funded and work fully remote, with team members across Europe and the US. Eklektika, a company from Belgrade, has existed for 20 years and recently became an integral part of the German/USA company Digistore24. What you'll be working on Digistore24 is one of the world's leading online sales platforms, with the largest international affiliate marketplace in the industry. Vendors use us to sell, affiliates use us to find offers to promote, and more than 5 million users work with us. You'll work on what comes next: new products and new capabilities on the platform, with a strong focus on AI and how agents will change commerce. Most of the work is new. You'll build new services and products rather than maintain old ones, though you'll sometimes dig through our existing PHP codebase to work out how things behave today and what a new version needs to do. The scope will change, and a lot of it will start as a prototype. You'll start with a few specific workflows. Within roughly your first four months, the goal is to have something real shipped and in the hands of pilot customers. What you'll do Turn direction into working software. Take a goal from the CTO, break it down, plan your own work, decide how to build it, and ship it. Escalate only when something really needs it. Build end-to-end, backend first. Services, APIs, data pipelines, and integrations, plus the frontend on top. Whatever the problem needs. Mine the old to build the new. Read the existing codebase to pull out the real requirements, edge cases, and business rules a new version has to respect. Prototype, then harden. Get something working fast, learn from it, and turn what works into production-quality software. Run what you build. Deployment, monitoring, and cost control are part of the job. Reference: Xqksm6lDRWp85bkhESQO42kp4NsDqvJ6PGyR77Ks-v0Mo1jql8zbb9RXa1xZQAFh How we build We build with coding agents every day, and this role sits at the far end of that. We're looking for someone who already works in fully agentic workflows rather than someone who uses an AI assistant now and then. That means: You run agents autonomously on real work: several in parallel, on long-running tasks, with as little hand-holding as possible. You give agents what they need to succeed: clear specs, context, conventions, and tests. You structure codebases so agents can work in them reliably. You verify what agents produce, catch what's subtly wrong, and build the guardrails that keep quality high. You know where agents can be trusted and where a human has to stay in the loop, especially around money. You're tool-agnostic."
+  },
+  {
+   "source": "infostud",
+   "id": "766355",
+   "title": "Senior BI & Data Specialist",
+   "company": "Regent Lighting d.o.o.",
+   "location": "Svilajnac",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Programiranje"
+   ],
+   "posted": "2026-11-09",
+   "expires": "24.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-bi-data-specialist/regent-lighting-doo/766355",
+   "summary": "This role owns the group data and analytics platform to deliver certified semantic models and a single source of truth. The specialist will maintain production operations, implement governance and provide standardized Power BI solutions and automated management reporting.",
+   "matched": [
+    "data engineer",
+    "data platform"
+   ],
+   "first_seen": "2026-11-09T23:03:16+00:00",
+   "details": "O poslodavcu Join our team Headquartered in Basel (Switzerland), Regent Lighting employs around 600 people in six countries, is the market leader in Switzerland and one of the leading lighting manufacturers in Europe. Through distribution partners, our products are distributed internationally in 35 countries. For our location in Svilajnac we are looking for a: SENIOR BI & DATA SPECIALIST YOUR TASKS Operate and develop our Group-wide Data & Analytics platform on Microsoft Fabric - Lakehouse, Warehouse, Pipelines, Dataflows Gen2, Notebooks; Build and maintain the medallion architecture with standardized data ingestion from Dynamics 365 F&SCM, and provide certified, reusable semantic models as the single source of truth; Develop and operate Group-wide Power BI solutions and standardized KPI dashboards for Finance, Controlling, Sales, Supply Chain and Operations, and automate month-end close, forecast and budget reporting; Keep the platform running: monitor refreshes, jobs and pipelines, resolve errors and incidents, manage workspaces, permissions and row-level security, and watch Fabric capacity usage and cost; Work to ALM best practice across DEV – TEST – PROD with Fabric deployment pipelines and Git integration in Azure DevOps; Implement data governance standards (data security, sensitivity labels, RBAC, data lineage, cataloguing) and safeguard data quality across all legal entities; Take over solutions currently run by external partners, including structured knowledge transfer, and steer those partners: specify, review, accept deliverables; Enable key users to build their own reports on certified models, and translate business requirements from the business functions into functional and technical specifications. Reference: LHjTSWUuthmal3p8X55G1HEJRBn0qJiRo6snD-CvB6UPqqODNwOYD1lJrbhk4ZrY YOUR PROFILE At least 5 years in Business Intelligence, Data Engineering or Reporting Solutions, including several years hands-on with Microsoft Fabric or the Azure data stack (Synapse, Data Factory); Power BI at expert level: DAX, Power Query, semantic modelling; Strong SQL, data warehousing and data modelling (star schema, medallion architecture); ALM / CI-CD for BI solutions: deployment pipelines, Git, Azure DevOps; Experience with ERP data, ideally Dynamics 365 F&SCM; KPI and management reporting; A degree in Business Informatics, Computer Science, Data Analytics or a comparable field — or equivalent professional experience; Fluent English; German is an advantage; Structured, self-driven working style, ownership for production operations, and the ability to explain technical topics so that business colleagues follow. NICE TO HAVE Dynamics 365 F&SCM or AX data model, data entities, integration via Link to Microsoft Fabric / Synapse Link; Azure Data Services (Data Factory, Synapse); Python / PySpark; Data governance with Microsoft Purview; Certifications PL-300, DP-600 or DP-700. WHAT WE OFFER An innovative company with a dynamic environment and requirements; Collaboration with our experienced team in Switzerland; An environment with a fail fast mentality with an open mind for new technologies and methodologies; The possibility to work on new and exciting projects in an ever-changing business landscape; Flexible working hours. Regent Lighting d.o.o. Stevana Sindjelica 278V, Svilajnac, Srbija PIB: 111816653 Matični broj: 21545660 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posre"
+  },
+  {
+   "source": "helloworld",
+   "id": "766350",
+   "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+   "company": "ElevenLabs",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-09",
+   "expires": "24.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Full-Stack-Engineer-Frontend-Leaning-Studio/ElevenLabs/766350",
+   "summary": "ElevenLabs Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Intermediate Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Full-Stack Engineer (Frontend Leaning) - Studio Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Full-Stack Engineer (Frontend Leaning) - Studio ElevenLabs Inostranstvo | Rad od kuće 24.11.2026. senior intermediate About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend. About the role You’ll build the tools that make Studio a video editor people want to live in. These include transitions, color grading and elements libraries all built on top of our in-house engine. You’ll also build presets, so a user can get the effect they want without tweaking 20 individual controls. The work mixes greenfield features with polish on the existing editor. An example of the polish is letting editors coming from Premiere Pro or Final Cut Pro rebind their keyboard shortcuts in one step. You’ll write proposals, get fast feedback, and own features through launch, including the marketing moment. You’re a product-minded, frontend-l",
+   "first_seen": "2026-11-09T23:03:16+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "766351",
+   "title": "Full-Stack Engineer - ElevenCreative Enterprise",
+   "company": "ElevenLabs",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-09",
+   "expires": "24.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Full-Stack-Engineer-ElevenCreative-Enterprise/ElevenLabs/766351",
+   "summary": "ElevenLabs Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Intermediate Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Full-Stack Engineer - ElevenCreative Enterprise Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Full-Stack Engineer - ElevenCreative Enterprise ElevenLabs Inostranstvo | Rad od kuće 24.11.2026. senior intermediate About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual team offsite: Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún Co-working : If you’re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We build AI-powered engines that make, localize, launch and learn from creative, using ElevenLabs’ full audio and video stack. Enterprise customers are already working with us. While our product teams focus on self-serve, these roles seed a dedicated enterprise engineering team: the people who make ElevenCreative work for our biggest customers and unblock enterprise deals. You sit between the customer and the product. You’ll talk to enterprise customers, understand their requirements, and decide whether to build a bespoke integration for them or a product improvement for everyone. Making that call well is the job. Requirements H",
+   "first_seen": "2026-11-09T23:03:16+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "766349",
+   "title": "Software Engineer, ML Ops",
+   "company": "Cohere",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "linux",
+    "python",
+    "foundation",
+    "kubernetes"
+   ],
+   "posted": "2026-11-09",
+   "expires": "24.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Software-Engineer-ML-Ops/Cohere/766349",
+   "summary": "Cohere Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Linux Python Foundation Kubernetes Intermediate Senior global.searchSelectItemEvents = {\"766373\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766373\",\"item_name\":\"Principal Full-Stack Engineer\",\"item_index\":0,\"item_brand\":\"Digistore24\\/Eklektika\",\"item_category\":\"Full stack developer\",\"item_category2\":\"Programiranje\",\"item",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Software Engineer, ML Ops Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Software Engineer, ML Ops Cohere Inostranstvo | Rad od kuće 24.11.2026. Linux Python Foundation Kubernetes senior intermediate Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft. We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us! Why this team? Internal Infrastructure builds the infrastructure and tools used to train, evaluate, and serve Cohere's foundation models. You will work with AI researchers and ML engineers on stability, scalability, and observability. The work accelerates the models behind Cohere's platform, North. You will own the developer platform researchers use to write, build, and debug training code: dev environments, container images, CI, and training instrumentation. The role includes a compensated 24x7 on-call rotation. What you will do Run secure developer environments that stay controlled and accelerate developer velocity as the research org scales. Own container image build and CI/CD tooling. Instrument training code and build self-service tooling so researchers can see why a run failed and debug it themselves. Set infrastructure best practices through AI enablement, documentation, and office hours. Troubleshoot production failures and performance problems, and leave the system easier to operate than you found it. Build automation, infrastructure-as-code, and observability so the platform stays maintainable. We hire at more than one level. We set level based on the scope you've owned and how independently you drive work. You may be a good fit if you have Run a developer platform in production: CI, image builds, dev environments, or internal tooling that many engineers depend on. Made ML engineers or researchers faster without making the platform fragile. Enough Linux and Kubernetes to debug production systems. Experience operating a GPU cluster is a plus. Written software in Python or Go. You would rather extend a solid open-source project than rebuild it. Worked with researchers, ML engineers, or another team whose goals were not identical to yours. Found a bottleneck, proposed a fix, and driven it in a fast-moving environment. If this does not line up exactly with your experience, we still encourage you to apply. Full-Time Employees at Cohere enjoy these Perks A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch. Full health and dental benefits, including a separate budget for mental health. RRSP matching, 401K, Pension Scheme. 100% Parental Leave top-up for up to 6 months, for either parent. Annual enrichment benefits: Arts & culture, fitness/wellness, quality time, and a workspace improvement credit. Education & learning stipend for conf",
+   "first_seen": "2026-11-09T23:03:16+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137704",
+   "title": "UI Developer",
+   "company": "RainFocus",
+   "location": "Any State",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "design",
+    "react",
+    "front end",
+    "customer support",
+    "web dev",
+    "javascript",
+    "java",
+    "css",
+    "html",
+    "git",
+    "exec"
+   ],
+   "posted": "2026-11-08",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+   "summary": "RainFocus, one of the most innovative software companies, is in search of an exceptional Jr. UI Developer. About RainFocus RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events, across the world. Those events",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-09T23:03:16+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "765693",
+   "title": "Web Designer",
+   "company": "Workforce Human Resources d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "css",
+    "html",
+    "wordpress",
+    "figma"
+   ],
+   "posted": "2026-11-09",
+   "expires": "24.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Web-Designer/Workforce-Human-Resources-d.o.o/765693",
+   "summary": "Workforce Human Resources d.o.o. Beograd 24.11.2026. CSS HTML WordPress Figma Intermediate @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Web Designer Web Designer Workforce Human Resources d.o.o. Beograd 24.11.2026. CSS HTML WordPress Figma intermediate Job Description For our client, an international real estate developer, we are looking for a talented WEB DESIGNER to join the team and work on web projects across different countries and markets within the Group. This is a hands-on role for someone who will both design and build websites, taking projects from initial concept and visual design through to implementation, launch, and ongoing maintenance. You will work closely with Marketing and technical teams to create engaging, functional, and visually consistent digital experiences across the Group's portfolio. Key Responsibilities Design and build websites, landing pages, and web experiences from concept through to implementation and launch. Build, update, and maintain websites directly in WordPress, including page layouts, content, and design components. Take hands-on ownership of web projects, from design and build through to ongoing updates and optimization. Create engaging web visuals, banners, and other digital assets. Translate design concepts and marketing requirements into functional, responsive web experiences. Ensure visual consistency, usability, and performance across websites and digital platforms. Work closely with Marketing and technical teams on website launches, updates, and other digital initiatives. Adapt existing brand and design materials for web and digital use. Create and animate graphics for websites and other digital platforms. Occasionally adapt digital and marketing assets to support broader brand initiatives. What We Are Looking For Proven experience in web design and website building, with a strong portfolio of completed website projects. Strong proficiency in Figma and experience designing website layouts and UI components. Hands-on experience with WordPress and website development/implementation. Strong understanding of responsive design, web usability, and digital best practices. Good knowledge of typography, layout, visual hierarchy, and web-focused graphic design. A strong visual eye and the ability to translate premium brand identities into engaging digital experiences. Experience creating and adapting visual assets specifically for digital environments. Ability to work across multiple projects, brands, and markets while maintaining consistency and attention to detail. Strong collaboration skills and an execution-focused approach. Fluency in English. Nice to Have Experience working on real estate, hospitality, lifestyle, or other visually driven brands. Experience with motion graphics or animation for web. Basic knowledge of HTML/CSS or other web development tools. Experience working in an international or multi-market environment. Interested? If you are passionate about creating websites that combine strong visual design, functionality, and a great user experience, we would love to see your work. Please apply with your CV and portfolio showcasing relevant web design and website development projects. Apply Here Upoznaj kompaniju O Kompaniji Workforce Human Resources je agencija za zapošljavanje koja pruža sveobuhvatna rešenja iz oblasti upravljanja i razvoja ljudskih resursa. Kontinuiranim inovacijama u domenu ljudskih resursa i prilagođavanjem potrebama tržišta za fleksibilnim zapošljavanjem, Workforce omogućava saradnicima i klijentima realizaciju poslovnih ambicija po najvišim HR standardima. Workforce nudi usluge u domenu fleksibil",
+   "first_seen": "2026-11-09T23:03:16+00:00"
+  },
   {
    "source": "infostud",
    "id": "766148",
@@ -337,36 +597,6 @@
    ],
    "first_seen": "2026-11-06T19:59:46+00:00",
    "details": "O poslodavcu WE'RE HIRING! Help Desk Specialist - English language M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. Are you the go-to person in your circle for solving problems and explaining tech? Do you have a passion for helping people while tackling new challenges? If so, we want YOU to join our team as a Help Desk Specialist! In this dynamic role, you will be at the forefront of customer support, where your ability to guide and solve technical issues with ease will make a real impact. Your main duties will include: Walking customers through troubleshooting steps with patience and clarity Identifying, analyzing, diagnosing, and resolving issues quickly and efficiently Responding to incoming phone calls, emails, or tickets from clients and field engineers, while keeping an eye on the notification and ticket queue screens Troubleshooting both known and undocumented problems, ensuring smooth operations Managing customer issues in line with Service Level Agreements to guarantee satisfaction Supporting new employees with training, guidance, and feedback to enhance team performance Gaining an in-depth understanding of the processes that ensure top-tier customer service Conducting audits to ensure service quality and continual improvement Reference: eRLHrgAupmreJW9aIwRy1RDnJCTCy9JHvwFs9pU9cU81cgG296SJMzmLwZJ-D1vr Here’s what we are looking for in YOU: A high school diploma (and if you have a technical degree or IT knowledge, even better!) Fluency in English, both spoken and written Solid working knowledge of Windows OS A problem-solving mindset with an eye for detail Strong ability to troubleshoot hardware and software issues A passion for delivering exceptional customer service with a team-oriented spirit Flexibility to work shifts (yes, including weekends!) in our 24/7 operation What’s in it for YOU? A hybrid work model that lets you balance in-office and remote work Structured training programs to help you develop your skills and grow your career The chance to work in a vibrant, international team Modern office spaces in the heart of New Belgrade’s business district Career advancement opportunities and the potential to convert to a client contract with full benefits Don’t have experience? No problem! We’re looking for someone who’s eager to learn, grow, and enjoy the process. If you’re excited to dive into a new role, we’re excited to help you get there! Ready to join a team that values creativity, growth, and a bit of fun? Apply now with your CV in English, and let’s get started! Note: Only shortlisted candidates will be contacted. Best of luck, we can’t wait to meet you! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od"
-  },
-  {
-   "source": "infostud",
-   "id": "766125",
-   "title": "Junior System Administrator",
-   "company": "Grand Casino d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Windows",
-    "Sistemska administracija"
-   ],
-   "posted": "2026-11-06",
-   "expires": "21.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/junior-system-administrator/grand-casino-doo/766125",
-   "summary": "Pozicija Junior System Administratora postoji da obezbedi stabilno funkcionisanje serverske i infrastrukturne okoline i omogući sticanje praktičnih IT veština kroz mentorstvo. Kandidat će pratiti servere, održavati infrastrukturne servise i pružati osnovnu IT podršku zaposlenima.",
-   "matched": [
-    "junior",
-    "sistem administrator",
-    "administrator",
-    "it podrska",
-    "help desk",
-    "tehnicka podrska",
-    "mrezni",
-    "windows"
-   ],
-   "first_seen": "2026-11-06T19:59:46+00:00",
-   "details": "O poslodavcu Grand Casino Admiral traži motivisanu i proaktivnu osobu koja želi da se pridruži našem IT timu na poziciji Junior System Administrator . Ukoliko si student završne godine ili diplomac tehničkog fakulteta, sa usmerenjem na računarstvo, informacione tehnologije ili srodne oblasti, i želiš da započneš svoju karijeru u IT sektoru, ovo je odlična prilika za tebe. Prethodno radno iskustvo nije neophodno! Na ovoj poziciji imaćeš priliku da stekneš praktično iskustvo, radiš u dinamičnom i specifičnom okruženju i razvijaš svoje veštine uz podršku i mentorstvo iskusnijih kolega. Ključna zaduženja: Praćenje rada servera i sistema i sprovođenje preventivnog održavanja; Instalacija, konfiguracija i održavanje infrastrukturnih servisa; Administracija operativnih sistema i softvera; Dijagnostikovanje i rešavanje hardverskih, softverskih, mrežnih i sistemskih problema; Pružanje osnovne IT podrške zaposlenima (Help Desk); Vođenje i ažuriranje tehničke dokumentacije o sistemima i procedurama. Reference: FHD8_Es0qer93DjMwU3lcuy8DgKQkmjmONLk5cYwPOoXJKkS64TOT18DRg74xp79 Uslovi: Osnovno poznavanje Windows operativnih sistema i IT infrastrukture; Spremnost za učenje i upoznavanje sa platformama za virtuelizaciju; Interesovanje za informacionu bezbednost i dobre prakse u ovoj oblasti; Dobre organizacione veštine i sposobnost vođenja dokumentacije; Dobro poznavanje srpskog i engleskog jezika. Šta nudimo: Priliku za učenje i sticanje vrednog praktičnog iskustva u regulisanoj i dinamičnoj industriji; Organizovan proces uvođenja u posao i mentorstvo; Mogućnost profesionalnog razvoja i napredovanja; Privatno zdravstveno osiguranje nakon šest meseci zaposlenja; Besplatne obroke za sve zaposlene; Profesionalno i podržavajuće radno okruženje. Želiš da započneš svoju IT karijeru u okruženju koje ti pruža priliku za učenje, razvoj i nove izazove? Pošalji nam svoju prijavu, radujemo se prilici da te upoznamo! Grand Casino d.o.o. Beograd Grand Casino Beograd nije samo najveći kazino u Srbiji – to je mesto na kojem svakog dana više od stotinu ljudi iz različitih profesija zajedno stvara iskustvo koje gosti pamte. Kao deo međunarodne Novomatic grupacije, poslujemo prema visokim evropskim standardima, uz fokus na odgovorno poslovanje, bezbednost, kvalitet usluge i razvoj zaposlenih. Iza svakog uspešnog događaja, svake igre i svakog osmeha gosta stoji tim ljudi koji rade u HR-u, marketingu, IT-u, finansijama, bezbednosti,… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator Junior System Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infos"
   },
   {
    "source": "infostud",
