@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-09T23:03:16+00:00",
+ "generated_at": "2026-11-10T08:32:01+00:00",
  "window_days": 3,
- "cutoff": "2026-11-06",
- "count": 19,
- "new_count": 9,
+ "cutoff": "2026-11-07",
+ "count": 17,
+ "new_count": 4,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 1,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 7,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,8 +22,8 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 32,
-   "strane": 2,
+   "vraceno": 22,
+   "strane": 1,
    "stop": "kraj"
   },
   "etl": {
@@ -47,22 +47,22 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "aws": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 7,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 8,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,23 +102,23 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 26,
+   "vraceno": 19,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 16,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 44,
+   "vraceno": 33,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 92,
-   "strane": 4,
+   "vraceno": 64,
+   "strane": 3,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,22 +127,22 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 23,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 29,
+   "vraceno": 25,
    "strane": 1,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 7,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,123 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 62,
-   "strane": 3,
+   "vraceno": 47,
+   "strane": 2,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "766413",
+   "title": "Ekspert za nadzor IT sistema",
+   "company": "OTP banka Srbija",
+   "location": "Novi Sad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "PowerShell",
+    "Microsoft SQL Server",
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-10",
+   "expires": "25.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ekspert-za-nadzor-it-sistema/otp-banka-srbija/766413",
+   "summary": "",
+   "matched": [
+    "sistem administrator",
+    "administrator"
+   ],
+   "first_seen": "2026-11-10T08:32:01+00:00",
+   "details": "O poslodavcu Reference: p4qWzys-RZsCpcWfKw7-0LVF_TMhCwjWrlehJ6jeSESw4Fg2OnZBAEIOtPY2zQOx OTP banka Mi nismo samo bankari. Mi živimo inovacije, znamo gde želimo da stignemo i zato širimo pozitivnu energiju promena. Svakodnevno odlazimo na posao s ciljem da svojoj porodici, komšijama i ljudima oko nas život učinimo lepšim i lakšim. Našu strategiju čine oni elementi koje klijenti najviše cene: stabilnost, profitabilnost, rast i inovacije. Nastojimo da delamo bolje i drugačije kako bismo doprinosili poslovnom uspehu naših klijenata i nas samih. Svojim transparentnim i timskim radom negujemo… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad IT System Administrator Ekspert za nadzor IT sistema Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "766441",
+   "title": "IT podrška",
+   "company": "Fors Corp d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-10",
+   "expires": "10.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-podrska/fors-corp-doo/766441",
+   "summary": "Pozicija je fokusirana na pružanje osnovne IT podrške zaposlenima i održavanje radne opreme kako bi se obezbedio neometan rad. Kandidat će pripremati i podešavati računare i periferije te rešavati svakodnevne IT probleme koristeći dokumentaciju i alate za proveru rešenja.",
+   "matched": [
+    "it podrska",
+    "help desk",
+    "it support",
+    "racunari"
+   ],
+   "first_seen": "2026-11-10T08:32:01+00:00",
+   "details": "O poslodavcu Kompaniji sa više različitih delatnosti potrebna osoba na poziciji IT PODRŠKA Mesto rada Beograd, Ledine, Hotel Fors Opis posla Tražimo osobu koja će kolegama pomagati oko računara, programa i opreme koju svakodnevno koriste. Dovoljno je osnovno znanje iz više IT oblasti i spremnost da istražiš problem kad se prvi put susretneš s njim. Prethodno radno iskustvo nije uslov. Računa se i ono što si naučio/la samostalno, podešavajući svoj računar ili pomažući drugima. Šta ćeš raditi Pripremati računare za rad, instalirati i podešavati Windows, drajvere i programe. Povezivati i podešavati monitore, štampače, skenere, switcheve, wi-fi uređaje i drugu opremu. Pomagati kolegama da reše svakodnevne probleme sa računarima, programima i internet vezom. Koristiti dokumentaciju, pretragu i AI alate poput ChatGPT-a da pronađeš rešenje i proveriš da li radi. Reference: 2dPwEx-QeHrxwmLZ711pEeLvg0xksh0fQMp2cgcxsu2-D3RjbSi7FvlvgCevQiqP Šta očekujemo Osnovno poznavanje računarskih komponenti i snalaženje u Windowsu. Da umeš da instaliraš Windows i uobičajene programe ili da to uradiš uz uputstvo. Da umeš jasno da opišeš problem, postaviš dobro pitanje AI alatu i proveriš odgovor pre nego što ga primeniš. Da strpljivo komuniciraš s kolegama i umeš da objasniš šta si uradio/la. Ako voliš rad sa računarima, uporno tražiš rešenja i želiš da učiš, javi nam se! Fors Corp d.o.o. Miska Kranjca 24, Beograd, Srbija PIB: 110254550 Matični broj: 21325562 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support IT podrška Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "766447",
+   "title": "Senior Backend Developer",
+   "company": "Superior Towing USA",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Node",
+    "Python",
+    "AWS",
+    "PostgreSQL",
+    "WebSockets",
+    "MAP",
+    "Programiranje",
+    "TypeScript"
+   ],
+   "posted": "2026-11-10",
+   "expires": "25.11.2026",
+   "salary": "neto 45 USD (satnica) ",
+   "url": "https://poslovi.infostud.com/posao/senior-backend-developer/superior-towing-usa/766447",
+   "summary": "The Senior Backend Developer will design build and operate a real-time fleet routing backend that powers live GPS tracking dispatch and route optimization for a 150 truck fleet. The role requires end to end ownership of architecture deployment and production reliability while collaborating with the founder to productize the system for US tow companies.",
+   "matched": [
+    "python",
+    "backend",
+    "aws"
+   ],
+   "first_seen": "2026-11-10T08:32:01+00:00",
+   "details": "O poslodavcu Senior Backend Developer - Real-Time Fleet Routing (GPS + Maps) About us We run an outsourced dispatch company for tow truck fleets in the United States, with our dispatch team based in Serbia. Our dispatchers move hundreds of tow trucks every day across Illinois. Now we’re building our own routing system, Routing Brain, and later we’ll sell it to tow companies across the US. What you’ll build You’ll be the one developer who builds and owns Routing Brain from day one to go-live on a 150-truck fleet: GPS tracking for 150 trucks with Teltonika trackers and Traccar; A live dispatch console (React) showing every truck on a map in real time; A routing engine that picks the best truck for every call using live traffic (Google Routes API), truck type and driver shift, and refreshes ETAs every 15 minutes; Daily route plans per truck with Google OR-Tools; A phone web app for 200 drivers: login, job status, navigation; One integration with our towing software. Reference: Nd4OkBsROkbwTSBbDAmceD7C9RsUzKiIZvZpkqwdValzXxYfC1_XimUvwN164TwR A clickable mockup, a full scope document and a budget are ready. You won’t start from a blank page. How we work You use AI coding tools (Claude Code or similar) every day. We expect it, and it’s how the project is planned and budgeted. You own the code: architecture, security, deployment and fixing production problems. Short daily written updates and a weekly demo with the founder. Overlap with Chicago mornings: 15:00–19:00 Belgrade time. You have 5+ years of backend development (Python or TypeScript/Node); Built and run at least one real-time system in production: GPS/IoT, logistics, delivery, ride-hailing or similar; PostgreSQL, ideally with PostGIS; WebSockets or other live-update tech; Worked with map or routing APIs (Google Maps, Mapbox, OSRM); Deployed and monitored your own services on AWS, GCP or similar; Real experience with AI coding tools, and judgment about when not to trust them; Good written English. Nice to have Traccar or Teltonika devices; Route optimization (OR-Tools, VROOM) or vehicle routing problems; React front end; Fleet, trucking or towing industry background. What we offer Competitive salary; A real product from zero, with direct access to the founder and the dispatchers who use it every day; You’d own the product end to end and build it with AI coding tools. Remote from Serbia, about 560 hours for ~14 weeks, then ongoing as we turn Routing Brain into a product for US tow companies. Send your CV and LinkedIn, links to 1–2 systems you built (what they did and your part) . Superior Towing USA Sjedinjene Američke Države, New Lenox, 206 Ford Drive Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Backend developer Senior Backend Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulac"
+  },
+  {
+   "source": "infostud",
+   "id": "766429",
+   "title": "Software Test Engineer (Manual)",
+   "company": "TBP Software d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "C#",
+    "SQL",
+    "Java",
+    "Python",
+    "SQL Server",
+    "Windows",
+    "QA"
+   ],
+   "posted": "2026-11-10",
+   "expires": "25.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/software-test-engineer-manual/tbp-software-doo/766429",
+   "summary": "The Software Test Engineer plans and executes manual tests to verify software quality and maintain requirements traceability. The role participates in design and risk reviews and drives defect investigation and regression testing to support safe and compliant product releases.",
+   "matched": [
+    "python",
+    "sql",
+    "windows"
+   ],
+   "first_seen": "2026-11-10T08:32:01+00:00",
+   "details": "O poslodavcu The Software Test Engineer plans and runs manual tests to make sure HistoSonics’ software meets quality standards. Working under senior engineers, this role writes and executes test cases, takes part in design and risk reviews, and keeps tests traceable to requirements. Key Responsibilities Run manual exploratory, integration, verification, and system tests; Set up test environments (hardware, software, network); Work with product, design, and software teams to understand testing objectives and make sure requirements are testable; Estimate, plan, and prioritize testing work; Write test plans and step-by-step test cases traced to requirements; Run release testing, report results, and do regression testing after fixes; Log and track defects, and help investigate root causes per CAPA/nonconformance procedures; Take part in design reviews and risk assessments using risk-based testing; Track quality metrics such as defect density and open defect counts; Follow the Quality Management System and IEC 62304, and help improve testing and development processes; Other duties as assigned. Reference: DrwgkM3kwp-n--hHeMOPAFQPwJdca7373sTE_P2cXY3l7ZxpAVcZOEJfCky5mMnj Qualifications Bachelor’s in Computer Science, Math, Engineering, or a related field, or 5+ years of relevant experience; 2+ years in manual software testing (required); medical device experience preferred; Strong skills in writing clear test cases and defect reports; Experience with Windows, SQL Server, and defect tracking tools; Basic understanding of electrical and mechanical engineering principles; Familiarity with ISO 14971 and IEC 62304 preferred; Scripting (Python, C#, or Java) or test automation experience is a plus; Detail-oriented, analytical, and able to manage multiple priorities; Team player who learns quickly and works well across disciplines. TBP Software d.o.o. Solunska 11, Beograd, Srbija PIB: 112325019 Matični broj: 21650927 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Quality Assurance Software Test Engineer (Manual) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
   {
    "source": "infostud",
    "id": "766171",
@@ -199,7 +310,7 @@
     ".NET Core",
     "ASP.NET Core"
    ],
-   "posted": null,
+   "posted": "2026-11-10",
    "expires": "25.11.2026",
    "salary": null,
    "url": "https://poslovi.infostud.com/posao/backend-embedded-systems-developer/lmb-soft-doo/766171",
@@ -329,7 +440,7 @@
    "expires": "24.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Full-Stack-Engineer-ElevenCreative-Enterprise/ElevenLabs/766351",
-   "summary": "ElevenLabs Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Intermediate Senior Novo",
+   "summary": "ElevenLabs Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Intermediate Senior global.searchSelectItemEvents = {\"766447\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766447\",\"item_name\":\"Senior Backend Developer\",\"item_index\":0,\"item_brand\":\"Superior Towing USA\",\"item_category\":\"Backend developer\",\"item_category2\":\"Programiranje\",\"item_category3\":\"senior\",\"item_category4\":\"Sta",
    "matched": [
     "helloworld"
    ],
@@ -354,7 +465,7 @@
    "expires": "24.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Software-Engineer-ML-Ops/Cohere/766349",
-   "summary": "Cohere Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Linux Python Foundation Kubernetes Intermediate Senior global.searchSelectItemEvents = {\"766373\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766373\",\"item_name\":\"Principal Full-Stack Engineer\",\"item_index\":0,\"item_brand\":\"Digistore24\\/Eklektika\",\"item_category\":\"Full stack developer\",\"item_category2\":\"Programiranje\",\"item",
+   "summary": "Cohere Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Linux Python Foundation Kubernetes Intermediate Senior Novo",
    "matched": [
     "helloworld"
    ],
@@ -411,7 +522,7 @@
    "expires": "24.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Web-Designer/Workforce-Human-Resources-d.o.o/765693",
-   "summary": "Workforce Human Resources d.o.o. Beograd 24.11.2026. CSS HTML WordPress Figma Intermediate @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
+   "summary": "Workforce Human Resources d.o.o. Beograd 24.11.2026. CSS HTML WordPress Figma Intermediate Novo",
    "matched": [
     "helloworld"
    ],
@@ -512,158 +623,6 @@
     "remoteok"
    ],
    "first_seen": "2026-11-08T07:35:23+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137700",
-   "title": "Junior Market Analyst",
-   "company": "MEYA HOLDINGS",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "other",
-    "crypto",
-    "finance",
-    "remote work",
-    "remote",
-    "junior",
-    "part time",
-    "analyst"
-   ],
-   "posted": "2026-11-06",
-   "expires": null,
-   "salary": "60000-80000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
-   "summary": "MEYA HOLDINGS LTD is an international company specializing in digital assets, cryptocurrency markets, and financial research. We focus on developing data-driven trading approaches and optimizing market operations. Our remote team brings together professionals from different parts of the world. We are looking for a motivated Junior Market Analyst with at least 1 year of experience in cryptocurrency",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-07T18:07:25+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137694",
-   "title": "Accountant",
-   "company": "Serve Robotics",
-   "location": "los angeles",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "accounting",
-    "design",
-    "customer support",
-    "dev",
-    "finance",
-    "robotics",
-    "microsoft",
-    "exec",
-    "ops",
-    "excel",
-    "digital nomad"
-   ],
-   "posted": "2026-11-06",
-   "expires": null,
-   "salary": "90000-110000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
-   "summary": "At Serve Robotics, weâre reimagining how things move in cities. Our personable sidewalk robot is our vision for the future. Itâs designed to take deliveries away from congested streets, make deliveries available to more people, and benefit local businesses. The Serve fleet has been delighting merchants, customers, and pedestrians along the way in Los Angeles, Miami, Dallas, Atlanta and Chicago",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-07T07:24:53+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "766159",
-   "title": "Help Desk Specialist - English language",
-   "company": "M Plus Serbia d.o.o.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "Windows",
-    "Podrška",
-    "Hardware"
-   ],
-   "posted": "2026-11-06",
-   "expires": "21.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/help-desk-specialist-english-language/m-plus-serbia-doo/766159",
-   "summary": "The Help Desk Specialist provides first-line technical support to customers and field engineers, resolving hardware and software issues to maintain operational continuity. The role ensures SLA compliance, supports team onboarding and training, and drives service quality through troubleshooting and audits.",
-   "matched": [
-    "help desk",
-    "it support",
-    "windows"
-   ],
-   "first_seen": "2026-11-06T19:59:46+00:00",
-   "details": "O poslodavcu WE'RE HIRING! Help Desk Specialist - English language M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and customers represent our commitment to reliable service delivery. Are you the go-to person in your circle for solving problems and explaining tech? Do you have a passion for helping people while tackling new challenges? If so, we want YOU to join our team as a Help Desk Specialist! In this dynamic role, you will be at the forefront of customer support, where your ability to guide and solve technical issues with ease will make a real impact. Your main duties will include: Walking customers through troubleshooting steps with patience and clarity Identifying, analyzing, diagnosing, and resolving issues quickly and efficiently Responding to incoming phone calls, emails, or tickets from clients and field engineers, while keeping an eye on the notification and ticket queue screens Troubleshooting both known and undocumented problems, ensuring smooth operations Managing customer issues in line with Service Level Agreements to guarantee satisfaction Supporting new employees with training, guidance, and feedback to enhance team performance Gaining an in-depth understanding of the processes that ensure top-tier customer service Conducting audits to ensure service quality and continual improvement Reference: eRLHrgAupmreJW9aIwRy1RDnJCTCy9JHvwFs9pU9cU81cgG296SJMzmLwZJ-D1vr Here’s what we are looking for in YOU: A high school diploma (and if you have a technical degree or IT knowledge, even better!) Fluency in English, both spoken and written Solid working knowledge of Windows OS A problem-solving mindset with an eye for detail Strong ability to troubleshoot hardware and software issues A passion for delivering exceptional customer service with a team-oriented spirit Flexibility to work shifts (yes, including weekends!) in our 24/7 operation What’s in it for YOU? A hybrid work model that lets you balance in-office and remote work Structured training programs to help you develop your skills and grow your career The chance to work in a vibrant, international team Modern office spaces in the heart of New Belgrade’s business district Career advancement opportunities and the potential to convert to a client contract with full benefits Don’t have experience? No problem! We’re looking for someone who’s eager to learn, grow, and enjoy the process. If you’re excited to dive into a new role, we’re excited to help you get there! Ready to join a team that values creativity, growth, and a bit of fun? Apply now with your CV in English, and let’s get started! Note: Only shortlisted candidates will be contacted. Best of luck, we can’t wait to meet you! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike kao što su:… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Trenutno sam na poziciji kontakt centar menažera, a počela od korisničke podrške pre malo više od"
-  },
-  {
-   "source": "infostud",
-   "id": "766027",
-   "title": "Senior Digital Marketing Specialist",
-   "company": "Davies Meyer d.o.o.",
-   "location": "Novi Sad | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "Prodaja / konsultanti"
-   ],
-   "posted": "2026-11-06",
-   "expires": "21.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/senior-digital-marketing-specialist/davies-meyer-doo/766027",
-   "summary": "This role leads development and execution of integrated digital marketing campaigns to deliver measurable client outcomes. The person will coordinate cross-channel delivery, analyze performance, and convert insights into strategic recommendations.",
-   "matched": [
-    "data engineer",
-    "data platform"
-   ],
-   "first_seen": "2026-11-06T19:59:46+00:00",
-   "details": "O poslodavcu Are you a digital marketing mind who connects strategy, channels, and audiences? Ready to turn bold ideas into meaningful impact? Help shape the next generation of digital campaigns and join our international team! Key Tasks: Develop and execute integrated digital marketing strategies across paid, owned, and earned channels Plan and coordinate campaigns across platforms such as Meta, TikTok, LinkedIn, Google, and other relevant channels Define target audiences, channel roles, messaging, and customer journeys based on business objectives and audience insights Coordinate campaign delivery with internal teams, clients, creative partners, and media platforms Monitor campaign and channel performance, identify opportunities, and recommend improvements Prepare reports and presentations with clear insights and actionable recommendations Advise clients on digital marketing trends, channel strategies, and campaign opportunities Contribute to pitches, workshops, and new business initiatives Reference: 6Tm6Kb-x5Q6gBW7uFKiE_v64xfviWIZOG0ajmJiZvhz6gh4zDO77cTOWAubaCMQZ Your skills: Several years of experience in digital marketing, ideally within an agency environment Broad understanding of digital channels, campaign formats, and customer journeys Experience with major advertising platforms, such as Meta, TikTok, LinkedIn, and Google Proficiency in analytics, tracking, and reporting tools, such as Google Analytics Strong strategic and analytical skills, with the ability to translate data into recommendations Confident in managing projects and coordinating stakeholders Independent, structured working style with excellent consulting and communication skills Fluent in English, written and spoken What we offer International enterprise projects with direct client contact — your work is visible, not buried in a ticket queue An AI-native engineering setup you'll help push forward, not catch up to Real influence on how we work: standards, tooling, architecture decisions Private health insurance Hybrid work arrangement A culture of continuous learning and knowledge sharing Unlimited coffee, tea, juices and water in the office, fresh fruit every Monday and various cereals every day to kick-start your day Birthday gifts, plus special recognition and gifts for 5- and 10-year work anniversaries. Davies Meyer DOO Novi Sad Davies Meyer je digitalna marketinška agencija sa kancelarijama u Hamburgu, Novom Sadu, Berlinu, Cirihu i Londonu. Agencija je osnovana 2000. godine u Hamburgu i danas broji više od 140 zaposlenih. Kancelarija u Novom Sadu je osnovana 2015. i od samog početka je specijalizovana za web programiranje i razvoj aplikacija. Novosadski tim broji 26 zaposlenih i nastavlja da raste... Više o nama pronađite na https://daviesmeyer.com/en/about-us/ Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad Marketing, promocija Menadžer za digitalni marketing Senior Digital Marketing Specialist Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o "
-  },
-  {
-   "source": "infostud",
-   "id": "766017",
-   "title": "Senior Performance Marketing Specialist",
-   "company": "Davies Meyer d.o.o.",
-   "location": "Novi Sad | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "Prodaja / konsultanti"
-   ],
-   "posted": "2026-11-06",
-   "expires": "21.11.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/senior-performance-marketing-specialist/davies-meyer-doo/766017",
-   "summary": "This role converts performance data into growth by planning optimizing and scaling paid acquisition campaigns across major ad platforms. The specialist will lead measurement experiments manage budgets and advise clients to improve CPA ROAS and conversion outcomes.",
-   "matched": [
-    "data engineer",
-    "data platform",
-    "it support"
-   ],
-   "first_seen": "2026-11-06T19:59:46+00:00",
-   "details": "O poslodavcu Are you a performance-driven thinker who sees more in the numbers? Ready to turn data into growth and take campaigns to the next level? Help shape the future of performance marketing and join our international team! Key Tasks: Plan, launch, and optimize performance campaigns across platforms such as Google Ads, Meta, TikTok, LinkedIn, and other relevant channels Manage campaign budgets and bids to achieve targets such as CPA, ROAS, revenue, or lead volume Develop and test audience, channel, creative, and landing page strategies Monitor campaign performance and use data to identify trends, issues, and growth opportunities Set up and evaluate experiments, including A/B tests and incrementality or conversion tests Work with analytics and tracking setups to support reliable measurement and attribution Prepare performance reports and present results, insights, and actionable recommendations Advise clients on performance strategy, measurement, and budget allocation Participate in pitches, workshops, and new business initiatives Reference: Du9oykm4jLvT-6E_y7GLxTF5n-KobJ5o8410iVV5geHWsL2QoV6JULRQXBWPpjf0 Your skills: Several years of professional experience in performance marketing, ideally within an agency environment Strong hands-on knowledge of platforms such as Google Ads, Meta, TikTok, and LinkedIn Experience with campaign measurement, conversion tracking, attribution, and analytics tools such as Google Analytics Strong understanding of performance metrics, including CPA, ROAS, conversion rate, and revenue Analytical, data-driven mindset and confidence working with large data sets Ability to turn performance insights into clear optimization actions Independent, structured working style with strong consulting, presentation, and communication skills Fluent in English, written and spoken What we offer International enterprise projects with direct client contact — your work is visible, not buried in a ticket queue An AI-native engineering setup you'll help push forward, not catch up to Real influence on how we work: standards, tooling, architecture decisions Private health insurance Hybrid work arrangement A culture of continuous learning and knowledge sharing Unlimited coffee, tea, juices and water in the office, fresh fruit every Monday and various cereals every day to kick-start your day Birthday gifts, plus special recognition and gifts for 5- and 10-year work anniversaries. Davies Meyer DOO Novi Sad Davies Meyer je digitalna marketinška agencija sa kancelarijama u Hamburgu, Novom Sadu, Berlinu, Cirihu i Londonu. Agencija je osnovana 2000. godine u Hamburgu i danas broji više od 140 zaposlenih. Kancelarija u Novom Sadu je osnovana 2015. i od samog početka je specijalizovana za web programiranje i razvoj aplikacija. Novosadski tim broji 26 zaposlenih i nastavlja da raste... Više o nama pronađite na https://daviesmeyer.com/en/about-us/ Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad Marketing, promocija Menadžer za digitalni marketing Senior Pe"
-  },
-  {
-   "source": "helloworld",
-   "id": "766040",
-   "title": "Key Account Manager",
-   "company": "GoPro d.o.o.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [],
-   "posted": "2026-11-06",
-   "expires": "21.11.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Key-Account-Manager/GoPro-d.o.o/766040",
-   "summary": "GoPro d.o.o. Beograd | Hibrid 21.11.2026. Intermediate",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Key Account Manager Key Account Manager GoPro d.o.o. Beograd | Hibrid Beograd: Palmira Toljatija 68b 21.11.2026. intermediate Opis poslova: Kontinuirana analiza tržišta, konkurencije i perspektive razvoja poslovanja, sa posebnim osvrtom na postojeće klijente; Staranje o zadovoljstvu postojećih klijenata i održavanje dugoročnih poslovnih odnosa; Ostvarivanje novih i učvršćivanje postojećih kontakata sa postojećim i potencijalnim klijentima; Identifikovanje, proširenje i unapređenje postojećih, kao i otvaranje novih prodajnih prilika, u skladu sa strategijom razvoja kompanije; Povećanje vrednosti portfolija usluga i rešenja kod postojećih klijenata; Predlaganje novih projekata u skladu sa identifikovanim potrebama klijenata i poslovnim prilikama; Neposredno učešće u kreiranju novih proizvoda i usluga na osnovu potreba postojećih klijenata i tržišta; Priprema i prezentacija portfolija proizvoda i usluga kompanije; Planiranje marketinških aktivnosti; Organizacija, koordinacija i priprema tenderske dokumentacije prilikom učešća kompanije na tenderima i drugim nabavkama; Praćenje i realizacija naplate potraživanja od kupaca; Kontinuirano praćenje i izveštavanje o razvoju poslovanja u okviru domena odgovornosti. Profil kandidata: Diploma osnovnih studija iz oblasti poslovanja, marketinga ili srodne oblasti; Prethodno radno iskustvo na poziciji Key Account Manager-a ili drugoj relevantnoj poziciji, sa dokazanim uspehom u prodaji u softverskoj industriji; Dobro razumevanje i iskustvo u primeni Solution Selling metodologije ili sličnih prodajnih pristupa; Iskustvo u kreiranju i implementaciji strategije razvoja poslovanja; Visok nivo komunikacionih i pregovaračkih veština; Sposobnost upravljanja složenim projektima uz odlične organizacione veštine; Samostalnost u radu, proaktivnost i inicijativa; Tečno znanje engleskog jezika. Šta nudimo: Hibridni model rada; Neograničeni broj dana godišnjeg odmora; Nedokumentovano odsustvo (3 dana godišnje); Balans između poslovnog i privatnog života; Privatno zdravstveno osiguranje; Mogućnost rada na međunarodnim projektima i sticanja znanja iz različitih industrija, kao što su distribucija, logistika i proizvodnja; Mogućnosti za profesionalni razvoj kroz napredne treninge, edukacije i sertifikacije; Plaćene sportske aktivnosti i časovi stranih jezika; Organizovani team building događaji; Prijateljsko, inspirativno i kreativno radno okruženje. Konkuriši Upoznaj kompaniju O Kompaniji Iskustva Plate GoPro zapošljava iskusne i sertifikovane ljude u oblasti implementacije i razvoja poslovnih rešenja. Izbor naše firme daje klijentima vrednost iskustva u implementaciji i razvoju u više od 50 domaćih i stranih kompanija, sa različitim i specifičnim zahtevima poslovanja. Naše znanje, reference i dugogodišnje iskustvo u ovoj oblasti, predstavljaju najveći kapital i vrednost firme. Konstantno ulaganje u ljude, njihov lični razvoj i edukaciju doprinelo je tome da je naš tim stručnjaka u potpunosti spreman da odgovori i najzahtevnijim zadacima koji se pred njima postave. Orijentacija ka klijentima i njihovim potrebama, kao i briga o optimizaciji i unapređenju njihovog poslovanja, jedan je od najvažnijih ciljeva naše firme. Poverenje i zadovoljstvo klijenata je snažna motivacija koja nas pokreće da stalno razvijamo nova rešenja i usluge, da uvek osluškujemo i pratimo njihove potrebe. Misija firme je da pomogne klijentima u poboljšanju njihovog poslovanja koristeći proverenu metodologiju i vrhunsku tehnologiju, pružajući im ",
-   "first_seen": "2026-11-06T19:59:46+00:00"
   }
  ]
 }
