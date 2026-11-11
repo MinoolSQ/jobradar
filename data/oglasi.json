@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-10T20:30:26+00:00",
+ "generated_at": "2026-11-11T07:53:30+00:00",
  "window_days": 3,
- "cutoff": "2026-11-07",
- "count": 26,
- "new_count": 9,
+ "cutoff": "2026-11-08",
+ "count": 25,
+ "new_count": 0,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -112,12 +112,12 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 43,
+   "vraceno": 44,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 103,
+   "vraceno": 104,
    "strane": 4,
    "stop": "kraj"
   },
@@ -137,7 +137,7 @@
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 5,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,7 +152,7 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 71,
+   "vraceno": 73,
    "strane": 3,
    "stop": "kraj"
   }
@@ -386,7 +386,7 @@
    "expires": "25.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Product-Manager-Postgres/Supabase/766594",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 25.11.2026. Windows PostgreSQL Post gres Foundation Intermediate Novo",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 25.11.2026. Windows PostgreSQL Post gres Foundation Intermediate global.searchSelectItemEvents = {\"766171\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766171\",\"item_name\":\"Backend \\/ Embedded Systems Developer\",\"item_index\":0,\"item_brand\":\"LMB Soft d.o.o.\",\"item_category\":\"Embedded Software Developer\",\"item_category2\":\"Programiranj",
    "matched": [
     "helloworld"
    ],
@@ -687,7 +687,7 @@
    "expires": "24.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Full-Stack-Engineer-Frontend-Leaning-Studio/ElevenLabs/766350",
-   "summary": "ElevenLabs Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Intermediate Senior Novo",
+   "summary": "ElevenLabs Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Intermediate Senior",
    "matched": [
     "helloworld"
    ],
@@ -707,7 +707,7 @@
    "expires": "24.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Full-Stack-Engineer-ElevenCreative-Enterprise/ElevenLabs/766351",
-   "summary": "ElevenLabs Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Intermediate Senior global.searchSelectItemEvents = {\"766601\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766601\",\"item_name\":\"BE Data Engineer\",\"item_index\":0,\"item_brand\":\"Consolia\",\"item_category\":\"Business Intelligence \\/ Data Warehouse Consultant\",\"item_category2\":\"Prodaja \\/ konsultanti\",\"item_category3\":\"interm",
+   "summary": "ElevenLabs Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Intermediate Senior global.searchSelectItemEvents = {\"766171\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766171\",\"item_name\":\"Backend \\/ Embedded Systems Developer\",\"item_index\":0,\"item_brand\":\"LMB Soft d.o.o.\",\"item_category\":\"Embedded Software Developer\",\"item_category2\":\"Programiranje\",\"item_category3\":\"intermedia",
    "matched": [
     "helloworld"
    ],
@@ -732,7 +732,7 @@
    "expires": "24.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Software-Engineer-ML-Ops/Cohere/766349",
-   "summary": "Cohere Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Linux Python Foundation Kubernetes Intermediate Senior Novo",
+   "summary": "Cohere Inostranstvo, Inostranstvo | Rad od kuće 24.11.2026. Linux Python Foundation Kubernetes Intermediate Senior",
    "matched": [
     "helloworld"
    ],
@@ -789,7 +789,7 @@
    "expires": "24.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Web-Designer/Workforce-Human-Resources-d.o.o/765693",
-   "summary": "Workforce Human Resources d.o.o. Beograd 24.11.2026. CSS HTML WordPress Figma Intermediate Novo",
+   "summary": "Workforce Human Resources d.o.o. Beograd 24.11.2026. CSS HTML WordPress Figma Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -858,38 +858,6 @@
     "weworkremotely"
    ],
    "first_seen": "2026-11-09T08:12:54+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137701",
-   "title": "AI Developer",
-   "company": "Salvo Software",
-   "location": "remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "dev",
-    "grafana",
-    "infosec",
-    "python",
-    "docker",
-    "technical",
-    "customer support",
-    "devops",
-    "c",
-    "c plus plus",
-    "cloud",
-    "git"
-   ],
-   "posted": "2026-11-07",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
-   "summary": "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that solve complex technical challenges. Our culture values innovation, ownership, and engineering excellence. We're growing our AI department and are",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-08T07:35:23+00:00"
   }
  ]
 }
