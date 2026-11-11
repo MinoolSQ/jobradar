@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-11T07:53:30+00:00",
+ "generated_at": "2026-11-11T20:16:06+00:00",
  "window_days": 3,
  "cutoff": "2026-11-08",
- "count": 25,
- "new_count": 0,
+ "count": 26,
+ "new_count": 1,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 32,
+   "vraceno": 33,
    "strane": 2,
    "stop": "kraj"
   },
@@ -117,7 +117,7 @@
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 104,
+   "vraceno": 107,
    "strane": 4,
    "stop": "kraj"
   },
@@ -152,12 +152,44 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 73,
+   "vraceno": 78,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137714",
+   "title": "Data Engineer",
+   "company": "Addepto",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "saas",
+    "salesforce",
+    "python",
+    "education",
+    "consulting",
+    "customer support",
+    "testing",
+    "marketing",
+    "dev",
+    "finance",
+    "cloud"
+   ],
+   "posted": "2026-11-10",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+   "summary": "Addepto is a leading AI consulting ( https://addepto.com/ai-consulting/ ) and data engineering ( https://addepto.com/data-engineering-services/ ) company that builds scalable, ROI-focused AI solutions for some of the world's largest enterprises and pioneering startups, including Rolls Royce, Continental, Porsche, ABB, and WGU. With an exclusive focus on Artificial Intelligence and Big Data, Addept",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-11T20:16:06+00:00"
+  },
   {
    "source": "infostud",
    "id": "766629",
