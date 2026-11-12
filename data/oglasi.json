@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-11T20:16:06+00:00",
+ "generated_at": "2026-11-12T08:30:53+00:00",
  "window_days": 3,
- "cutoff": "2026-11-08",
- "count": 26,
- "new_count": 1,
+ "cutoff": "2026-11-09",
+ "count": 28,
+ "new_count": 3,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 7,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 33,
+   "vraceno": 44,
    "strane": 2,
    "stop": "kraj"
   },
@@ -52,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 5,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 8,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,23 +87,23 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 11,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "linux": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 27,
-   "strane": 1,
+   "vraceno": 34,
+   "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
@@ -112,27 +112,27 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 44,
+   "vraceno": 49,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 107,
-   "strane": 4,
+   "vraceno": 127,
+   "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 21,
+   "vraceno": 27,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 36,
+   "vraceno": 49,
    "strane": 2,
    "stop": "kraj"
   },
@@ -142,22 +142,108 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 78,
-   "strane": 3,
+   "vraceno": 92,
+   "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "766638",
+   "title": "IT tehničar - tehička podrška L1 nivoa",
+   "company": "GT Solutions d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Linux",
+    "Windows Server",
+    "Windows",
+    "C",
+    "Podrška",
+    "Cloud"
+   ],
+   "posted": "2026-11-12",
+   "expires": "12.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar-tehicka-podrska-l1-nivoa/gt-solutions-doo/766638",
+   "summary": "Pozicija postoji da obezbedi tehničku korisničku podršku i održavanje IT sistema kako bi se obezbedio kontinuitet poslovanja. Kandidat će dijagnostikovati i rešavati softverske i hardverske probleme te održavati mrežnu i radnu opremu.",
+   "matched": [
+    "cloud",
+    "linux",
+    "it tehnicar",
+    "it podrska",
+    "tehnicka podrska",
+    "mrezni",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-11-12T08:30:53+00:00",
+   "details": "O poslodavcu Ko smo mi? GT Solutions je IT kompanija sa sedištem u Beogradu, osnovana 2009. godine. Bavimo se projektovanjem, implementacijom i održavanjem IT sistema i infrastrukture, uključujući računarske sisteme i mreže, sistemsku integraciju, lokalnu i cloud infrastrukturu, kao i pružanje tehničke podrške poslovnim korisnicima. Sarađujemo sa malim, srednjim i velikim preduzećima iz različitih delatnosti, na domaćem i međunarodnom tržištu. Kroz dugogodišnje poslovanje izgradili smo dugoročne poslovne odnose sa klijentima, zasnovane na kontinuiranoj podršci i održavanju. Naš tim čini šestoro ljudi, koji direktno sarađuju i međusobno razmenjuju informacije, što omogućava neposrednu komunikaciju i koordinaciju u svakodnevnom radu. U potrazi smo za novim kolegama koji žele da svoje znanje i veštine primene u oblasti IT-ja i doprinesu radu i razvoju naših usluga. Koga tražimo? 1. Formalni uslovi Najmanje IV stepen stručne spreme; Posedovanje vozačke dozvole B kategorije; Osnovno znanje engleskog jezika. Reference: N6kZhJ6ZrCRCSO08jaANYm0ih7Xg4nevof9fDZUmT4W1W2LkEMsA8sUAXZ_UG_wo 2. Stručna znanja i veštine Neophodno napredno poznavanje rada na računaru; Potrebno je dobro poznavanje instalacije i konfiguracije softvera, ugradnje hardvera, monitoringa i održavanja računarskih sistema; Poznavanje računara, računarskih mreža i računarske opreme; Poznavanje Microsoft Office 365 platforme; Napredno poznavanje i korišćenje Microsoft Windows operativnih sistema; Sposobnost rešavanja softverskih i hardverskih problema; Poželjno radno iskustvo na poslovima tehničke podrške; Poželjno poznavanje i korišćenje Microsoft Windows Server operativnih sistema; Poželjno poznavanje i korišćenje Linux operativnih sistema. 3. Lične osobine Odgovoran odnos prema radnim zadacima i organizaciji posla; Preciznost i pouzdanost u radu; Timski duh i spremnost na saradnju sa kolegama; Posvećenost korisnicima pri rešavanju problema u radu; Analitički pristup rešavanju problema; Samostalnost u radu i samoinicijativa; Poštovanje internih procedura i dogovora u vezi sa organizacijom rada. Čime ćeš se baviti? A. Korisnička podrška Prijem i evidentiranje prijavljenih problema. Dijagnostikovanje i rešavanje tehničkih problema korisnika. Pružanje tehničke podrške korisnicima telefonom, na daljinu i na terenu. B. Računari i softver Instalacija i konfiguracija operativnih sistema i aplikacija. Održavanje računara i periferne opreme. Dijagnostika hardverskih i softverskih kvarova. C. Mreže i komunikaciona oprema Osnovna dijagnostika i održavanje računarskih mreža. Održavanje aktivne i pasivne mrežne opreme. D. Organizacija rada Evidentiranje urađenih intervencija. Saradnja sa kolegama i prosleđivanje složenijih problema odgovarajućem nivou podrške. Šta nudimo? Ugovor o radu na određeno i neodređeno vreme. Puno radno vreme, od 9 do 17 časova. Kombinovan rad iz kancelarije i na terenu. Uvođenje u posao kroz saradnju sa kolegama koji već rade na istoj poziciji. Mogućnost profesionalnog napredovanja i prelaska na pozicije sa većim nivoom odgovornosti, u skladu sa stečenim znanjem, sposobnostima i interesovanjem zaposlenog. Kako da se prijaviš? Ukoliko smatraš da svojim znanjem, veštinama i interesovanjem odgovaraš opisanom profilu, pozivamo te da nam pošalješ svoj CV elektronskim putem. Radujemo se prilici da te upoznamo! GT Solutions doo Omladinskih brigada 14, Beograd, Srbija PIB: 106129298 Matični broj: 20539674 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Pozovit"
+  },
+  {
+   "source": "infostud",
+   "id": "766647",
+   "title": "PL/SQL Developer",
+   "company": "Premium Software d.o.o.",
+   "location": "Novi Sad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Oracle",
+    "Jasper",
+    "Programiranje",
+    "PL/SQL"
+   ],
+   "posted": "2026-11-12",
+   "expires": "27.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/pl-sql-developer/premium-software-doo/766647",
+   "summary": "This role develops and maintains enterprise database applications that support critical banking and insurance processes. The developer translates business requirements into efficient PL/SQL solutions and improves database performance. The position increases system reliability and enables complex integrations across financial environments.",
+   "matched": [
+    "data engineer",
+    "sql",
+    "it support"
+   ],
+   "first_seen": "2026-11-12T08:30:53+00:00",
+   "details": "O poslodavcu PREMIUM Software develops and implements enterprise software solutions for banks, financial institutions and insurance companies, both in Serbia and internationally. Our solutions support critical business operations and complex processes across the financial and insurance industries. We are looking for a motivated and talented PL/SQL Developer to join our team and contribute to the development of our software solutions. What you'll be doing: Developing and maintaining enterprise applications using Oracle Database and PL/SQL. Designing and implementing database structures, business logic and application functionality. Analyzing business requirements and translating them into efficient technical solutions. Working on complex business processes and integrations within banking and insurance systems. Testing, debugging and optimizing existing code and database performance. Collaborating with other developers, analysts and project team members. Contributing to technical documentation and continuous improvement of our software. Reference: alEjVwNF0UyFNNUrKzRT4Z4a0ZlgTvS_6jA9EL3I85jGzYxP80FJZ6J4mXcoq1F8 What we're looking for: Strong knowledge of SQL and relational databases. Good knowledge of PL/SQL and experience with Oracle Database. Experience in database application development. Understanding of object-oriented programming concepts and design patterns. Analytical thinking and problem-solving skills. Ability to work independently as well as part of a team. Proactive approach, responsibility and willingness to learn. Openness to adopting AI tools and modern development practices to improve productivity and code quality. Experience: 3+ years of relevant experience (Medior level). Experience in developing software solutions for banks, financial institutions or insurance companies is considered an advantage. What we offer: Permanent employment. Competitive salary, based on experience and skills. Private health insurance. 22+ days of annual leave. Opportunity to work on complex enterprise software solutions used by financial and insurance institutions. Opportunity for continuous professional development and learning new technologies. A stimulating working environment with experienced professionals. Open, informal and collaborative team culture. Interested? If you are passionate about software development and want to work on business-critical systems that support the financial and insurance industries, we'd like to hear from you. Send us your CV and become part of the PREMIUM team. Join us and grow with us! PREMIUM SOFTWARE d.o.o. Bulevar Oslobođenja 88, Novi Sad, Srbija PIB: 103860158 Matični broj: 20038390 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad IT Software Developer / Programmer / Engineer PL/SQL Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medi"
+  },
+  {
+   "source": "infostud",
+   "id": "766741",
+   "title": "Technical Support Specialist - Polish Speaker",
+   "company": "NCR Voyix",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": null,
+   "expires": "12.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/technical-support-specialist-polish-speaker/ncr-voyix/766741",
+   "summary": "This role coordinates technical support for field technicians installers and vendors while acting as the primary contact for incidents. The specialist owns incidents from identification through diagnosis escalation and resolution while capturing knowledge to prevent recurrence.",
+   "matched": [
+    "data engineer",
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-11-12T08:30:53+00:00",
+   "details": "O poslodavcu TITLE: Technical Support Agent L2 - Polish Speaker LOCATION: Belgrade GRADE: B2 This role will serve as the single point of contact for NCR Voyix technicians, installers and vendors over the phone as well as the customer when required, dealing with hardware, networking and software support and issues reported to the helpdesk via the ticketing system/ email escalations / phone calls. This role will take ownership and responsibility of an issue from start through to a successful resolution. Position summary and key areas of responsibility: Position will provide hardware / software support to NCR Voyix's Customer Engineers and contracted installers. Support will include problem identification, analysis, diagnosis and resolution; Presents and gains agreement for problem isolation, solution creation and implementation plans; coordinates with PMO and IC teams until project conclusion. Utilize Knowledge Systems provided by NCR and other vendors as appropriate to identify solutions to known problems; Responsible for ensuring that solutions provided are successful; Customizes and provides business data for knowledge applications. Following the documented Remote Incident Management Process. Generates daily and weekly incident reporting; Reviews incident history to determine recurring faults. Enhance and develop quality support methods and communication skills through coaching feedback, and other developmental approaches. Escalate both internally and externally when required per defined Escalation Paths. Position retains ownership of all escalated problems/issues through to resolution and is responsible for ensuring that NCR Voyix Management is informed if resolution to a problem will take longer than contractual agreements require. Answer incoming phone calls from store personnel and field engineers; Monitor the e-mail, notification and ticket queue screens; Remotely resolve problems with a remote resolution opportunity; Dispatch to NCR Field or third parties. Forms project team, facilitates project binder content, conducts project team meetings, owns meeting minutes and risk/issue documentation and resolution. 7/24 operations that include weekend support. Work to anticipate internal and external client needs and commitment to customer satisfaction; Monitoring and reacting to events for all customer. Draw from a large pool of diverse resources or information; Develop new approaches for situations in which standard approaches do not apply; Adjusts to multiple demands, shifting priorities, ambiguity, and rapid change; Accepts and adapts to new or alternative approaches. Perform other corresponding duties and tasks in accordance with his qualifications, as directed by Employer. Incumbent is responsible to attend all company mandated/recommended training courses. Respect NCR Voyix procedures, as well as customers internal procedures. Reference: SBtEUmOZl8xXx1j-e0en8xwmv79w5ZvkZv-624hPuNK_5uW7B5ros2crfONTmKVH Candidates profile and qualifications: Good IT background; Fluent in Polish and English language; Good interpersonal skills and ability to work well with others; Ability to utilize the applications for support, reporting and documentation; Excellent oral and written communication skills; Ability to provide technical support over the phone, good phone skills, professional demeanor; Good problem-solving skills; critical thinking; ability to visualize a problem or situation and think abstractly to solve it. NCR Voyix NCR Voyix Corporati"
+  },
   {
    "source": "remoteok",
    "id": "remoteok-1137714",
@@ -769,38 +855,6 @@
     "helloworld"
    ],
    "details": "Software Engineer, ML Ops Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Software Engineer, ML Ops Cohere Inostranstvo | Rad od kuće 24.11.2026. Linux Python Foundation Kubernetes senior intermediate Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft. We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us! Why this team? Internal Infrastructure builds the infrastructure and tools used to train, evaluate, and serve Cohere's foundation models. You will work with AI researchers and ML engineers on stability, scalability, and observability. The work accelerates the models behind Cohere's platform, North. You will own the developer platform researchers use to write, build, and debug training code: dev environments, container images, CI, and training instrumentation. The role includes a compensated 24x7 on-call rotation. What you will do Run secure developer environments that stay controlled and accelerate developer velocity as the research org scales. Own container image build and CI/CD tooling. Instrument training code and build self-service tooling so researchers can see why a run failed and debug it themselves. Set infrastructure best practices through AI enablement, documentation, and office hours. Troubleshoot production failures and performance problems, and leave the system easier to operate than you found it. Build automation, infrastructure-as-code, and observability so the platform stays maintainable. We hire at more than one level. We set level based on the scope you've owned and how independently you drive work. You may be a good fit if you have Run a developer platform in production: CI, image builds, dev environments, or internal tooling that many engineers depend on. Made ML engineers or researchers faster without making the platform fragile. Enough Linux and Kubernetes to debug production systems. Experience operating a GPU cluster is a plus. Written software in Python or Go. You would rather extend a solid open-source project than rebuild it. Worked with researchers, ML engineers, or another team whose goals were not identical to yours. Found a bottleneck, proposed a fix, and driven it in a fast-moving environment. If this does not line up exactly with your experience, we still encourage you to apply. Full-Time Employees at Cohere enjoy these Perks A weekly lunch stipend of $75/£75 or equivalent in your local currency for lunch. Full health and dental benefits, including a separate budget for mental health. RRSP matching, 401K, Pension Scheme. 100% Parental Leave top-up for up to 6 months, for either parent. Annual enrichment benefits: Arts & culture, fitness/wellness, quality time, and a workspace improvement credit. Education & learning stipend for conf",
-   "first_seen": "2026-11-09T23:03:16+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137704",
-   "title": "UI Developer",
-   "company": "RainFocus",
-   "location": "Any State",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "dev",
-    "design",
-    "react",
-    "front end",
-    "customer support",
-    "web dev",
-    "javascript",
-    "java",
-    "css",
-    "html",
-    "git",
-    "exec"
-   ],
-   "posted": "2026-11-08",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
-   "summary": "RainFocus, one of the most innovative software companies, is in search of an exceptional Jr. UI Developer. About RainFocus RainFocus cares about its employees, customers, and the world in which we live. Our rapidly growing team serves Fortune 500 companies like Adobe, Cisco, IBM, Oracle, VMware, and others to prepare and execute in-person, virtual, and hybrid events, across the world. Those events",
-   "matched": [
-    "remoteok"
-   ],
    "first_seen": "2026-11-09T23:03:16+00:00"
   },
   {
