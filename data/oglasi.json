@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-13T08:15:07+00:00",
+ "generated_at": "2026-11-13T20:33:14+00:00",
  "window_days": 3,
  "cutoff": "2026-11-10",
- "count": 29,
- "new_count": 2,
+ "count": 37,
+ "new_count": 8,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,17 +12,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 11,
+   "vraceno": 12,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 4,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 31,
+   "vraceno": 34,
    "strane": 2,
    "stop": "kraj"
   },
@@ -37,8 +37,8 @@
    "stop": "kraj"
   },
   "spark": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "airflow": {
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 9,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,23 +102,23 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 31,
+   "vraceno": 35,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 14,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 41,
+   "vraceno": 55,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 133,
-   "strane": 5,
+   "vraceno": 164,
+   "strane": 6,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,17 +127,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 31,
+   "vraceno": 37,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 44,
+   "vraceno": 53,
    "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 4,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -147,17 +147,222 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 101,
-   "strane": 4,
+   "vraceno": 128,
+   "strane": 5,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "767069",
+   "title": "IT Administrator",
+   "company": "Yura Corporation d.o.o.",
+   "location": "Niš",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "CISCO",
+    "Windows",
+    "Sistemska administracija",
+    "Hardware"
+   ],
+   "posted": "2026-11-13",
+   "expires": "28.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-administrator/yura-corporation-doo/767069",
+   "summary": "The IT Administrator will ensure reliable operation and availability of plant IT systems to support continuous manufacturing. The role focuses on network and server maintenance user support and surveillance system management to minimize downtime and sustain production efficiency.",
+   "matched": [
+    "administrator",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-11-13T20:33:14+00:00",
+   "details": "O poslodavcu YURA Corporation is one of the leading suppliers of wiring harnesses for the automotive industry. We began production in Serbia in 2010 and have since opened⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ four factories and employed more than 6,000 people across Rača, Niš, and Leskovac. We are looking for a motivated and skilled IT Administrator to join our IT department at the Niš plant. Employment Type Fixed-term employment contract for the temporary replacement of an employee on leave. Maintain and troubleshoot network infrastructure, including Cisco switches and other network equipment. Maintain⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ Windows workstations, servers, and other IT infrastructure. Provide technical support to employees and resolve hardware and software issues. Monitor IT systems and carry out routine maintenance to ensure stable daily operations. Maintain, monitor, and troubleshoot video surveillance systems, including CCTV cameras, DVRs, and NVRs. Prepare purchase requests for IT equipment and⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ coordinate with suppliers. Maintain technical documentation and prepare periodic reports on IT systems and activities. Perform other IT-related duties as required by the department. Reference: 1ZFHi9WK9rvbqg What We Expect A higher vocational diploma or a university degree in electronics or electronic engineering. Knowledge of Cisco networking equipment and local area networks. Experience with Microsoft⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ Windows administration and troubleshooting computer and server hardware. Ability to diagnose technical issues and provide clear support to users. Conversational English is required. Good organizational skills and the ability to prioritize tasks and work as part of a team. What We Offer A collaborative work environment within our IT team. Opportunities for⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ professional development and continuous learning. Hands-on experience supporting IT infrastructure in an automotive manufacturing environment. Interested candidates are invited to submit their CV through Poslovi Infostud. Yura Corporation doo Yura Corporation, a global automotive industry supplier of electrical and electronic components, is leading the development of core parts for eco-friendly cars. Yura Corporation specializes in designing, developing, and manufacturing automotive electronics including Wiring harness and ICUs. The company was established in 1993. and today, with a network of 22 corporations and 45 business sites in 16 countries, the company has solidified it’s position as a global specialist in the automotive… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Niš IT IT Administrator IT Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopul"
+  },
+  {
+   "source": "infostud",
+   "id": "767108",
+   "title": "Senior Sales Manager/Key Account Manager – UniDocs i rešenja za upravljanje dokumentima i procesima",
+   "company": "OSA Računarski inženjering",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Prodaja / konsultanti",
+    "ERP",
+    "CRM"
+   ],
+   "posted": "2026-11-13",
+   "expires": "13.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-sales-manager-key-account-manager-unidocs-i-resenja-za-upravljanje-dokumentima-i-procesima/osa-racunarski-inzenjering/767108",
+   "summary": "Pozicija postoji da otvori i razvije prodaju platforme za upravljanje dokumentima u srednjim i velikim preduzećima. Kandidat će voditi ceo prodajni ciklus zajedno sa konsultantskim i razvojnim timom i biti odgovoran za ostvarenje godišnjeg cilja novih poslova.",
+   "matched": [
+    "racunari"
+   ],
+   "first_seen": "2026-11-13T20:33:14+00:00",
+   "details": "O poslodavcu O nama i zašto sada OSA Računarski inženjering je softverska i inženjerska kompanija iz Beograda sa više od 37 godina rada i preko 400 aktivnih kupaca u Srbiji i regionu. Radimo u tri oblasti: profesionalna oprema za štampu i obradu dokumenata sa sopstvenim servisom, Autodesk softver za projektne biroe i inženjerske firme, i sopstveni proizvod⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ UniDocs — platforma za upravljanje dokumentima i poslovnim procesima: elektronska arhiva, e-fakture i SEF, tokovi odobravanja, pisarnica i integracije sa ERP sistemima. Pored proizvoda, za klijente razvijamo prilagođena rešenja u istoj oblasti: integracije sa ERP i drugim sistemima, automatizaciju procesa nad dokumentima, digitalizaciju i migraciju arhiva. U 2027. UniDocs i ova rešenja postaju glavni pravac rasta kompanije i sada otvaramo poziciju prodavca posvećenog isključivo tome; postojeći kupci iz druge dve oblasti su vam ulaz, ne zaduženje. Šta ćete raditi Otvarate nove klijente u srednjim i velikim preduzećima u Srbiji: proizvodnja, distribucija, energetika, telekomunikacije, javna preduzeća, grupe sa više firmi. Od prvog dana⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ radite sa spiskom od 50 ciljnih kompanija i preporukama iz naše baze kupaca. Vodite ceo prodajni ciklus: razgovor sa klijentom, razumevanje kako danas rade sa dokumentima i gde su prostori za unapređenje, oblikovanje rešenja sa našim konsultantima, ponuda i pregovori. Prodajete UniDocs i prilagođena rešenja u istoj oblasti. Radite sa ERP partnerima klijenata (SAP, Microsoft Dynamics, Pantheon i drugi) i sa našim timom za implementaciju. Održavate plan prodaje u CRM-u. Odgovorni ste za godišnji plan novih poslova (orijentir: 250–300 hiljada EUR novog prihoda) i ostvarenu zaradu; odgovarate direktno rukovodiocu UniDocs sektora. Reference: 1ZFHi9WK9rvbqg Koga tražimo Prodavca B2B softvera ili poslovnih rešenja sa najmanje pet godina iskustva i rezultatima koje možete da navedete; očekujemo da ste realizovali oko 250.000 EUR⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ novih ugovora godišnje u bar dve od poslednje tri godine. Prodavca koji prvo sluša, pa tek onda nudi: razume kako klijent radi, prepoznaje stvarnu potrebu iza zahteva i predlaže rešenje koje klijent može da plati i koristi. Imate postojeće odnose sa donosiocima odluka u srpskim srednjim i velikim preduzećima (uprava, finansije, IT). Umete da vodite odluku kroz više učesnika i da pregovarate o projektima i stvarnim potrebama korisnika. Poznajete ERP okruženje i regulativu e-faktura i SEF-a; iskustvo sa DMS/ECM sistemima ili prodajom integracionih projekata je prednost. Iskustvo prodaje javnim preduzećima i rad u postupcima javnih nabavki su prednost. Radite disciplinovano u CRM-u; vozačka dozvola⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ B kategorije; engleski jezik je prednost. Nudimo Fiksnu zaradu u skladu sa iskustvom i bonus vezan za ostvareni plan. Sopstveni proizvod, ne tuđu licencu: razvoj je u istoj kući a izmene i prioriteti se dogovaraju interno. Direktan rad sa rukovodiocem UniDocs sektora i upravom kompanije; brze i jasne odluke, bez međuslojeva odlučivanja. Polaznu tačku umesto hladnog starta: preko 400 aktivnih kupaca i spisak od 50 ciljnih firmi. Konsultantski i razvojni tim koji ide sa vama na sastanke i stoji iza svake ponude. Stabilnu firmu sa 37 godina rada, klijentima koji ostaju decenijama i proizvod koji u 2027. dobija nove funkcionalnosti. Službeni automobil ili naknadu,⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍"
+  },
+  {
+   "source": "infostud",
+   "id": "767092",
+   "title": "Web dizajner / Front-end developer – eksterni saradnik",
+   "company": "Tehnomedia Centar d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Java",
+    "Programiranje",
+    "Web dizajn"
+   ],
+   "posted": "2026-11-13",
+   "expires": "28.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/web-dizajner-front-end-developer-eksterni-saradnik/tehnomedia-centar-doo/767092",
+   "summary": "Ova pozicija postoji da obezbedi dizajn i razvoj za unapređenje i održavanje web shopa. Kandidat će raditi front end implementacije i sarađivati sa marketing i IT timom na realizaciji digitalnih projekata.",
+   "matched": [
+    "it podrska"
+   ],
+   "first_seen": "2026-11-13T20:33:14+00:00",
+   "details": "O poslodavcu Tehnomedia Centar traži eksternog saradnika za web dizajn i razvoj,⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ koji bi pružao podršku u unapređenju i održavanju našeg web shopa i realizaciji digitalnih projekata. Opis angažovanja: Dizajniranje i unapređivanje vizuelnog izgleda web shopa. Izrada i prilagođavanje⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ HTML stranica i web elemenata. Rad na unapređenju korisničkog iskustva (UX/UI). Implementacija i prilagođavanje web funkcionalnosti. Izrada i optimizacija web banera i promotivnih elemenata. Saradnja⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ sa marketing i IT timom na realizaciji digitalnih projekata. Reference: 1ZFHi9WK9rvbqg Potrebna znanja i iskustvo: Dobro poznavanje HTML-a i CSS-a. Poznavanje JavaScript-a i/ili Java programskog jezika. Iskustvo⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ u web dizajnu i razvoju e-commerce platformi. Poznavanje responzivnog dizajna i UX/UI principa. Samostalnost, odgovornost i poštovanje dogovorenih rokova. Poželjno je da kandidat dostavi portfolio prethodnih radova. Model⁠‌‌‌‍‌​‌‌​‌⁠‍​‍⁠⁠‌‌‌‍​‍‍⁠⁠‌‍‍⁠‍⁠⁠‌‍⁠‍‍‍‍ saradnje: Eksterni angažman, po dogovoru. Angažovanje prema potrebama i dinamici digitalnih projekata. Tehnomedia Centar DOO Kompanija “Tehnomedia centar\" d.o.o. osnovana je 2001. godine u Zaječaru, kao mala radnja bele tehnike, audio i video opreme pod imenom \"Technic house”. Od 2006. godine posluje pod prepoznatljivim imenom “Tehnomedia” i od tada gradi poziciju lidera u oblasti trgovine belom tehnikom, malim kućnim aparatima, IT opremom, uređajima za grejanje i klimatizaciju, audio i video opremom. Za više od dvadeset godina poslovanja, od kojih 20 pod imenom Tehnomedia, kompanija je izgradila mrežu koja danas… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT UX / UI / WEB Designer Web dizajner / Front-end developer – eksterni saradnik Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-edgeq-technologies-private-limited-ai-infrastructure-specialist",
+   "title": "AI Infrastructure Specialist",
+   "company": "EdgeQ Technologies Private Limited",
+   "location": "USA Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-13",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-infrastructure-specialist",
+   "summary": "Headquarters: United States AI Infrastructure Specialist Job Title: AI Infrastructure Specialist Location: United States (Remote) Work Mode: 100% Remote Experience: 2–6 Years Salary Range: $95,000 – $155,000 per year (USD) Employment Type: Full-Time Job Category: Artificial Intelligence / Cloud Infrastructure / DevOps Job Summary We are seeking a skilled and experienced AI Infrastructure Specialis",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-13T20:33:14+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767113",
+   "title": "Engineering Manager, Security",
+   "company": "Perplexity AI, Inc.",
+   "location": "Inostranstvo, Inostranstvo",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "aws",
+    "rest",
+    "soc",
+    "cloud",
+    "kubernetes"
+   ],
+   "posted": "2026-11-13",
+   "expires": "28.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Engineering-Manager-Security/Perplexity-AI-Inc/767113",
+   "summary": "Perplexity AI, Inc. Inostranstvo, Inostranstvo 28.11.2026. AWS REST SoC Cloud Kubernetes Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Engineering Manager, Security Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Engineering Manager, Security Perplexity AI, Inc. Inostranstvo 28.11.2026. AWS REST SoC Cloud Kubernetes senior About the role Perplexity's security team protects products used by millions of people and thousands of enterprises, including AI agents that browse the web, run code, and act in customer systems. The team is small, senior, and builds most of what it uses: our own detections, agents that triage and investigate alerts around the clock, continuous offensive testing, and secure-by-default platforms for the rest of engineering. We're also turning what we've built into cybersecurity products for customers, so the same team that defends Perplexity builds what we ship. We're looking for an Engineering Manager to lead and grow Security Engineering, including the engineers building our cybersecurity products. You'll own the team's execution and people, set the technical direction for how we defend our infrastructure, products, and corporate environment, and lead the product engineering work that brings those systems to customers. You'll stay close enough to the work to run an incident or review a design yourself. You'll report to Perplexity's head of security and work with engineering, infrastructure, IT, product, legal, and our co-founders. Responsibilities Lead, hire, and grow a team of security engineers across detection and response, cloud and infrastructure security, application and product security, offensive security, and identity and corporate security. Lead the engineers building our cybersecurity products: set technical direction for agent-driven products across application security, offensive testing, cloud security, and detection and response, and own delivery to design partners and enterprise customers. Keep the internal security program and the product tightly linked, so what the team runs on Perplexity every day becomes what we ship, and customer feedback improves how we defend ourselves. Set the roadmap for Security Engineering, balancing incident load, risk reduction, and long-term platform investments, and make clear prioritization calls. Own security incident response operations: on-call health, escalation, cross-team coordination during incidents, and postmortems that lead to real fixes. Drive an AI-first security program. Push the team to automate investigation, response, and remediation with agents, and hold that automation to a high bar for accuracy and safety. Partner with engineering and infrastructure leaders to get security work into their roadmaps, from threat models and design reviews to least-privilege access and secure-by-default libraries. Represent Security Engineering in enterprise customer security reviews, external researcher and bug bounty engagements, and audits. Build the team's operating rhythm: clear ownership, metrics that matter (time to detect, time to contain, open risk), and written standards others can follow. Stay hands-on: review designs and code, run investigations when needed, and keep a working understanding of the systems the team defends. Qualifications 8+ years of engineering experience in security, with at least 3 years managing security or infrastructure engineering teams. Deep hands-on background in at least two of: detection and response, cloud security (AWS preferred), application or product security, offensive security, or identity and access management. Experie",
+   "first_seen": "2026-11-13T20:33:14+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767114",
+   "title": "Head of Enterprise Product",
+   "company": "n8n",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sap",
+    "cloud"
+   ],
+   "posted": "2026-11-13",
+   "expires": "28.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Head-of-Enterprise-Product/n8n/767114",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 28.11.2026. SAP Cloud Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Head of Enterprise Product Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Head of Enterprise Product n8n Inostranstvo | Rad od kuće 28.11.2026. SAP Cloud senior The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact. Since our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve: Cultivated a community of more than 650,000 active developers and builders Earned 190K+ GitHub stars, making us one of the world’s Top 40 most popular projects Backed by top investors, from Sequoia’s first German seed to our SAP's recent strategic investment - bringing us to a $5.2bn valuation That’s the company we’ve built. Now we’d love to see what you can build. If you’re applying, try n8n out - whether you’re technical or not - and share a screenshot of your first workflow with us. The easiest place to start is here: app.n8n.cloud/register . We’re in a defining moment of an incredible journey. Come and build with us. Your main goal will be to lead n8n’s enterprise product strategy and build scalable monetisation infrastructure , turning complex enterprise needs into innovative, reusable capabilities while preserving the simplicity, flexibility, and product-led experience that make n8n successful. To make this happen, you'll take ownership of four key areas: Shape our enterprise product vision and strategy Define and drive our enterprise product vision, translating the needs of builders, admins, and buyers across governance, security, compliance, scale, and reliability into reusable product capabilities. Identify new opportunities, make thoughtful product bets, and decide which customer requests to prioritise, decline, or transform into broader solutions rather than reacting to individual deals. Champion exceptional product craft, usability, and quality, balancing innovation with enterprise readiness and measuring success through adoption, time-to-value, retention, and expansion. Own and scale our monetisation infrastructure Set the product strategy, priorities, and roadmap for monetisation infrastructure, enabling evolving commercial models without creating unnecessary complexity, exceptions, or workarounds. Partner with Growth, Finance, Sales, and self-serve product teams to inform pricing, packaging, and tiering decisions while maintaining clear ownership of product priorities and outcomes. Make strategic trade-offs between new commercial capabilities, foundational investments, and simplification, ensuring reliable, scalable infrastructure with clear dependencies and realistic delivery commitments. Build a high-performing product function and drive technical alignment Shape and lead the enterprise Product Management function, owning team structure, hiring, performance, and career development while empowering PMs to make strong, autonomous decisions. Partner closely with Engineering leadership to build ambitious yet achievable roadmaps, making informed decisions about scope, sequencing, architectural constraints, and tec",
+   "first_seen": "2026-11-13T20:33:14+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137792",
+   "title": "Research Engineer Privacy and Anonymization",
+   "company": "Pragmatike",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "embedded",
+    "infosec",
+    "python",
+    "education",
+    "technical",
+    "finance",
+    "content writing",
+    "ops",
+    "medical",
+    "recruiter",
+    "engineer"
+   ],
+   "posted": "2026-11-12",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
+   "summary": "Location: San Francisco or Singapore (on-site), or remote (Singapore or US Pacific time zones) Start Date: ASAP Languages: English Team: Engineering About the Role Our client is a fast-growing AI company building reliable, fair and open infrastructure for AI training data. Their marketplace helps the people who create data get value for it, and gives AI labs trustworthy data to train on. It is alr",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-13T20:33:14+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767115",
+   "title": "Staff Platform Engineer, Agentic Engineering",
+   "company": "n8n",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "node",
+    "sap",
+    "saas",
+    "typescript",
+    "cloud"
+   ],
+   "posted": "2026-11-13",
+   "expires": "28.11.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Staff-Platform-Engineer-Agentic-Engineering/n8n/767115",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 28.11.2026. JavaScript Node Node.js SAP SaaS TypeScript Cloud Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Staff Platform Engineer, Agentic Engineering Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Staff Platform Engineer, Agentic Engineering n8n Inostranstvo | Rad od kuće 28.11.2026. JavaScript Node Node.js SAP SaaS TypeScript Cloud senior The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact. Since our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve: Cultivated a community of more than 650,000 active developers and builders Earned 190K+ GitHub stars, making us one of the world’s Top 40 most popular projects Backed by top investors, from Sequoia’s first German seed to our SAP's recent strategic investment - bringing us to a $5.2bn valuation That’s the company we’ve built. Now we’d love to see what you can build. If you’re applying, try n8n out - whether you’re technical or not - and share a screenshot of your first workflow with us. The easiest place to start is here: app.n8n.cloud/register . We’re in a defining moment of an incredible journey. Come and build with us. Staff Platform Engineer, Agentic Engineering Developer Productivity · AI Coding Agents · Developer Platform Our ambition: an engineering organisation where humans and agents work as one continuously learning system, turning frontier AI capabilities and real-world feedback into more ambitious product development. We want n8n to be the reference for how this is done, without compromising quality, resilience or trust. Your main goal is to make that real. This is a Staff individual contributor role in Developer Platform and the technical driving force behind ACDC (Agent-centric Development Cycle), our engineering-wide initiative for agentic development. Nobody has a playbook for this yet. You'll write ours. You won't start from zero. Agents wired into Linear already automate around 80% of the development cycle on one of our developer platform projects, alongside pilots for insight, feature-flag and PR-review agents and a shared agent harness. Your job is to take this from promising experiments to the way n8n builds software. This role is for someone who thinks about this problem constantly. You run agents all day, rebuild your own workflow every time the frontier moves, and have more ideas than time. You'll stay hands-on, building the first versions yourself, and shape how the work grows beyond one person. What you'll do Set direction and own the outcome Identify where agentic development can make the greatest difference, using developer feedback, existing experiments and engineering performance data. Set the strategy and priorities across agent execution, repository readiness, CI, security and developer workflows. Make build, buy or pass decisions on tools and vendors, and own the cost and value trade-offs, including AI spend. Make decisions where requirements are incomplete and the trade-offs between autonomy, reliability, security and review effort are still emerging. Build alignment through technical proposals, clear decisions and wor",
+   "first_seen": "2026-11-13T20:33:14+00:00"
+  },
   {
    "source": "infostud",
    "id": "766953",
