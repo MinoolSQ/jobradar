@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:47:07+00:00",
+ "generated_at": "2026-11-14T23:11:17+00:00",
  "window_days": 3,
  "cutoff": "2026-11-11",
  "count": 24,
@@ -102,7 +102,7 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 23,
+   "vraceno": 24,
    "strane": 1,
    "stop": "kraj"
   },
@@ -117,7 +117,7 @@
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 111,
+   "vraceno": 112,
    "strane": 4,
    "stop": "kraj"
   },
@@ -127,7 +127,7 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 29,
+   "vraceno": 30,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,8 +152,8 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 90,
-   "strane": 3,
+   "vraceno": 91,
+   "strane": 4,
    "stop": "kraj"
   }
  },
@@ -306,7 +306,7 @@
    "expires": "28.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Engineering-Manager-Security/Perplexity-AI-Inc/767113",
-   "summary": "Perplexity AI, Inc. Inostranstvo, Inostranstvo 28.11.2026. AWS REST SoC Cloud Kubernetes Senior Novo",
+   "summary": "Perplexity AI, Inc. Inostranstvo, Inostranstvo 28.11.2026. AWS REST SoC Cloud Kubernetes Senior",
    "matched": [
     "helloworld"
    ],
@@ -329,7 +329,7 @@
    "expires": "28.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Head-of-Enterprise-Product/n8n/767114",
-   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 28.11.2026. SAP Cloud Senior Novo",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 28.11.2026. SAP Cloud Senior",
    "matched": [
     "helloworld"
    ],
@@ -388,7 +388,7 @@
    "expires": "28.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Staff-Platform-Engineer-Agentic-Engineering/n8n/767115",
-   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 28.11.2026. JavaScript Node Node.js SAP SaaS TypeScript Cloud Senior <i class=\"lar la-heart tex",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 28.11.2026. JavaScript Node Node.js SAP SaaS TypeScript Cloud Senior Premium",
    "matched": [
     "helloworld"
    ],
@@ -606,7 +606,7 @@
    "expires": "27.11.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Engineering-Manager-Realtime/Supabase/766950",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 27.11.2026. WebSockets HTTP Senior global.searchSelectItemEvents = {\"766944\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766944\",\"item_name\":\"Fullstack Developer\",\"item_index\":0,\"item_brand\":\"Proximus d.o.o.\",\"item_category\":\"Full stack developer\",\"item_category2\":\"Programiranje\",\"item_category3\":\"intermediate\",\"item_category4\":\"Pr",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 27.11.2026. WebSockets HTTP Senior",
    "matched": [
     "helloworld"
    ],
