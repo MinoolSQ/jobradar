@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T23:11:17+00:00",
+ "generated_at": "2026-11-15T07:59:17+00:00",
  "window_days": 3,
- "cutoff": "2026-11-11",
+ "cutoff": "2026-11-12",
  "count": 24,
  "new_count": 0,
  "errors": [],
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 22,
+   "vraceno": 21,
    "strane": 1,
    "stop": "kraj"
   },
@@ -112,12 +112,12 @@
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 39,
+   "vraceno": 36,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 112,
+   "vraceno": 107,
    "strane": 4,
    "stop": "kraj"
   },
@@ -132,7 +132,7 @@
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 37,
+   "vraceno": 36,
    "strane": 2,
    "stop": "kraj"
   },
@@ -152,8 +152,8 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 91,
-   "strane": 4,
+   "vraceno": 83,
+   "strane": 3,
    "stop": "kraj"
   }
  },
