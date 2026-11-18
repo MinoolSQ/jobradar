@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T21:50:28+00:00",
+ "generated_at": "2026-11-18T08:41:46+00:00",
  "window_days": 3,
- "cutoff": "2026-11-14",
- "count": 20,
+ "cutoff": "2026-11-15",
+ "count": 25,
  "new_count": 5,
  "errors": [],
  "infostud_queries": {
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 21,
+   "vraceno": 22,
    "strane": 1,
    "stop": "kraj"
   },
@@ -52,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,12 +87,12 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 9,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,22 +102,22 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 14,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 10,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 30,
-   "strane": 1,
+   "vraceno": 34,
+   "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 76,
+   "vraceno": 85,
    "strane": 3,
    "stop": "kraj"
   },
@@ -127,12 +127,12 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 14,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 40,
+   "vraceno": 47,
    "strane": 2,
    "stop": "kraj"
   },
@@ -142,22 +142,161 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 38,
+   "vraceno": 50,
    "strane": 2,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "767547",
+   "title": "IT Specialist",
+   "company": "Ocsial Balkan d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows Server",
+    "Windows",
+    "Azure",
+    "Sistemska administracija",
+    "Cloud",
+    "Active Directory"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-specialist/ocsial-balkan-doo/767547",
+   "summary": "Senior IT Specialist responsible for resolving complex user incidents and maintaining Microsoft on premises and Azure infrastructure. The role ensures reliable business productivity systems by managing backup and MDM solutions and supporting deployments and modernization initiatives.",
+   "matched": [
+    "cloud",
+    "administrator",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00",
+   "details": "O poslodavcu About OCSiAl Group: OCSiAl is the world’s largest producer of graphene nanotubes. Our team consists of more than 500 employees located in Europe, USA and Asia. OCSiAl’s mission is to improve the specific properties of all⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ base materials, making the world a better place for all living beings. We are pursuing this mission by developing universal nanotube solutions and introducing them into the manufacturing industry. This is leading to the creation of a new generation of nano augmented materials and end products, whose previously unobtainable properties will become the standard for consumer⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ expectations. About Position: OCSiAl is looking for an experienced IT Specialist to join our corporate IT team and to provide support to company users, including solving more complex 2nd/3rd line requests, and maintain IT infrastructure and systems in Belgrade, Serbia. The ideal candidate brings strong Microsoft infrastructure experience, has experience supporting business productivity tools, and enjoys working directly with users as well⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ as on infrastructure. Job Responsibilities: Work with users, resolving IT-related problems, including 2nd/3rd line issues. Work with Microsoft on-premises infrastructure, including Active Directory, as well as Microsoft Azure cloud services like Entra ID or Office 365. Manage backup and MDM tools and policies. Configure and support corporate productivity and collaboration tools, including workflows that support business processes - for example, HR-system approval. Contribute to IT upgrades, new deployments and⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ modernization initiatives. Reference: yzwISFpQbEFn1w Skills/Experience/Qualification: 4+ years in a corporate IT environment as an IT Specialist, IT Administrator, or a similar role Hands-on experience with Microsoft on-premises and Azure (Windows Server, AD, Entra ID, O365) Experience with backup and MDM solutions Experience supporting corporate productivity/collaboration software and business workflows Excellent communication and documentation skills Strong troubleshooting and problem-solving skills Ability to work independently and manage multiple priorities Fluent in English (written⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ and spoken) What we offer: An attractive position in a global and dynamic company; Opportunity for professional and personal development; Competitive employment conditions. Side notes: CV in English is required; Only shortlisted candidates will be contacted. Ocsial Balkan d.o.o. Više od polovine materijala koje svakodnevno koristimo može se unaprediti uz pomoć grafenskih nanocevi. One pomažu u stvaranju lakših aviona, ekonomočnijih automobila, dugotrajnijih guma i pametnog tekstila. OCSiAl je jedina kompanija na svetu koja može da proizvodi grafenske nanocevi u količinama dovoljno velikim za globalnu industriju. Osnovana 2010. godine u Luksemburgu, gde se nalazi i njeno sedište, OCSiAl posluje širom Azije, Evrope I Amerike. Srbija ima ključnu ulogu u rastu kompanije:… Više o poslodavcu Iskustva zaposlenih \"„Kao mlada osoba, istinski sam zahvalna što sam svoje razvojno putovanje započela u OCSiAl-u. Od prvog dana imala sam priliku da učim, rastem i razvijam se zajedno sa kompanijom koja brzo raste i…\" Pročitajte celo iskustvo Beneficije Finansijske beneficije Nagrade, bonusi, pokloni Edukacija, profesionalni razvoj Obezb"
+  },
+  {
+   "source": "infostud",
+   "id": "767584",
+   "title": "IT tehničar / system adminisrator",
+   "company": "Luna d.o.o.",
+   "location": "Požarevac",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar-system-adminisrator/luna-doo/767584",
+   "summary": "Pozicija postoji da obezbedi pouzdanu tehničku podršku i stabilno funkcionisanje IT sistema u više maloprodajnih lokacija. Kandidat će rešavati hardverske i softverske probleme te održavati i administrirati IT opremu i korisničke pristupe radi neometanog poslovanja.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00",
+   "details": "O poslodavcu Modna kuća LUNA zbog širenja i unapređenja poslovanja raspisuje konkurs za radno mesto: IT TEHNIČAR/ SYSTEM ADMINISTRATOR IT SUPPORT • BUSINESS SYSTEMS • INFRASTRUCTURE Modna kuća LUNA već tri decenije predstavlja jednog od prepoznatljivih domaćih modnih brendova na tržištu Srbije⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ i regiona. Ključ našeg uspeha su ljudi koji zajedno razvijaju kompaniju i sisteme koji podržavaju naše poslovanje. Zbog daljeg razvoja i unapređenja IT sistema, tražimo novog kolegu za poziciju IT tehničar / System Administrator. Opis posla Pružanje tehničke podrške zaposlenima; Instalacija, konfiguracija i održavanje računara, mobilnih uređaja, štampača i druge IT opreme; Dijagnostika i rešavanje hardverskih, softverskih i mrežnih problema; Instalacija i osnovno održavanje mrežne opreme; Administracija korisničkih naloga, pristupa i⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ korisničkih prava; Podešavanje korisničkih menija i pristupa poslovnim aplikacijama; Podrška korisnicima ERP, POS i drugih poslovnih aplikacija; Osnovna administracija poslovnih sistema prema definisanim procedurama; Podrška IT sistemima i opremi u maloprodajnim objektima; Vođenje evidencije IT opreme, intervencija i servisiranja; Komunikacija i koordinacija sa eksternim servisima i dobavljačima IT opreme i usluga; Dokumentovanje IT procedura, konfiguracija i rešenja učestalih problema; Primena definisanih pravila IT bezbednosti i⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ upravljanja pristupima. Reference: yzwISFpQbEFn1w Potrebne kvalifikacije SSS/VŠS/VSS tehničkog ili IT usmerenja; Minimum godinu dana iskustva na poslovima IT podrške, IT administracije ili sličnoj poziciji; Dobro poznavanje Windows 10/11 operativnih sistema; Dobro poznavanje računarskog hardvera i periferne opreme; Osnovno poznavanje računarskih mreža, TCP/IP protokola, Wi-Fi mreža, rutera i switch-eva; Osnovno poznavanje administracije korisničkih naloga i prava pristupa; Sposobnost samostalnog dijagnostikovanja i rešavanja tehničkih problema; Engleski jezik na nivou potrebnom za korišćenje tehničke dokumentacije; Vozačka dozvola B⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ kategorije. Prednost imaju kandidati sa iskustvom u radu sa ERP, POS ili drugim poslovnim informacionim sistemima; kompanijama sa više poslovnih ili maloprodajnih lokacija; Windows Server okruženju; remote support alatima; administraciji poslovnih aplikacija. Šta očekujemo Tražimo kolegu koji je odgovoran, sistematičan i pouzdan, ali pre svega osobu koja želi da razume problem i pronađe njegovo rešenje, a ne samo da izvršava unapred definisane zadatke. Važno nam je da kandidat⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ želi da uči, upozna poslovne procese kompanije i vremenom preuzme veću odgovornost u administraciji i podršci IT sistemima. Zainteresovani ste? Ako želite da budete deo LUNA tima i razvijate svoje znanje Luna doo Baje Sekulića bb, Požarevac, Srbija PIB: 103288293 Matični broj: 17547879 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije pr"
+  },
+  {
+   "source": "infostud",
+   "id": "767520",
+   "title": "PHP Developer",
+   "company": "SMS Fulfillment Solutions GmbH",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "PHP",
+    "MySQL",
+    "SQL",
+    "SOAP",
+    "Programiranje",
+    "ERP",
+    "RESTful"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": "neto 120.000 - 140.000 RSD (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/php-developer/sms-fulfillment-solutions-gmbh/767520",
+   "summary": "The role exists to maintain and enhance PHP MySQL based web applications that support warehouse management and ERP operations. The developer will implement and maintain integration interfaces and provide IT support to internal teams and customers from the Belgrade office.",
+   "matched": [
+    "sql",
+    "it support"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00",
+   "details": "O poslodavcu SMS Fulfillment Solutions GmbH works in the e-commerce logistics sector. We are⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ looking for a PHP Developer with SQL knowledge (full time from the office in Belgrade) for the work on internal and external⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ web applications as well as IT support to the team. Your duties Enhancement of our warehouse management web-app (PHP/MySQL); Maintaining and implementing interfaces; IT Support for internal⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ team and customers; Operations of our internal ERP system. Reference: yzwISFpQbEFn1w Your profile & knowledge Technical education; Very good knowledge of PHP and SQL; Some experience with Restful and SOAP services; Excellent⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ English skills (written and spoken). What we can offer Full-time job - regular contract; Starting salary: 120.000 RSD netto - 140.000 RSD netto (depending on experience); From office in Belgrade (not remote); Work in⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ dynamic environment in young and dedicated team. Please send your application electronically. Swiss Mail Solutions GmbH Ebnifeld 13, Züberwangen, Švajcarska Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT PHP Developer PHP Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-elvoro-ai-creative-engineer-social-media",
+   "title": "AI Creative Engineer (Social Media)",
+   "company": "Elvoro",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-18",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+   "summary": "Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing so",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137797",
+   "title": "Engineering Manager Network Engineering",
+   "company": "PatientPoint",
+   "location": "Remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "exec",
+    "design",
+    "infosec",
+    "technical",
+    "dev",
+    "travel",
+    "devops",
+    "cloud",
+    "ops",
+    "medical",
+    "engineer",
+    "digital nomad"
+   ],
+   "posted": "2026-11-17",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
+   "summary": "Join PatientPoint to be part of a dynamic team creating change in and around the doctorâs office. As a leading digital health company, we innovate to positively impact patient behaviors. Our purpose-driven approach offers an inspirational career opportunity where you can contribute to improving health outcomes for millions of patients nationwide. Location: Remote (Must reside in the United State",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00"
+  },
   {
    "source": "infostud",
    "id": "767397",
@@ -238,7 +377,7 @@
    "expires": "02.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Founding-Harness-Engineer/Clera/767507",
-   "summary": "Clera Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Prototype Intermediate Novo",
+   "summary": "Clera Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Prototype Intermediate Istaknuti poslodavci @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
    "matched": [
     "helloworld"
    ],
@@ -293,7 +432,7 @@
    "expires": "02.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Graduate-Software-Engineer-Open-Source-and-Linux-Canonical-Ubuntu/Canonical/767509",
-   "summary": "Canonical Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Linux JavaScript C++ Java Python Bash C Golang Cloud Kubernetes Junior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
+   "summary": "Canonical Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Linux JavaScript C++ Java Python Bash C Golang Cloud <a href=\"/oglasi-za-posao/kubernetes\" class=\"btn btn-xs btn-primary w-auto jobtag __jobtag __ga4_job_tech_tag",
    "matched": [
     "helloworld"
    ],
@@ -443,7 +582,7 @@
    "expires": "01.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/2D-Graphic-and-Motion-Designer/Ruby-Labs/767326",
-   "summary": "Ruby Labs Inostranstvo, Inostranstvo | Rad od kuće 01.12.2026. Node Ruby 2D Figma Intermediate Novo",
+   "summary": "Ruby Labs Inostranstvo, Inostranstvo | Rad od kuće 01.12.2026. Node Ruby 2D Figma Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -472,7 +611,7 @@
    "expires": "01.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/AI-Engineer/Ruby-Labs/767325",
-   "summary": "Ruby Labs Inostranstvo, Inostranstvo | Rad od kuće 01.12.2026. Node Node.js ElasticSearch Python Ruby PostgreSQL Redis JSON TypeScript Intermediate Novo",
+   "summary": "Ruby Labs Inostranstvo, Inostranstvo | Rad od kuće 01.12.2026. Node Node.js ElasticSearch Python Ruby PostgreSQL Redis JSON TypeScript Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -495,7 +634,7 @@
    "expires": "01.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Animator-Gameplay-Combat/Elite-Diplomatic-d.o.o/767140",
-   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd online intervju 01.12.2026. Maya Blender Intermediate Senior Novo",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd online intervju 01.12.2026. Maya Blender Intermediate Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
    "matched": [
     "helloworld"
    ],
@@ -517,7 +656,7 @@
    "expires": "01.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Backaend-Developer/Charlie-Pommier/767218",
-   "summary": "Charlie Pommier Beograd | Hibrid online intervju 01.12.2026. Cloud Senior Novo",
+   "summary": "Charlie Pommier Beograd | Hibrid online intervju 01.12.2026. Cloud Senior",
    "matched": [
     "helloworld"
    ],
@@ -594,7 +733,7 @@
    "expires": "01.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/SeniorStaff-Product-Designer/n8n/767327",
-   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 01.12.2026. global.searchSelectItemEvents = {\"767218\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_767218\",\"item_name\":\"Senior Backaend Developer\",\"item_index\":0,\"item_brand\":\"Charlie Pommier\",\"item_category\":\"Backend developer\",\"item_category2\":\"Programiranje\",\"item_category3\":\"senior\",\"item_category4\":\"Standard\",\"item_category5\":\"hybri",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 01.12.2026. global.searchSelectItemEvents = {\"765299\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_765299\",\"item_name\":\"Senior Azure DevOps Engineer (Data Platform)\",\"item_index\":0,\"item_brand\":\"Keba d.o.o.\",\"item_category\":\"DevOps System Administrator \\/ Engineer\",\"item_category2\":\"Sistemska administracija\",\"item_category3\":\"senior\",\"it",
    "matched": [
     "helloworld"
    ],
