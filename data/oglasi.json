@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T21:28:56+00:00",
+ "generated_at": "2026-11-19T08:57:07+00:00",
  "window_days": 3,
- "cutoff": "2026-11-15",
- "count": 35,
- "new_count": 11,
+ "cutoff": "2026-11-16",
+ "count": 41,
+ "new_count": 6,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,17 +12,17 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 10,
+   "vraceno": 12,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 32,
+   "vraceno": 36,
    "strane": 2,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 10,
+   "vraceno": 12,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,12 +87,12 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 11,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,37 +102,37 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 28,
-   "strane": 1,
+   "vraceno": 34,
+   "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 16,
+   "vraceno": 18,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 46,
+   "vraceno": 57,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 104,
+   "vraceno": 115,
    "strane": 4,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 2,
+   "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 22,
+   "vraceno": 26,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 65,
+   "vraceno": 76,
    "strane": 3,
    "stop": "kraj"
   },
@@ -147,17 +147,170 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 63,
+   "vraceno": 77,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "767782",
+   "title": "AI B2B Solutions Expert",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Programiranje",
+    "Cloud",
+    "AI/ML"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ai-b2b-solutions-expert/yettel-doo/767782",
+   "summary": "This role establishes the B2B AI practice by identifying customer use cases and shaping commercially viable AI solutions. The candidate will drive opportunity discovery, design architectures and coordinate proofs of concept to take pilots into production.",
+   "matched": [
+    "data platform",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00",
+   "details": "O poslodavcu Yettel is looking for a B2B AI Solutions Expert to help build our B2B AI business by combining commercial development, solution architecture and hands-on customer engagement. As our first dedicated B2B AI expert, you will help shape both our customer solutions and the way we bring AI services to market. Your scope will span customer discovery, solution design,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ portfolio development and partner engagement, giving you the opportunity to lay the foundations for a future AI team. You will work alongside established sales, presales, product and marketing teams, supported by Yettel’s AI platform team, Netlogic and technology partners across the e& PPF ecosystem. The role reports to the B2B ICT Director. What we will expect from you: Identify and qualify AI opportunities with Account Managers, initially focusing on enterprise and upper-SME customers. Lead customer workshops, presentations and demonstrations, translating business needs into practical use cases and measurable outcomes. Design high-level solution architectures covering AI models, data, integrations, deployment options and security, working with specialists to validate feasibility. Develop proposals, business cases and cost​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ estimates, supporting sales through proof of concept, negotiation and contracting. Scope and coordinate proofs of concept, with clear success criteria and a path to production; prepare or adapt demonstrations with support from technical teams and partners. Help shape the AI portfolio, pricing and go-to-market approach with product and marketing teams, covering AI applications, agentic workflows, managed AI platforms and model/API services. Identify and engage Group and external partners for local deployment, integration or resale, and turn successful projects into repeatable offers. Coordinate delivery handover, ensuring that implementation scope, acceptance criteria and support responsibilities are agreed with the relevant teams. Enable sales and presales colleagues through training and reusable materials,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ and help define the skills and ways of working needed as the AI business grows. Reference: N8olDAYcLCSVNQ For a good start you will need: At least five years of relevant experience in technical presales, solution architecture, solution consulting or enterprise technology business development, combining customer engagement with solution design. Practical involvement in AI or GenAI projects or proofs of concept, with a clear understanding of your contribution, architectural choices and results. Working knowledge of LLMs, retrieval-augmented generation (RAG), AI agents, APIs and enterprise integrations, including how to evaluate solution quality and limitations. A solid understanding of cloud and private deployment options, enterprise data, security and managed services. The ability​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ to translate customer needs into solution scope, costs and business value, and communicate confidently with business decision-makers and technical specialists. Commercial judgement and an independent, hands-on approach, with the ability to prioritise and coordinate colleagues and partners. Professional proficiency in Serbian and English. Personal traits: Experience taking AI solutions from pilot to production. Experience developing service propositions, partner-led solutions or recurring and consumption-based com"
+  },
+  {
+   "source": "infostud",
+   "id": "767749",
+   "title": "IT Service Desk Administrator Junior",
+   "company": "Fashion Company d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-service-desk-administrator-junior/fashion-company-doo/767749",
+   "summary": "IT Service Desk Administrator Junior obezbeđuje neprekidan rad IT sistema i direktnu podršku zaposlenima u maloprodaji. Ključna uloga je brzo rešavanje tehničkih problema i održavanje ERP sistema da bi poslovanje nesmetano funkcionisalo.",
+   "matched": [
+    "junior",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "racunari"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00",
+   "details": "O poslodavcu Fashion Company je vodeća modna maloprodajna kompanija sa više od 150 prodajnih objekata u Srbiji i regionu (Hrvatska, Crna Gora, Bosna i Hercegovina, Albanija, Kosovo,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ Slovenija i Severna Makedonija).‌​‌⁠​‍​‌‌⁠⁠⁠⁠‌⁠⁠⁠​​⁠⁠⁠⁠⁠⁠⁠‌⁠‍‍⁠‌​‌‍‍‍‌‍‌ Brendovi koje zastupa spadaju među svetski poznate, moderne i urbane brendove, kao što su: Diesel, Replay, Steve Madden, Tommy Hilfiger, Calvin Klein, Armani Exchange, Guess, DKNY, Hugo Boss, Sandro, Boggi Milano, Etro, Polo Ralph Lauren, C.P. Company, AllSaints, Longchamp, Antony Morato, Moose Knuckles,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ Joop!, Golden Goose, Autry, Coach, Corneliani, Fedeli, Eleventy, Slowear, Premiata, Levi’s, Scotch & Soda, Timberland,‌​‌⁠​‍​‌‌⁠⁠⁠⁠‌⁠⁠⁠​​⁠⁠⁠⁠⁠⁠⁠‌⁠‍‍⁠‌​‌‍‍‍‌‍‌ Camper, Liu Jo, Desigual, Mango, UGG, Superdry, Patrizia Pepe, Inuikii, Kiko Milano i mnogi drugi. Ukoliko želiš da gradiš svoju karijeru na poziciji IT Service Desk Administrator Junior i budeš ključna podrška svakodnevnom poslovanju kroz IT rešenja, ovo je prilika za tebe. Tvoja misija: Pružaš udaljenu i terensku IT podršku zaposlenima Obezbeđuješ stabilan​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ rad ERP sistema i maloprodajnih aplikacija Dijagnostikuješ i rešavaš tehničke probleme u najkraćem roku Instaliraš, konfigurišeš i održavaš računare i softverske aplikacije Učestvuješ u postavljanju i održavanju IT opreme Testiraš nove funkcionalnosti ERP sistema Administriraš fiskalne štampače i CUCM telefoniju Obučavaš korisnike za rad u kompanijskim aplikacijama Reference: N8olDAYcLCSVNQ Ti si naš idealan kandidat ako: Imaš VI ili VII stepen stručne spreme (IT, elektrotehnika ili srodno) Imaš minimum 3 godine iskustva​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ na sličnim poslovima Dobro poznaješ rad na računaru i IT sisteme Aktivno koristiš engleski jezik Si organizovan/a si, odgovoran/na i orijentisan/a na rešavanje problema Dobro funkcionišeš i samostalno i u timu Poseduješ vozačku dozvolu B kategorije (aktivan vozač) Kod nas te očekuje: Pozitivno radno okruženje; Rad u timu koji neguje saradnju, odgovornost i inicijativu Profesionalni razvoj i mogućnost napredovanja; Privatno zdravstveno osiguranje; Sistematski pregled jednom godišnje; Novogodišnji paketić za decu; Paketić​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ za polazak u prvi razred kao i slobodan dan za tu priliku; Poklon za 8. mart za sve dame u kompaniji; Fleksibilno radno vreme Team building Fashion Company d.o.o. Fashion Company je liderska ritejl kompanija u regionu jugoistočne Evrope koja se bavi modom i modnom maloprodajom i veleprodajom u preko 120 maloprodajnih mesta u Srbiji i regionu (Crna Gora, Severna Makedonija, Bosna i Hercegovina, Hrvatska, Rumunija). Naše prepoznatljive multibrend radnje su Fashion&Friends, ali i monobrend ranjde, u kojima prodajemo marke koje pripadaju klasi svetski poznatih, modernih i urbanih brendova kao što su: Diesel, Replay, Calvin Klein, Premiata, Levi's, Tommy… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije d"
+  },
+  {
+   "source": "infostud",
+   "id": "767793",
+   "title": "IT tehničar",
+   "company": "Spectrum Data d.o.o.",
+   "location": "Beograd | Terenski rad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "Sistemska administracija",
+    "Podrška",
+    "Hardware"
+   ],
+   "posted": "2026-11-19",
+   "expires": "19.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar/spectrum-data-doo/767793",
+   "summary": "Pozicija je usmerena na održavanje hardverskih i softverskih sistema kod eksternih klijenata i obezbeđivanje neometanog rada korisničke infrastrukture. Kandidat će direktno rešavati tehničke incidente na terenu i doprinositi unapređenju usluga kroz stalno usavršavanje.",
+   "matched": [
+    "it tehnicar",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00",
+   "details": "O poslodavcu Preduzeće Spectrum Data d.o.o. oglašava konkurs za poziciju IT tehničara (HW i SW). Opis posla: Rad na sistemskom održavanju softvera i hardvera kod​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ eksternih klijenata. Odlazak kod klijenata u prostorije i redovni obilasci klijenata. Pružanje tehničke podrške korisnicima i sva sistemska podrška koju obuhvata pozicija. Komunikacija sa korisnicima putem e-maila, interneta, telefona i ličnim prisustvom u prostorijama korisnika. Konstantan rad na unapređenju, povećanju i usavršavanju svih naših usluga. Reference: N8olDAYcLCSVNQ Uslovi: Rad u​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ Microsoft 365. Obavezno poznavanje mikrotik routera i grand stream i ubiquty wifi uređaja. Sklapanje računara, servera, dijagnostika. Visoka ili viša stručna sprema tehničkog profila. Minimalno iskustvo 3-5 godina u istim poslovima. Napredno poznavanje Windows operativnih sistema. Sposobnost za rad pod pritiskom i spremnost za kontinuirano usavršavanje. Odgovornost,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ komunikativnost, tačnost, ažurnost, motivisanost za konstantno učenje i usavršavanje. Prednost: Rad u Windows okruženju i računarskim mrežama, mikrotik rutera i VMware i HyperV. Dobro poznavanje Microsoft Office paketa. Znanje engleskog jezika. Vozačka dozvola B kategorije - aktivan vozač. Nudimo Vam: Stalnu obuku i dalje usavršavanje u​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ raznim sferama IT-a. Mogućnost napredovanja širokog dijapazona. Rad u kolegijalnom, apsolutno profesionalnom i dinamičnom okruženju. Samo kandidati koji uđu u uži izbor biće kontaktirani po završetku konkursa. Obavezno se polaže tehnički test prilikom prijema. Konkurs traje do popune radnih mesta. Ukoliko smatrate da ste​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ u mogućnosti da ispunite zahteve posla i ukoliko želite stabilan i dugoročan posao sa velikom mogućnošću napredovanja pošaljite svoj CV elektronskim putem. Spectrum Data d.o.o. Spectrum Data DooSoftverska rešenja za knjigovodstvo Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support IT tehničar Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "767175",
+   "title": "Softverski inženjer / Softverska inženjerka – AI, UX i interdisciplinarno istraživanje u oblasti zdravlja žena",
+   "company": "Biosego L.T.D.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Git",
+    "UX Dizajn",
+    "Programiranje",
+    "Sketch",
+    "AI/ML"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/softverski-inzenjer-softverska-inzenjerka-ai-ux-i-interdisciplinarno-istrazivanje-u-oblasti-zdravlja-zena/biosego-ltd/767175",
+   "summary": "Rad u ovoj ulozi podrazumeva razvoj veb platforme koja integriše ultrazvučne slike laboratorijske nalaze i istoriju lečenja sa objašnjivom kliničkom logikom. Odabrani kandidat će oblikovati prvi proizvod i istraživanje kroz full stack razvoj implementaciju verzionisane kliničke logike i upotrebu AI alata za poboljšanje tačnosti i sledljivosti.",
+   "matched": [
+    "data engineer",
+    "data inzenjer",
+    "data platform",
+    "racunari"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00",
+   "details": "O poslodavcu Softverski inženjer / Softverska inženjerka – AI, UX i interdisciplinarno istraživanje u oblasti zdravlja žena [Biosego d.o.o.] · Skraćeno radno vreme (part-time), [20-40] nedeljno Pridruži se interdisciplinarnom timu lekara, naučnika i inženjera koji razvija novu vrstu softverske platforme za reproduktivno i dugoročno zdravlje žena. Platforma povezuje ultrazvuk, laboratorijske nalaze i istoriju lečenja u jedinstven elektronski karton koji prati pacijentkinju kroz vreme, uz kliničku logiku koja je objašnjiva i proverljiva. Na samom smo početku, pa ćeš od prve verzije oblikovati i proizvod i istraživanje. Šta ćeš raditi Razvijati modernu veb-aplikaciju:​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ profesionalni radni prostor za lekare i istraživače i jasan, smiren prikaz za pacijentkinje. Učestvovati u interdisciplinarnom istraživanju sa lekarima i naučnicima: pretvarati istraživačke protokole u softver, pripremati istraživačke skupove podataka i pomagati u evaluaciji rezultata. Implementirati objašnjivu, verzionisanu kliničku logiku pravila sa potpunim revizijskim tragom, u kojoj je „nepoznato“ pravo stanje, a nikada prećutna nula. Dizajnirati tokove rada sa lekarima, ultrasonografistima i istraživačima, od klikabilnih prototipova do produkcijskog korisničkog interfejsa. Integrisati medicinske podatke: ultrazvučne snimke, laboratorijske nalaze i uvezene dokumente. Stalno koristiti AI da radiš brže i bolje, i učestvovati u oblikovanju budućih AI funkcija, poput analize ultrazvučnih snimaka. Pisati testove i dokumentaciju zahvaljujući kojima softver kasnije može da bude sertifikovan kao medicinsko sredstvo. Reference: N8olDAYcLCSVNQ Koga tražimo 1–5 godina profesionalnog iskustva u razvoju softvera. Solidno full-stack znanje: možeš samostalno da napraviš veb-aplikaciju, od baze podataka do korisničkog interfejsa. Odlične praktične AI veštine: efikasno koristiš AI alate za programiranje, kritički proveravaš ono što generišu i prepoznaješ kada greše. Iskustvo u razvoju LLM ili ML funkcionalnosti je velika prednost. Pravi osećaj za UX: razgovaraš sa korisnicima, skiciraš tokove rada i složene informacije pretvaraš u​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ jednostavan interfejs kome se veruje. Posvećenost ispravnosti: modelovanje podataka, testiranje, sledljivost. Dobro pisano znanje engleskog jezika; znanje srpskog je prednost. Poželjno Istraživačko iskustvo (akademsko ili industrijsko) i interesovanje za biomedicinu. Iskustvo u zdravstvenim tehnologijama. Obrada medicinskih slika ili računarski vid (computer vision). Iskustvo sa regulisanim medicinskim softverom ili zaštitom zdravstvenih podataka. Zašto da nam se pridružiš Pravo interdisciplinarno istraživanje: radićeš rame uz rame sa lekarima i naučnicima na otvorenim pitanjima zdravlja žena, a ne samo na tiketima. Koautorstvo na naučnim radovima. Fleksibilan posao sa skraćenim radnim vremenom. Mali tim u ranoj fazi, pa tvoje odluke oblikuju arhitekturu i proizvod. Zarada · Učešće u dobiti, i/ili na kraju - Bonus od prodaje / Provizija · benefiti. Kako da se prijaviš: pošalji CV, GitHub ili portfolio i kratku poruku. Opiši jedan proizvod koji je nastao tvojim radom, jedan primer gde ti je AI pomogao da radiš bolje i jedan gde je pogrešio. Pre nego što podelimo detalje projekta, sa kandidatima i kandidatkinjama iz užeg izbora potpisujemo ugovor o poverljivosti (NDA). Software Engineer – AI, UX & Interdisciplinary Research in Women's Health [Biosego d.o.o.] · Part-time, [20-40] per w"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-circleci-senior-support-engineer",
+   "title": "Senior Support Engineer",
+   "company": "CircleCI",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/circleci-senior-support-engineer",
+   "summary": "Headquarters: Remote; Tokyo Senior Support Engineer Team: Customer Engineering and Success, CircleCI About the team Support Engineering is part of Customer Engineering and Success at CircleCI. We give technical support to customers after they buy. Our team works around the clock across North America, Asia Pacific, and Europe. We build and manage AI agents that answer customer questions and solve t",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-checkr-solutions-architect",
+   "title": "Solutions Architect",
+   "company": "Checkr",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/checkr-solutions-architect",
+   "summary": "Headquarters: Denver, Colorado, United States; Remote, United States About Checkr Checkr is building the data platform to power safe and fair decisions. Over 140,000 companies and millions of people rely on Checkr for AI verification in the moments that matter most: getting a new job, a new place to live, a car ride, childcare, even a date. Customers include Uber, Pennymac, Airbnb, Doordash, and A",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00"
+  },
   {
    "source": "infostud",
    "id": "767639",
@@ -414,7 +567,7 @@
    "expires": "03.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Sr.-Software-Engineer-Enterprise-Features-Orchestration/ClickHouse/767680",
-   "summary": "ClickHouse Inostranstvo, Inostranstvo | Rad od kuće 03.12.2026. Node Node.js AWS PostgreSQL TypeScript Cloud MongoDB Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
+   "summary": "ClickHouse Inostranstvo, Inostranstvo | Rad od kuće 03.12.2026. Node Node.js AWS PostgreSQL TypeScript Cloud MongoDB Senior <i class=\"la",
    "matched": [
     "helloworld"
    ],
@@ -640,7 +793,7 @@
    "expires": "02.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Founding-Harness-Engineer/Clera/767507",
-   "summary": "Clera Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Prototype Intermediate Novo",
+   "summary": "Clera Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Prototype Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -664,7 +817,7 @@
    "expires": "02.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Game-Designer-MidSenior/Xsolla/767508",
-   "summary": "Xsolla Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Jira Confluence QA Intermediate Novo",
+   "summary": "Xsolla Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Jira Confluence QA Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -897,7 +1050,7 @@
    "expires": "01.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Animator-Gameplay-Combat/Elite-Diplomatic-d.o.o/767140",
-   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd online intervju 01.12.2026. Maya Blender Intermediate Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
+   "summary": "Elite Diplomatic d.o.o. Odgovara na prijave Beograd online intervju 01.12.2026. Maya Blender Intermediate Senior Novo",
    "matched": [
     "helloworld"
    ],
@@ -919,7 +1072,7 @@
    "expires": "01.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Backaend-Developer/Charlie-Pommier/767218",
-   "summary": "Charlie Pommier Beograd | Hibrid online intervju 01.12.2026. Cloud Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se",
+   "summary": "Charlie Pommier Beograd | Hibrid online intervju 01.12.2026. Cloud Senior",
    "matched": [
     "helloworld"
    ],
@@ -977,7 +1130,7 @@
    "expires": "01.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/SeniorStaff-Product-Designer/n8n/767327",
-   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 01.12.2026. global.searchSelectItemEvents = {\"765299\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_765299\",\"item_name\":\"Senior Azure DevOps Engineer (Data Platform)\",\"item_index\":0,\"item_brand\":\"Keba d.o.o.\",\"item_category\":\"DevOps System Administrator \\/ Engineer\",\"item_category2\":\"Sistemska administracija\",\"item_category3\":\"senior\",\"it",
+   "summary": "n8n Inostranstvo, Inostranstvo | Rad od kuće 01.12.2026.",
    "matched": [
     "helloworld"
    ],
