@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T08:57:07+00:00",
+ "generated_at": "2026-11-19T21:41:37+00:00",
  "window_days": 3,
  "cutoff": "2026-11-16",
- "count": 41,
- "new_count": 6,
+ "count": 50,
+ "new_count": 9,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 12,
+   "vraceno": 14,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 36,
+   "vraceno": 46,
    "strane": 2,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 12,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
@@ -82,12 +82,12 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 14,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,42 +102,42 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 34,
+   "vraceno": 38,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 18,
+   "vraceno": 21,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 57,
-   "strane": 2,
+   "vraceno": 74,
+   "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 115,
-   "strane": 4,
+   "vraceno": 139,
+   "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 2,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 26,
+   "vraceno": 29,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 76,
+   "vraceno": 90,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 8,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,236 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 77,
+   "vraceno": 87,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "767831",
+   "title": "Application Support Analyst",
+   "company": "Singular Point d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Azure",
+    "Jira",
+    "DevOps",
+    "Podrška"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/application-support-analyst/singular-point-doo/767831",
+   "summary": "Role exists to ensure customers receive prompt and effective assistance with the software and to minimize operational disruption. The analyst will diagnose and resolve technical issues, maintain support documentation, and collaborate with development teams to improve product reliability and customer satisfaction.",
+   "matched": [
+    "data platform",
+    "devops",
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00",
+   "details": "O poslodavcu Job Title: Application Support Analyst Company: Singular Point d.o.o. Location: Belgrade Job Type: Indefinite employment contract with a six-month probationary period Introduction: We seek a proactive and customer-focused Application Support Analyst Member to join our Belgrade team. Ideal candidates should be committed to continuous professional development through training related to software support and relevant technologies. As‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ an Application Support Analyst Member, you will play a critical role in ensuring our customers receive prompt and effective assistance with our software product. You will collaborate closely with internal teams to resolve issues, provide product training, and contribute to enhancing the overall customer experience. Key Responsibilities: Provide technical support to customers through various channels such as phone, email, or online platforms. Diagnose and resolve software issues reported by customers, ensuring prompt resolution and minimal disruption to operations. Document and track support cases accurately using a ticketing system, including details of customer interactions, troubleshooting steps, and resolutions. Collaborate closely with internal development and delivery teams to escalate‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ and resolve complex technical issues. Conduct software demonstrations, training sessions, and workshops for customers to enhance their understanding and utilization of our software. Assist in the testing and validation of new software releases and updates to ensure quality and functionality. Contribute to the development and maintenance of knowledge base articles, user guides, and technical documentation to support customers and internal teams. Reference: uIF6fn07nnahLA Requirements: Bachelor’s degree in computer science, Information Technology, or related field (or equivalent experience). Proven experience in a software product support role or similar customer-facing technical support position. Strong problem-solving skills with the ability to analyze and troubleshoot technical issues. Excellent verbal and written English communication skills to effectively interact‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ with customers and team members with a customer-oriented approach. Ability to prioritize and manage multiple tasks in a fast-paced environment. Experienced using ticketing systems (e.g., JIRA, Azure DevOps) to manage and track support requests. Knowledge of software troubleshooting tools and methodologies is a plus. Experience with SQL databases and understanding of programming languages (e.g., Java, C#, Python) is a plus. Ability to work independently and collaboratively within a team. Specific industry knowledge relevant to the software’s application domain in logistics is a plus. Benefits: Competitive salary and benefits package include Private health insurance, Sports package, two days of Remote work, and more. Opportunities for career growth and professional development. A collaborative and supportive work environment focused on innovation and‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ customer success. Application Process: Interested candidates are invited to submit their resume and a cover letter highlighting their qualifications and interest in the Application Support Analyst position. We look forward to reviewing your application and discussing how you can contribute to our team and the success of our software products. Cont"
+  },
+  {
+   "source": "infostud",
+   "id": "767891",
+   "title": "Senior MES Specialist",
+   "company": "Grundfos Holding A/S",
+   "location": "Inđija | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SAP",
+    "Prodaja / konsultanti",
+    "ERP",
+    "Agile"
+   ],
+   "posted": "2026-11-19",
+   "expires": "19.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-mes-specialist/grundfos-holding-a-s/767891",
+   "summary": "The Purchasing Specialist drives value based sourcing and supplier relationship management to improve total cost of ownership and supplier performance. The role supports local stakeholders and implements regional sourcing strategies to deliver sustainability innovation and operational excellence across the supply base.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00",
+   "details": "Are you passionate about using digital technology to solve real manufacturing challenges and create value for the people working on the shop floor? Then join our digitalization journey and help shape how manufacturing works across Grundfos' global production footprint. As our new‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ Senior MES Specialist, you will represent manufacturing in our global Manufacturing Execution System (MES) program, turning production needs into digital solutions and helping develop and deploy our global MES platform. What you will be doing As part of Digital Architecture within Advanced Manufacturing Engineering (AME), you will join an agile, international MES team working across manufacturing, Quality, Supply Chain and IT. Your main responsibilities include: Understand manufacturing needs and translate them into requirements and user stories focused on business value. Contribute to designing, developing, testing and implementing‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ MES solutions and related business processes. Work across MES and interfacing solutions including ERP, PLM, equipment integration and master data. Support line assessments and global deployments, connecting solution knowledge with shop-floor needs. Help ensure solutions follow our global template while identifying new requirements for further development. Collaborate with colleagues, production plants, deployment teams and other digitalization initiatives around the world. Reference: uIF6fn07nnahLA What makes you a great fit There is no single career path into this role. You might already work with MES, or your experience could come from manufacturing‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ digitalization, IT/OT, automation or production technology. What matters is your understanding of manufacturing, your curiosity about technology and your ability to turn needs into practical solutions. Experience with MES, manufacturing digitalization, IT/OT, automation or production technology; Understanding of manufacturing processes and shop-floor environments; Experience translating business or manufacturing needs into digital solutions; Strong collaboration and communication skills across business and technical teams; Professional proficiency in English. It is a plus, not a requirement, if you have experience with enterprise MES deployments, Siemens Opcenter, SAP ERP Operations, PLM, equipment integration, master data‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ or agile ways of working. You do not need to meet every qualification to be successful in this role. If this opportunity excites you and you believe your experience can contribute to our MES journey, we encourage you to apply. Why you will love working here You'll join a supportive, international environment where different perspectives are valued and where you can influence solutions used across our global manufacturing network. Our agile and flat way of working gives you ownership, room to contribute ideas and opportunities‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ to grow your expertise. We are inclusive. Celebrating and valuing our differences helps us see possibilities where others can't, and we welcome applications from all abilities, experiences and backgrounds. The position is based at our Indjija office, with approximately 20 days of travel per year. Network eG Völklinger Str. 1, 40219 Düsseldorf, Nemačka Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? O"
+  },
+  {
+   "source": "helloworld",
+   "id": "767880",
+   "title": "Developer Relations Engineer",
+   "company": "Supabase",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "typescript"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Developer-Relations-Engineer/Supabase/767880",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. JavaScript TypeScript Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Developer Relations Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Developer Relations Engineer Supabase Inostranstvo | Rad od kuće 04.12.2026. JavaScript TypeScript intermediate About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're looking for a Developer Relations Engineer to join our team and help more developers discover, learn, and build with Supabase. You'll create high-impact content, build real-world projects, and represent Supabase across communities and events. If you're equally energized by writing code and teaching others, this is the role for you. Why This Role Matters Supabase is growing fast with 350,000+ developers , 1,000+ OSS contributors , and a thriving open source ecosystem. Our users are builders, startup founders, weekend hackers, and engineers scaling to millions of users. DevRel is how we meet them where they are: through content, community, and code. We're building a community of communities that brings together developers from many backgrounds, including first-time open source contributors. As a DevRel Engineer, you'll be a bridge between Supabase and the broader developer ecosystem, helping people get started, go deep, and feel connected. What You'll Do Make content — Publish compelling technical content, especially video, to help developers learn Supabase quickly Build demos and tutorials — Ship real-world apps using Supabase and tools like Next.js, React, and Stripe. Write guides that others can follow and remix Represent Supabase — Speak at meetups, livestream builds, and engage with the developer ecosystem. You'll be a visible and trusted voice of the platform Support and grow the community — Celebrate contributors, answer questions, highlight cool projects, and bring developer feedback to the team Collaborate across the company — Work with engineering, product, and growth to amplify launches, prioritize content, and reduce friction for new users You Might Be a Good Fit If You've built full-stack apps and enjoy sharing your knowledge You create content that makes people want to open their code editor You're equally comfortable writing a video script and TypeScript You're energized by community whether it's on Discord, Twitter, YouTube, or in person You're self-directed, organized, and excited to contribute to open source Requirements Strong engineering skills, especially with JavaScript or TypeScript, Postgres, and modern frontend frameworks (React, Svelte, Vue, etc.) Experience creating technical content (written or video) Comfortable representing a product publicly (on camera, on stage, or online) Bonus Points If You Have A growing audience on YouTube, Twitch, or Twitter Prior experience in DevRel or open source Have used (and loved) Supabase What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps ",
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767881",
+   "title": "Head of Engineering (Frontier Safety)",
+   "company": "FAR.AI",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "python",
+    "prototype",
+    "rest",
+    "foundation",
+    "c",
+    "cloud",
+    "embedded",
+    "kubernetes"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Head-of-Engineering-Frontier-Safety/FAR.AI/767881",
+   "summary": "FAR.AI Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. Python Prototype REST Foundation C Cloud Embedded Kubernetes Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Head of Engineering (Frontier Safety) Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Head of Engineering (Frontier Safety) FAR.AI Inostranstvo | Rad od kuće 04.12.2026. Python Prototype REST Foundation C Cloud Embedded Kubernetes senior About Us FAR.AI is a non-profit AI research institute working to ensure advanced AI is safe and beneficial for everyone. Our mission is to facilitate breakthrough AI safety research, advance global understanding of AI risks and solutions, and foster a coordinated global response. Since our founding in July 2022, we've grown to 50+ staff , published 40+ academic papers , and convened leading AI safety events . Our work is recognized globally, with publications at premier venues such as NeurIPS, ICML including a Best Paper Honorable Mention in 2026 , and ICLR, and features in the Financial Times , Nature News , Wired Magazine and MIT Technology Review . We conduct pre-deployment testing on behalf of frontier developers such as OpenAI, independent evaluations for governments including the EU AI Office , and publish the AI Security Leaderboard based on our red-teaming expertise. We help steer and grow the AI safety field through developing research roadmaps with renowned researchers such as Yoshua Bengio; running FAR.Labs , an AI safety-focused co-working space in Berkeley housing 40+ members; and supporting the community through targeted grants to technical researchers. Head of Engineering (Frontier Safety) FAR.AI is seeking a Head of Engineering for its Frontier Safety division, which runs one of the world’s most impactful frontier AI testing programs. This role focuses on building the engineering and execution engine that enables and empowers the division’s work across testing, evaluations, tools, products, services, and research. The systems and the team you build will enable the division to execute on high-stakes engagements with frontier AI companies and leading governments, and provide these stakeholders critical insights and tools, aiming to multiply the world’s rate of progress via testing towards safe AI. This is an opportunity to shape how AI safety is practiced at the frontier, with real impact on industry behavior, governments, public awareness, and global norms. About the Frontier Safety Division FAR.AI ’s Frontier Safety division exists to materially raise the bar for safety and security of the most capable AI systems in the world. We intend to be the tip of the spear in AI safety: the team that consistently finds the failures others miss, converts these into mitigations by frontier developers, and sets the standard that labs and governments converge on. The division grew out of FAR.AI 's red team, and is expanding rapidly into loss of control testing, deeper evaluations, and safeguards. From that base, we discover issues, drive their mitigation, and, where a gap in safeguards is blocking a fix, build the missing technical capacity ourselves. What we learn from building and studying safeguards then feeds back into new ways of finding vulnerabilities. We are already one of the leading independent red-teaming organizations globally. We use our understanding of weaknesses in models to advise frontier developers on mitigations, work with governments on building evaluation infrastructure and technical capability, and to guide our own research and grantmaking for improving model security. Our work has helped most Western frontier model developers improve safegu",
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767882",
+   "title": "Information Security Engineer - Application Security",
+   "company": "Camunda",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "java",
+    "python",
+    "saas",
+    "cloud",
+    "kubernetes",
+    "r"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Information-Security-Engineer-Application-Security/Camunda/767882",
+   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. JavaScript Java Python SaaS Cloud Kubernetes R Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Information Security Engineer - Application Security Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Information Security Engineer - Application Security Camunda Inostranstvo | Rad od kuće 04.12.2026. JavaScript Java Python SaaS Cloud Kubernetes R intermediate Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the Role Hi there! We're hiring an Information Security Engineer with a focus on Application Security to join our Information Security team at Camunda. We are a team that takes security seriously without making it feel like a locked door. We work in a transparent, straightforward way, and we care about doing the work right rather than just checking a compliance box. You will work side by side with our R&D engineers: reviewing designs, threat modeling new features, digging into code and helping teams make good, risk-based decisions about the vulnerabilities that come in. You'll also help build the internal tools that make this work scale, including our CVE registry and the LLM-assisted workflows we use to analyse code and triage findings. Camunda is an AI-first company, and InfoSec is no exception: AI agents are part of how we review code, assess vulnerabilities, and build our tools. You will help shape how that works. This is a hands-on role for someone who already has solid AppSec foundations and wants to grow. We are a generalist team, so you will also take part in our on-call rotation and incident response, and get exposure to other areas of security. But most of your time will be spent with engineers and building and maintaining internal tools and processes. What You Will Do Vulnerability management : triage findings from SCA, container and code scanning, external reports and internal security testing; assess whether Camunda is actually affected; agree fix / mitigate / accept with engineering and follow through to release. Threat modeling and security reviews : run threat modeling sessions and design reviews with R&D teams for new features and architecture changes, and turn the results into concrete, prioritised actions. Code analysis with LLMs : use and improve LLM-assisted tooling (agents, prompts, reusable skills) to review code, validate findings and reproduce issues, while applying your own judgement to know when the model is wrong. Build interna",
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137805",
+   "title": "SEO Full Stack Engineer",
+   "company": "Treatwell",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "full stack",
+    "react",
+    "rabbitmq",
+    "front end",
+    "technical",
+    "customer support",
+    "dev",
+    "testing",
+    "marketing",
+    "design",
+    "web dev",
+    "exec"
+   ],
+   "posted": "2026-11-18",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+   "summary": "We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End. You'll work on Treatwellâs Marketplace products and help Treatwell be disco",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-upsun-senior-site-reliability-engineer",
+   "title": "Senior Site Reliability Engineer",
+   "company": "Upsun",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/upsun-senior-site-reliability-engineer",
+   "summary": "Headquarters: Remote • Australia, India About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together through two",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-prove-site-reliability-engineer-sr-site-reliability-engineer",
+   "title": "Site Reliability Engineer, Sr. Site Reliability Engineer",
+   "company": "Prove",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer",
+   "summary": "Headquarters: United States (Remote) About Prove As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expen",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-circleci-staff-software-engineer",
+   "title": "Staff Software Engineer",
+   "company": "CircleCI",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
+   "summary": "Headquarters: Canada (Remote), United States (Remote), United Kingdom (Remote) Mexico City, Mexico - Hybrid About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. ",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
   {
    "source": "infostud",
    "id": "767782",
@@ -1072,7 +1296,7 @@
    "expires": "01.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Backaend-Developer/Charlie-Pommier/767218",
-   "summary": "Charlie Pommier Beograd | Hibrid online intervju 01.12.2026. Cloud Senior",
+   "summary": "Charlie Pommier Beograd | Hibrid online intervju 01.12.2026. Cloud Senior @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se",
    "matched": [
     "helloworld"
    ],
