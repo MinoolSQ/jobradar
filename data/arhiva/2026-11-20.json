@@ -1,0 +1,1224 @@
+{
+ "generated_at": "2026-11-20T08:43:49+00:00",
+ "window_days": 3,
+ "cutoff": "2026-11-17",
+ "count": 41,
+ "new_count": 6,
+ "errors": [],
+ "infostud_queries": {
+  "python": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data engineer": {
+   "vraceno": 13,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "data inzenjer": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "podaci": {
+   "vraceno": 42,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "etl": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "databricks": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "spark": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "airflow": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "backend": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "sql": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "aws": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data platform": {
+   "vraceno": 9,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "kubernetes": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "fastapi": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "data analyst": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "devops": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "junior": {
+   "vraceno": 16,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "cloud": {
+   "vraceno": 5,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "linux": {
+   "vraceno": 0,
+   "strane": 0,
+   "stop": "kraj"
+  },
+  "it tehnicar": {
+   "vraceno": 33,
+   "strane": 2,
+   "stop": "kraj"
+  },
+  "sistem administrator": {
+   "vraceno": 21,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "administrator": {
+   "vraceno": 63,
+   "strane": 3,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 107,
+   "strane": 4,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 3,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 26,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 74,
+   "strane": 3,
+   "stop": "kraj"
+  },
+  "serviser": {
+   "vraceno": 10,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "mrezni": {
+   "vraceno": 1,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "windows": {
+   "vraceno": 2,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "racunari": {
+   "vraceno": 74,
+   "strane": 3,
+   "stop": "kraj"
+  }
+ },
+ "jobs": [
+  {
+   "source": "infostud",
+   "id": "768028",
+   "title": "E-commerce Technical Specialist",
+   "company": "Skala Green d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "SEO"
+   ],
+   "posted": "2026-11-20",
+   "expires": "05.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/e-commerce-technical-specialist/skala-green-doo/768028",
+   "summary": "Pozicija postoji da obezbedi tehničku funkcionalnost i pouzdanost websajta i internet prodavnice kako bi digitalna prodaja bila merljiva i stabilna. Kandidat će uspostaviti i održavati analitičku infrastrukturu, optimizovati tehničke implementacije i podržavati rast digitalnih kanala.",
+   "matched": [
+    "podaci",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-11-20T08:43:49+00:00",
+   "details": "O poslodavcu O poslodavcu Skala Green, vodeća kompanija u oblasti poljoprivrednog navodnjavanja i uređenja dvorišta, širi svoj uspeh iz offline sveta na digitalno tržište. Naša misija je da svim korisnicima u Srbiji omogućimo podjednako kvalitetno i prijatno iskustvo kroz internet prodaju. Tražimo osobu koja će preuzeti tehnički razvoj i unapređenje našeg sajta i internet prodavnice, u saradnji sa postojećim vođom projekta i kolegom zaduženim za sadržaj. Opis posla Tražimo‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ novog člana digitalnog tima koji će biti odgovoran za tehničku funkcionalnost i pouzdanost našeg websajta i internet prodavnice, precizno prikupljanje i praćenje podataka kroz analitičke sisteme, kontinuiranu tehničku optimizacija i razvoj tehničke infrastructure i korisničkog iskustva. Konkretno: Implementacija, optimizacija i održavanje digitalnih alata i sistema koji omogućavaju pravilno funkcionisanje websajta i internet prodavnice. Tehničko upravljanje websajtom, kvalitetom i pouzdanošću digitalne infrastrukture. Pravilno povezivanje, optimizacija i održavanje Google i ostalih alata, kontrola ispravnosti instaliranih kodova i skripti, upravljanje pristupima i korisničkim dozvolama. Podešavanje GA4 konfiguracije i obezbeđivanje pravilnog prikupljanja podataka i pravilnu implementaciju događaja kako bi podaci o proizvodima, količinama, vrednostima i prihodima bili pouzdani. Definisanje i održavanje plana merenja, provera dataLayer podataka i e-commerce događaja. Implementacija i upravljanje tracking kodovima, kontrola tagova, održavanje GTM‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ kontejnera. Administracija Google Search Console, praćenje indeksiranja stranica i pravilno upravljanje URL strukturom i sitemap datotekom, redirekcijama, robots.txt pravila i canonical oznake. Praćenje brzine, odziva i vizuelne stabilnosti stranica kroz Core Web Vitals pokazatelje i koordinacija potrebnih poboljšanja. Praćenje izvora poseta i ponašanja korisnika na sajtu i internet prodavnici, kontrola tačnosti podataka i izrada osnovnih izveštaja. Reference: vY0XeqKa2g9QUg Zajednički cilj digitalnog tima: 300 poseta sajtu dnevno do 1. marta 2027. i prebacivanje dela sezonske prodaje u digitalne kanale. Kvalifikacije i veštine Idealni kandidat poseduje sledeće, ali neka Vas eventualni nedostatak neke stavke ne obeshrabri da se prijavite: Praktično iskustvo u tehničkoj administraciji ili razvoju internet prodavnice, uz konkretne primere projekata i sopstvenog doprinosa. Praktično znanje tehničke SEO optimizacije, GTM, Google Analytics 4 i Search Console alata. Iskustvo sa Google Ads praćenjem konverzija, Google Merchant Center-om i feedovima‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ proizvoda. Osnovno razumevanje HTML-a, CSS-a i JavaScript-a, dovoljno za proveru implementacija, prepoznavanje problema i komunikaciju sa programerima. Poznavanje optimizacije sadržaja za AI sisteme za pretragu i generisanje odgovora. Odlično znanje engleskog jezika. Napredne veštine rada u Excel-u i obradi podataka. Strast za učenjem novih tehnologija, uključujući veštačku inteligenciju. Odgovornost, doslednost i spremnost da se rezultat meri brojkama. Spremnost na rad iz kancelarije. Ovo nije remote pozicija i dolazak u kancelariju je obavezan. Šta nudimo? Stabilnu poziciju sa dugoročnom perspektivom i jasno definisanim putem razvoja. Fiksnu zaradu od starta, uz definisan rast benefita kako projekat raste. Jasne ciljeve, merljive rezultate i direktnu komunikaciju sa vlasn"
+  },
+  {
+   "source": "infostud",
+   "id": "768001",
+   "title": "Full Stack Developer (Medior/Senior)",
+   "company": "MCM 965 d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "PHP",
+    "MySQL",
+    "Spring",
+    "Angular",
+    "Java",
+    "Git",
+    "Docker",
+    "REST",
+    "QA",
+    "SCRUM",
+    "Programiranje",
+    "Laravel",
+    "TypeScript",
+    "Cloud"
+   ],
+   "posted": "2026-11-20",
+   "expires": "05.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/full-stack-developer-medior-senior/mcm-965-doo/768001",
+   "summary": "Full Stack Developer razvija i isporučuje bezbedne end to end funkcionalnosti u regulisanom finansijskom okruženju. Uloga je fokusirana na obezbeđivanje stabilnog i testiranog koda kroz saradnju sa Product i QA timom i sistematsko smanjenje tehničkog duga.",
+   "matched": [
+    "backend",
+    "cloud"
+   ],
+   "first_seen": "2026-11-20T08:43:49+00:00",
+   "details": "O poslodavcu ECD.rs (MCM 965 d.o.o., Orfelinova 5) Kompanija nudi dodatni nivo finansijske nezavisnosti i slobode kroz opciju kupovine, prodaje, deponovanja, slanja i čuvanja kriptovaluta. U Srbiji je: Prva kripto platforma; Prvi kripto Wallet; Prvi CTM operater. Reference: vY0XeqKa2g9QUg Uz dozvolu NBS i KHOV, ECD pruža usluge povezane sa kriptovalutama (digitalnom imovinom). Od 2012. godine, više od 70.000 korisnika i 400+ pravnih lica je preko ECD-a ušlo u svet kriptovaluta. Primarni smo izvor informacija i za‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ profesionalce i za početnike. Kripto industrija je dinamična, a naše ambicije i strast velike. Tražimo osobu koja želi da bude deo evolucije novca. Naša kancelarija broji 20+ ljudi, a većinu vremena radimo iz kancelarije. U potrazi smo za novim članom tima koji bi pokrivao poslove Full Stack Developer-a. Full Stack Developer samostalno razvija funkcionalnosti od backend servisa i baze do web interfejsa, u regulisanom finansijskom okruženju u kom su sigurnost i tačnost podataka na prvom mestu. Uloga podrazumeva rad na postojećem kodu i njegovo postepeno unapređenje, učešće u code review procesu i blisku saradnju sa Product, QA i poslovnim timovima. Glavna zaduženja: 1) Razvoj funkcionalnosti (end-to-end) Razvija nove funkcionalnosti kroz ceo stack: backend API (PHP Laravel/Lumen), servise (Java‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ Spring Boot, Go) i web aplikaciju (Angular, TypeScript). Projektuje i menja šemu baze (MySQL), piše migracije i optimizuje upite. Implementira integracije sa eksternim servisima (custody, KYC, platni i bankarski servisi, Travel Rule). Prevodi poslovne zahteve i kriterijume prihvatanja iz tiketa u tehnička rešenja i procenjuje obim posla. 2) Kvalitet i održavanje koda Unapređuje postojeći kod sa fokusom na sigurnost, čitljivost, modularnost i testabilnost. Piše unit i integracione testove i u saradnji sa QA timom učestvuje u E2E testiranju. Aktivno učestvuje u code review procesu, kao autor i kao reviewer. Identifikuje tehnički dug i predlaže njegovo sistematsko rešavanje. 3) Sigurnost i pouzdanost Primenjuje security-by-design principe: validacija ulaza, autorizacija pristupa, zaštita korisničkih podataka i transakcija. Poštuje regulatorne zahteve (AML, KYC, zaštita podataka) u rešenjima koja razvija. Učestvuje u rešavanju produkcionih incidenata i post-mortem analizama. Radi u‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ okviru postojećeg CI/CD procesa i Git workflow-a (feature grane, code review, release). 4) Saradnja Blisko sarađuje sa Product, QA i poslovnim timovima. Radi u dvonedeljnim sprintovima i učestvuje u planiranju, procenama i retrospektivama. Dokumentuje rešenja tako da ih tim može održavati. Ciljevi radnog mesta (ključne mere uspeha) Funkcionalnosti isporučene u dogovorenom sprintu, u skladu sa kriterijumima prihvatanja. Stabilan kod na produkciji, bez regresija i novih sigurnosnih propusta. Testovi i dokumentacija za svaku isporučenu izmenu. Smanjenje tehničkog duga u delovima sistema na kojima radi. Lični profil Backend: Dobro poznavanje PHP-a (Laravel/Lumen), uz iskustvo sa Java (Spring Boot) i/ili Go jezikom. Frontend: Praktično iskustvo sa Angular framework-om i TypeScript-om. Baze podataka: Rad sa MySQL bazama, uključujući optimizaciju upita i migracije. Inženjerska disciplina: Navika pisanja‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ testova, čitljivog koda i učešća u code review-u. Analitički duh: Sposobnost da samostalno istraži problem kroz k"
+  },
+  {
+   "source": "infostud",
+   "id": "767993",
+   "title": "Product Data Migration Specialist",
+   "company": "Tridonic SRB d.o.o.",
+   "location": "Niš",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "qa",
+    "ERP"
+   ],
+   "posted": "2026-11-20",
+   "expires": "05.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/product-data-migration-specialist/tridonic-srb-doo/767993",
+   "summary": "This role ensures accurate transfer of product information into a new PIM by preparing, importing and validating structured datasets. The specialist will identify and resolve data quality issues to guarantee completeness and correctness of migrated product information.",
+   "matched": [
+    "data analyst"
+   ],
+   "first_seen": "2026-11-20T08:43:49+00:00",
+   "details": "O poslodavcu SpotLIGHT Do you enjoy working with data, finding inconsistencies and making sure information is complete and correct? Are you confident with Excel and comfortable working with larger amounts of structured‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ data? If so, join us as a Product Data Migration Specialist. In this role, you will help us move product information from existing systems and files into our new Product Information Management (PIM) environment. You will prepare and import product data, check the migrated information, and help identify and resolve data-quality issues. You don't need to be a PIM or data-migration‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ expert already. If you are good with structured data, have a strong eye for detail and enjoy investigating and solving data problems, we would like to hear from you. Responsibilities Prepare product data for migration and identify missing, inconsistent or incorrect information. Work with Excel and structured data files to prepare product information for import into our PIM system. Check migrated‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ product information and digital assets for completeness, correctness and consistency. Correct clearly identified data issues and re-check the information after corrections. Identify recurring problems and work with colleagues to distinguish individual data errors from issues that require a broader solution. Document findings and help improve our data-migration and validation processes. Reference: vY0XeqKa2g9QUg Skills & Experience You enjoy working with data and investigating data-quality issues. You are confident‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ using Microsoft Excel and working with larger, structured datasets. You work in a structured, accurate and reliable way and have a strong eye for detail. You have good analytical and problem-solving skills. You are comfortable learning new systems, tools and data structures. You communicate clearly and enjoy collaborating with colleagues across different teams. You have good English skills; additional German language skills would‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ be an advantage. Experience with product data, data validation, PIM, PLM, ERP, databases or data migration is an advantage, but not required. Experience with technical products or product information is welcome. Tridonic SRB d.o.o. Ulica Cumtobel 1, Niš, Srbija PIB: 110562375 Matični broj: 21363162 Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Niš IT Data Analyst Product Data Migration Specialist Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanj"
+  },
+  {
+   "source": "infostud",
+   "id": "767940",
+   "title": "Sistem administrator",
+   "company": "Galeb Group d.o.o.",
+   "location": "Šabac",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-20",
+   "expires": "05.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/sistem-administrator/galeb-group-doo/767940",
+   "summary": "System administrator je zadužen za administraciju i unapređenje serverske i mrežne infrastrukture radi obezbeđivanja sigurnog i pouzdanog rada informacionih sistema. Kandidat će održavati sisteme, rešavati tehničke probleme i pružati podršku korisnicima uz učestvovanje u implementaciji novih IT rešenja.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "racunari"
+   ],
+   "first_seen": "2026-11-20T08:43:49+00:00",
+   "details": "O poslodavcu Galeb Group je poslovna grupacija koja objedinjuje različite poslovne delatnosti i kompanije, sa zajedničkim fokusom na kvalitet, razvoj i unapređenje poslovanja. Prepoznajemo značaj pouzdane IT infrastrukture i‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ savremenih informacionih rešenja kao važnog oslonca efikasnog poslovanja. U skladu sa daljim razvojem i unapređenjem informacionog sistema Grupe, raspisujemo konkurs za prijem kandidata na poziciju: SYSTEM ADMINISTRATOR Tražimo odgovornu i proaktivnu osobu koja će biti zadužena za administraciju, održavanje i unapređenje IT infrastrukture, obezbeđivanje sigurnog i pouzdanog funkcionisanja informacionih sistema, kao i pružanje tehničke podrške korisnicima u‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ okviru Galeb Group. Ako voliš da rešavaš tehničke izazove, pratiš nove tehnologije i želiš da učestvuješ u unapređenju IT infrastrukture i digitalnog poslovnog okruženja, pozivamo te da se prijaviš! Šta će biti tvoja odgovornost? Administracija i održavanje serverske infrastrukture, računarskih mreža i IT sistema; Instalacija, konfiguracija i održavanje operativnih sistema, softvera i sistemskih aplikacija; Upravljanje korisničkim nalozima, pravima pristupa i pristupnim privilegijama; Praćenje i unapređenje bezbednosti informacionog sistema i zaštite podataka; Organizacija‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ i sprovođenje rezervnog kopiranja podataka (backup), kao i oporavka sistema; Praćenje performansi IT infrastrukture i pravovremeno otklanjanje tehničkih problema; Pružanje tehničke podrške zaposlenima u korišćenju računarske opreme, poslovnih aplikacija i IT servisa; Saradnja sa eksternim IT partnerima i dobavljačima; Učešće u implementaciji novih IT rešenja i unapređenju postojećih sistema. Reference: vY0XeqKa2g9QUg Šta očekujemo od tebe? VI ili VII stepen stručne spreme iz oblasti informacionih tehnologija, računarstva,‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ elektrotehnike ili srodnih oblasti; Najmanje jednu godinu radnog iskustva na istim ili sličnim poslovima; Srednji nivo znanja engleskog jezika; Analitičnost, sistematičnost, odgovornost i sposobnost samostalnog rešavanja problema; Razvijene komunikacione veštine i spremnost za timski rad. Šta nudimo? Rad u stabilnom poslovnom sistemu sa dugogodišnjim iskustvom; Mogućnost profesionalnog razvoja i usavršavanja; Učešće u unapređenju i razvoju IT infrastrukture i poslovnih sistema; Saradnju sa stručnim timom i mogućnost sticanja novih znanja‍⁠⁠‌‍​⁠‌​‌‌⁠‌⁠‍‍‍‍​‍‍‌‍‍⁠‌‍‍​​⁠⁠‌‌​​‌‌​‍ i iskustava; Paket benefita za zaposlene koji uključuje restoransku ishranu, dodatne dane godišnjeg odmora i plaćenog odsustva, sistematske preglede, poklone povodom različitih životnih događaja, regres za korišćenje godišnjeg odmora i druge pogodnosti. Galeb Group d.o.o. „Galeb Group\" d.o.o. Šabac je jedan od lidera u oblasti preduzetništva na našim prostorima i prvo je registrovano privatno preduzeće u bivšoj SFRJ. Tokom tri decenije uspešnog i dinamičnog poslovanja, kompanija je iznova osvajala nove oblasti poslovanja. Postala je lider u oblasti proizvodnje, prodaje i servisiranja električnih alata i opreme za industriju (opreme za zavarivanje, agregata, kompresora, mašina za sečenje i oblikovanje metala). Zahvaljujući dugoj tradiciji u oblasti elektronike… Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inost"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-fivetran-manager-security-engineer-operations",
+   "title": "Manager Security Engineer, Operations",
+   "company": "Fivetran",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/fivetran-manager-security-engineer-operations",
+   "summary": "Headquarters: Remote, Massachusetts, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-20T08:43:49+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137808",
+   "title": "Software Engineer AI Coding Tasks",
+   "company": "Askable",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "golang",
+    "python",
+    "javascript",
+    "typescript",
+    "java",
+    "c plus plus"
+   ],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": "10000-10000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
+   "summary": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. R",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-20T08:43:49+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "767831",
+   "title": "Application Support Analyst",
+   "company": "Singular Point d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Azure",
+    "Jira",
+    "DevOps",
+    "Podrška"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/application-support-analyst/singular-point-doo/767831",
+   "summary": "Role exists to ensure customers receive prompt and effective assistance with the software and to minimize operational disruption. The analyst will diagnose and resolve technical issues, maintain support documentation, and collaborate with development teams to improve product reliability and customer satisfaction.",
+   "matched": [
+    "data platform",
+    "devops",
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00",
+   "details": "O poslodavcu Job Title: Application Support Analyst Company: Singular Point d.o.o. Location: Belgrade Job Type: Indefinite employment contract with a six-month probationary period Introduction: We seek a proactive and customer-focused Application Support Analyst Member to join our Belgrade team. Ideal candidates should be committed to continuous professional development through training related to software support and relevant technologies. As‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ an Application Support Analyst Member, you will play a critical role in ensuring our customers receive prompt and effective assistance with our software product. You will collaborate closely with internal teams to resolve issues, provide product training, and contribute to enhancing the overall customer experience. Key Responsibilities: Provide technical support to customers through various channels such as phone, email, or online platforms. Diagnose and resolve software issues reported by customers, ensuring prompt resolution and minimal disruption to operations. Document and track support cases accurately using a ticketing system, including details of customer interactions, troubleshooting steps, and resolutions. Collaborate closely with internal development and delivery teams to escalate‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ and resolve complex technical issues. Conduct software demonstrations, training sessions, and workshops for customers to enhance their understanding and utilization of our software. Assist in the testing and validation of new software releases and updates to ensure quality and functionality. Contribute to the development and maintenance of knowledge base articles, user guides, and technical documentation to support customers and internal teams. Reference: uIF6fn07nnahLA Requirements: Bachelor’s degree in computer science, Information Technology, or related field (or equivalent experience). Proven experience in a software product support role or similar customer-facing technical support position. Strong problem-solving skills with the ability to analyze and troubleshoot technical issues. Excellent verbal and written English communication skills to effectively interact‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ with customers and team members with a customer-oriented approach. Ability to prioritize and manage multiple tasks in a fast-paced environment. Experienced using ticketing systems (e.g., JIRA, Azure DevOps) to manage and track support requests. Knowledge of software troubleshooting tools and methodologies is a plus. Experience with SQL databases and understanding of programming languages (e.g., Java, C#, Python) is a plus. Ability to work independently and collaboratively within a team. Specific industry knowledge relevant to the software’s application domain in logistics is a plus. Benefits: Competitive salary and benefits package include Private health insurance, Sports package, two days of Remote work, and more. Opportunities for career growth and professional development. A collaborative and supportive work environment focused on innovation and‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ customer success. Application Process: Interested candidates are invited to submit their resume and a cover letter highlighting their qualifications and interest in the Application Support Analyst position. We look forward to reviewing your application and discussing how you can contribute to our team and the success of our software products. Cont"
+  },
+  {
+   "source": "infostud",
+   "id": "767891",
+   "title": "Senior MES Specialist",
+   "company": "Grundfos Holding A/S",
+   "location": "Inđija | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SAP",
+    "Prodaja / konsultanti",
+    "ERP",
+    "Agile"
+   ],
+   "posted": "2026-11-19",
+   "expires": "19.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-mes-specialist/grundfos-holding-a-s/767891",
+   "summary": "The Purchasing Specialist drives value based sourcing and supplier relationship management to improve total cost of ownership and supplier performance. The role supports local stakeholders and implements regional sourcing strategies to deliver sustainability innovation and operational excellence across the supply base.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00",
+   "details": "Are you passionate about using digital technology to solve real manufacturing challenges and create value for the people working on the shop floor? Then join our digitalization journey and help shape how manufacturing works across Grundfos' global production footprint. As our new‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ Senior MES Specialist, you will represent manufacturing in our global Manufacturing Execution System (MES) program, turning production needs into digital solutions and helping develop and deploy our global MES platform. What you will be doing As part of Digital Architecture within Advanced Manufacturing Engineering (AME), you will join an agile, international MES team working across manufacturing, Quality, Supply Chain and IT. Your main responsibilities include: Understand manufacturing needs and translate them into requirements and user stories focused on business value. Contribute to designing, developing, testing and implementing‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ MES solutions and related business processes. Work across MES and interfacing solutions including ERP, PLM, equipment integration and master data. Support line assessments and global deployments, connecting solution knowledge with shop-floor needs. Help ensure solutions follow our global template while identifying new requirements for further development. Collaborate with colleagues, production plants, deployment teams and other digitalization initiatives around the world. Reference: uIF6fn07nnahLA What makes you a great fit There is no single career path into this role. You might already work with MES, or your experience could come from manufacturing‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ digitalization, IT/OT, automation or production technology. What matters is your understanding of manufacturing, your curiosity about technology and your ability to turn needs into practical solutions. Experience with MES, manufacturing digitalization, IT/OT, automation or production technology; Understanding of manufacturing processes and shop-floor environments; Experience translating business or manufacturing needs into digital solutions; Strong collaboration and communication skills across business and technical teams; Professional proficiency in English. It is a plus, not a requirement, if you have experience with enterprise MES deployments, Siemens Opcenter, SAP ERP Operations, PLM, equipment integration, master data‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ or agile ways of working. You do not need to meet every qualification to be successful in this role. If this opportunity excites you and you believe your experience can contribute to our MES journey, we encourage you to apply. Why you will love working here You'll join a supportive, international environment where different perspectives are valued and where you can influence solutions used across our global manufacturing network. Our agile and flat way of working gives you ownership, room to contribute ideas and opportunities‍⁠‍​‍​​‌‌⁠‍‍‌⁠⁠‍‌⁠⁠‌​⁠‍⁠‍‌⁠‍‌⁠‌‍‍‍​‌​‍⁠​ to grow your expertise. We are inclusive. Celebrating and valuing our differences helps us see possibilities where others can't, and we welcome applications from all abilities, experiences and backgrounds. The position is based at our Indjija office, with approximately 20 days of travel per year. Network eG Völklinger Str. 1, 40219 Düsseldorf, Nemačka Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? O"
+  },
+  {
+   "source": "helloworld",
+   "id": "767880",
+   "title": "Developer Relations Engineer",
+   "company": "Supabase",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "typescript"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Developer-Relations-Engineer/Supabase/767880",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. JavaScript TypeScript Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Developer Relations Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Developer Relations Engineer Supabase Inostranstvo | Rad od kuće 04.12.2026. JavaScript TypeScript intermediate About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're looking for a Developer Relations Engineer to join our team and help more developers discover, learn, and build with Supabase. You'll create high-impact content, build real-world projects, and represent Supabase across communities and events. If you're equally energized by writing code and teaching others, this is the role for you. Why This Role Matters Supabase is growing fast with 350,000+ developers , 1,000+ OSS contributors , and a thriving open source ecosystem. Our users are builders, startup founders, weekend hackers, and engineers scaling to millions of users. DevRel is how we meet them where they are: through content, community, and code. We're building a community of communities that brings together developers from many backgrounds, including first-time open source contributors. As a DevRel Engineer, you'll be a bridge between Supabase and the broader developer ecosystem, helping people get started, go deep, and feel connected. What You'll Do Make content — Publish compelling technical content, especially video, to help developers learn Supabase quickly Build demos and tutorials — Ship real-world apps using Supabase and tools like Next.js, React, and Stripe. Write guides that others can follow and remix Represent Supabase — Speak at meetups, livestream builds, and engage with the developer ecosystem. You'll be a visible and trusted voice of the platform Support and grow the community — Celebrate contributors, answer questions, highlight cool projects, and bring developer feedback to the team Collaborate across the company — Work with engineering, product, and growth to amplify launches, prioritize content, and reduce friction for new users You Might Be a Good Fit If You've built full-stack apps and enjoy sharing your knowledge You create content that makes people want to open their code editor You're equally comfortable writing a video script and TypeScript You're energized by community whether it's on Discord, Twitter, YouTube, or in person You're self-directed, organized, and excited to contribute to open source Requirements Strong engineering skills, especially with JavaScript or TypeScript, Postgres, and modern frontend frameworks (React, Svelte, Vue, etc.) Experience creating technical content (written or video) Comfortable representing a product publicly (on camera, on stage, or online) Bonus Points If You Have A growing audience on YouTube, Twitch, or Twitter Prior experience in DevRel or open source Have used (and loved) Supabase What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world. ESOP Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together. Tech Allowance Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps ",
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767881",
+   "title": "Head of Engineering (Frontier Safety)",
+   "company": "FAR.AI",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "python",
+    "prototype",
+    "rest",
+    "foundation",
+    "c",
+    "cloud",
+    "embedded",
+    "kubernetes"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Head-of-Engineering-Frontier-Safety/FAR.AI/767881",
+   "summary": "FAR.AI Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. Python Prototype REST Foundation C Cloud Embedded Kubernetes Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Head of Engineering (Frontier Safety) Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Head of Engineering (Frontier Safety) FAR.AI Inostranstvo | Rad od kuće 04.12.2026. Python Prototype REST Foundation C Cloud Embedded Kubernetes senior About Us FAR.AI is a non-profit AI research institute working to ensure advanced AI is safe and beneficial for everyone. Our mission is to facilitate breakthrough AI safety research, advance global understanding of AI risks and solutions, and foster a coordinated global response. Since our founding in July 2022, we've grown to 50+ staff , published 40+ academic papers , and convened leading AI safety events . Our work is recognized globally, with publications at premier venues such as NeurIPS, ICML including a Best Paper Honorable Mention in 2026 , and ICLR, and features in the Financial Times , Nature News , Wired Magazine and MIT Technology Review . We conduct pre-deployment testing on behalf of frontier developers such as OpenAI, independent evaluations for governments including the EU AI Office , and publish the AI Security Leaderboard based on our red-teaming expertise. We help steer and grow the AI safety field through developing research roadmaps with renowned researchers such as Yoshua Bengio; running FAR.Labs , an AI safety-focused co-working space in Berkeley housing 40+ members; and supporting the community through targeted grants to technical researchers. Head of Engineering (Frontier Safety) FAR.AI is seeking a Head of Engineering for its Frontier Safety division, which runs one of the world’s most impactful frontier AI testing programs. This role focuses on building the engineering and execution engine that enables and empowers the division’s work across testing, evaluations, tools, products, services, and research. The systems and the team you build will enable the division to execute on high-stakes engagements with frontier AI companies and leading governments, and provide these stakeholders critical insights and tools, aiming to multiply the world’s rate of progress via testing towards safe AI. This is an opportunity to shape how AI safety is practiced at the frontier, with real impact on industry behavior, governments, public awareness, and global norms. About the Frontier Safety Division FAR.AI ’s Frontier Safety division exists to materially raise the bar for safety and security of the most capable AI systems in the world. We intend to be the tip of the spear in AI safety: the team that consistently finds the failures others miss, converts these into mitigations by frontier developers, and sets the standard that labs and governments converge on. The division grew out of FAR.AI 's red team, and is expanding rapidly into loss of control testing, deeper evaluations, and safeguards. From that base, we discover issues, drive their mitigation, and, where a gap in safeguards is blocking a fix, build the missing technical capacity ourselves. What we learn from building and studying safeguards then feeds back into new ways of finding vulnerabilities. We are already one of the leading independent red-teaming organizations globally. We use our understanding of weaknesses in models to advise frontier developers on mitigations, work with governments on building evaluation infrastructure and technical capability, and to guide our own research and grantmaking for improving model security. Our work has helped most Western frontier model developers improve safegu",
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767882",
+   "title": "Information Security Engineer - Application Security",
+   "company": "Camunda",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "javascript",
+    "java",
+    "python",
+    "saas",
+    "cloud",
+    "kubernetes",
+    "r"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Information-Security-Engineer-Application-Security/Camunda/767882",
+   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. JavaScript Java Python SaaS Cloud Kubernetes R Intermediate <i class=\"lar la-hear",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Information Security Engineer - Application Security Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Information Security Engineer - Application Security Camunda Inostranstvo | Rad od kuće 04.12.2026. JavaScript Java Python SaaS Cloud Kubernetes R intermediate Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the Role Hi there! We're hiring an Information Security Engineer with a focus on Application Security to join our Information Security team at Camunda. We are a team that takes security seriously without making it feel like a locked door. We work in a transparent, straightforward way, and we care about doing the work right rather than just checking a compliance box. You will work side by side with our R&D engineers: reviewing designs, threat modeling new features, digging into code and helping teams make good, risk-based decisions about the vulnerabilities that come in. You'll also help build the internal tools that make this work scale, including our CVE registry and the LLM-assisted workflows we use to analyse code and triage findings. Camunda is an AI-first company, and InfoSec is no exception: AI agents are part of how we review code, assess vulnerabilities, and build our tools. You will help shape how that works. This is a hands-on role for someone who already has solid AppSec foundations and wants to grow. We are a generalist team, so you will also take part in our on-call rotation and incident response, and get exposure to other areas of security. But most of your time will be spent with engineers and building and maintaining internal tools and processes. What You Will Do Vulnerability management : triage findings from SCA, container and code scanning, external reports and internal security testing; assess whether Camunda is actually affected; agree fix / mitigate / accept with engineering and follow through to release. Threat modeling and security reviews : run threat modeling sessions and design reviews with R&D teams for new features and architecture changes, and turn the results into concrete, prioritised actions. Code analysis with LLMs : use and improve LLM-assisted tooling (agents, prompts, reusable skills) to review code, validate findings and reproduce issues, while applying your own judgement to know when the model is wrong. Build interna",
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137805",
+   "title": "SEO Full Stack Engineer",
+   "company": "Treatwell",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "full stack",
+    "react",
+    "rabbitmq",
+    "front end",
+    "technical",
+    "customer support",
+    "dev",
+    "testing",
+    "marketing",
+    "design",
+    "web dev",
+    "exec"
+   ],
+   "posted": "2026-11-18",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+   "summary": "We're looking for a full-stack engineer to join our Product Engineering team, reporting to one of the Engineering Managers of the Marketplace area, with a dotted line to the Marketing SEO Manager, focused on supporting the Growth and Marketing area. This role will have a 60% focus on Front End, and 40% focus on Back End. You'll work on Treatwellâs Marketplace products and help Treatwell be disco",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-prove-site-reliability-engineer-sr-site-reliability-engineer",
+   "title": "Site Reliability Engineer, Sr. Site Reliability Engineer",
+   "company": "Prove",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/prove-site-reliability-engineer-sr-site-reliability-engineer",
+   "summary": "Headquarters: United States (Remote) About Prove As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokenization and passive cryptographic authentication solutions reduce friction, enhance security and privacy across all digital channels, and accelerate revenues while reducing operating expen",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-circleci-staff-software-engineer",
+   "title": "Staff Software Engineer",
+   "company": "CircleCI",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/circleci-staff-software-engineer",
+   "summary": "Headquarters: Canada (Remote), United States (Remote), United Kingdom (Remote) Mexico City, Mexico - Hybrid About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use to understand and trust that work don't exist yet. We're building them. ",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-19T21:41:37+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "767782",
+   "title": "AI B2B Solutions Expert",
+   "company": "Yettel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Programiranje",
+    "Cloud",
+    "AI/ML"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ai-b2b-solutions-expert/yettel-doo/767782",
+   "summary": "This role establishes the B2B AI practice by identifying customer use cases and shaping commercially viable AI solutions. The candidate will drive opportunity discovery, design architectures and coordinate proofs of concept to take pilots into production.",
+   "matched": [
+    "data platform",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00",
+   "details": "O poslodavcu Yettel is looking for a B2B AI Solutions Expert to help build our B2B AI business by combining commercial development, solution architecture and hands-on customer engagement. As our first dedicated B2B AI expert, you will help shape both our customer solutions and the way we bring AI services to market. Your scope will span customer discovery, solution design,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ portfolio development and partner engagement, giving you the opportunity to lay the foundations for a future AI team. You will work alongside established sales, presales, product and marketing teams, supported by Yettel’s AI platform team, Netlogic and technology partners across the e& PPF ecosystem. The role reports to the B2B ICT Director. What we will expect from you: Identify and qualify AI opportunities with Account Managers, initially focusing on enterprise and upper-SME customers. Lead customer workshops, presentations and demonstrations, translating business needs into practical use cases and measurable outcomes. Design high-level solution architectures covering AI models, data, integrations, deployment options and security, working with specialists to validate feasibility. Develop proposals, business cases and cost​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ estimates, supporting sales through proof of concept, negotiation and contracting. Scope and coordinate proofs of concept, with clear success criteria and a path to production; prepare or adapt demonstrations with support from technical teams and partners. Help shape the AI portfolio, pricing and go-to-market approach with product and marketing teams, covering AI applications, agentic workflows, managed AI platforms and model/API services. Identify and engage Group and external partners for local deployment, integration or resale, and turn successful projects into repeatable offers. Coordinate delivery handover, ensuring that implementation scope, acceptance criteria and support responsibilities are agreed with the relevant teams. Enable sales and presales colleagues through training and reusable materials,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ and help define the skills and ways of working needed as the AI business grows. Reference: N8olDAYcLCSVNQ For a good start you will need: At least five years of relevant experience in technical presales, solution architecture, solution consulting or enterprise technology business development, combining customer engagement with solution design. Practical involvement in AI or GenAI projects or proofs of concept, with a clear understanding of your contribution, architectural choices and results. Working knowledge of LLMs, retrieval-augmented generation (RAG), AI agents, APIs and enterprise integrations, including how to evaluate solution quality and limitations. A solid understanding of cloud and private deployment options, enterprise data, security and managed services. The ability​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ to translate customer needs into solution scope, costs and business value, and communicate confidently with business decision-makers and technical specialists. Commercial judgement and an independent, hands-on approach, with the ability to prioritise and coordinate colleagues and partners. Professional proficiency in Serbian and English. Personal traits: Experience taking AI solutions from pilot to production. Experience developing service propositions, partner-led solutions or recurring and consumption-based com"
+  },
+  {
+   "source": "infostud",
+   "id": "767749",
+   "title": "IT Service Desk Administrator Junior",
+   "company": "Fashion Company d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-service-desk-administrator-junior/fashion-company-doo/767749",
+   "summary": "IT Service Desk Administrator Junior obezbeđuje neprekidan rad IT sistema i direktnu podršku zaposlenima u maloprodaji. Ključna uloga je brzo rešavanje tehničkih problema i održavanje ERP sistema da bi poslovanje nesmetano funkcionisalo.",
+   "matched": [
+    "junior",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "racunari"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00",
+   "details": "O poslodavcu Fashion Company je vodeća modna maloprodajna kompanija sa više od 150 prodajnih objekata u Srbiji i regionu (Hrvatska, Crna Gora, Bosna i Hercegovina, Albanija, Kosovo,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ Slovenija i Severna Makedonija).‌​‌⁠​‍​‌‌⁠⁠⁠⁠‌⁠⁠⁠​​⁠⁠⁠⁠⁠⁠⁠‌⁠‍‍⁠‌​‌‍‍‍‌‍‌ Brendovi koje zastupa spadaju među svetski poznate, moderne i urbane brendove, kao što su: Diesel, Replay, Steve Madden, Tommy Hilfiger, Calvin Klein, Armani Exchange, Guess, DKNY, Hugo Boss, Sandro, Boggi Milano, Etro, Polo Ralph Lauren, C.P. Company, AllSaints, Longchamp, Antony Morato, Moose Knuckles,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ Joop!, Golden Goose, Autry, Coach, Corneliani, Fedeli, Eleventy, Slowear, Premiata, Levi’s, Scotch & Soda, Timberland,‌​‌⁠​‍​‌‌⁠⁠⁠⁠‌⁠⁠⁠​​⁠⁠⁠⁠⁠⁠⁠‌⁠‍‍⁠‌​‌‍‍‍‌‍‌ Camper, Liu Jo, Desigual, Mango, UGG, Superdry, Patrizia Pepe, Inuikii, Kiko Milano i mnogi drugi. Ukoliko želiš da gradiš svoju karijeru na poziciji IT Service Desk Administrator Junior i budeš ključna podrška svakodnevnom poslovanju kroz IT rešenja, ovo je prilika za tebe. Tvoja misija: Pružaš udaljenu i terensku IT podršku zaposlenima Obezbeđuješ stabilan​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ rad ERP sistema i maloprodajnih aplikacija Dijagnostikuješ i rešavaš tehničke probleme u najkraćem roku Instaliraš, konfigurišeš i održavaš računare i softverske aplikacije Učestvuješ u postavljanju i održavanju IT opreme Testiraš nove funkcionalnosti ERP sistema Administriraš fiskalne štampače i CUCM telefoniju Obučavaš korisnike za rad u kompanijskim aplikacijama Reference: N8olDAYcLCSVNQ Ti si naš idealan kandidat ako: Imaš VI ili VII stepen stručne spreme (IT, elektrotehnika ili srodno) Imaš minimum 3 godine iskustva​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ na sličnim poslovima Dobro poznaješ rad na računaru i IT sisteme Aktivno koristiš engleski jezik Si organizovan/a si, odgovoran/na i orijentisan/a na rešavanje problema Dobro funkcionišeš i samostalno i u timu Poseduješ vozačku dozvolu B kategorije (aktivan vozač) Kod nas te očekuje: Pozitivno radno okruženje; Rad u timu koji neguje saradnju, odgovornost i inicijativu Profesionalni razvoj i mogućnost napredovanja; Privatno zdravstveno osiguranje; Sistematski pregled jednom godišnje; Novogodišnji paketić za decu; Paketić​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ za polazak u prvi razred kao i slobodan dan za tu priliku; Poklon za 8. mart za sve dame u kompaniji; Fleksibilno radno vreme Team building Fashion Company d.o.o. Fashion Company je liderska ritejl kompanija u regionu jugoistočne Evrope koja se bavi modom i modnom maloprodajom i veleprodajom u preko 120 maloprodajnih mesta u Srbiji i regionu (Crna Gora, Severna Makedonija, Bosna i Hercegovina, Hrvatska, Rumunija). Naše prepoznatljive multibrend radnje su Fashion&Friends, ali i monobrend ranjde, u kojima prodajemo marke koje pripadaju klasi svetski poznatih, modernih i urbanih brendova kao što su: Diesel, Replay, Calvin Klein, Premiata, Levi's, Tommy… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije d"
+  },
+  {
+   "source": "infostud",
+   "id": "767793",
+   "title": "IT tehničar",
+   "company": "Spectrum Data d.o.o.",
+   "location": "Beograd | Terenski rad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows",
+    "Sistemska administracija",
+    "Podrška",
+    "Hardware"
+   ],
+   "posted": "2026-11-19",
+   "expires": "19.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar/spectrum-data-doo/767793",
+   "summary": "Pozicija je usmerena na održavanje hardverskih i softverskih sistema kod eksternih klijenata i obezbeđivanje neometanog rada korisničke infrastrukture. Kandidat će direktno rešavati tehničke incidente na terenu i doprinositi unapređenju usluga kroz stalno usavršavanje.",
+   "matched": [
+    "it tehnicar",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "windows",
+    "racunari"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00",
+   "details": "O poslodavcu Preduzeće Spectrum Data d.o.o. oglašava konkurs za poziciju IT tehničara (HW i SW). Opis posla: Rad na sistemskom održavanju softvera i hardvera kod​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ eksternih klijenata. Odlazak kod klijenata u prostorije i redovni obilasci klijenata. Pružanje tehničke podrške korisnicima i sva sistemska podrška koju obuhvata pozicija. Komunikacija sa korisnicima putem e-maila, interneta, telefona i ličnim prisustvom u prostorijama korisnika. Konstantan rad na unapređenju, povećanju i usavršavanju svih naših usluga. Reference: N8olDAYcLCSVNQ Uslovi: Rad u​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ Microsoft 365. Obavezno poznavanje mikrotik routera i grand stream i ubiquty wifi uređaja. Sklapanje računara, servera, dijagnostika. Visoka ili viša stručna sprema tehničkog profila. Minimalno iskustvo 3-5 godina u istim poslovima. Napredno poznavanje Windows operativnih sistema. Sposobnost za rad pod pritiskom i spremnost za kontinuirano usavršavanje. Odgovornost,​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ komunikativnost, tačnost, ažurnost, motivisanost za konstantno učenje i usavršavanje. Prednost: Rad u Windows okruženju i računarskim mrežama, mikrotik rutera i VMware i HyperV. Dobro poznavanje Microsoft Office paketa. Znanje engleskog jezika. Vozačka dozvola B kategorije - aktivan vozač. Nudimo Vam: Stalnu obuku i dalje usavršavanje u​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ raznim sferama IT-a. Mogućnost napredovanja širokog dijapazona. Rad u kolegijalnom, apsolutno profesionalnom i dinamičnom okruženju. Samo kandidati koji uđu u uži izbor biće kontaktirani po završetku konkursa. Obavezno se polaže tehnički test prilikom prijema. Konkurs traje do popune radnih mesta. Ukoliko smatrate da ste​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ u mogućnosti da ispunite zahteve posla i ukoliko želite stabilan i dugoročan posao sa velikom mogućnošću napredovanja pošaljite svoj CV elektronskim putem. Spectrum Data d.o.o. Spectrum Data DooSoftverska rešenja za knjigovodstvo Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support IT tehničar Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "767175",
+   "title": "Softverski inženjer / Softverska inženjerka – AI, UX i interdisciplinarno istraživanje u oblasti zdravlja žena",
+   "company": "Biosego L.T.D.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Git",
+    "UX Dizajn",
+    "Programiranje",
+    "Sketch",
+    "AI/ML"
+   ],
+   "posted": "2026-11-19",
+   "expires": "04.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/softverski-inzenjer-softverska-inzenjerka-ai-ux-i-interdisciplinarno-istrazivanje-u-oblasti-zdravlja-zena/biosego-ltd/767175",
+   "summary": "Rad u ovoj ulozi podrazumeva razvoj veb platforme koja integriše ultrazvučne slike laboratorijske nalaze i istoriju lečenja sa objašnjivom kliničkom logikom. Odabrani kandidat će oblikovati prvi proizvod i istraživanje kroz full stack razvoj implementaciju verzionisane kliničke logike i upotrebu AI alata za poboljšanje tačnosti i sledljivosti.",
+   "matched": [
+    "data engineer",
+    "data inzenjer",
+    "data platform",
+    "racunari"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00",
+   "details": "O poslodavcu Softverski inženjer / Softverska inženjerka – AI, UX i interdisciplinarno istraživanje u oblasti zdravlja žena [Biosego d.o.o.] · Skraćeno radno vreme (part-time), [20-40] nedeljno Pridruži se interdisciplinarnom timu lekara, naučnika i inženjera koji razvija novu vrstu softverske platforme za reproduktivno i dugoročno zdravlje žena. Platforma povezuje ultrazvuk, laboratorijske nalaze i istoriju lečenja u jedinstven elektronski karton koji prati pacijentkinju kroz vreme, uz kliničku logiku koja je objašnjiva i proverljiva. Na samom smo početku, pa ćeš od prve verzije oblikovati i proizvod i istraživanje. Šta ćeš raditi Razvijati modernu veb-aplikaciju:​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ profesionalni radni prostor za lekare i istraživače i jasan, smiren prikaz za pacijentkinje. Učestvovati u interdisciplinarnom istraživanju sa lekarima i naučnicima: pretvarati istraživačke protokole u softver, pripremati istraživačke skupove podataka i pomagati u evaluaciji rezultata. Implementirati objašnjivu, verzionisanu kliničku logiku pravila sa potpunim revizijskim tragom, u kojoj je „nepoznato“ pravo stanje, a nikada prećutna nula. Dizajnirati tokove rada sa lekarima, ultrasonografistima i istraživačima, od klikabilnih prototipova do produkcijskog korisničkog interfejsa. Integrisati medicinske podatke: ultrazvučne snimke, laboratorijske nalaze i uvezene dokumente. Stalno koristiti AI da radiš brže i bolje, i učestvovati u oblikovanju budućih AI funkcija, poput analize ultrazvučnih snimaka. Pisati testove i dokumentaciju zahvaljujući kojima softver kasnije može da bude sertifikovan kao medicinsko sredstvo. Reference: N8olDAYcLCSVNQ Koga tražimo 1–5 godina profesionalnog iskustva u razvoju softvera. Solidno full-stack znanje: možeš samostalno da napraviš veb-aplikaciju, od baze podataka do korisničkog interfejsa. Odlične praktične AI veštine: efikasno koristiš AI alate za programiranje, kritički proveravaš ono što generišu i prepoznaješ kada greše. Iskustvo u razvoju LLM ili ML funkcionalnosti je velika prednost. Pravi osećaj za UX: razgovaraš sa korisnicima, skiciraš tokove rada i složene informacije pretvaraš u​⁠‌⁠⁠​‍‍​‍‌‌​​⁠​​​‌‍​‌⁠​​‍⁠​​‍‌​‍‌‌‌​⁠‌‌ jednostavan interfejs kome se veruje. Posvećenost ispravnosti: modelovanje podataka, testiranje, sledljivost. Dobro pisano znanje engleskog jezika; znanje srpskog je prednost. Poželjno Istraživačko iskustvo (akademsko ili industrijsko) i interesovanje za biomedicinu. Iskustvo u zdravstvenim tehnologijama. Obrada medicinskih slika ili računarski vid (computer vision). Iskustvo sa regulisanim medicinskim softverom ili zaštitom zdravstvenih podataka. Zašto da nam se pridružiš Pravo interdisciplinarno istraživanje: radićeš rame uz rame sa lekarima i naučnicima na otvorenim pitanjima zdravlja žena, a ne samo na tiketima. Koautorstvo na naučnim radovima. Fleksibilan posao sa skraćenim radnim vremenom. Mali tim u ranoj fazi, pa tvoje odluke oblikuju arhitekturu i proizvod. Zarada · Učešće u dobiti, i/ili na kraju - Bonus od prodaje / Provizija · benefiti. Kako da se prijaviš: pošalji CV, GitHub ili portfolio i kratku poruku. Opiši jedan proizvod koji je nastao tvojim radom, jedan primer gde ti je AI pomogao da radiš bolje i jedan gde je pogrešio. Pre nego što podelimo detalje projekta, sa kandidatima i kandidatkinjama iz užeg izbora potpisujemo ugovor o poverljivosti (NDA). Software Engineer – AI, UX & Interdisciplinary Research in Women's Health [Biosego d.o.o.] · Part-time, [20-40] per w"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-circleci-senior-support-engineer",
+   "title": "Senior Support Engineer",
+   "company": "CircleCI",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/circleci-senior-support-engineer",
+   "summary": "Headquarters: Remote; Tokyo Senior Support Engineer Team: Customer Engineering and Success, CircleCI About the team Support Engineering is part of Customer Engineering and Success at CircleCI. We give technical support to customers after they buy. Our team works around the clock across North America, Asia Pacific, and Europe. We build and manage AI agents that answer customer questions and solve t",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-checkr-solutions-architect",
+   "title": "Solutions Architect",
+   "company": "Checkr",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-19",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/checkr-solutions-architect",
+   "summary": "Headquarters: Denver, Colorado, United States; Remote, United States About Checkr Checkr is building the data platform to power safe and fair decisions. Over 140,000 companies and millions of people rely on Checkr for AI verification in the moments that matter most: getting a new job, a new place to live, a car ride, childcare, even a date. Customers include Uber, Pennymac, Airbnb, Doordash, and A",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-19T08:57:07+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "767639",
+   "title": "Agent tehničke podrške za danski jezik",
+   "company": "Transcom Worldwide",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/agent-tehnicke-podrske-za-danski-jezik/transcom-worldwide/767639",
+   "summary": "Ova pozicija postoji da obezbedi tehničku podršku korisnicima na danskom jeziku i brzo rešavanje problema sa uređajima. Kandidat će direktno doprinositi zadovoljstvu korisnika organizovanjem popravki i praćenjem statusa reklamacija.",
+   "matched": [
+    "it podrska",
+    "tehnicka podrska"
+   ],
+   "first_seen": "2026-11-18T21:28:56+00:00",
+   "details": "O poslodavcu Ukoliko govoriš tečno danski jezik, komunikativan/na si, strpljiv/a i uživaš u tome da razgovaraš sa ljudima i pružaš im podršku, možda si baš ti naš budući kolega! Možeš koristiti i vežbati danski jezik uz pružanje podrške korisnicima, a uz to i njima ulepšati dan. Šta možeš da očekuješ od​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ prvog dana angažovanja? Privatno zdravstveno osiguranje; Ugovor o radu na neodređeno vreme; Mogućnost rada od kuće; Neradni vikendi; Rad u prvoj smeni; Obezbeđena obuka i podrška od prvog dana; Mogućnost ostvarivanja mesečnih bonusa; Mogućnost korišćenja benefita u rekreativnim objektima; Uživaćeš u raznim kompanijskim događajima, obukama i treninzima namenjenim tvom ličnom i profesionalnom razvoju. Reference: JTQFZX9VVIkh4A Pridruži nam​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ se kao Agent tehničke podrške na danskom jeziku! Tvoje osnovne odgovornosti bi bile: Komuniciranje putem mejla i poziva sa klijentima na danskom jeziku i odgovaranje na njihove upite; Rešavanje manjih kvarova uređaja i pružanje pomoći u vezi sa pitanjima korisnika; Informisanje korisnika o aktuelnom statusu njihove​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ garancije; Organizovanje intervencije za složenije popravke uređaja; Pomoć u procesu reklamacije; Praćenje novih tehnoloških trendova i promena na tržištu. Kako da znaš da si prava osoba za naš tim? Poseduješ odlično znanje danskog jezika (C1 nivo); Poznaješ engleski jezik na minimum B1 nivou; Odlično poznaješ rad na računaru; Imaš razvijene veštine komunikacije; Komunikativan/na si i voliš da pomažeš ljudima; Motivisan/a si i odgovoran/na. Kako izgleda život u Transcomu? U Transcomu smo neumorno posvećeni našim klijentima i jedni drugima.​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ Svakog dana neko započne svoje putovanje sa Transcomom, uzimajući potencijal koji ima danas i pretvarajući ga u veštine za budućnost. Dobijanje priznanja za naporan rad, timski rad i podršku drugima. Zagovaranje pozitivnih, trajnih promena u svojim timovima i zajednicama. Takvi smo mi u Transcomu. Ovde nam​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ je stalo i navijamo jedni za druge. Uključen/a si, baš takav/va kakav/va jesi, od prvog dana. A sa pravim načinom razmišljanja, nema granice koliko daleko možemo ići zajedno. Transcom Worldwide d.o.o. Dobrodošli u naš svet! Kao švedska multinacionalna kompanija, ponosni smo što smo prisutni širom sveta i što sa sobom nosimo bogato iskustvo u upravljanju projektima u oblastima kao što su turizam, online bankarstvo, bela tehnika, eSIM tehnologije i još mnogo toga. Od 2014. godine, naš tim u Beogradu, a kasnije i u Novom Sadu od 2018. i Nišu od 2022. godine, radi na stvaranju rešenja koja unapređuju korisničko iskustvo. Sa više od 850 strastvenih stručnjaka na raspolaganju, pružamo usluge na 25… Više o poslodavcu Iskustva zaposlenih \"Pitali smo našu koleginucu Aleksandru, kako bi ona opisala rad u internacionalnom timu. Evo iskustva iz prve ruke: \"Rad u internacionalnom okruženju pruža priliku za svakodnevnu saradnju sa kolegama…\" Pročitajte celo iskustvo Beneficije Obezbeđena oprema za rad Prostor za opuštanje Sport i rekreacija Zdravlje Rad od kuće Dobrovoljno zdravstveno osiguranje Edukacija, profesionalni razvoj Hrana i piće Kompanijski popusti Nagrade, bonusi, pokloni Timska druženja Obuke, konferencije Porodica i roditeljstvo Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u "
+  },
+  {
+   "source": "infostud",
+   "id": "767730",
+   "title": "IT Security Engineer – Focus on SIEM & SOC",
+   "company": "STRABAG d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija",
+    "Hardware",
+    "SoC",
+    "Cloud"
+   ],
+   "posted": "2026-11-18",
+   "expires": "18.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-security-engineer-focus-on-siem-soc/strabag-doo/767730",
+   "summary": "This role leads the Belgrade Corporate Real Estate Management team and manages the regional real estate portfolio across multiple Balkan countries. The position delivers workplace strategy, portfolio optimization and cross-border stakeholder coordination to ensure efficient and compliant real estate operations.",
+   "matched": [
+    "data engineer",
+    "cloud"
+   ],
+   "first_seen": "2026-11-18T21:28:56+00:00",
+   "details": "At STRABAG around 89,000 people are working on progress at more than 2,400 locations worldwide. Uniqueness and individual strengths characterise both our projects and each of us as individuals. Whether it's building construction, civil engineering, road construction, underground engineering, bridge building, tunnelling, construction material production, project development​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ or building management – we are always one step ahead so that we can become the most innovative and sustainable construction technology company in Europe. Diversity, inclusion and equal opportunities are integral to this, who we are as a company and how we work. Our services company, STRABAG BRVZ, is responsible for all central commercial and IT activities within the Group. Together we work as partners to complete projects successfully and grow with new challenges. Together we achieve great things. Let's progress! Description Further development and operation of our SIEM​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ solution, including the configuration, monitoring and optimization of dashboards, searches, alerts, use cases and reports Analyze substantial amounts of security data to identify potential security incidents, reduce their impact and provide recommendations to prevent future security breaches Carry out risk assessments and evaluate the information security of new products (hardware, software and services) as part of requirements and procurement processes Contribute to security audits and prepare audit reports and technical documentation Actively participate in the implementation of current IT security measures within the STRABAG Group Reference: JTQFZX9VVIkh4A Profile Completed degree in Computer Science,​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ Information Technology, Business Informatics or a comparable field, or an equivalent qualification At least 3 years of hands-on experience in a Security Operations Center (SOC), focusing on SIEM, security monitoring, incident detection and response Ability to understand network traffic and detect, monitor, and investigate potential security threats across network, remote, and cloud systems Experience with common security tools such as Microsoft Defender and SPLUNK Strong understanding of network traffic and common cyber threats such as malware, phishing and DDoS attacks, including the ability to detect and investigate potential security incidents Strong​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ analytical and communication skills, with the ability to work independently and as part of an international team; good command of English and German Additional experience in the following areas is an advantage: Vulnerability assessments, penetration testing or ethical hacking Digital forensics, malware analysis or reverse engineering Implementation of IT security solutions in a project environment Offer Make an impact on IT security and help protect a complex, international IT environment Shape and improve our SIEM environment and actively contribute your expertise and ideas Take ownership and contribute to security solutions used across​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ the STRABAG Group Work in an international environment with IT security experts and colleagues across countries Broaden your security expertise across SIEM, incident response, risk assessments and security audits Receive a competitive salary reflecting your experience and professional expertise Diverse career opportunities"
+  },
+  {
+   "source": "infostud",
+   "id": "767733",
+   "title": "Lead Specialist - Digitalization & AI, GEHS",
+   "company": "Grundfos Holding A/S",
+   "location": "Inđija | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-11-18",
+   "expires": "18.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/lead-specialist-digitalization-ai-gehs/grundfos-holding-a-s/767733",
+   "summary": "The Sales Excellence Consultant designs and implements tools and ways of working that increase sales effectiveness across multiple markets. The role converts data and stakeholder needs into practical solutions and leads cross functional projects to improve commercial performance.",
+   "matched": [
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-11-18T21:28:56+00:00",
+   "details": "As our Lead Specialist - Digitalization & AI, GEHS, you will turn that opportunity into reality. You will identify high-value digital and AI opportunities, build and scale solutions, connect data and technology, and help create a more intelligent, efficient and insight-driven approach to Environment, Health & Safety. This is a role for someone who enjoys working where business,​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ technology and people meet. You will have the freedom to explore, experiment and challenge existing ways of working, while partnering with colleagues across the organization to create solutions with measurable impact. You will join an ambitious, collaborative, and inclusive environment where curiosity is encouraged, new ideas are welcomed, and you will have real space to influence how we work and what comes next. What you will be doing As a key part of the Global Environment, Health & Safety (GEHS) team, you'll create impact by connecting business needs with cutting-edge technology solutions, building digital roadmaps, and championing AI-powered tools that make EHS processes more effective across​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ the entire organization. Your main responsibilities include: Partner with EHS subject matter experts to identify digitalization opportunities and translate business requirements into scalable digital solutions Drive AI and Microsoft Copilot initiatives to enhance EHS processes, improve productivity, and unlock value from existing systems Act as the key interface between business stakeholders, IT teams, and external software providers to coordinate and deliver digital projects Develop and maintain the digital strategy and technology roadmap for the GEHS function, including data integration and analytics foundations Lead capability-building, training programs, and change management activities to promote digital adoption and a data-driven mindset across the team Evaluate, implement, and optimize digital solutions,​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ ensuring they deliver measurable business value and align with long-term strategic goals Reference: JTQFZX9VVIkh4A What makes you a great fit Above all, you're a digitally savvy connector who thrives at the intersection of business and technology, with a talent for stakeholder management, strategic thinking, and turning complex requirements into practical digital solutions. We'd also imagine that you are/have: Approximately 5+ years of experience in digital transformation, product ownership, or business process consulting roles Strong hands-on knowledge of Microsoft Copilot ecosystem (Copilot Studio, Copilot for Microsoft 365) and related AI solutions, with demonstrable project outcomes Proven experience with digital roadmaps, software implementation, data analytics, and cloud-related technologies Excellent stakeholder management and communication skills with​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ the ability to facilitate discussions across business and IT functions It's a plus if you also: Have familiarity with EHS processes, regulations, or enterprise EHS software platforms Have experience leading change management initiatives and capability-building programs in a global organization Have a background in data strategy, data governance, or business intelligence Why you'll love working here Day to day, you can look forward to: A working environment built around your needs, with flexible hours, home working opportunities and parental support. An"
+  },
+  {
+   "source": "infostud",
+   "id": "767672",
+   "title": "Linux & Cloud SysOps Engineer",
+   "company": "GET - Global Engineering Technologies",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/linux-cloud-sysops-engineer/get-global-engineering-technol/767672",
+   "summary": "This role builds and operates resilient Linux and cloud infrastructure to support AI workloads and production services. The engineer will automate deployments with Infrastructure as Code and implement proactive monitoring to ensure high availability and efficient resource utilization.",
+   "matched": [
+    "spark",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-11-18T21:28:56+00:00",
+   "details": "O poslodavcu Global Engineering Technologies – GET is a Serbia-based software and IT services company working with international clients across industries such as logistics, banking, automotive, pharmaceuticals, and enterprise technology. At GET, you’ll be part of a team that builds reliable software, integration, BI, and consulting solutions for complex business environments – with a focus on technical quality, collaboration,​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ and practical problem-solving. Care to start the conversation? Career Opportunity Linux & Cloud SysOps Engineer Profile We are seeking a SysOps Engineer with a strong background in Linux and automation to bridge the gap between traditional infrastructure and the evolving world of Artificial Intelligence. In this role, you will be responsible for building resilient, high-performance environments using Infrastructure as Code (IaC) and collaborating closely with AI Engineers to optimize the deployment and monitoring of AI agents. What you will do: Infrastructure as Code (IaC): Design, build, and maintain resilient, scalable, and reproducible infrastructure deployments using Terraform or CloudFormation; Linux Administration (RHEL Focus): Manage, harden, and maintain enterprise Linux infrastructure with a​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ primary focus on Red Hat Enterprise Linux (RHEL), handling patching, storage (LVM), SELinux policies, and performance tuning, alongside Ubuntu and Windows environments; Cloud Environments: Architect, manage, and optimize scalable multi-account AWS (or Azure/GCP) infrastructure, ensuring high availability, cost efficiency, and strict IAM/network security compliance; Operations Automation & Tooling: Eliminate manual tasks by writing Bash and advanced Python scripts to build custom tools and self-healing system features; CI/CD & Containerization: Automate software delivery and vendor application setups using GitHub Actions or Jenkins; Monitoring, AIOps & High Availability: Oversee system continuity, failover, and proactive incident response using Prometheus, Grafana stack for logging and AIOps anomaly detection; Support & Documentation: Participate in project setup meetings, maintain detailed system documentation, and manage user/license access; Flexibility to Work in​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ Shifts: Readiness to work rotational shifts with stand-by night availability. Reference: JTQFZX9VVIkh4A What you will bring: At least 4 years of working experience in a SysOps position with a strong focus on Linux; Good organizational skills and ability to manage projects according to schedule; Willingness to learn new things, investigate unknown problems, and improve existing implementations; Good command of written and spoken English. Bonus Points: Advanced AI & ML Frameworks: Experience working with AI agents and Model Context Protocol (MCP) integration; Certifications & Systems: AWS certification, Windows Server administration, PowerShell scripting, and API gateway knowledge; Cloud FinOps: Hands-on exposure to cloud cost optimization and FinOps practices for high-compute AI workloads. Beyond the Paycheck Building Career Capital: A long-term career path with us; Work Where​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ You Spark: Hybrid work model; Wellness & Joy: Private health insurance, pension insurance, FitPass, and tickets; Brain Fuel 2.0: Access to Udemy, Pluralsight, GET Library, and foreign language classes; Analog Break: Team buildin"
+  },
+  {
+   "source": "infostud",
+   "id": "767623",
+   "title": "Microsoft Dynamics ERP konsultant",
+   "company": "Coming - Computer Engineering d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Microsoft Dynamics NAV",
+    "Prodaja / konsultanti",
+    "ERP"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/microsoft-dynamics-erp-konsultant/coming-computer-engineering-do/767623",
+   "summary": "Pozicija služi za tehnicku i funkcionalnu implementaciju ERP modula i konfiguracija kako bi poslovni procesi radili efikasno. Kandidat će obezbeđivati dokumentaciju obuke i kontinuiranu podršku korisnicima kako bi se postigla pouzdana upotreba sistema.",
+   "matched": [
+    "it podrska"
+   ],
+   "first_seen": "2026-11-18T21:28:56+00:00",
+   "details": "O poslodavcu Opis posla i odgovornosti: Učešće u tehničkoj i funkcionalnoj implementaciji modula, konfiguracija sistema prema poslovnim zahtevima, testiranje i optimizacija procesa; Uspostavljanje procedure i​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ korisničkih uputstava za navedenu oblast; Obučavanje korisnika za primenu implementiranog BC/NAV i BI okruženja; Pomoć i podrška u korišćenju implementiranih sistema; Analiza korisničkih zahteva, izrada funkcionalne dokumentacije i izveštavanje. Reference: JTQFZX9VVIkh4A Uslovi: Završen fakultet tehničkog ili ekonomskog usmerenja; Minimum 2 godine relevantnog iskustva u radu sa ERP sistemima (poželjno Dynamics BC/NAV); Poznavanje poslovnih procesa (finansije, nabavka, prodaja, logistika); Sposobnost analize poslovnih​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ zahteva i proaktivnog predlaganja funkcionalnih rešenja; Znanje engleskog jezika (pisano i usmeno); Vozačka dozvole B kategorije. Prednosti: Poznavanje procesa u računovodstvu i finansijama; Iskustvo u komunikaciji sa klijentima i internim timovima, sposobnost da se prepoznaju potrebe korisnika i predlože optimalna rešenja; Posedovanje relevantnih sertifikata (Microsoft, ERP, BI); Prethodno​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ iskustvo sa relacionim bazama podataka (SQL Server, Power BI…); Prethodno iskustvo u vođenju manjih projekata. Šta cenimo: Pozicija je namenjena kandidatima koji imaju osnovno iskustvo u ERP implementaciji i žele da dalje razvijaju ekspertizu uz podršku iskusnog tima; Sposobnost rada u timu, uspostavljanje dobre saradnje sa kolegama; Samostalnost​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ i proaktivnost u radu; Posvećenost poslu, rezilijentnost, agilnost i podnošenje kratkih rokova; Otvorenost za razmenu znanja, konstruktivnu komunikaciju i preuzimanje inicijative u projektima; Profesionalnost i poštovanje procedura. Zauzvrat nudimo: Stalan, zanimljiv i dinamičan posao; Rad sa rešenjima vodećih svetskih IT kompanija; Priliku za stalno stručno usavršavanje i napredovanje kroz projekte, treninge i konferencije u zemlji​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ i inostranstvu; Klizno radno vreme, organizovane nedeljne sportske aktivnosti; Privatno zdravstveno osiguranje, sistem bonusnog nagrađivanja; Hibridni model rada i druge pogodnosti za zaposlene. Coming - Computer Engineering d.o.o. COMING – Computer Engineering je ICT sistem integrator i cloud provajder osnovan 1991. godine sa ciljem da razvija, implementira i pruža usluge podrške za IT tehnologije i sisteme, kako bi izašao u susret potrebama i zahtevima klijenata i tržišta. Svoju poziciju gradimo kroz poslovne uspehe i… Više o poslodavcu Više o poslodavcu na HelloWorld Beneficije Obuke, konferencije Timska druženja Nagrade, bonusi, pokloni Sport i rekreacija Edukacija, profesionalni razvoj Fleksibilno radno vreme Dobrovoljno zdravstveno osiguranje Porodica i roditeljstvo Obezbeđena oprema za rad Program mentorstva Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Microsoft Dynamics NAV Consultant M"
+  },
+  {
+   "source": "infostud",
+   "id": "767662",
+   "title": "Road Logistics Information Systems Specialist- Customer Visibility Support",
+   "company": "Kuehne+Nagel d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-18",
+   "expires": "02.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/road-logistics-information-systems-specialist-customer-visibility-support/kuehne-nagel-doo/767662",
+   "summary": "This role ensures end to end airfreight processing and compliance for perishable shipments by managing documentation and operational handovers. The specialist secures customs clearances and coordinates inbound handling to meet SLAs in a 24 hour operational environment.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-11-18T21:28:56+00:00",
+   "details": "O poslodavcu Would you like to grow above and beyond? Road Logistics Information Systems Specialist – Customer Visibility Support How you create impact Drive visibility and transparency across global logistics operations. As part of our Visibility Solutions team, you will support Road Customer Visibility (RCV)​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ through user management, system monitoring, issue resolution, and continuous improvement initiatives. Collaborating with global stakeholders across Road, Air, and Sea Logistics, you will help deliver reliable, customer-focused solutions that enhance operational efficiency and supply chain visibility. Provide first-line support for Road Customer Visibility (RCV) and ensure timely resolution of user and system-related issues. Manage user access, system configurations, and onboarding activities to support smooth implementation and adoption. Monitor system performance, identify risks, and help maintain stable​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ and efficient operations. Coordinate incident resolution and collaborate with stakeholders to deliver effective solutions. Analyze operational data and drive process improvements that enhance system performance and user experience. Support testing, validation, and deployment of new features and enhancements. Collaborate with global teams and key stakeholders across Road, Air, and Sea Logistics. Partner with Product Team and Program Team to support innovation and continuous improvement initiatives. Contribute to the ongoing development of reliable, scalable, and customer-focused visibility solutions. Reference: JTQFZX9VVIkh4A What we would​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ like you to bring Bachelor's degree (preferred) or minimum high school diploma. Previous work experience is required, while experience in Road Logistics, Transportation Management, Visibility Solutions, or a similar operational environment is considered an advantage. Strong English communication skills, both written and spoken. Advanced Microsoft Office skills, especially Excel and PowerPoint. Strong IT affinity with the ability to quickly learn and adapt to new systems and technologies. Understanding of Transportation Management Systems (TMS) and logistics processes. Knowledge of RCV,​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ Jupiter, RoadLOG, and JIRA is an advantage. Strong analytical and problem-solving skills with a proactive, customer-focused mindset. Excellent communication and stakeholder management skills. Ability to work in a fast-paced international environment and manage multiple priorities. Knowledge of FTL, LTL, and Groupage operations and experience with system documentation, testing, or release activities is a plus. Collaborative team player with a passion for continuous improvement and technology-driven solutions. What's in it for you Join a global logistics leader where you’ll work with innovative visibility​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ and digital solutions, collaborate with international teams across Road, Air and Sea Logistics, and have the opportunity to develop your technical expertise while making a tangible impact on customer experience and supply chain transparency worldwide. Inspire. Empower. Deliver. Kuehne+Nagel d.o.o. In 1890, August Kuehne and Friedrich Nagel founded Kuehne+Nagel in Bremen, Germany. Since then it has grown into one of the world's leading logistics providers. Today, the Kuehne+Nagel Group has approximately 76,000 employees"
+  },
+  {
+   "source": "infostud",
+   "id": "767625",
+   "title": "Senior Business Systems Analyst",
+   "company": "Ametek d.o.o.",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-business-systems-analyst/ametek-doo/767625",
+   "summary": "Senior ERP functional specialist providing global ERP and business application support for manufacturing business units worldwide. Role focuses on diagnosing and resolving application and data failures while enabling process improvements testing and successful deployments.",
+   "matched": [
+    "data engineer",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-11-18T21:28:56+00:00",
+   "details": "O poslodavcu About the Company: AMETEK, Inc. is a leading global manufacturer of electronic instruments and electromechanical devices with annual sales of approximately $7.4 billion. AMETEK has 26,000 colleagues at more than 150 operating locations, and a global network of sales, service and support locations in 31 countries around the world. The AMETEK Growth Model combines its four growth strategies of Operational Excellence, Strategic Acquisitions, Global & Market Expansion, and New Product Development,​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ with a disciplined focus on cash generation and capital deployment. By executing the AMETEK Growth Model, the company seeks to generate shareholder value by doubling earnings per share over the course of each business cycle. AMETEK consists of two operating groups, both with highly differentiated technology and leading positions in niche markets: Electronic Instruments - a worldwide leader in the design and manufacture of advanced analytical, test and measurement instrumentation for the energy, aerospace, power, research, medical and industrial markets. Electromechanical - a differentiated supplier of automation and precision motion control solutions, and highly engineered electrical interconnects, specialty metals and thermal management systems. Key Responsibilities: ERP and Business Application Support Provide senior-level support for ERP and other business applications used by MCT business​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ units worldwide; Investigate and triage application and data issues, and work with business users, internal teams, and vendors to resolve them; Learn new ERP platforms and business applications quickly, using a sound foundation in end-to-end manufacturing processes; Own assigned incidents and enhancement requests from analysis through resolution; Work with vendors and support partners on configuration and technical changes by providing a clear issue description and business context; Support business users through process and system changes, including testing and training. Reference: JTQFZX9VVIkh4A Business Process and Solution Analysis Work directly with business teams, such as Finance and Operations, to understand business needs and system issues; Understand and improve end-to-end processes, such as order-to-cash and procure-to-pay; Recommend practical solutions, using standard application features or process changes first​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ and custom changes only when needed; Balance local business needs with divisional standards and long-term support. Data and Issue Analysis Analyze data issues using SQL to find where data is wrong, missing, or out of sync; Follow data across systems and interfaces to pinpoint where a failure occurs; Review logs and interface errors to narrow down the cause of failed processing; Investigate reporting issues using tools such as Power BI; Dig into issues until the cause is found, share clear findings with the teams or vendors responsible for the fix, and follow through to resolution. Projects, Testing, and Continuous Improvement Support ERP and application upgrades, implementations, and acquisitions; Develop test scenarios, run or coordinate testing, and support business acceptance; Assist with release and​‍‌‌​⁠‌​​​‌‌‌‍‌‌‌⁠⁠⁠‌‌‌‌‌‌‌​‍​‍‌​‍​‌⁠‍​​ cutover activities; Document business processes and issue resolutions; Identify recurring issues and manual work, and recommend improvements that reduce support effort. "
+  },
+  {
+   "source": "infostud",
+   "id": "767659",
+   "title": "Specijalista za poslovne analize/BI Specialist",
+   "company": "Apatinska pivara",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "SAP",
+    "Podrška",
+    "BI",
+    "Excel"
+   ],
+   "posted": "2026-11-18",
+   "expires": "29.11.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/specijalista-za-poslovne-analize-bi-specialist/apatinska-pivara/767659",
+   "summary": "",
+   "matched": [
+    "sql"
+   ],
+   "first_seen": "2026-11-18T21:28:56+00:00",
+   "details": "O poslodavcu Reference: JTQFZX9VVIkh4A Apatinska pivara d.o.o. Apatinska pivara, spoj 270 godina tradicije i modernog poslovanja Apatinska pivara, članica Molson Coors Beverage Company, 2026. godine obeležava veliki jubilej, 270 godina poslovanja. Osnovana davne 1756. godine kao Carska pivara, danas se svrstava među najstarije aktivne kompanije u Srbiji i regionu, a ujedno je i najstarija članica Molson Coors grupacije. Apatinska pivara je danas moderna kompanija koja zapošljava više od 600 ljudi širom Srbije sa fabrikom u Apatinu, komercijalnim sedištem u… Više o poslodavcu Iskustva zaposlenih \"Naša draga Ankica Vukelić već par godina radi na poziciji HR Biznis partner za proizvodne operacije, logistiku i funkcije podrške. Proslavila je jedan značajan jubilej - 20 godina rada u pivari!…\" Pročitajte celo iskustvo Beneficije Zdravlje Porodica i roditeljstvo Edukacija, profesionalni razvoj Nagrade, bonusi, pokloni Dodatni slobodni dani Fleksibilno radno vreme Rad na daljinu Društvena odgovornost Timska druženja Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Business Intelligence / Data Warehouse Consultant Specijalista za poslovne analize/BI Specialist Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "helloworld",
+   "id": "767678",
+   "title": "Forward Deployed Engineer",
+   "company": "Camunda",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "java",
+    "cloud"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Forward-Deployed-Engineer/Camunda/767678",
+   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 03.12.2026. Java Cloud Senior",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Forward Deployed Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Forward Deployed Engineer Camunda Inostranstvo | Rad od kuće 03.12.2026. Java Cloud senior Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the Role As an AI Forward Deployed ProcessOS is a new kind of Camunda product: business processes described in natural language, generated as executable BPMN workflows, and improved autonomously from production data. We’re hiring the first cohort of Forward Deployed Engineers to bring it into production at enterprise customers. You’ll own the deployment journey from first process file to a working, improving system, and hand off a functioning capability to the customer’s team. The code you write and the patterns you discover feed directly back into how ProcessOS is built. This is a rare opportunity to shape a product, a function, and a field practice from day one. You’ll work end‑to‑end across Java services and React interfaces, collaborating closely with a talented global team to measure, improve, and scale performance and fault tolerance in real-world distributed systems. What you'll be doing Deploy and prove. Own the journey from first process file to production workflow. At 90 days: at least one workflow running, the improvement loop active, and measurable fitness gains the customer can see. At 12 months: 3–5 customers with viable deployments. Drive organizational adoption. Work across technical and business stakeholders to build understanding and trust, turning early deployments into lasting customer capability. Work at depth technically. Configure and run Camunda clusters locally and in cloud environments. Debug integration failures. Build custom agents where platform defaults don’t fit. Write connector logic that gets legacy enterprise systems talking to ProcessOS. Build the playbook. There is no deployment template yet. Document what good looks like as you discover it, and make the next implementation faster. Feed the product. Custom integrations you write get contributed back. Integration patterns get codified. Production bugs you find, you often fix. Your field work is a direct input to ProcessOS. Hand off deliberately. Leave customers with a team that can operate independently, is trained on the platform, and acts on improvement results w",
+   "first_seen": "2026-11-18T21:28:56+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767679",
+   "title": "Member of Technical Staff, Search",
+   "company": "Cohere",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "python",
+    "foundation",
+    "golang"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Member-of-Technical-Staff-Search/Cohere/767679",
+   "summary": "Cohere Inostranstvo, Inostranstvo | Rad od kuće 03.12.2026. C++ Python Foundation Golang Senior",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Member of Technical Staff, Search Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Member of Technical Staff, Search Cohere Inostranstvo | Rad od kuće 03.12.2026. C++ Python Foundation Golang senior Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft. We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us! Role overview We are looking for talented individuals to help us develop state-of-the-art models for information retrieval as part of our Search team. This group is working on a range of tasks including training our embedding and reranker models. You'll have the opportunity to revolutionise people's search experience by contributing to building an intelligent, efficient and precise search system and you would have a lot of opportunity to try new things out, innovate, and productionize your ideas. Your work will specifically focus on advancing semantic search techniques to improve accuracy and efficiency, involving working with a wide range of novel technologies and collaborating with other teams to integrate your work into our search infrastructure. We're looking for someone who is passionate about search and has a strong background in information retrieval. Candidates should have experience working with a wide range of technologies and have worked collaboratively with other teams in the past. Key responsibilities Design, train and improve upon cutting-edge search models. Gather high-quality retrieval datasets and optimize data pipelines for model training and evaluation. Work closely with the model serving team to ensure that inference is fast and stable. Collaborate with product teams to develop solutions. Engage in research collaborations with our partner organizations and academic affiliations and publish your work in top-tier conferences and journals. Join us at a pivotal moment, shape what we build, have a strong ownership mindset, and wear multiple hats! Qualifications Proficiency in Python and related ML frameworks such as PyTorch, Tensorflow, TF-Serving, JAX, and XLA/MLIR. Familiarity with training and using various information retrieval models. Experience leveraging Large Language Models as part of training data or evaluation pipelines. Strong communication and problem-solving skills. Bonus points for Experience building training and/or evaluation datasets for practical use cases. Proficiency in other programming languages, such as C++ or Golang. Experience using large-scale distributed training strategies with GPUs. Working location This role can be based remotely or from one of our office locations listed on the job description - there is no minimum in-office qualification requirement. We care most about hiring exceptional people regardless of locations, t",
+   "first_seen": "2026-11-18T21:28:56+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767680",
+   "title": "Sr. Software Engineer - Enterprise Features & Orchestration",
+   "company": "ClickHouse",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "node",
+    "aws",
+    "postgresql",
+    "typescript",
+    "cloud",
+    "mongodb"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Sr.-Software-Engineer-Enterprise-Features-Orchestration/ClickHouse/767680",
+   "summary": "ClickHouse Inostranstvo, Inostranstvo | Rad od kuće 03.12.2026. Node Node.js AWS PostgreSQL TypeScript Cloud MongoDB Senior <i class=\"la",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Sr. Software Engineer - Enterprise Features & Orchestration Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Sr. Software Engineer - Enterprise Features & Orchestration ClickHouse Inostranstvo | Rad od kuće 03.12.2026. Node Node.js AWS PostgreSQL TypeScript Cloud MongoDB senior About the Team The Enterprise team builds the control-plane capabilities that ClickHouse Cloud’s largest global customers—including financial institutions, enterprise fleets, and AI platforms—rely on to run mission-critical infrastructure at scale. We solve complex state orchestration, automated scheduling, and distributed system consistency problems across multi-region cloud environments. What You Will Do Design scalable models to configure, validate, secure, and audit settings across thousands of enterprise organizations and services. Build reliable control-plane orchestration workflows, such as automated scaling schedules, backup/restore mechanisms, and cross-region provisioning. Ensure distributed system consistency across multi-tenant environments, building automated reconciliation and repair paths for partial failures. Own features end-to-end: from backend API design (Node.js/TypeScript) through the Console UI, public APIs, and Infrastructure-as-Code (Terraform) support. What We Are Looking For Experience: 6+ years in software engineering, with deep experience in cloud control planes, provisioning layers, or workflow engines. Core Stack: Strong TypeScript and Node.js backend capabilities, with comfort shipping React UI and working with document/relational stores (PostgreSQL, MongoDB). Control-Plane Mechanics: Hands-on experience building systems that manage desired vs. actual state, idempotency, retries, and scheduled jobs. Cloud & Security Fluency: Familiarity with AWS/GCP IAM, cross-account access, encryption/KMS, and enterprise requirements like BYOC (Bring Your Own Cloud) or VPC peering. Ideal Backgrounds: Managed database/data platform control planes (e.g., MongoDB Atlas, Snowflake, Confluent Cloud, Elastic Cloud, CockroachDB) or developer platforms (e.g., Temporal, Vercel, Fly.io , HashiCorp). Perks Flexible work environment - ClickHouse is a globally distributed company and remote-friendly. We currently operate in over 25 countries. Healthcare - Employer contributions towards your healthcare. Equity in the company - Every new eligible team member who joins our company receives equity. Time off - Flexible time off in the US, generous entitlement in other countries. A USD$500 Home office setup if you’re a remote employee. Global Gatherings – We believe in the power of in-person connection and offer opportunities to engage with colleagues at company-wide offsites. Culture - We All Shape It As part of a rapidly scaling start-up, you will be instrumental in shaping our culture. Are you interested in finding out more about our culture? Learn more about our values here . Check out our blog posts or follow us on LinkedIn to find out more about what’s happening at ClickHouse. Equal Opportunity & Privacy ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. Please see here for our Privacy Stat",
+   "first_seen": "2026-11-18T21:28:56+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "767547",
+   "title": "IT Specialist",
+   "company": "Ocsial Balkan d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Windows Server",
+    "Windows",
+    "Azure",
+    "Sistemska administracija",
+    "Cloud",
+    "Active Directory"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-specialist/ocsial-balkan-doo/767547",
+   "summary": "Senior IT Specialist responsible for resolving complex user incidents and maintaining Microsoft on premises and Azure infrastructure. The role ensures reliable business productivity systems by managing backup and MDM solutions and supporting deployments and modernization initiatives.",
+   "matched": [
+    "cloud",
+    "administrator",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00",
+   "details": "O poslodavcu About OCSiAl Group: OCSiAl is the world’s largest producer of graphene nanotubes. Our team consists of more than 500 employees located in Europe, USA and Asia. OCSiAl’s mission is to improve the specific properties of all⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ base materials, making the world a better place for all living beings. We are pursuing this mission by developing universal nanotube solutions and introducing them into the manufacturing industry. This is leading to the creation of a new generation of nano augmented materials and end products, whose previously unobtainable properties will become the standard for consumer⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ expectations. About Position: OCSiAl is looking for an experienced IT Specialist to join our corporate IT team and to provide support to company users, including solving more complex 2nd/3rd line requests, and maintain IT infrastructure and systems in Belgrade, Serbia. The ideal candidate brings strong Microsoft infrastructure experience, has experience supporting business productivity tools, and enjoys working directly with users as well⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ as on infrastructure. Job Responsibilities: Work with users, resolving IT-related problems, including 2nd/3rd line issues. Work with Microsoft on-premises infrastructure, including Active Directory, as well as Microsoft Azure cloud services like Entra ID or Office 365. Manage backup and MDM tools and policies. Configure and support corporate productivity and collaboration tools, including workflows that support business processes - for example, HR-system approval. Contribute to IT upgrades, new deployments and⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ modernization initiatives. Reference: yzwISFpQbEFn1w Skills/Experience/Qualification: 4+ years in a corporate IT environment as an IT Specialist, IT Administrator, or a similar role Hands-on experience with Microsoft on-premises and Azure (Windows Server, AD, Entra ID, O365) Experience with backup and MDM solutions Experience supporting corporate productivity/collaboration software and business workflows Excellent communication and documentation skills Strong troubleshooting and problem-solving skills Ability to work independently and manage multiple priorities Fluent in English (written⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ and spoken) What we offer: An attractive position in a global and dynamic company; Opportunity for professional and personal development; Competitive employment conditions. Side notes: CV in English is required; Only shortlisted candidates will be contacted. Ocsial Balkan d.o.o. Više od polovine materijala koje svakodnevno koristimo može se unaprediti uz pomoć grafenskih nanocevi. One pomažu u stvaranju lakših aviona, ekonomočnijih automobila, dugotrajnijih guma i pametnog tekstila. OCSiAl je jedina kompanija na svetu koja može da proizvodi grafenske nanocevi u količinama dovoljno velikim za globalnu industriju. Osnovana 2010. godine u Luksemburgu, gde se nalazi i njeno sedište, OCSiAl posluje širom Azije, Evrope I Amerike. Srbija ima ključnu ulogu u rastu kompanije:… Više o poslodavcu Iskustva zaposlenih \"„Kao mlada osoba, istinski sam zahvalna što sam svoje razvojno putovanje započela u OCSiAl-u. Od prvog dana imala sam priliku da učim, rastem i razvijam se zajedno sa kompanijom koja brzo raste i…\" Pročitajte celo iskustvo Beneficije Finansijske beneficije Nagrade, bonusi, pokloni Edukacija, profesionalni razvoj Obezb"
+  },
+  {
+   "source": "infostud",
+   "id": "767584",
+   "title": "IT tehničar / system adminisrator",
+   "company": "Luna d.o.o.",
+   "location": "Požarevac",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-tehnicar-system-adminisrator/luna-doo/767584",
+   "summary": "Pozicija postoji da obezbedi pouzdanu tehničku podršku i stabilno funkcionisanje IT sistema u više maloprodajnih lokacija. Kandidat će rešavati hardverske i softverske probleme te održavati i administrirati IT opremu i korisničke pristupe radi neometanog poslovanja.",
+   "matched": [
+    "it tehnicar",
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00",
+   "details": "O poslodavcu Modna kuća LUNA zbog širenja i unapređenja poslovanja raspisuje konkurs za radno mesto: IT TEHNIČAR/ SYSTEM ADMINISTRATOR IT SUPPORT • BUSINESS SYSTEMS • INFRASTRUCTURE Modna kuća LUNA već tri decenije predstavlja jednog od prepoznatljivih domaćih modnih brendova na tržištu Srbije⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ i regiona. Ključ našeg uspeha su ljudi koji zajedno razvijaju kompaniju i sisteme koji podržavaju naše poslovanje. Zbog daljeg razvoja i unapređenja IT sistema, tražimo novog kolegu za poziciju IT tehničar / System Administrator. Opis posla Pružanje tehničke podrške zaposlenima; Instalacija, konfiguracija i održavanje računara, mobilnih uređaja, štampača i druge IT opreme; Dijagnostika i rešavanje hardverskih, softverskih i mrežnih problema; Instalacija i osnovno održavanje mrežne opreme; Administracija korisničkih naloga, pristupa i⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ korisničkih prava; Podešavanje korisničkih menija i pristupa poslovnim aplikacijama; Podrška korisnicima ERP, POS i drugih poslovnih aplikacija; Osnovna administracija poslovnih sistema prema definisanim procedurama; Podrška IT sistemima i opremi u maloprodajnim objektima; Vođenje evidencije IT opreme, intervencija i servisiranja; Komunikacija i koordinacija sa eksternim servisima i dobavljačima IT opreme i usluga; Dokumentovanje IT procedura, konfiguracija i rešenja učestalih problema; Primena definisanih pravila IT bezbednosti i⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ upravljanja pristupima. Reference: yzwISFpQbEFn1w Potrebne kvalifikacije SSS/VŠS/VSS tehničkog ili IT usmerenja; Minimum godinu dana iskustva na poslovima IT podrške, IT administracije ili sličnoj poziciji; Dobro poznavanje Windows 10/11 operativnih sistema; Dobro poznavanje računarskog hardvera i periferne opreme; Osnovno poznavanje računarskih mreža, TCP/IP protokola, Wi-Fi mreža, rutera i switch-eva; Osnovno poznavanje administracije korisničkih naloga i prava pristupa; Sposobnost samostalnog dijagnostikovanja i rešavanja tehničkih problema; Engleski jezik na nivou potrebnom za korišćenje tehničke dokumentacije; Vozačka dozvola B⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ kategorije. Prednost imaju kandidati sa iskustvom u radu sa ERP, POS ili drugim poslovnim informacionim sistemima; kompanijama sa više poslovnih ili maloprodajnih lokacija; Windows Server okruženju; remote support alatima; administraciji poslovnih aplikacija. Šta očekujemo Tražimo kolegu koji je odgovoran, sistematičan i pouzdan, ali pre svega osobu koja želi da razume problem i pronađe njegovo rešenje, a ne samo da izvršava unapred definisane zadatke. Važno nam je da kandidat⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ želi da uči, upozna poslovne procese kompanije i vremenom preuzme veću odgovornost u administraciji i podršci IT sistemima. Zainteresovani ste? Ako želite da budete deo LUNA tima i razvijate svoje znanje Luna doo Baje Sekulića bb, Požarevac, Srbija PIB: 103288293 Matični broj: 17547879 Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije pr"
+  },
+  {
+   "source": "infostud",
+   "id": "767520",
+   "title": "PHP Developer",
+   "company": "SMS Fulfillment Solutions GmbH",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "PHP",
+    "MySQL",
+    "SQL",
+    "SOAP",
+    "Programiranje",
+    "ERP",
+    "RESTful"
+   ],
+   "posted": "2026-11-18",
+   "expires": "03.12.2026",
+   "salary": "neto 120.000 - 140.000 RSD (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/php-developer/sms-fulfillment-solutions-gmbh/767520",
+   "summary": "The role exists to maintain and enhance PHP MySQL based web applications that support warehouse management and ERP operations. The developer will implement and maintain integration interfaces and provide IT support to internal teams and customers from the Belgrade office.",
+   "matched": [
+    "sql",
+    "it support"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00",
+   "details": "O poslodavcu SMS Fulfillment Solutions GmbH works in the e-commerce logistics sector. We are⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ looking for a PHP Developer with SQL knowledge (full time from the office in Belgrade) for the work on internal and external⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ web applications as well as IT support to the team. Your duties Enhancement of our warehouse management web-app (PHP/MySQL); Maintaining and implementing interfaces; IT Support for internal⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ team and customers; Operations of our internal ERP system. Reference: yzwISFpQbEFn1w Your profile & knowledge Technical education; Very good knowledge of PHP and SQL; Some experience with Restful and SOAP services; Excellent⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ English skills (written and spoken). What we can offer Full-time job - regular contract; Starting salary: 120.000 RSD netto - 140.000 RSD netto (depending on experience); From office in Belgrade (not remote); Work in⁠​‍⁠​⁠⁠​​​‍​‌​‍​‌‌‍‍‌‌​​‌‍⁠​‌​​‌‌‍‌⁠⁠‌‌⁠ dynamic environment in young and dedicated team. Please send your application electronically. Swiss Mail Solutions GmbH Ebnifeld 13, Züberwangen, Švajcarska Više o poslodavcu Više o poslodavcu na HelloWorld Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT PHP Developer PHP Developer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-elvoro-ai-creative-engineer-social-media",
+   "title": "AI Creative Engineer (Social Media)",
+   "company": "Elvoro",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-18",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+   "summary": "Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing so",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137797",
+   "title": "Engineering Manager Network Engineering",
+   "company": "PatientPoint",
+   "location": "Remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "exec",
+    "design",
+    "infosec",
+    "technical",
+    "dev",
+    "travel",
+    "devops",
+    "cloud",
+    "ops",
+    "medical",
+    "engineer",
+    "digital nomad"
+   ],
+   "posted": "2026-11-17",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
+   "summary": "Join PatientPoint to be part of a dynamic team creating change in and around the doctorâs office. As a leading digital health company, we innovate to positively impact patient behaviors. Our purpose-driven approach offers an inspirational career opportunity where you can contribute to improving health outcomes for millions of patients nationwide. Location: Remote (Must reside in the United State",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-18T08:41:46+00:00"
+  },
+  {
+   "source": "infostud",
+   "id": "767397",
+   "title": "Lead Python/Odoo Developer",
+   "company": "Thrive Talent Solutions d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "JavaScript",
+    "Git",
+    "Python",
+    "Docker",
+    "PostgreSQL",
+    "Programiranje",
+    "Kubernetes"
+   ],
+   "posted": "2026-11-17",
+   "expires": "02.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/lead-python-odoo-developer/thrive-talent-solutions-doo/767397",
+   "summary": "The Lead Python Odoo Developer will set the technical direction for the Odoo product and ensure reliable delivery of complex customizations and integrations. This role combines architecture ownership, release management, and engineering leadership to maintain production stability and drive scalable Odoo evolution.",
+   "matched": [
+    "python",
+    "data engineer",
+    "sql",
+    "kubernetes",
+    "it support"
+   ],
+   "first_seen": "2026-11-17T21:50:28+00:00",
+   "details": "O poslodavcu We are currently seeking an experienced Lead Python/Odoo Developer to join our team in support of our partner company - a technology company that develops AI-powered software to streamline and automate operations for the insurance and reinsurance industry, including underwriting, claims management, finance, and reporting. As a Lead Python/Odoo Developer,​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ you will have hands-on technical leadership position combining software architecture, Odoo development, engineering team leadership, and release management. You will be responsible for the technical direction of the Odoo product, making key architectural decisions, guiding developers reviewing code, and ensuring that new features and improvements are delivered reliably. Responsibilities: Technical ownership: Take responsibility for the architecture, structure, and ongoing development of the Odoo product. Odoo development: Design and implement complex customizations, including data models, ORM logic, business workflows, modules, access rights, and integrations. Architecture​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ and scalability: Make technical decisions that ensure maintainability, performance, reliability, and compatibility with future Odoo upgrades. Integrations: Design and maintain integrations between Odoo and external systems using APIs, ensuring reliable data exchange and robust error handling. Team leadership: Guide and mentor developers, conduct code reviews, delegate technical tasks, and promote engineering best practices. Release management: Own the technical aspects of releases, including code merges, deployments, post-release verification, hotfixes, and incident resolution. Quality assurance: Establish and maintain automated testing practices, investigate failures, prevent regressions, and​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ manage Odoo version migrations. Production support: Troubleshoot complex issues, investigate performance bottlenecks, and ensure the stability of production environments. Reference: DXl_lYJ_oTlldg Qualifications: 5+ years of professional Python development experience; At least 3 years of hands-on experience developing and maintaining Odoo applications in production; Strong understanding of Odoo architecture, ORM, custom modules, business logic, access rights, and PostgreSQL; Proven ability to independently design and implement complex Odoo customizations; Experience designing and maintaining API integrations with external systems; Strong understanding of software architecture, modular design, performance optimization, and maintainable code; Experience with code reviews, mentoring developers,​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ and making technical decisions; Hands-on experience managing production releases, deployments, hotfixes, and post-release troubleshooting; Experience with automated testing, regression prevention, and Odoo version migrations; Strong knowledge of Git, CI/CD pipelines, Docker, SQL, and production debugging; Ability to take full technical ownership of a product and drive development independently. Nice to Have Experience with JavaScript and Odoo OWL framework, particularly for custom user interfaces; Experience with Kubernetes and container orchestration; Knowledge of load testing and advanced performance optimization; Russian language knowledge. We offer: Full-time, remote work; Working hours: Monday to Friday, start from 3pm CET (some flexibility​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​"
+  },
+  {
+   "source": "infostud",
+   "id": "767398",
+   "title": "Lead Software Engineer/Tech Lead",
+   "company": "Thrive Talent Solutions d.o.o.",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "Python",
+    "Docker",
+    "PostgreSQL",
+    "Programiranje",
+    "SaaS",
+    "Cloud"
+   ],
+   "posted": "2026-11-17",
+   "expires": "02.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/lead-software-engineer-tech-lead/thrive-talent-solutions-doo/767398",
+   "summary": "The Lead Software Engineer will translate product and business requirements into scalable backend architecture and lead hands-on development to deliver reliable production features. They will establish engineering standards and operational reliability while mentoring developers and guiding technical strategy as the product grows.",
+   "matched": [
+    "python",
+    "data engineer",
+    "backend",
+    "data platform",
+    "cloud",
+    "it support"
+   ],
+   "first_seen": "2026-11-17T21:50:28+00:00",
+   "details": "O poslodavcu We are currently seeking an experienced Lead Software Engineer/Tech Lea d to join our team in support of our partner company – a technology company that develops AI-powered software to streamline and automate operations for the insurance and reinsurance industry, including underwriting, claims management, finance, and reporting. As a Lead Software Engineer/Tech Lead, you will work closely with the product and business teams​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ to translate ideas and requirements into reliable, scalable technical solutions. You will make architectural decisions, write and review code, solve complex engineering problems, organize releases, and help other developers grow. You will have significant influence over how the product is built, how the engineering team operates, and how the technology evolves as the business grows. Responsibilities: Product Architecture & Technical Strategy: Define and implement the product architecture and technical roadmap. Make pragmatic technology decisions that balance business priorities, development speed, cost, maintainability, and scalability. Design backend services, APIs, data models, and database structures that support current needs and future product growth. Hands-on Engineering & Product Development: Lead the development of core product functionality, from technical​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ design through implementation and production deployment. Remain hands-on by writing code, solving complex engineering challenges, and building reliable APIs and third-party integrations. Ensure robust data processing, consistency, error handling, and recovery mechanisms. Engineering Quality & Operational Reliability: Establish and maintain engineering standards, automated testing, code review practices, and effective development workflows. Organize CI/CD pipelines, development environments, releases, and deployment processes. Implement monitoring, logging, and alerting, ensure application security, and take ownership of production issues and technical improvements. Technical Leadership & Team Development: Provide technical direction and guidance to developers, break down complex requirements into manageable tasks, review code, and promote knowledge sharing. Help the team make sound technical decisions and develop the skills needed to work​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ independently. Product & Business Collaboration: Work closely with product and business stakeholders to translate requirements into effective technical solutions. Evaluate ideas, discuss technical trade-offs, validate assumptions, prioritize development efforts, and adapt the architecture and product based on customer feedback and evolving business needs. Reference: DXl_lYJ_oTlldg Qualifications: 5+ years of professional software development experience, including technical leadership responsibilities. Proven experience launching a software product, platform, or major service from scratch into production. Strong expertise in at least one backend technology stack: Python (preferred) PostgreSQL, Docker, cloud infrastructure, CI/CD. Deep understanding of API design, backend architecture, data modeling, and relational databases. Experience designing systems that balance MVP requirements with future scalability. Practical experience with third-party integrations, including failure handling, retries, API changes, and​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ data quality challenges. Strong understand"
+  },
+  {
+   "source": "helloworld",
+   "id": "767507",
+   "title": "Founding Harness Engineer",
+   "company": "Clera",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "prototype"
+   ],
+   "posted": "2026-11-17",
+   "expires": "02.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Founding-Harness-Engineer/Clera/767507",
+   "summary": "Clera Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Prototype Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Founding Harness Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Founding Harness Engineer Clera Inostranstvo | Rad od kuće 02.12.2026. Prototype intermediate About the Role Join an early-stage AI company building an AI coworker for teams. You will create the agent runtime and reliability systems that help AI act usefully, safely, and dependably in real work. What You'll Do Design and build the agent runtime, including how it gathers context, decides when to respond, selects tools, handles approvals, and completes tasks. Write and refine system prompts so the agent takes useful initiative without being noisy or reckless. Build evaluation and regression tests for real tasks, tool use, and failure cases, and use them to catch regressions in prompt changes. Improve reliability across long-running tasks, interruptions, and retries. Implement safe execution boundaries, including approval gates and multi-tenant data separation. Work directly with company leadership and early users to develop the product. What We're Looking For Typically 4 or more years of relevant experience, with demonstrated ownership of broad technical problems from prototype through production. Experience shipping tool-using LLM agents to production, beyond demos or thin prompt wrappers. Hands-on system prompt design, improved through testing and iteration. Experience building evaluation and regression test harnesses for LLM or agent behavior. Understanding of safe tool execution, approval gates, and multi-user data separation. Strong judgment about when an agent should act, ask for approval, or stay quiet, and the ability to explain technical tradeoffs. Compensation & Benefits Founding equity is available; percentage and vesting terms are to be confirmed. Local employment or contractor arrangements are to be confirmed. Location Remote from Serbia, Poland, or another Eastern European country. Working-hour overlap is to be confirmed. Apply Here Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * Izaberi sa liste Problem pri slanju prijave za posao Problem sa registracijom ili loginom Odjava sa mejling liste Aktivacija ili deaktivacija korisničkog naloga Ostalo Poruka Pošalji Odustani Greška ... Ok Budi obavešten! Prati kompaniju i ne propusti nove važne informacije. Dobićeš email obaveštenje kada poslodavac objavi novi oglas za posao, kada neko podeli platu, iskustvo o radu ili sa intervjua. Prati Odustani Tvoj Infostud profil je spreman Jedan korak te deli do kreiranog profila. Završi popunjavanje",
+   "first_seen": "2026-11-17T21:50:28+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767508",
+   "title": "Game Designer (Mid/Senior)",
+   "company": "Xsolla",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "jira",
+    "confluence",
+    "qa"
+   ],
+   "posted": "2026-11-17",
+   "expires": "02.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Game-Designer-MidSenior/Xsolla/767508",
+   "summary": "Xsolla Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Jira Confluence QA Intermediate",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Game Designer (Mid/Senior) Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Game Designer (Mid/Senior) Xsolla Inostranstvo | Rad od kuće 02.12.2026. Jira Confluence QA intermediate About you We are working on a hardcore medieval sandbox MMORPG built around player-driven gameplay, crafting, resource management, territorial warfare, and complex economic and progression systems.The project features a mature and highly interconnected gameplay ecosystem and is currently undergoing an active transition to a new game engine.We are looking for a Game Designer who will help us improve existing gameplay systems, develop new mechanics, and shape the future of the project. This role requires a strong understanding of complex game systems, player behavior, and the challenges of evolving an established live MMORPG while adapting to new technology. About US Xsolla is a global commerce company with robust tools and services to help developers solve the inherent challenges of the video game industry. From indie to AAA, companies partner with Xsolla to help them fund, distribute, market, and monetize their games. Grounded in the belief in the future of video games, Xsolla is resolute in the mission to bring opportunities together, and continually make new resources available to creators. Headquartered and incorporated in Los Angeles, California, Xsolla operates as the merchant of record and has helped over 1,500+ game developers to reach more players and grow their businesses around the world. With more paths to profits and ways to win, developers have all the things needed to enjoy the game. For more information, visit xsolla.com . Responsibilities Design, develop, and improve gameplay mechanics and interconnected game systems. Analyze and balance existing mechanics, including character progression, crafting, combat, resource gathering, and in-game economy. Design new features and improve existing systems based on player feedback, gameplay data, and project priorities. Prepare clear and detailed game design documentation, including feature specifications, balance tables, gameplay flows, and acceptance criteria. Work closely with developers, QA, and production to ensure features are technically feasible and delivered as intended. Identify gameplay issues, design inconsistencies, exploits, and opportunities for improvement. Contribute to player retention, onboarding, and long-term engagement improvements. Support the design and balancing of seasonal gameplay, PvP and PvE activities, and progression systems. Evaluate implemented features through playtesting, feedback analysis, and available gameplay metrics. Support gameplay design improvements and adaptations during the ongoing engine transition. Required skills & experience 3+ years of professional experience in game design, preferably with multiplayer, RPG, survival, or MMO projects. Strong understanding of systems design, progression mechanics, balancing, and game economies. Experience working with complex, interconnected gameplay systems and understanding how changes in one system affect others. Experience designing, maintaining, and documenting gameplay systems in established game projects. Ability to analyze existing game mechanics and propose practical improvements. Strong analytical and problem-solving skills, including confidence working with spreadsheets and balance calculations. Understanding of player motivation, retention, and long-term progression. Abilit",
+   "first_seen": "2026-11-17T21:50:28+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "767509",
+   "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+   "company": "Canonical",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "linux",
+    "javascript",
+    "c",
+    "java",
+    "python",
+    "bash",
+    "c",
+    "golang",
+    "cloud",
+    "kubernetes"
+   ],
+   "posted": "2026-11-17",
+   "expires": "02.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Graduate-Software-Engineer-Open-Source-and-Linux-Canonical-Ubuntu/Canonical/767509",
+   "summary": "Canonical Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Linux JavaScript C++ Java Python Bash C Golang Cloud Kubernetes Junior",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu Canonical Inostranstvo | Rad od kuće 02.12.2026. Linux JavaScript C++ Java Python Bash C Golang Cloud Kubernetes junior We are hiring 2026 and 2027 Graduate Software Engineers into engineering teams around the world. As a global platform company we offer a wide range of software engineering challenges, in both open source products and commercial business systems. We have teams that work in a variety of languages, typically Python, Golang, Rust, C/C++, JavaScript and of course... Bash. We work from the very lowest levels of the Linux system - BIOS and boot loaders, firmware, kernel and drivers, all the way up to desktop applications and containers. We work on tiny devices like the Raspberry Pi and new RISC-V boards, all the way up to supercomputers, clouds and Kubernetes clusters. We work on compilers and toolchains, and we work on security, cryptography, performance and documentation. Some of our teams focus on packaging thousands of pieces of software, others focus on deep contributions to a single body of code. If you are excited about the potential that open source has for humanity and the enterprise, you have outstanding results in your academic career, and you are excited to contribute to the open source stack, this is the best way to apply to Canonical. We will work with you to identify teams and projects that would be interesting and a good fit for your skills and motivations. The process is highly competitive, it will require effort and excellence to succeed if you apply here. Most of our engineering teams work from home. We try to align a single team in a single time zone - EMEA (Europe, Middle East and Africa), APAC (Asia Pacific and Indian Ocean), and AMER (North, South and Central Americas). Even though you work from home, we try to ensure you always have colleagues alongside to coach and mentor you, and for the companionship of shared problem solving and pair programming. Larger projects have multiple teams and might span the globe. We work with the open source community and specialize in building teams that work well in the 'fishbowl' of open source engineering. This is full time work, five days a week, often solving hard problems with significant responsibility. We don't generally work weekends and nights and we do enjoy good holidays but we also expect productive and intense engagement Monday to Friday. We bring all our engineering teams together in person twice a year for a deep 'sprint' with other teams to stimulate discussion and enable a wide range of career development paths. This is a fantastic way to demonstrate and develop your skill in software, learn about a wide range of technologies, make a meaningful impact to open source, and see some very interesting new cities that you might never otherwise get to visit. If you find the open source stack amazing, and you have been a consistent high-performing student in your school and university, then this will be a challenging and exciting start to your career. Location: This is a Globally remote role. The role entails Shaping the roadmap for your product at global sprints every six months Focusing on design and user experience, even for developer tooling and command line apps Writing high quality, resilient and performant code, potentially serving mil",
+   "first_seen": "2026-11-17T21:50:28+00:00"
+  }
+ ]
+}
