@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-20T21:21:44+00:00",
+ "generated_at": "2026-11-21T08:25:50+00:00",
  "window_days": 3,
- "cutoff": "2026-11-17",
- "count": 65,
- "new_count": 25,
+ "cutoff": "2026-11-18",
+ "count": 74,
+ "new_count": 14,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 16,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 49,
+   "vraceno": 35,
    "strane": 2,
    "stop": "kraj"
   },
@@ -47,12 +47,12 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 4,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 3,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,13 +62,13 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 11,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
   "kubernetes": {
-   "vraceno": 1,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "fastapi": {
@@ -87,12 +87,12 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 18,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 8,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,23 +102,23 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 42,
+   "vraceno": 36,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 24,
+   "vraceno": 20,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 75,
+   "vraceno": 66,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 134,
-   "strane": 5,
+   "vraceno": 104,
+   "strane": 4,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,17 +127,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 28,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 90,
+   "vraceno": 72,
    "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 11,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,315 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 92,
-   "strane": 4,
+   "vraceno": 75,
+   "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137901",
+   "title": "Art Director",
+   "company": "Abnormal",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-art-director-abnormal-1137901",
+   "summary": "About the Role Abnormal is built to look and feel like nothing else in security: precision-engineered, a little rebellious, and a few steps ahead of now. We protect more than 5,000 customers, including 30% of the Fortune 500, with a platform that stops the attacks everyone else misses. We need someone to make it look like the future it is. We're looking for an Art Director who is first and foremos",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137884",
+   "title": "Director, Sales",
+   "company": "Ping Identity",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-director-sales-ping-identity-1137884",
+   "summary": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137889",
+   "title": "Lead-to-Cash Business Partner",
+   "company": "BeyondTrust",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-lead-to-cash-business-partner-beyondtrust-1137889",
+   "summary": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best versi",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137870",
+   "title": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
+   "company": "Everpure",
+   "location": "UK Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
+   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137869",
+   "title": "Lifecycle Value Manager, Germany",
+   "company": "Everpure",
+   "location": "Europe",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-germany-everpure-1137869",
+   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137877",
+   "title": "PreSales Solutions Engineer",
+   "company": "Sumo Logic",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
+   "summary": "As a Sales Engineer , you will be the primary technical resource for our Account Executive team. You will share your product and technical expertise through presentations, product demonstrations, and technical evaluations (Proof Of Values). As the technical expert, you will work with clients to understand their requirements and pain points, then design the right solution for their business needs. ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137868",
+   "title": "Regional MSP Partner Manager, EMEA South (Paris)",
+   "company": "Everpure",
+   "location": "Europe",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
+   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137898",
+   "title": "Security Analyst - Governance, Risk, and Compliance",
+   "company": "LaunchDarkly",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898",
+   "summary": "About the Job: LaunchDarkly's Governance, Risk, and Compliance team is hiring a Security Analyst III to facilitate the definition, implementation, and operation of security and privacy programs at LaunchDarkly. LaunchDarkly is critical infrastructure. Our security team keeps it safe for the global systems that depend on us and the GRC team demonstrates that to earn the trust of our customers. As a",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137874",
+   "title": "Senior Atlassian Cloud Administrator",
+   "company": "Dropbox",
+   "location": "Europe",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-administrator-dropbox-1137874",
+   "summary": "Role Description As a Senior Atlassian Cloud Engineer at Dropbox, you will design, build, and evolve the platforms that help our employees collaborate and get support. With a focus on Jira Service Management (JSM), you will own solutions that simplify service delivery, automate manual processes, and improve the employee experience. You will lead the design and implementation of service workflows, ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137865",
+   "title": "Senior Product Engineer",
+   "company": "Arbor Education",
+   "location": "remote",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "react",
+    "backend",
+    "education",
+    "consulting",
+    "docker",
+    "customer support",
+    "dev",
+    "testing",
+    "scrum",
+    "exec",
+    "quality assurance"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": "70000-80000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
+   "summary": "Location: Remote - UK Salary: Â£70,000-80,000 About us At Arbor, weâre on a mission to transform the way schools work for the better.Â We believe in a future of work in schools where being challenged doesnât mean being burnt out and overworked. Where data guides progress without overwhelming staff. And where everyone working in a school is reminded why they got into education every day.Â Our M",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137890",
+   "title": "Sr Director, L2C Process Owner",
+   "company": "BeyondTrust",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-director-l2c-process-owner-beyondtrust-1137890",
+   "summary": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best versi",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137902",
+   "title": "Sr Sales Ops Analyst",
+   "company": "BeyondTrust",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902",
+   "summary": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best versi",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1137897",
+   "title": "Staff Security Engineer - AppSec",
+   "company": "6sense",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-20",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-staff-security-engineer-appsec-6sense-1137897",
+   "summary": "Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.Â We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Â Ever",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-stability-ai-staff-software-engineer-data",
+   "title": "Staff Software Engineer, Data",
+   "company": "Stability AI",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-21",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/stability-ai-staff-software-engineer-data",
+   "summary": "Headquarters: Remote The Team The Data team builds and runs the systems that make Stability AI's data usable, both to operate the business and to train our models. We're a small, collaborative team that works closely with Finance, Marketing, SRE, Security, Product and Research. We focus on outcomes rather than hours, and you'll have deep technical access and the freedom to build. Our stack: AWS (S",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-21T08:25:50+00:00"
+  },
   {
    "source": "infostud",
    "id": "768100",
@@ -643,7 +946,7 @@
    "expires": "05.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Software-Engineer-Postgres-Tooling/Supabase/768062",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 05.12.2026. SQL PostgreSQL TypeScript Senior Novo",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 05.12.2026. SQL PostgreSQL TypeScript Senior global.searchSelectItemEvents = {\"766944\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766944\",\"item_name\":\"Fullstack Developer\",\"item_index\":0,\"item_brand\":\"Proximus d.o.o.\",\"item_category\":\"Full stack developer\",\"item_category2\":\"Programiranje\",\"item_category3\":\"intermediate\",\"item_cate",
    "matched": [
     "helloworld"
    ],
@@ -977,7 +1280,7 @@
    "expires": "04.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Developer-Relations-Engineer/Supabase/767880",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. JavaScript TypeScript Intermediate Novo",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. JavaScript TypeScript Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -1006,7 +1309,7 @@
    "expires": "04.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Head-of-Engineering-Frontier-Safety/FAR.AI/767881",
-   "summary": "FAR.AI Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. Python Prototype REST Foundation C Cloud Embedded Kubernetes Senior Novo",
+   "summary": "FAR.AI Inostranstvo, Inostranstvo | Rad od kuće 04.12.2026. Python Prototype REST Foundation C Cloud Embedded Kubernetes Senior",
    "matched": [
     "helloworld"
    ],
@@ -1520,7 +1823,7 @@
    "expires": "03.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Sr.-Software-Engineer-Enterprise-Features-Orchestration/ClickHouse/767680",
-   "summary": "ClickHouse Inostranstvo, Inostranstvo | Rad od kuće 03.12.2026. Node Node.js AWS PostgreSQL TypeScript Cloud MongoDB Senior <i class=\"la",
+   "summary": "ClickHouse Inostranstvo, Inostranstvo | Rad od kuće 03.12.2026. Node Node.js AWS PostgreSQL TypeScript Cloud MongoDB Senior",
    "matched": [
     "helloworld"
    ],
@@ -1633,149 +1936,6 @@
     "weworkremotely"
    ],
    "first_seen": "2026-11-18T08:41:46+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137797",
-   "title": "Engineering Manager Network Engineering",
-   "company": "PatientPoint",
-   "location": "Remote",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "exec",
-    "design",
-    "infosec",
-    "technical",
-    "dev",
-    "travel",
-    "devops",
-    "cloud",
-    "ops",
-    "medical",
-    "engineer",
-    "digital nomad"
-   ],
-   "posted": "2026-11-17",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
-   "summary": "Join PatientPoint to be part of a dynamic team creating change in and around the doctorâs office. As a leading digital health company, we innovate to positively impact patient behaviors. Our purpose-driven approach offers an inspirational career opportunity where you can contribute to improving health outcomes for millions of patients nationwide. Location: Remote (Must reside in the United State",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-18T08:41:46+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "767397",
-   "title": "Lead Python/Odoo Developer",
-   "company": "Thrive Talent Solutions d.o.o.",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "SQL",
-    "JavaScript",
-    "Git",
-    "Python",
-    "Docker",
-    "PostgreSQL",
-    "Programiranje",
-    "Kubernetes"
-   ],
-   "posted": "2026-11-17",
-   "expires": "02.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/lead-python-odoo-developer/thrive-talent-solutions-doo/767397",
-   "summary": "The Lead Python Odoo Developer will set the technical direction for the Odoo product and ensure reliable delivery of complex customizations and integrations. This role combines architecture ownership, release management, and engineering leadership to maintain production stability and drive scalable Odoo evolution.",
-   "matched": [
-    "python",
-    "data engineer",
-    "sql",
-    "kubernetes",
-    "it support"
-   ],
-   "first_seen": "2026-11-17T21:50:28+00:00",
-   "details": "O poslodavcu We are currently seeking an experienced Lead Python/Odoo Developer to join our team in support of our partner company - a technology company that develops AI-powered software to streamline and automate operations for the insurance and reinsurance industry, including underwriting, claims management, finance, and reporting. As a Lead Python/Odoo Developer,​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ you will have hands-on technical leadership position combining software architecture, Odoo development, engineering team leadership, and release management. You will be responsible for the technical direction of the Odoo product, making key architectural decisions, guiding developers reviewing code, and ensuring that new features and improvements are delivered reliably. Responsibilities: Technical ownership: Take responsibility for the architecture, structure, and ongoing development of the Odoo product. Odoo development: Design and implement complex customizations, including data models, ORM logic, business workflows, modules, access rights, and integrations. Architecture​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ and scalability: Make technical decisions that ensure maintainability, performance, reliability, and compatibility with future Odoo upgrades. Integrations: Design and maintain integrations between Odoo and external systems using APIs, ensuring reliable data exchange and robust error handling. Team leadership: Guide and mentor developers, conduct code reviews, delegate technical tasks, and promote engineering best practices. Release management: Own the technical aspects of releases, including code merges, deployments, post-release verification, hotfixes, and incident resolution. Quality assurance: Establish and maintain automated testing practices, investigate failures, prevent regressions, and​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ manage Odoo version migrations. Production support: Troubleshoot complex issues, investigate performance bottlenecks, and ensure the stability of production environments. Reference: DXl_lYJ_oTlldg Qualifications: 5+ years of professional Python development experience; At least 3 years of hands-on experience developing and maintaining Odoo applications in production; Strong understanding of Odoo architecture, ORM, custom modules, business logic, access rights, and PostgreSQL; Proven ability to independently design and implement complex Odoo customizations; Experience designing and maintaining API integrations with external systems; Strong understanding of software architecture, modular design, performance optimization, and maintainable code; Experience with code reviews, mentoring developers,​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ and making technical decisions; Hands-on experience managing production releases, deployments, hotfixes, and post-release troubleshooting; Experience with automated testing, regression prevention, and Odoo version migrations; Strong knowledge of Git, CI/CD pipelines, Docker, SQL, and production debugging; Ability to take full technical ownership of a product and drive development independently. Nice to Have Experience with JavaScript and Odoo OWL framework, particularly for custom user interfaces; Experience with Kubernetes and container orchestration; Knowledge of load testing and advanced performance optimization; Russian language knowledge. We offer: Full-time, remote work; Working hours: Monday to Friday, start from 3pm CET (some flexibility​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​"
-  },
-  {
-   "source": "infostud",
-   "id": "767398",
-   "title": "Lead Software Engineer/Tech Lead",
-   "company": "Thrive Talent Solutions d.o.o.",
-   "location": "Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "Python",
-    "Docker",
-    "PostgreSQL",
-    "Programiranje",
-    "SaaS",
-    "Cloud"
-   ],
-   "posted": "2026-11-17",
-   "expires": "02.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/lead-software-engineer-tech-lead/thrive-talent-solutions-doo/767398",
-   "summary": "The Lead Software Engineer will translate product and business requirements into scalable backend architecture and lead hands-on development to deliver reliable production features. They will establish engineering standards and operational reliability while mentoring developers and guiding technical strategy as the product grows.",
-   "matched": [
-    "python",
-    "data engineer",
-    "backend",
-    "data platform",
-    "cloud",
-    "it support"
-   ],
-   "first_seen": "2026-11-17T21:50:28+00:00",
-   "details": "O poslodavcu We are currently seeking an experienced Lead Software Engineer/Tech Lea d to join our team in support of our partner company – a technology company that develops AI-powered software to streamline and automate operations for the insurance and reinsurance industry, including underwriting, claims management, finance, and reporting. As a Lead Software Engineer/Tech Lead, you will work closely with the product and business teams​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ to translate ideas and requirements into reliable, scalable technical solutions. You will make architectural decisions, write and review code, solve complex engineering problems, organize releases, and help other developers grow. You will have significant influence over how the product is built, how the engineering team operates, and how the technology evolves as the business grows. Responsibilities: Product Architecture & Technical Strategy: Define and implement the product architecture and technical roadmap. Make pragmatic technology decisions that balance business priorities, development speed, cost, maintainability, and scalability. Design backend services, APIs, data models, and database structures that support current needs and future product growth. Hands-on Engineering & Product Development: Lead the development of core product functionality, from technical​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ design through implementation and production deployment. Remain hands-on by writing code, solving complex engineering challenges, and building reliable APIs and third-party integrations. Ensure robust data processing, consistency, error handling, and recovery mechanisms. Engineering Quality & Operational Reliability: Establish and maintain engineering standards, automated testing, code review practices, and effective development workflows. Organize CI/CD pipelines, development environments, releases, and deployment processes. Implement monitoring, logging, and alerting, ensure application security, and take ownership of production issues and technical improvements. Technical Leadership & Team Development: Provide technical direction and guidance to developers, break down complex requirements into manageable tasks, review code, and promote knowledge sharing. Help the team make sound technical decisions and develop the skills needed to work​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ independently. Product & Business Collaboration: Work closely with product and business stakeholders to translate requirements into effective technical solutions. Evaluate ideas, discuss technical trade-offs, validate assumptions, prioritize development efforts, and adapt the architecture and product based on customer feedback and evolving business needs. Reference: DXl_lYJ_oTlldg Qualifications: 5+ years of professional software development experience, including technical leadership responsibilities. Proven experience launching a software product, platform, or major service from scratch into production. Strong expertise in at least one backend technology stack: Python (preferred) PostgreSQL, Docker, cloud infrastructure, CI/CD. Deep understanding of API design, backend architecture, data modeling, and relational databases. Experience designing systems that balance MVP requirements with future scalability. Practical experience with third-party integrations, including failure handling, retries, API changes, and​​⁠‌‌⁠‍‌‌⁠⁠⁠‍‌‌‌‍​​‍‌⁠⁠⁠‍‍​‌​⁠‍‌‌‍‌‌‌⁠‌‍ data quality challenges. Strong understand"
-  },
-  {
-   "source": "helloworld",
-   "id": "767507",
-   "title": "Founding Harness Engineer",
-   "company": "Clera",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "prototype"
-   ],
-   "posted": "2026-11-17",
-   "expires": "02.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Founding-Harness-Engineer/Clera/767507",
-   "summary": "Clera Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Prototype Intermediate",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Founding Harness Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Founding Harness Engineer Clera Inostranstvo | Rad od kuće 02.12.2026. Prototype intermediate About the Role Join an early-stage AI company building an AI coworker for teams. You will create the agent runtime and reliability systems that help AI act usefully, safely, and dependably in real work. What You'll Do Design and build the agent runtime, including how it gathers context, decides when to respond, selects tools, handles approvals, and completes tasks. Write and refine system prompts so the agent takes useful initiative without being noisy or reckless. Build evaluation and regression tests for real tasks, tool use, and failure cases, and use them to catch regressions in prompt changes. Improve reliability across long-running tasks, interruptions, and retries. Implement safe execution boundaries, including approval gates and multi-tenant data separation. Work directly with company leadership and early users to develop the product. What We're Looking For Typically 4 or more years of relevant experience, with demonstrated ownership of broad technical problems from prototype through production. Experience shipping tool-using LLM agents to production, beyond demos or thin prompt wrappers. Hands-on system prompt design, improved through testing and iteration. Experience building evaluation and regression test harnesses for LLM or agent behavior. Understanding of safe tool execution, approval gates, and multi-user data separation. Strong judgment about when an agent should act, ask for approval, or stay quiet, and the ability to explain technical tradeoffs. Compensation & Benefits Founding equity is available; percentage and vesting terms are to be confirmed. Local employment or contractor arrangements are to be confirmed. Location Remote from Serbia, Poland, or another Eastern European country. Working-hour overlap is to be confirmed. Apply Here Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. [email protected] :~# Helloworld.rs koristi kolačiće kako bi ti pružao najbolje korisničko iskustvo. Nastavkom korišćenja sajta smatraćemo da imamo saglasnost sa korišćenjem kolačića. Više o kolačićima možeš pročitati ovde . U redu Kontaktiraj nas Text... Ime E-mail Tema * Izaberi sa liste Problem pri slanju prijave za posao Problem sa registracijom ili loginom Odjava sa mejling liste Aktivacija ili deaktivacija korisničkog naloga Ostalo Poruka Pošalji Odustani Greška ... Ok Budi obavešten! Prati kompaniju i ne propusti nove važne informacije. Dobićeš email obaveštenje kada poslodavac objavi novi oglas za posao, kada neko podeli platu, iskustvo o radu ili sa intervjua. Prati Odustani Tvoj Infostud profil je spreman Jedan korak te deli do kreiranog profila. Završi popunjavanje",
-   "first_seen": "2026-11-17T21:50:28+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "767508",
-   "title": "Game Designer (Mid/Senior)",
-   "company": "Xsolla",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "jira",
-    "confluence",
-    "qa"
-   ],
-   "posted": "2026-11-17",
-   "expires": "02.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Game-Designer-MidSenior/Xsolla/767508",
-   "summary": "Xsolla Inostranstvo, Inostranstvo | Rad od kuće 02.12.2026. Jira Confluence QA Intermediate global.searchSelectItemEvents = {\"766944\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_766944\",\"item_name\":\"Fullstack Developer\",\"item_index\":0,\"item_brand\":\"Proximus d.o.o.\",\"item_category\":\"Full stack developer\",\"item_category2\":\"Programiranje\",\"item_category3\":\"intermediate\",\"item_categor",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Game Designer (Mid/Senior) Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Game Designer (Mid/Senior) Xsolla Inostranstvo | Rad od kuće 02.12.2026. Jira Confluence QA intermediate About you We are working on a hardcore medieval sandbox MMORPG built around player-driven gameplay, crafting, resource management, territorial warfare, and complex economic and progression systems.The project features a mature and highly interconnected gameplay ecosystem and is currently undergoing an active transition to a new game engine.We are looking for a Game Designer who will help us improve existing gameplay systems, develop new mechanics, and shape the future of the project. This role requires a strong understanding of complex game systems, player behavior, and the challenges of evolving an established live MMORPG while adapting to new technology. About US Xsolla is a global commerce company with robust tools and services to help developers solve the inherent challenges of the video game industry. From indie to AAA, companies partner with Xsolla to help them fund, distribute, market, and monetize their games. Grounded in the belief in the future of video games, Xsolla is resolute in the mission to bring opportunities together, and continually make new resources available to creators. Headquartered and incorporated in Los Angeles, California, Xsolla operates as the merchant of record and has helped over 1,500+ game developers to reach more players and grow their businesses around the world. With more paths to profits and ways to win, developers have all the things needed to enjoy the game. For more information, visit xsolla.com . Responsibilities Design, develop, and improve gameplay mechanics and interconnected game systems. Analyze and balance existing mechanics, including character progression, crafting, combat, resource gathering, and in-game economy. Design new features and improve existing systems based on player feedback, gameplay data, and project priorities. Prepare clear and detailed game design documentation, including feature specifications, balance tables, gameplay flows, and acceptance criteria. Work closely with developers, QA, and production to ensure features are technically feasible and delivered as intended. Identify gameplay issues, design inconsistencies, exploits, and opportunities for improvement. Contribute to player retention, onboarding, and long-term engagement improvements. Support the design and balancing of seasonal gameplay, PvP and PvE activities, and progression systems. Evaluate implemented features through playtesting, feedback analysis, and available gameplay metrics. Support gameplay design improvements and adaptations during the ongoing engine transition. Required skills & experience 3+ years of professional experience in game design, preferably with multiplayer, RPG, survival, or MMO projects. Strong understanding of systems design, progression mechanics, balancing, and game economies. Experience working with complex, interconnected gameplay systems and understanding how changes in one system affect others. Experience designing, maintaining, and documenting gameplay systems in established game projects. Ability to analyze existing game mechanics and propose practical improvements. Strong analytical and problem-solving skills, including confidence working with spreadsheets and balance calculations. Understanding of player motivation, retention, and long-term progression. Abilit",
-   "first_seen": "2026-11-17T21:50:28+00:00"
   }
  ]
 }
