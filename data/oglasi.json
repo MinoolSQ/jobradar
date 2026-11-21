@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T08:25:50+00:00",
+ "generated_at": "2026-11-21T20:10:22+00:00",
  "window_days": 3,
  "cutoff": "2026-11-18",
- "count": 74,
- "new_count": 14,
+ "count": 77,
+ "new_count": 4,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -159,6 +159,82 @@
  },
  "jobs": [
   {
+   "source": "weworkremotely",
+   "id": "wwr-gitlab-backend-engineer-python-ai-engineering-agent-foundations",
+   "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+   "company": "GitLab",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-21",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations",
+   "summary": "Headquarters: Remote, Canada; Remote, Poland; Remote, United Kingdom GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to sh",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-21T20:10:22+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
+   "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
+   "company": "GitLab",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-21",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
+   "summary": "Headquarters: Remote, United Kingdom GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software ",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-21T20:10:22+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-zoominfo-technologies-llc-principal-software-engineer",
+   "title": "Principal Software Engineer",
+   "company": "ZoomInfo Technologies LLC",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-21",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-software-engineer",
+   "summary": "Headquarters: Remote-US-CA ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. We are looking for a Principa",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-21T20:10:22+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-gemini-senior-platform-engineer",
+   "title": "Senior Platform Engineer",
+   "company": "Gemini",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-21",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer",
+   "summary": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by pro",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-21T20:10:22+00:00"
+  },
+  {
    "source": "remoteok",
    "id": "remoteok-1137901",
    "title": "Art Director",
@@ -195,27 +271,6 @@
    "salary": null,
    "url": "https://remoteOK.com/remote-jobs/remote-director-sales-ping-identity-1137884",
    "summary": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-21T08:25:50+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137889",
-   "title": "Lead-to-Cash Business Partner",
-   "company": "BeyondTrust",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-20",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-lead-to-cash-business-partner-beyondtrust-1137889",
-   "summary": "BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will be recognized for your growth, and for the impact you make on our success. You will be surrounded by people who challenge, support, and inspire you to be the best versi",
    "matched": [
     "remoteok"
    ],

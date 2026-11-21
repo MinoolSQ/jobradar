@@ -1,11 +1,4 @@
 {
-"760041": "2026-10-07T14:39:20+00:00",
-"760129": "2026-10-07T14:39:20+00:00",
-"760157": "2026-10-07T14:39:20+00:00",
-"760168": "2026-10-07T14:39:20+00:00",
-"760195": "2026-10-07T14:39:20+00:00",
-"760224": "2026-10-07T14:39:20+00:00",
-"760253": "2026-10-07T14:39:20+00:00",
 "760361": "2026-10-08T19:20:02+00:00",
 "760406": "2026-10-08T19:20:02+00:00",
 "760412": "2026-10-08T19:20:02+00:00",
@@ -372,6 +365,9 @@
 "wwr-epam-systems-senior-devops-engineer-dhdp": "2026-11-16T22:57:03+00:00",
 "wwr-expel-senior-detection-response-engineer": "2026-10-17T11:41:03+00:00",
 "wwr-fivetran-manager-security-engineer-operations": "2026-11-20T08:43:49+00:00",
+"wwr-gemini-senior-platform-engineer": "2026-11-21T20:10:22+00:00",
+"wwr-gitlab-backend-engineer-python-ai-engineering-agent-foundations": "2026-11-21T20:10:22+00:00",
+"wwr-gitlab-backend-engineer-ruby-ai-engineering-ai-catalog": "2026-11-21T20:10:22+00:00",
 "wwr-gomining-senior-devops-platform-engineer-gcp": "2026-11-16T22:57:03+00:00",
 "wwr-halcyon-senior-backend-cloud-engineer": "2026-11-09T08:12:54+00:00",
 "wwr-planetscale-enterprise-support-engineer": "2026-10-18T12:07:35+00:00",
@@ -384,5 +380,6 @@
 "wwr-upsun-senior-it-systems-engineer": "2026-10-27T13:24:36+00:00",
 "wwr-upsun-senior-site-reliability-engineer": "2026-11-19T21:41:37+00:00",
 "wwr-upsun-software-engineer": "2026-11-20T21:21:44+00:00",
-"wwr-zoominfo-technologies-llc-principal-data-engineer": "2026-10-29T14:32:47+00:00"
+"wwr-zoominfo-technologies-llc-principal-data-engineer": "2026-10-29T14:32:47+00:00",
+"wwr-zoominfo-technologies-llc-principal-software-engineer": "2026-11-21T20:10:22+00:00"
 }
