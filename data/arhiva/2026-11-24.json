@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T11:12:00+00:00",
+ "generated_at": "2026-11-24T23:08:12+00:00",
  "window_days": 3,
  "cutoff": "2026-11-21",
- "count": 49,
- "new_count": 13,
+ "count": 52,
+ "new_count": 3,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -22,8 +22,8 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 30,
-   "strane": 1,
+   "vraceno": 32,
+   "strane": 2,
    "stop": "kraj"
   },
   "etl": {
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 11,
+   "vraceno": 12,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,42 +102,42 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 17,
+   "vraceno": 23,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 12,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 41,
+   "vraceno": 51,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 90,
-   "strane": 3,
+   "vraceno": 117,
+   "strane": 4,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 18,
+   "vraceno": 24,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 36,
+   "vraceno": 38,
    "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 5,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,84 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 46,
-   "strane": 2,
+   "vraceno": 63,
+   "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "768548",
+   "title": "Service Desk Administrator",
+   "company": "Gastpro d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-24",
+   "expires": "09.12.2026",
+   "salary": "neto 90.000 - 100.000 RSD (mesečno) ",
+   "url": "https://poslovi.infostud.com/posao/service-desk-administrator/gastpro-doo/768548",
+   "summary": "Administrator servisne podrške organizuje prijem i praćenje servisnih zahteva kako bi se obezbedilo njihovo pravovremeno rešavanje. Kandidat pruža prvi nivo tehničke podrške i koordinira sa terenskim serviserima radi održavanja optimalne funkcionalnosti opreme.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support"
+   ],
+   "first_seen": "2026-11-24T23:08:12+00:00",
+   "details": "O poslodavcu GASTPRO d.o.o. Beograd posluje kao generalni zastupnik i servisni partner kompanije RATIONAL A.G., vodećeg svetskog proizvođača profesionalne kuhinjske opreme. Kompanija je usmerena na isporuku visokokvalitetnih proizvoda i pružanje⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ pouzdane servisne podrške klijentima u sektoru ugostiteljstva. Kao servisni partner, GASTPRO obezbeđuje instalaciju, održavanje i tehničku pomoć kako bi se osigurao optimalan rad RATIONAL sistema. Članovi tima postaju deo profesionalnog okruženja koje pruža priliku za rad sa savremenim kuhinjskim tehnologijama i pružanje podrške različitim profilima klijenata. Opis radnog mesta: Administrator servisne podrške (Service Desk Administrator)⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ je pozicija sa punim radnim vremenom, koja podrazumeva rad u prostorijama kompanije u Beogradu. Ova uloga obuhvata prijem servisnih zahteva, evidentiranje i praćenje tiketa, kao i pružanje tehničke podrške prvog nivoa korisnicima i internim timovima. Administrator servisne podrške odgovara na upite primljene putem telefona i imejla, rešava jednostavnije tehničke probleme i, po potrebi,⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ koordinira rad sa serviserima na terenu. Svakodnevni zadaci uključuju vođenje precizne evidencije o servisiranju, pripremu dokumentacije, slanje servisnih naloga, kao i praćenje statusa zahteva kako bi se osiguralo njihovo pravovremeno rešavanje i zadovoljstvo klijenata. Kvalifikacije Izražene komunikacione veštine i sposobnost jasnog prenošenja tehničkih informacija različitim korisnicima. Veštine administrativne podrške, uključujući unos podataka, vođenje evidencije i organizovanje servisne dokumentacije. Funkcionalno znanje⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ engleskog jezika (u pisanoj i govornoj formi). Spretnost u korišćenju sistema za praćenje zahteva (ticketing sistemi), imejla i standardnih kancelarijskih softverskih paketa (npr. MS Office ili slični alati). Prethodno iskustvo u radu u „help desk“ službi, servisnom centru ili okruženju za tehničku podršku predstavlja prednost. Odgovoran i organizovan pristup radu, uz sposobnost određivanja prioriteta i rešavanja više zahteva. Spremnost za timski⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ rad i kontinuirano usavršavanje. Reference: 4015y4LaAabqww Šta nudimo: Uslovi rada i zarada dogovaraju se u skladu sa iskustvom i kvalifikacijama kandidata. Radno vreme ponedeljak-petak od 8-16h. Uvođenje u posao i kontinuiranu podršku tokom perioda obuke. Gastpro d.o.o. Autoput za 2d, Beograd, Srbija PIB: 106835314 Matični broj: 20690003 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support Service Desk Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslod"
+  },
+  {
+   "source": "helloworld",
+   "id": "768637",
+   "title": "Internal AI Enablement Lead",
+   "company": "n8n",
+   "location": "Inostranstvo, Inostranstvo",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-24",
+   "expires": "09.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Internal-AI-Enablement-Lead/n8n/768637",
+   "summary": "n8n Inostranstvo, Inostranstvo 09.12.2026. Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Internal AI Enablement Lead Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Internal AI Enablement Lead n8n Inostranstvo 09.12.2026. The AI orchestration of your wildest imagination. n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approved integrations, we’re changing the way people bring systems together and scale ideas for impact. Since our founding in 2019, we’ve grown into a diverse team of over 260 - working across Europe and the US, connected by a shared builder spirit and with our centre of gravity in Berlin. Along the way, we’ve: Cultivated a community of more than 650,000 active developers and builders Earned 190K+ GitHub stars, making us one of the world’s Top 40 most popular projects Backed by top investors, from Sequoia’s first German seed to our SAP's recent strategic investment - bringing us to a $5.2bn valuation That’s the company we’ve built. Now we’d love to see what you can build. If you’re applying, try n8n out - whether you’re technical or not - and share a screenshot of your first workflow with us. The easiest place to start is here: app.n8n.cloud/register . We’re in a defining moment of an incredible journey. Come and build with us. Your main goal will be to turn n8n’s internal AI and automation capabilities into something every function can confidently use, build with, and learn from. To make that happen, you’ll create the programs, experiences, and foundations that help teams across n8n build their AI and automation fluency: Drive hands-on enablement Run weekly, role-specific workshops, prioritizing less-technical functions such as Legal and Customer Support. Lead hands-on sessions where you build live alongside teams, helping them turn real workflows and challenges into working automations. Run Build Along Office Hours and Bounty Hunts that give teams regular opportunities to learn, experiment, and solve problems together. Help teams identify useful automation opportunities, understand the process they are changing, and decide when to reuse an existing solution, build themselves, or involve the Automation team. Own dogfooding & experimentation Own our monthly Dogfooding Day end-to-end, from planning and coordination through execution and follow-up. Design and run hackathons and other experimentation initiatives that encourage teams to explore new ways of working with AI and automation. Turn learnings and outputs from these initiatives into reusable assets that help other teams move faster. Scale AI fluency & community Own periodic AI fluency survey cycles alongside the People team and help calibrate what fluency means across different functions. Build visibility around internal wins and reusable solutions so teams can learn from what others have already created. Identify and support champions across functions, informally leading the emerging Guild and helping automation knowledge spread across the company. Enable safe, reusable automation Act as product owner for our internal “safe playground,” partnering with IT, Security, Data, and Solutions Engineering on access, credentials, environments, and requirements. Turn outputs from workshops and office hours into reusable templates and resources that teams can easily discover and adopt. Actively help teams reuse exis",
+   "first_seen": "2026-11-24T23:08:12+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "768609",
+   "title": "Web Designer",
+   "company": "Workforce Human Resources d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "css",
+    "html",
+    "wordpress",
+    "figma"
+   ],
+   "posted": "2026-11-25",
+   "expires": "10.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Web-Designer/Workforce-Human-Resources-d.o.o/768609",
+   "summary": "Workforce Human Resources d.o.o. Beograd 10.12.2026. CSS HTML WordPress Figma Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Web Designer Web Designer Workforce Human Resources d.o.o. Beograd 10.12.2026. CSS HTML WordPress Figma intermediate Job Description For our client, an international real estate developer, we are looking for a talented WEB DESIGNER to join the team and work on web projects across different countries and markets within the Group. This is a hands-on role for someone who will both design and build websites, taking projects from initial concept and visual design through to implementation, launch, and ongoing maintenance. You will work closely with Marketing and technical teams to create engaging, functional, and visually consistent digital experiences across the Group's portfolio. Key Responsibilities Design and build websites, landing pages, and web experiences from concept through to implementation and launch. Build, update, and maintain websites directly in WordPress, including page layouts, content, and design components. Take hands-on ownership of web projects, from design and build through to ongoing updates and optimization. Create engaging web visuals, banners, and other digital assets. Translate design concepts and marketing requirements into functional, responsive web experiences. Ensure visual consistency, usability, and performance across websites and digital platforms. Work closely with Marketing and technical teams on website launches, updates, and other digital initiatives. Adapt existing brand and design materials for web and digital use. Create and animate graphics for websites and other digital platforms. Occasionally adapt digital and marketing assets to support broader brand initiatives. What We Are Looking For Proven experience in web design and website building, with a strong portfolio of completed website projects. Strong proficiency in Figma and experience designing website layouts and UI components. Hands-on experience with WordPress and website development/implementation. Strong understanding of responsive design, web usability, and digital best practices. Good knowledge of typography, layout, visual hierarchy, and web-focused graphic design. A strong visual eye and the ability to translate premium brand identities into engaging digital experiences. Experience creating and adapting visual assets specifically for digital environments. Ability to work across multiple projects, brands, and markets while maintaining consistency and attention to detail. Strong collaboration skills and an execution-focused approach. Fluency in English. Nice to Have Experience working on real estate, hospitality, lifestyle, or other visually driven brands. Experience with motion graphics or animation for web. Basic knowledge of HTML/CSS or other web development tools. Experience working in an international or multi-market environment. Interested? If you are passionate about creating websites that combine strong visual design, functionality, and a great user experience, we would love to see your work. Please apply with your CV and portfolio showcasing relevant web design and website development projects. Apply Here Upoznaj kompaniju O Kompaniji Workforce Human Resources je agencija za zapošljavanje koja pruža sveobuhvatna rešenja iz oblasti upravljanja i razvoja ljudskih resursa. Kontinuiranim inovacijama u domenu ljudskih resursa i prilagođavanjem potrebama tržišta za fleksibilnim zapošljavanjem, Workforce omogućava saradnicima i klijentima realizaciju poslovnih ambicija po najvišim HR standardima. Workforce nudi usluge u domenu fleksibil",
+   "first_seen": "2026-11-24T23:08:12+00:00"
+  },
   {
    "source": "infostud",
    "id": "768557",
@@ -400,7 +472,7 @@
    "expires": "09.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Product-Designer/Wayflyer/768509",
-   "summary": "Wayflyer Inostranstvo, Inostranstvo | Rad od kuće 09.12.2026. Prototype Web dizajn Senior Novo",
+   "summary": "Wayflyer Inostranstvo, Inostranstvo | Rad od kuće 09.12.2026. Prototype Web dizajn Senior global.searchSelectItemEvents = {\"768609\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_768609\",\"item_name\":\"Web Designer\",\"item_index\":0,\"item_brand\":\"Workforce Human Resources d.o.o.\",\"item_category\":\"Web Designer\",\"item_category2\":\"UX Dizajn\",\"item_category3\":\"intermediate\",\"item_category4\":",
    "matched": [
     "helloworld"
    ],
@@ -686,7 +758,7 @@
    "expires": "08.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Developer-Support-Engineer/RevenueCat/768272",
-   "summary": "RevenueCat Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. iOS Android Java Objective-C C Swift Batch Kotlin Intermediate Novo",
+   "summary": "RevenueCat Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. iOS Android Java Objective-C C Swift Batch Kotlin Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -706,7 +778,7 @@
    "expires": "08.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Product-Builder/Camunda/768274",
-   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. Senior Novo",
+   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. Senior",
    "matched": [
     "helloworld"
    ],
@@ -801,7 +873,7 @@
    "expires": "08.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Software-Engineer-AI-Tooling/Supabase/768273",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. JavaScript Prototype TypeScript Senior Novo",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. JavaScript Prototype TypeScript Senior",
    "matched": [
     "helloworld"
    ],
