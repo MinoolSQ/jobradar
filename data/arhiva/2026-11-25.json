@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T09:58:47+00:00",
+ "generated_at": "2026-11-25T22:38:09+00:00",
  "window_days": 3,
  "cutoff": "2026-11-22",
- "count": 45,
- "new_count": 10,
+ "count": 56,
+ "new_count": 11,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,22 +12,22 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 7,
+   "vraceno": 8,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 35,
+   "vraceno": 41,
    "strane": 2,
    "stop": "kraj"
   },
   "etl": {
-   "vraceno": 1,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
@@ -52,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 2,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 13,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,37 +102,37 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 25,
-   "strane": 1,
+   "vraceno": 38,
+   "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 20,
+   "vraceno": 24,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 55,
-   "strane": 2,
+   "vraceno": 67,
+   "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 129,
-   "strane": 5,
+   "vraceno": 155,
+   "strane": 6,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 1,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 25,
-   "strane": 1,
+   "vraceno": 32,
+   "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 41,
+   "vraceno": 50,
    "strane": 2,
    "stop": "kraj"
   },
@@ -147,17 +147,263 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 1,
+   "vraceno": 3,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 67,
+   "vraceno": 87,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "768844",
+   "title": "Conversational AI Engineer",
+   "company": "CREATEQ",
+   "location": "Work from home or office in Niš, Kragujevac or Belgrade",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "AI/ML"
+   ],
+   "posted": "2026-11-25",
+   "expires": "25.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/conversational-ai-engineer/createq/768844",
+   "summary": "This role delivers and maintains Cognigy based conversational solutions that reliably integrate with downstream systems and human agent handovers. The engineer will own technical topics end to end, ensure production readiness and reduce regression risk while enabling progress toward more dynamic AI driven orchestration.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00",
+   "details": "O poslodavcu createq.com Createq createq.space We are looking for Conversational AI Engineer Let us introduce ourselves CREATEQ is a Swiss software engineering company that has been building and modernizing mission-critical software since 1996. We deliver custom software engineering and framework-led legacy modernization for banking and fintech, insurance, aviation and transport, telecommunications, and energy. Our expertise spans a wide range of technologies,​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ including Java, .NET, PHP, mobile, web, and many more. Sounds good, let's continue! This is what you’ll do: Develop, maintain and improve conversational solutions in Cognigy, including Live Chat use cases. Translate business requirements into a maintainable technical design, and explain the key trade-offs behind your decisions. Own technical topics end to end: investigate problems, propose solutions and drive them forward without waiting for detailed implementation instructions. Ensure the full customer journey works, including integrations, dependencies and the handover to Genesys human agents. Assess the impact of every change, including shared components, side effects and regression risks, rather than treating a change as isolated. Build with testability in mind: plan regression coverage and​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ make sure solutions are production-ready before release. Explore and prototype agent-based AI approaches, and contribute to the move toward more dynamic orchestration. Communicate proactively with technical and business stakeholders, translating complexity into clear implications, decisions and required actions. We’re looking for: Strong hands-on knowledge of Cognigy and conversational solution development. Understands the wider Cognigy (Live Chat) architecture, integrations and dependencies, not only the individual Cognigy flow. Understands what happens before, within and after the Cognigy interaction, including handover to Genesys (Human agents) and downstream processes. Anticipates side effects of changes, shared-component impacts and regression risks rather than treating a change as isolated. Investigates problems, proposes solutions and drives technical topics​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ instead of waiting for detailed implementation instructions. Can translate business requirements into a maintainable technical design and can explain important trade-offs. Considers testability, regression coverage and production readiness as part of development. Ideally has first practical experience with agent-based AI concepts and is interested in moving from predominantly deterministic flows toward more dynamic, AI-driven orchestration. Communicates technical topics clearly and proactively, translating complexity into understandable implications, decisions and required actions for both technical and business stakeholders. Reference: DILUa6d08DCMPw Working conditions? We'll let our benefits program speak. Family Care Private health insurance for you and your family. New moms get fully paid maternity and all parents enjoy free days on important dates like the 1st of​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ September. To make your future carefree, we'll set you up with a private pension fund as well. People Oriented Culture Happiness is the most important thing for us. With Createq you’ll be able to travel with your team. Enjoy local events such as team buildings, different sports groups and even events for your"
+  },
+  {
+   "source": "infostud",
+   "id": "768807",
+   "title": "Customer Support Agent - Portuguese speaker",
+   "company": "NCR Voyix",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Windows",
+    "Podrška",
+    "Hardware"
+   ],
+   "posted": "2026-11-25",
+   "expires": "25.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/customer-support-agent-portuguese-speaker/ncr-voyix/768807",
+   "summary": "Frontline technical role providing L1 support to Portuguese speaking customers during 24/7 shift coverage. The specialist resolves recurring hardware and software issues, liaises with vendors and technicians, and maintains incident reporting to ensure SLA adherence.",
+   "matched": [
+    "help desk",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00",
+   "details": "O poslodavcu Title: L1 Support - Portuguese speaker Location: Belgrade, SRB Working time: Shift work 24/7 Position Summary & Key Areas of Responsibility: Works directly with customers to resolves recurring or​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ standard problems; Works directly with NCR and 3rd party Vendor technicians to resolve HW or SW problems; Provides daily and weekly incident tracking sheets to report on the performance; Reviews incident history to determine recurring faults; Provides technical support and assistance​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ to clients and businesses regarding hardware and software issues; Provides support with installing, configuring, and updating hardware and software, as well as fixing any issue related to the equipment that may come up on a daily​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ basis; Allocates engineer appointment times for jobs requiring multiple resources on-site; Updates work orders and provide status information; Assigns and distributes workload to meet SLA’s; May respond to escalated calls; Participates in product set or customer base training; May implement remote fixes​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ relying on the guided search for diagnosis across multiple products; Applies troubleshooting checklists; Acquires and applies knowledge of troubleshooting techniques and desktop diagnostic tools. Reference: DILUa6d08DCMPw Basic Qualifications: Fluent in Portuguese and English language. Basic PC literacy; Keyboard proficiency; Understanding of Windows-based applications/tools. Problem-solving​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ and analytical skills. Relationship building skills; Excellent communication skills, verbal and written as well as listening skills. High school diploma. NCR Voyix NCR Voyix Corporation (NYSE: VYX) is a global platform-powered leader in unified commerce for shopping and dining. Combining a flexible, intelligent platform with end-to-end payments capabilities and services developed through its deep industry experience, NCR Voyix empowers retailers and restaurants to accelerate new possibilities for their operations, experiences and business outcomes. NCR Voyix is headquartered in Atlanta, Georgia, and serves customers in more than 35 countries worldwide.… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"I have been part of NCR Voyix for almost three years, currently working as a Senior Finance Analyst. What I value the most is the opportunity to collaborate with colleagues around the world in…\" Pročitajte celo iskustvo Beneficije Flexible working hours Private health insurance Education, professional development Awards, bonuses, gifts Sport and fitness Food and drinks Trainings, courses, conferences Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support Customer Support Agent - Portuguese speaker Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoz"
+  },
+  {
+   "source": "infostud",
+   "id": "768874",
+   "title": "IT Infrastructure Administrator",
+   "company": "Ametek d.o.o.",
+   "location": "Subotica",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "MySQL",
+    "SQL",
+    "Exchange server",
+    "Windows",
+    "Sistemska administracija",
+    "Hardware",
+    "ERP",
+    "Active Directory"
+   ],
+   "posted": "2026-11-25",
+   "expires": "10.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/it-infrastructure-administrator/ametek-doo/768874",
+   "summary": "This role ensures reliable operation and security of IT infrastructure while delivering first level support to production and business units. The specialist will manage hardware and software systems perform monitoring and escalate issues to maintain system availability.",
+   "matched": [
+    "data engineer",
+    "sql",
+    "administrator",
+    "it support",
+    "windows"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00",
+   "details": "O poslodavcu About the Company: AMETEK, Inc. is a leading global manufacturer of electronic instruments and electromechanical devices with annual sales of approximately $7.4 billion. AMETEK has 21,000 colleagues at more than 150 operating locations, and a global network of sales, service and support locations in 31 countries around the world. The AMETEK Growth Model combines its​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ four growth strategies of Operational Excellence, Strategic Acquisitions, Global & Market Expansion, and New Product Development, with a disciplined focus on cash generation and capital deployment. By executing the AMETEK Growth Model, the company seeks to generate shareholder value by doubling earnings per share over the course of each business cycle. AMETEK consists of two operating groups, both with highly differentiated technology and leading positions in niche markets: Electronic Instruments - a worldwide leader in the design and manufacture of advanced analytical, test and measurement instrumentation for the energy, aerospace,​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ power, research, medical and industrial markets. Electromechanical - a differentiated supplier of automation and precision motion control solutions, and highly engineered electrical interconnects, specialty metals and thermal management systems. Key Responsibilities: Responsible for the procurement, configuration, operation, and maintenance of hardware, software, and related infrastructure Serves as the first level of support for IT-related issues across multiple business units Logs, analyzes, and resolves IT support tickets Maintains records and resolves hardware and software issues Coordinates and communicates with all relevant stakeholders Escalates issues to higher support levels when necessary Provides support and maintenance for all industrial​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ computers connected to production lines Documents all issues and support activities through the ticketing system in accordance with company standards and procedures Administers Windows servers and client environments, Active Directory, File Server, Exchange Server, and SQL/MySQL databases Performs daily system monitoring to verify the integrity and availability of all hardware resources, server resources, systems, and critical processes; reviews system and application logs; verifies the completion of scheduled tasks, including data backups Regularly monitors system security to identify potential risks and security breaches Conducts periodic system performance assessments to support capacity planning activities Maintains​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ and supports all telephone and mobile devices Provides technical advice and guidance as required Maintains all technical documentation related to hardware, software, and supporting infrastructure Ensures the quality of work performed, including accuracy, precision, clarity, and timeliness Reference: DILUa6d08DCMPw Position Requirements: Good problem solving and analytical skills Demonstrated ability and willingness to use AI tools to improve productivity, decision-making, work quality, and to reduce costs. The successful candidate must be able to identify appropriate AI use cases and critically evaluate AI-generated outputs Ability to provide excellent customer service to a variety of customers Ability to​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ work independently with minimal oversight Ability to prioritize tasks ba"
+  },
+  {
+   "source": "infostud",
+   "id": "768783",
+   "title": "Vodeći sistem dizajner",
+   "company": "DDOR Novi Sad",
+   "location": "Novi Sad",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Programiranje"
+   ],
+   "posted": "2026-11-25",
+   "expires": "10.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/vodeci-sistem-dizajner/ddor-novi-sad/768783",
+   "summary": "Pozicija postoji da pretvori poslovne zahteve u primenjiva aplikativna rešenja kroz sistematsku analizu poslovnih procesa. Kandidat će voditi timove na projektima, kreirati analitičke modele i osiguravati integraciju i testiranje implementiranih rešenja.",
+   "matched": [
+    "podaci",
+    "sql"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00",
+   "details": "O poslodavcu Koji je vaš cilj? Želite da radite u jednoj od vodećih osiguravajućih kompanija u Srbiji sa tradicijom dugom 80 godina; Da budete deo međunarodnog tima u kojem se cene​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ različitost i pristupačnost za sve zaposlene; Od kompanije očekujete da ulaže u vaš profesionalni razvoj, ceni i nagrađuje dobre rezultate i kreativnost. Reference: DILUa6d08DCMPw Nudimo vam: Mogućnost da budete deo velikog sistema koji daje jednaku šansu svima; Rad u pozitivnoj, dinamičnoj i podržavajućoj atmosferi; Mogućnost kontinuiranog učenja i profesionalnog usavršavanja; Uslove za napredovanje i razvoj karijere u finansijski​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ stabilnom i inkluzivnom poslovnom okruženju. Od vas očekujemo da: Vršite analizu poslovnih procesa u saradnji sa korisnicima i definišete aplikativne zahteve; Definišete operacije i atribute pojedinih klasa, veza (interfejsa) između klasa i način njihovog uklapanja u celokupni ambijent implementacije aplikacije; Preuzimate ulogu vođe tima u projektima razvoja aplikativnih rešenja; Vršite integracioni test; Učestvujete u definisanju standarda za​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ dizajn, u izboru i primeni dizajn paterna i pratite razvoj tehnologije dizajna; Učestvujete u izboru alata za generisanje specifikacija aplikativnih rešenja; Kreirate potrebne analitičke modele i modele dizajna aplikacije; Izrađujete uputstva za korisnike; Posedujete tendenciju ka strukturnom programiranju u SQL jeziku. Vaš profil: 1-2 godine iskustva na istim ili sličnim poslovima; Razvijene analitičke sposobnosti​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ i preciznost u radu sa podacima; Proaktivni ste, inovativni i usmereni na rešavanje problema; Spremni ste na učenje i usavršavanje; Najmanje B1 nivo poznavanja engleskog jezika. Ulaz u zgradu ne poseduje rampu. Otvoreni smo za prilagođavanja koja se tiču uslova u kojima se odvija sam proces selekcije za osobe sa invaliditetom (prostor, način komunikacije,​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ online alati). Takođe, otvoreni smo za prilagođavanje radnog mesta i kreiranje specifičnih uslova rada, u cilju stvaranja odgovarajućeg radnog okruženja osobi sa invaliditetom. DDOR Novi Sad a.d.o. Mi smo jedna od najvećih osiguravajućih kuća u Srbiji, deo vodeće italijanske osiguravajuće kompanije i značajnog učesnika na Evropskom tržištu - Unipol Gruppo S.p.A. Ponosni smo što smo deo kompanije i grupacije u kojoj nas raznovrsnost profesionalnog iskustva i različitost mišljenja čine… Više o poslodavcu Više o poslodavcu na HelloWorld Beneficije Edukacija, profesionalni razvoj Obezbeđena oprema za rad Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Dobrovoljno zdravstveno osiguranje Sport i rekreacija Wellness Privatni penzioni fond Fleksibilno radno vreme Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad IT IT Architect Vodeći sistem dizajner Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138089",
+   "title": "District Manager, Enterprise - Healthcare (Southeast)",
+   "company": "Everpure",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-24",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-district-manager-enterprise-healthcare-southeast-everpure-1138089",
+   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-databricks-lakebase-associate-director-specialist-manufacturing",
+   "title": "Lakebase Associate Director Specialist-Manufacturing",
+   "company": "Databricks",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-25",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/databricks-lakebase-associate-director-specialist-manufacturing",
+   "summary": "Headquarters: Atlanta, Georgia; Chicago, Illinois; Florida, United States; Kansas; New York City, New York; Remote - Illinois; Remote - Michigan; Remote - Ohio; Remote - Virginia SLSQ327R329 East Coast Midwest Databricks is seeking a Lakebase Associate Director Specialists to help customers modernize their operational data foundation with Databricks Lakebase, our fully-managed Postgres offering fo",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-databricks-lakebase-associate-director-financial-services",
+   "title": "Lakebase Associate Director, Financial Services",
+   "company": "Databricks",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-25",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/databricks-lakebase-associate-director-financial-services",
+   "summary": "Headquarters: Remote - New York SLSQ327R321 While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. Databricks is seeking a Lakebase Associate Director to help customers modernize their operational data foundation with Databricks Lakebase, our fully-managed Postgres offering for intelligent applications. This high-impact role sits ",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138095",
+   "title": "Principal Software Engineer",
+   "company": "Ping Identity",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-24",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
+   "summary": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-natera-principal-software-engineer-in-test",
+   "title": "Principal Software Engineer in Test",
+   "company": "Natera",
+   "location": "USA Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-25",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/natera-principal-software-engineer-in-test",
+   "summary": "Headquarters: US Remote POSITION SUMMARY Natera is seeking a highly technical, hands-on Principal Software Engineer in Test to define and own the end-to-end test automation strategy across all products in the Women's Health, Organ Health, and EB (WH/OH/EB) vertical. In this role, you will design, build, and maintain scalable backend automation suites to validate critical workflows across distribut",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138096",
+   "title": "Security Engineer, Offensive Security",
+   "company": "Dropbox",
+   "location": "North America",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-24",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096",
+   "summary": "Role Description As an Â Offensive Security Engineer within Dropbox Security, you will investigate how attackers could compromise our products and infrastructure, including AI-enabled applications and agentic systems. You will help identify meaningful attack paths and improve the controls intended to prevent, detect or contain them. This is a hands-on offensive security and threat research role wi",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138086",
+   "title": "Sr. Account Executive, AI & HPC",
+   "company": "Everpure",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-24",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-sr-account-executive-ai-hpc-everpure-1138086",
+   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-25T22:38:09+00:00"
+  },
   {
    "source": "infostud",
    "id": "768733",
@@ -457,7 +703,7 @@
    "expires": "09.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Internal-AI-Enablement-Lead/n8n/768637",
-   "summary": "n8n Inostranstvo, Inostranstvo 09.12.2026. global.searchSelectItemEvents = {\"768765\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_768765\",\"item_name\":\"Senior NAV\\/BC developer\",\"item_index\":0,\"item_brand\":\"JAFFA DOO CRVENKA\",\"item_category\":\"Software Developer \\/ Programmer \\/ Engineer\",\"item_category2\":\"Programiranje\",\"item_category3\":\"senior\",\"item_category4\":\"Standard\",\"item_cat",
+   "summary": "n8n Inostranstvo, Inostranstvo 09.12.2026. global.searchSelectItemEvents = {\"768844\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_768844\",\"item_name\":\"Conversational AI Engineer\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"AI Engineer\",\"item_category2\":\"\",\"item_category3\":\"\",\"item_category4\":\"Premium\",\"item_category5\":\"remote\",\"item_variant\":\"external\",\"price\":0.5,\"quant",
    "matched": [
     "helloworld"
    ],
