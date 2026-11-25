@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-11-24T23:08:12+00:00",
+ "generated_at": "2026-11-25T09:58:47+00:00",
  "window_days": 3,
- "cutoff": "2026-11-21",
- "count": 52,
- "new_count": 3,
+ "cutoff": "2026-11-22",
+ "count": 45,
+ "new_count": 10,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 5,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,13 +22,13 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 32,
+   "vraceno": 35,
    "strane": 2,
    "stop": "kraj"
   },
   "etl": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "databricks": {
@@ -47,13 +47,13 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 2,
+   "strane": 1,
    "stop": "kraj"
   },
   "aws": {
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 6,
+   "vraceno": 7,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 12,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,23 +102,23 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 23,
+   "vraceno": 25,
    "strane": 1,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 17,
+   "vraceno": 20,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 51,
+   "vraceno": 55,
    "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 117,
-   "strane": 4,
+   "vraceno": 129,
+   "strane": 5,
    "stop": "kraj"
   },
   "help desk": {
@@ -127,17 +127,17 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 24,
+   "vraceno": 25,
    "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 38,
+   "vraceno": 41,
    "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 9,
+   "vraceno": 11,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,271 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 63,
+   "vraceno": 67,
    "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "768733",
+   "title": "Data Engineer — Snowflake, dbt & Data Integration",
+   "company": "Mozaiq",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Python",
+    "Foundation",
+    "Programiranje"
+   ],
+   "posted": "2026-11-25",
+   "expires": "10.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-engineer-snowflake-dbt-data-integration/mozaiq/768733",
+   "summary": "The Data Engineer will complete and harden a centralized market wide business database and build a predictable process for integrating multiple new data sources each month. They will deliver clean tested Snowflake datasets, maintain dbt models and ensure data quality through automated monitoring and validation.",
+   "matched": [
+    "python",
+    "data engineer",
+    "etl",
+    "sql",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-11-25T09:58:47+00:00",
+   "details": "O poslodavcu About the role We’re looking for a Data Engineer to join a high-priority data project for an established U.S. software company, working closely with their product, data, engineering and Go-to-market teams. The project is a centralized, market-wide database of businesses that powers the company’s sales and marketing, built in Snowflake and dbt. The foundations are largely in place: core source data is ingested, deduplicated and matched against existing customers, and the database is already generating a real sales pipeline. The next​⁠‌⁠‍‌‌⁠​‍⁠‌⁠​​‌‌‌⁠⁠​​⁠‌​​‍⁠​​​⁠​‍​‍‌‍‍‍ phase is about finishing and hardening the foundation, then building a predictable, repeatable process for integrating new data sources every month. These sources include APIs, third-party platforms and websites, with a mix of structured, semi-structured and unstructured data. The product manager owns source discovery and prioritization. You’ll own the technical implementation, from extracting data through delivering clean, tested datasets in Snowflake. Core matching, deduplication and transformation logic stays in Snowflake/dbt, with Clay used to access the prepared data. We’re looking for a strong, hands-on data engineer who uses AI coding tools to move fast, checks their own work carefully and keeps things moving without waiting to be told. What you’ll work on Completing the core database Finish and harden foundational work such as customer matching, deduplication, address normalization and field validation. Maintain consistent business identifiers across sources, investigate ambiguous matches and validate matching quality. Maintain and improve dbt models and Snowflake pipelines so the data stays accurate, documented and easy​⁠‌⁠‍‌‌⁠​‍⁠‌⁠​​‌‌‌⁠⁠​​⁠‌​​‍⁠​​​⁠​‍​‍‌‍‍‍ to build on. Keep core cleaning, matching, deduplication and validation logic centralized in Snowflake/dbt. Reference: N5ctwV8NCwMiag Ingesting and integrating new data Build a repeatable process for integrating sources selected and prioritized by the product manager, typically two to four new sources per month. Collect data from APIs, third-party platforms and websites, using Apify or similar scraping tools where appropriate. Extract and structure semi-structured and unstructured inputs, then integrate them into the existing Snowflake data model. Adapt and maintain ingestion scripts and integrations, including handling pagination, rate limits, retries and changes to source formats. Support incremental updates and safe reruns without introducing duplicate records. Monitoring, data quality and history Build automated tests, monitoring and alerts for failed loads, missing or duplicate records and stale data. Validate matching and enrichment outputs using reviewed samples and agreed quality criteria. Record where data came from and when it was collected or observed, and implement agreed rules for refreshes and conflicting source values. Track changes over​⁠‌⁠‍‌‌⁠​‍⁠‌⁠​​‌‌‌⁠⁠​​⁠‌​​‍⁠​​​⁠​‍​‍‌‍‍‍ time so the data supports historical analysis. Keep prepared datasets reliable and documented for consumption through Clay. Driving work forward Own technical problems end to end, working through blockers with engineers and data teams rather than waiting for step-by-step direction. Communicate progress, trade-offs, dependencies and issues clearly to the product manager and technical stakeholders. Use version control, code review and testing to make production changes safely. Write clear technical documenta"
+  },
+  {
+   "source": "infostud",
+   "id": "768765",
+   "title": "Senior NAV/BC developer",
+   "company": "JAFFA DOO CRVENKA",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Microsoft Dynamics NAV",
+    "SQL",
+    "Senior",
+    "MS SQL",
+    "Programiranje",
+    "ERP",
+    "TSQL"
+   ],
+   "posted": "2026-11-25",
+   "expires": "10.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-nav-bc-developer/jaffa-doo-crvenka/768765",
+   "summary": "Senior NAV/BC developer odgovoran je za održavanje i razvoj ERP modula na Microsoft Dynamics platformama radi očuvanja funkcionalnosti i podrške poslovnim procesima. Kandidat će projektovati i dokumentovati izmene, obezbeđivati integracije sa eksternim sistemima i pružati ekspertsku podršku internim konsultantima i korisnicima.",
+   "matched": [
+    "sql",
+    "it podrska"
+   ],
+   "first_seen": "2026-11-25T09:58:47+00:00",
+   "details": "O poslodavcu Kappa Star Group (www.kappastar.com) je investiciona grupa koju čini veliki broj članica od kojih su najznačajnije Jaffa d.o.o. Crvenka , Umka d.o.o. Umka, Kappa Star Recycling d.o.o., Ekostar Pak d.o.o. i KSG Logistics. Članice Kappa Star Grupe svrstavaju se u vodeće proizvođače u okviru​⁠‌⁠‍‌‌⁠​‍⁠‌⁠​​‌‌‌⁠⁠​​⁠‌​​‍⁠​​​⁠​‍​‍‌‍‍‍ delatnosti u kojima posluju. U potrazi smo za pojačanjem na poziciji Senior NAV/BC developerom. Kao senior NAV/BC developer, imaćete ključnu ulogu u održavanju postojećih i razvoju novih modula i ekstenzija korporativnih ERP sistema baziranih na Microsoft Dynamics NAV i Business Central platformama Glavne dužnosti: U saradnji sa internim konsultantima i predstavnicima poslovnih sektora učestvuje u analizi korisničkih zahteva za unapređenjima funkcionalnosti i definisanju predloga rešenja Konfiguriše i prilagođava standardne module korporativnih ERP rešenja u​⁠‌⁠‍‌‌⁠​‍⁠‌⁠​​‌‌‌⁠⁠​​⁠‌​​‍⁠​​​⁠​‍​‍‌‍‍‍ skladu sa potrebama kompanija članica grupacije Prilagođava postojeće i razvija nove izveštaje iz korporativnog ERP sistema na bazi potreba Projektuje, testira i dokumentuje izmene postojećih, razvija nove module i ekstenzije na bazi in-house NAV/BC platforme Obezbeđuje integraciju modula ERP rešenja sa eksternim sistemima i izvorima podataka Sarađuje sa eksternim partnerima na implementaciji specijalizovanih softverskih rešenja i njihovoj integraciji sa modulima ERP rešenja Rešava identifikovane probleme u probleme u funkcionalnostima korporativnih ERP modula i pratećih aplikativnih rešenja Učestvuje u projektima implementacije rešenja i novih​⁠‌⁠‍‌‌⁠​‍⁠‌⁠​​‌‌‌⁠⁠​​⁠‌​​‍⁠​​​⁠​‍​‍‌‍‍‍ verzija ERP modula baziranih na NAV/BC platformama Primenjuje smernice dobre prakse za obezbeđivanje i očuvanje integriteta i bezbednosti podataka Obezbeđuje ekspertski nivo podrške internim konsultantima i korisnicima sistema Sprovodi obuke internih konsultanata i naprednih korisnika ERP rešenja Reference: N5ctwV8NCwMiag Potrebna znanja i iskustva: VII stepen stručne spreme adekvatnog usmerenja ili relevantna specijalistička edukacija Minimalno trogodišnje relevantno radno iskustvo na sličnim poslovima u velikom korporativnom okruženju ili u kompanijama pružaocima usluga Dobro poznavanje funkcionalnosti ERP rešenja iz porodice Microsoft Dynamics (NAV i Business Central) Dobro poznavanje struktura​⁠‌⁠‍‌‌⁠​‍⁠‌⁠​​‌‌‌⁠⁠​​⁠‌​​‍⁠​​​⁠​‍​‍‌‍‍‍ podataka Microsoft Dynamics ERP rešenja Napredno poznavanje razvoja na C/AL i AL jezicima Dobro poznavanje MS SQL platforme i TSQL jezika Iskustvo u razvoju i korišćenju Web servisa Iskustvo u radu sa sistemima za kontrolu izvornog koda Dobra verbalna i pisana komunikacija na engleskom jeziku Poželjna znanja i iskustva: Iskustvo na implementaciji NAV/BC rešenja i migracijama na nove verzije Poznavanje .NET platforma i iskustvo u razvoju WEB aplikacija i servisa Razumevanje smernica dobre prakse za implementaciju i razvoj rešenja na Microsoft Dynamics platformama Poznavanje Microsoft Cloud i​⁠‌⁠‍‌‌⁠​‍⁠‌⁠​​‌‌‌⁠⁠​​⁠‌​​‍⁠​​​⁠​‍​‍‌‍‍‍ Power platforma Nudimo: Rad sa stručnim i iskusnim kolegama Kontinuirano profesionalno usavršavanje i napredovanje Privatno zdravstveno osiguranje Novogodišnje paketiće za decu zaposlenih Slobodan prvi dan škole za roditelje đaka prvaka Vaučere za polazak u prvi razred osnovne škole Mogućnost i edukacije kroz različite treninge i konferencije JAFFA DOO Crvenka Mi smo kompanija Jaffa - jedan od najvećih proizvođača slatkiša i grickalica na Balkanu. Već dugi niz godina pr"
+  },
+  {
+   "source": "infostud",
+   "id": "768714",
+   "title": "Software Engineer (C++ / Systems / Product)",
+   "company": "Rubypoint, LLC",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "C++",
+    "Programiranje"
+   ],
+   "posted": "2026-11-25",
+   "expires": "25.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/software-engineer-c-systems-product/rubypoint-llc/768714",
+   "summary": "Senior software engineer responsible for building performance sensitive Cpp systems and shaping system architecture across product and infrastructure. The role requires technical autonomy to translate ambiguous requirements into robust implementations and to collaborate across backend web tooling and infrastructure domains.",
+   "matched": [
+    "data engineer",
+    "backend",
+    "it support"
+   ],
+   "first_seen": "2026-11-25T09:58:47+00:00",
+   "details": "O poslodavcu About Rubypoint Rubypoint builds software for digital manufacturing and engineering workflows, working with major industrial customers, including Fortune 500 companies. We are a small, highly technical team building core product infrastructure from the ground up. About the Role We are looking for a software engineer with strong​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ modern C++ skills, solid engineering fundamentals, and sound architectural judgment. C++ is central to the role, but the work is not limited to C++. Depending on product needs, you may also work with Go services, TypeScript and React applications, APIs, infrastructure, developer tooling, or DevOps. We do not expect deep experience across the entire stack. We care more about strong fundamentals, the ability to learn unfamiliar technologies, and the willingness to contribute outside a narrow specialty. The role comes with substantial autonomy. You will be expected to understand​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ objectives, make sound technical decisions, and take responsibility for results without close supervision. What You’ll Do Build and maintain performance-sensitive C++ systems and product infrastructure; Contribute to backend services, web applications, APIs, tooling, and infrastructure when needed; Turn ambiguous requirements into clear technical approaches and maintainable implementations; Make architectural decisions around system boundaries, APIs, data models, performance, and reliability; Take work from investigation through implementation, testing, deployment, and support; Work extensively with AI coding agents through rigorous, structured engineering workflows while remaining accountable for the final result; Review code and designs and​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ help improve engineering practices. Reference: FpM3mLkkuEgM3g What We’re Looking For Strong modern C++ skills, ideally C++17 or C++20; Strong software architecture and system-design fundamentals; Solid knowledge of algorithms, data structures, debugging, and testing; Good judgment about engineering trade-offs; Ability to work independently and learn unfamiliar technologies and technical domains; Clear, direct, and constructive communication; A dependable, collaborative, low-ego approach to working with others. We care about both technical ability and how people treat one another. We want Rubypoint to be a place where capable people can disagree honestly, solve difficult problems together, and enjoy working with their colleagues. Nice​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ to Have We do not expect any one candidate to have all of these: Go, TypeScript, React, or similar product-development experience; Cloud infrastructure, CI/CD, deployment, or operational experience; Systems or performance-sensitive programming experience; Computational geometry, graphics, geometry kernels, or spatial data structures; CAD, 3D modeling, or engineering-data experience; Familiarity with formats such as QIF, STEP, IGES, JT, STL, XML, or XSD. Why Join Work on technically challenging problems across systems, geometry, product, and infrastructure; Have meaningful influence over architecture and product direction; Take meaningful ownership in a small, high-trust engineering team; Work with colleagues who value​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ productivity, direct communication, and mutual respect; Competitive compensation and performance bonus; Private health insurance; Learning and confer"
+  },
+  {
+   "source": "helloworld",
+   "id": "768772",
+   "title": "Container Engineer",
+   "company": "Supabase",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "aws",
+    "kubernetes"
+   ],
+   "posted": "2026-11-25",
+   "expires": "10.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Container-Engineer/Supabase/768772",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 10.12.2026. AWS Kubernetes Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Container Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Container Engineer Supabase Inostranstvo | Rad od kuće 10.12.2026. AWS Kubernetes senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. More than 9 million developers and 250,000+ customers now build on Supabase, and the majority of new databases on the platform are created by AI app builders — so the systems underneath have to stay reliable while they grow fast. About the Role Container Engineering (ConEng) owns the internal container platform that runs Supabase's multi-tenant, multi-region services — the managed Kubernetes platform that other engineering teams build and deploy on top of. We own cluster lifecycle and cluster classes, multi-cluster and multi-region topology, capacity, scheduling, isolation and runtime safety, the higher-level platform APIs, the Kubernetes deployment contract and Argo semantics, rollout primitives, and runtime configuration and secret injection. Your job is to make the platform itself trustworthy, observable, and cheap to operate at scale — and to raise the reliability bar for everyone who depends on it. This is not a gatekeeper role. You'll make the reliable path the easy path: building the automation and platform APIs that let product teams run safely by default, instrumenting what we operate, and making sure that when something breaks we detect it and recover fast. The work spans three strength areas Tooling & ecosystem — deep knowledge of the container and orchestration landscape (Kubernetes, containerd/OCI, the CNCF ecosystem) and a clear point of view on how to compose it. Software engineering — designing and building the platform's automation, controllers, and internal tooling as production code, including solutions that don't come pre-shaped by an existing tool. Operational / SRE practice — the discipline (SLOs, error budgets, incident response, ORRs) that runs the platform at scale as a predictable one. We expect you to be genuinely deep in at least one of these, and many of our strongest candidates are deep in two (usually leaning toward one). Bringing real strength across all three is rare and exceptional — and even then, no one is equally strong in all three at once, so you'd focus where you're most needed at any given time. Different profiles are welcome here; tell us which of these is your center of gravity. What You'll Be Responsible For Regardless of the skill set, all team members carry a share of the team's on-call rota, responding to platform incidents and driving them to resolution and follow-up. Platform reliability & operations Define SLIs/SLOs and error budgets for the container platform itself, and build error-budget policies that actually gate platform changes. Own the Operational Readiness Review (ORR) process for new platform capabilities and major changes. Design and track metrics for platform uptime, and increase observability into the platform by capturing the right metrics, logs, and traces across the platform layers. Drive the incident-to-improvement pipeline: facilitate blameless postmortems, connect findings to readiness gaps, spot repeat failure patterns, and push through systemic fixes. Software engineering Build and maintain the platform's",
+   "first_seen": "2026-11-25T09:58:47+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138075",
+   "title": "Senior CX Platform Engineer",
+   "company": "GitLab",
+   "location": "Canada Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-24",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
+   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built int",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-25T09:58:47+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138079",
+   "title": "Senior Manager, Enterprise Application Development Engineering",
+   "company": "GitLab",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-24",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
+   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built int",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-25T09:58:47+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138077",
+   "title": "Senior Tax Associate",
+   "company": "Real REMAX Group",
+   "location": "Newark",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "design",
+    "technical",
+    "customer support",
+    "accounting",
+    "education",
+    "finance",
+    "c",
+    "microsoft",
+    "senior",
+    "junior",
+    "ops",
+    "excel"
+   ],
+   "posted": "2026-11-24",
+   "expires": null,
+   "salary": "118000-150000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-tax-associate-real-remax-group-1138077",
+   "summary": "Real REMAX Group (Nasdaq: REAX) is a global real estate company bringing together two trusted brands and a shared belief: when real estate professionals are empowered by innovation and community, everyone benefits. By combining Realâs AI-powered technology platform and entrepreneurial community with REMAXâs iconic global brand and trusted franchise network, weâre building one of the industry",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-25T09:58:47+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "768769",
+   "title": "Software Engineer: Core",
+   "company": "Constructor",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "python",
+    "aws",
+    "jenkins",
+    "foundation",
+    "cloud",
+    "less"
+   ],
+   "posted": "2026-11-25",
+   "expires": "10.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Software-Engineer-Core/Constructor/768769",
+   "summary": "Constructor Inostranstvo, Inostranstvo | Rad od kuće 10.12.2026. C++ Python AWS Jenkins Foundation Cloud LESS Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Software Engineer: Core Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Software Engineer: Core Constructor Inostranstvo | Rad od kuće 10.12.2026. C++ Python AWS Jenkins Foundation Cloud LESS intermediate About Us Constructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personalization capabilities to power everything from search itself to recommendations to shopping agents. Engineering is by far our largest department, and we’ve built our proprietary engine to be the best on the market, having never lost an A/B test to a competitive technology. We’re passionate about maintaining this and work on the bleeding edge of AI to do so. Out of necessity, our engine is built for extreme scale and powers over 1 billion queries every day across 150 languages and roughly 100 countries. It is used by some of the biggest ecommerce companies in the world like Sephora, Under Armour, and Petco. We’re a passionate team who love solving problems and want to make our customers’ and coworkers’ lives better. We value empathy, openness, curiosity, continuous improvement, and are excited by metrics that matter. We believe that empowering everyone in a company to do what they do best can lead to great things. Constructor is a U.S. based company that has been in the market since 2019. It was founded by Eli Finkelshteyn and Dan McCormick who still lead the company today. The Team The Core Team sits at the heart of Constructor, shaping Constructor’s in-house search engine, where user requests meet customer catalogs and Constructor’s learnings. We build and operate the foundational systems that power every request flowing through the platform, enabling fast, reliable, and intelligent interactions at massive scale. Our systems handle billions of requests daily with exceptional uptime, and we take pride in delivering a highly scalable, resilient, and globally distributed platform. As part of the Core team, you will help design, build, and maintain the critical infrastructure and services that underpin the entire product, ensuring performance, stability, and reliability across the globe. Requirements You’ll thrive in this role if you: Have a strong foundation in computer science, including algorithms, data structures, concurrency, and systems design. Have experience building and scaling high-traffic, high-availability backend systems. Have experience designing and operating backend infrastructure, including deployment automation, capacity planning, and observability. Are comfortable working across different layers of the stack, from performance-critical code to production operations. Enjoy learning new technologies and tools in a fast-moving, large-scale environment. Collaborate effectively and contribute to a positive, ownership-driven team culture. Our Tech Stack Languages: Rust, C++, Python Cloud Infrastructure: AWS CI/CD: Jenkins, GitHub Actions Monitoring & Observability: Prometheus, Grafana Benefits Unlimited vacation time - we strongly encourage all of our employees take at least 3 weeks per year Fully remote team - choose where you live Work from home stipend! We want you to have the resources you need to set up your home office Apple laptops provided for new employees Training and development budget",
+   "first_seen": "2026-11-25T09:58:47+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-jfrog-solution-architect-new-logo-presales",
+   "title": "Solution Architect, New Logo (Presales)",
+   "company": "JFrog",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-25",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/jfrog-solution-architect-new-logo-presales",
+   "summary": "Headquarters: Remote, US At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an imp",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-25T09:58:47+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "768771",
+   "title": "Staff Backend Software Engineer",
+   "company": "Notabene",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "c",
+    "node",
+    "java",
+    "aws",
+    "postgresql",
+    "rest",
+    "soc",
+    "typescript",
+    "cloud",
+    "kotlin"
+   ],
+   "posted": "2026-11-25",
+   "expires": "10.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Staff-Backend-Software-Engineer/Notabene/768771",
+   "summary": "Notabene Inostranstvo, Inostranstvo | Rad od kuće 10.12.2026. C# Node Node.js Java AWS PostgreSQL REST SoC TypeScript Cloud Kotlin Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Staff Backend Software Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Staff Backend Software Engineer Notabene Inostranstvo | Rad od kuće 10.12.2026. C# Node Node.js Java AWS PostgreSQL REST SoC TypeScript Cloud Kotlin senior About Notabene Notabene is on a mission to make crypto a part of the everyday economy. Leading crypto organizations use our tools to reduce transaction risk and make crypto transfers safe. Working across three continents in eight countries, the Notabene team serves our fantastic community of 100+ customers, including financial institutions, fintechs, exchanges, and more. Our co-founders spearheaded foundational Self Sovereign Identity protocols and use-cases. This technology is key to the internals of our cutting edge tech stack. We’re proud to have the support of leading investors, including Y Combinator, Jump Capital, Castle Island, Green Visor Capital, and more. We’re at an exhilarating moment in our journey, as regulation technologies (reg-techs) are fast becoming recognized as a vital enabler of the crypto ecosystem. Notabene is growing fast—and we’re looking for people like you to help shape the future rails of the crypto industry! The Impact You'll Have Every crypto transfer we touch moves between institutions that run their own systems, answer to different regulators, and have no reason to trust each other. The software in the middle has to be right every time. A message processed twice, a lost update, or a record shown to the wrong tenant is a compliance failure for our customers. You’ll work on the core platform that carries this data between institutions around the world, written in Go. As a Staff Engineer on the team you’ll build the hardest parts of it, contribute to its design, and help the engineers around you do their best work. What You'll Do Design and build core parts of our transaction platform. Build for correctness under failure, with the isolation and auditability a regulated product needs. Scale the platform as transaction volume and the number of institutions per node grow, keeping latency predictable and the database healthy. Write design docs for what you build, and give sharp, useful reviews on other people’s designs and code. Build with AI agents every day, and help improve the specs, context and review practices that make agent-written code safe to ship in a regulated product. Work with product, compliance and customer-facing teams to turn regulatory and customer needs into working software. Own what you ship in production, from tracing and alerts to incident follow-ups. Mentor engineers on the team. Work on an on call rotation Must Haves Systems design depth. You’ve designed and owned distributed systems where correctness matters more than features. You know asynchronous processing well and can reason about what happens when parts of it fail. Strong Go, or deep production experience in another statically typed backend language (Java, Kotlin, Rust, C#) and the appetite to be shipping Go within your first weeks. PostgreSQL in depth: schema design, query plans, locking and isolation levels, migrations on live systems, and multi-tenant data. End-to-end ownership in the cloud. Working knowledge of AWS or GCP: IAM, networking, managed databases, queues and storage. You can read and change Terraform and debug production from traces and logs. AI-native engineering. You use coding agents such as Claude Code or Cursor every day and can show how. Y",
+   "first_seen": "2026-11-25T09:58:47+00:00"
+  },
   {
    "source": "infostud",
    "id": "768548",
@@ -198,7 +457,7 @@
    "expires": "09.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Internal-AI-Enablement-Lead/n8n/768637",
-   "summary": "n8n Inostranstvo, Inostranstvo 09.12.2026. Novo",
+   "summary": "n8n Inostranstvo, Inostranstvo 09.12.2026. global.searchSelectItemEvents = {\"768765\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_768765\",\"item_name\":\"Senior NAV\\/BC developer\",\"item_index\":0,\"item_brand\":\"JAFFA DOO CRVENKA\",\"item_category\":\"Software Developer \\/ Programmer \\/ Engineer\",\"item_category2\":\"Programiranje\",\"item_category3\":\"senior\",\"item_category4\":\"Standard\",\"item_cat",
    "matched": [
     "helloworld"
    ],
@@ -472,7 +731,7 @@
    "expires": "09.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Product-Designer/Wayflyer/768509",
-   "summary": "Wayflyer Inostranstvo, Inostranstvo | Rad od kuće 09.12.2026. Prototype Web dizajn Senior global.searchSelectItemEvents = {\"768609\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_768609\",\"item_name\":\"Web Designer\",\"item_index\":0,\"item_brand\":\"Workforce Human Resources d.o.o.\",\"item_category\":\"Web Designer\",\"item_category2\":\"UX Dizajn\",\"item_category3\":\"intermediate\",\"item_category4\":",
+   "summary": "Wayflyer Inostranstvo, Inostranstvo | Rad od kuće 09.12.2026. Prototype Web dizajn Senior Novo",
    "matched": [
     "helloworld"
    ],
@@ -921,27 +1180,6 @@
    "first_seen": "2026-11-22T20:24:51+00:00"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1137933",
-   "title": "Associate Counsel, Vendor and Provider Contracting",
-   "company": "Clover Health",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-associate-counsel-vendor-and-provider-contracting-clover-health-1137933",
-   "summary": "Clover Healthâs legal team is a group of proactive business partners whose mission is to empower the organization to innovate and achieve its goals within a dynamic and fluid regulatory environment. We are committed to supporting continued excellence for our customers while building a sustainable future for the organization. We believe integrity, collaboration, and sustainability ensures Clover ",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
    "source": "weworkremotely",
    "id": "wwr-gitlab-backend-engineer-ruby-plan-spec-driven-development-1",
    "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
@@ -980,111 +1218,6 @@
    "first_seen": "2026-11-22T08:18:12+00:00"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1137936",
-   "title": "Business Services Assistant",
-   "company": "Ping Identity",
-   "location": "UK Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-business-services-assistant-ping-identity-1137936",
-   "summary": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137946",
-   "title": "Engineering Manager, Ranking Platform",
-   "company": "Reddit",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946",
-   "summary": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of in",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137921",
-   "title": "Global Account Manager, Strategics (NY/NJ)",
-   "company": "Everpure",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-global-account-manager-strategics-ny-nj-everpure-1137921",
-   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137940",
-   "title": "Lead, Office of Software Assurance",
-   "company": "Natera",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940",
-   "summary": "Role Summary Â The Office of Software Assurance (OSA) Lead is the senior individual contributor who establishes and leads the Office of Software Assurance, a new shift-left software quality function inside the Agile Office, through technical expertise and influence rather than line management. The OSA embeds right-sized, risk-based assurance into a 1,000+ person Engineering organization, so that c",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137945",
-   "title": "Principal Software Engineer, Infrastructure",
-   "company": "Reddit",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
-   "summary": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of in",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
    "source": "weworkremotely",
    "id": "wwr-jfrog-professional-services-devops-architect",
    "title": "Professional Services DevOps Architect",
@@ -1100,101 +1233,6 @@
    "summary": "Headquarters: Remote, US At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an imp",
    "matched": [
     "weworkremotely"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137918",
-   "title": "Regional MSP Partner Manager, Germany",
-   "company": "Everpure",
-   "location": "Europe",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-germany-everpure-1137918",
-   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137917",
-   "title": "Senior Applied AI Engineer",
-   "company": "Wemolo",
-   "location": "MÃ¼nchen",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "embedded",
-    "sys admin",
-    "python",
-    "technical",
-    "dev",
-    "testing",
-    "marketing",
-    "speech",
-    "senior",
-    "ops",
-    "sales",
-    "medical"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917",
-   "summary": "Parking without barriers, tickets or queues. Wemolo builds its own hardware and its own AI to make that happen. More than 7,000 of our scanners run on around 4,000 parking sites across Europe and have processed over 1.3 billion parking events: unattended, outdoors, around the clock. As Senior Applied AI Engineer (all genders), you work like a forward deployed engineer, embedded with our internal t",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137920",
-   "title": "Senior Pre-Sales Systems Engineer, Federal Civilian",
-   "company": "Everpure",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-pre-sales-systems-engineer-federal-civilian-everpure-1137920",
-   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137948",
-   "title": "Senior Software Engineer - Behavioral Security Products",
-   "company": "Abnormal",
-   "location": "UK Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
-   "summary": "At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.Â Abnormal is recognized as a top cybersecurity startup (Leader in the 2025 Gartner Magic Quadrant for Email Security Platforms), securing a Series D funding of $250 million at a $5.1 billion valuation in Augu",
-   "matched": [
-    "remoteok"
    ],
    "first_seen": "2026-11-22T08:18:12+00:00"
   },
@@ -1216,143 +1254,6 @@
     "weworkremotely"
    ],
    "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137941",
-   "title": "Sr. Technology Partner Director, Product Partnerships",
-   "company": "Databricks",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "product"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-sr-technology-partner-director-product-partnerships-databricks-1137941",
-   "summary": "RDQ428R2 At Databricks, we are obsessed with enabling data teams to solve the worldâs toughest problems by partnering with the ISVs that drive innovation across every line of business. We enable our partners to bring deep intelligence into the critical workflows their customers rely on every day, from delivering real-time CRM behavioral insights to optimizing complex supply chains impacted by gl",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137949",
-   "title": "VP, Customer Experience Operations",
-   "company": "Ping Identity",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
-   "summary": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-gitlab-backend-engineer-python-ai-engineering-agent-foundations",
-   "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
-   "company": "GitLab",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations",
-   "summary": "Headquarters: Remote, Canada; Remote, Poland; Remote, United Kingdom GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to sh",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-21T20:10:22+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
-   "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
-   "company": "GitLab",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
-   "summary": "Headquarters: Remote, United Kingdom GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software ",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-21T20:10:22+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-zoominfo-technologies-llc-principal-software-engineer",
-   "title": "Principal Software Engineer",
-   "company": "ZoomInfo Technologies LLC",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-software-engineer",
-   "summary": "Headquarters: Remote-US-CA ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You’ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won’t just contribute. You’ll make things happen fast. We are looking for a Principa",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-21T20:10:22+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-gemini-senior-platform-engineer",
-   "title": "Senior Platform Engineer",
-   "company": "Gemini",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer",
-   "summary": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by pro",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-21T20:10:22+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-stability-ai-staff-software-engineer-data",
-   "title": "Staff Software Engineer, Data",
-   "company": "Stability AI",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-21",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/stability-ai-staff-software-engineer-data",
-   "summary": "Headquarters: Remote The Team The Data team builds and runs the systems that make Stability AI's data usable, both to operate the business and to train our models. We're a small, collaborative team that works closely with Finance, Marketing, SRE, Security, Product and Research. We focus on outcomes rather than hours, and you'll have deep technical access and the freedom to build. Our stack: AWS (S",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-21T08:25:50+00:00"
   }
  ]
 }
