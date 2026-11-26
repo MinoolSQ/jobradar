@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T22:38:09+00:00",
+ "generated_at": "2026-11-26T09:42:54+00:00",
  "window_days": 3,
- "cutoff": "2026-11-22",
- "count": 56,
- "new_count": 11,
+ "cutoff": "2026-11-23",
+ "count": 55,
+ "new_count": 8,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 8,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 41,
+   "vraceno": 43,
    "strane": 2,
    "stop": "kraj"
   },
@@ -52,7 +52,7 @@
    "stop": "kraj"
   },
   "sql": {
-   "vraceno": 4,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 15,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,22 +102,22 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 38,
+   "vraceno": 40,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 24,
+   "vraceno": 26,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 67,
+   "vraceno": 74,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 155,
+   "vraceno": 164,
    "strane": 6,
    "stop": "kraj"
   },
@@ -127,12 +127,12 @@
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 32,
+   "vraceno": 34,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 50,
+   "vraceno": 53,
    "strane": 2,
    "stop": "kraj"
   },
@@ -142,8 +142,8 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "windows": {
@@ -152,12 +152,194 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 87,
-   "strane": 3,
+   "vraceno": 97,
+   "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "768906",
+   "title": "Accessibility Engineer",
+   "company": "Allyant",
+   "location": "Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-26",
+   "expires": "26.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/accessibility-engineer/allyant/768906",
+   "summary": "This role exists to identify accessibility barriers across websites and mobile applications and to verify that client remediation resolves those issues. The specialist delivers audits, client-facing walkthroughs and QA testing and progresses to performing internal reviews of other auditors after approximately one year.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-11-26T09:42:54+00:00",
+   "details": "O poslodavcu Position Summary: The Accessibility Engineer will be at the core of our day-to-day operations, identifying accessibility issues on websites, mobile applications, and other digital assets for our customers. In​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ addition to auditing sites and applications, this role is responsible for QA testing client fixes, ensuring that clients are resolving accessibility issues during their remediation work. The role is client-facing, including audit walkthroughs and support tickets, and is expected to take on Internal Review of other auditors’ work after approximately one year. Essential Duties and Responsibilities: As part​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ of the Client Services team, identify issues with websites, mobile applications, and other digital assets for our customers. Assist with the ‘artistry’ of audits, helping our customers fix these issues in a way that is not only compliant but intuitive and usable. Complete client audits as a pair along with an assigned screen-reader auditor in identifying issues found​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ within a website or app. Assist the screen-reader auditor in identifying other visual issues that may not be readily apparent. Handle the keyboard-only, color contrast and related accessibility issues. QA test client fixes to confirm that accessibility issues have been resolved during remediation. Support Step 1 and Step 2 work, with training provided. Participate in client-facing work, including audit walkthroughs and responding to​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ support tickets. After approximately one year in the role, conduct Internal Reviews of other auditors’ work. Other related tasks as assigned. Reference: C6UppUTX2xpr5g Education/Experience: AA or Bachelor’s degree (achieved or in progress), web development certification, or equivalent demonstrated work experience. An understanding of the web development life cycle. Solid intuition for what constitutes a good user experience. Ability to independently learn new technologies and concepts. Ability to quickly​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ identify, articulate, and document accessibility problems on websites and mobile applications. Proficient in HTML and CSS and some JavaScript. Self-starting, cooperative, detail-oriented colleague who thrives in a friendly remote-work atmosphere. Allyant 885 Meadowlands Drive East, Suite 401, Ottawa K2C 3N2, Canada Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao IT Quality Assurance Accessibility Engineer Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. "
+  },
+  {
+   "source": "infostud",
+   "id": "768886",
+   "title": "Direktor prodaje (IT sektor i javne nabavke)",
+   "company": "Elektronik Partner d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/direktor-prodaje-it-sektor-i-javne-nabavke/elektronik-partner-doo/768886",
+   "summary": "Direktor prodaje vodi razvoj i izvršenje prodajne strategije sa fokusom na javne nabavke i B2B tržište. Ključna odgovornost je maksimiziranje prihoda i profitabilnosti kroz rukovođenje timom komercijalista i održavanje strateških partnerstava.",
+   "matched": [
+    "it podrska",
+    "racunari"
+   ],
+   "first_seen": "2026-11-26T09:42:54+00:00",
+   "details": "O poslodavcu Firma Elektronik partner d.o.o. je kompanija specijalizovana za prodaju i distribuciju IT opreme, računarskih sistema i periferija, sa jakim fokusom na javni sektor (tendere) i B2B klijente. U​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ cilju daljeg rasta, jačanja tržišne pozicije i unapređenja prodajnih procesa, tražimo iskusnog i ambicioznog lidera za poziciju direktor prodaje. Opis posla i odgovornosti: Kreiranje i sprovođenje strategije prodaje sa fokusom na javne nabavke (tendere) i korporativni (B2B) sektor. Vođenje, organizacija, motivacija i razvoj tima komercijalista za tendere i prodaju. Donošenje strateških odluka o učešću na tenderima velike vrednosti, procena rizika​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ i definisanje cenovne politike i marži. Pregovaranje i održavanje strateških odnosa sa ključnim IT distributerima i proizvođačima (HP, Dell, Lenovo, Cisco i dr.) radi obezbeđivanja najboljih projektnih uslova (deal registration, rabati, rokovi plaćanja). Razvoj i održavanje odnosa sa ključnim kupcima u javnom i privatnom sektoru. Praćenje tržišnih trendova u IT industriji, analiza konkurencije i pronalaženje​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ novih poslovnih prilika. Planiranje prodajnih budžeta, praćenje realizacije i redovno izveštavanje menadžmentu firme. Reference: C6UppUTX2xpr5g Uslovi za kandidate: VI ili VII stepen stručne spreme (poželjno ekonomskog, organizacionog ili tehničkog usmerenja). Minimum 3 do 5 godina iskustva na rukovodećim pozicijama u prodaji, idealno u IT sektoru (distribucija, sistem integracija ili B2B prodaja hardvera). Odlično poznavanje procesa javnih nabavki (EJN portal, Zakon o javnim nabavkama)​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ i specifikacija IT opreme. Izgrađena mreža kontakata među domaćim i regionalnim IT distributerima i vendorima. Izražene liderske, pregovaračke i analitičke veštine, kao i orijentisanost ka ostvarivanju rezultata. Odlično poznavanje engleskog jezika i napredno korišćenje MS Office paketa i ERP/CRM sistema. Vozačka dozvola B kategorije (aktivan vozač). Šta nudimo: Ključnu rukovodeću ulogu sa direktnim uticajem na rast i razvoj kompanije. Konkurentan finansijski paket​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ (visoka fiksna zarada + atraktivan sistem bonusa vezan za ostvarene rezultate tima i profitabilnost). Službeni automobil, laptop, telefon i svu potrebnu podršku za rad. Veliku samostalnost u radu i donošenju poslovnih odluka. Elektronik Partner d.o.o. Elektronik Partner je privatna firma osnovana 2004. godine u Beogradu. Nalazimo se na adresi Inženjera Kapusa 6 u Zemunu. Pružamo i konsultantske usluge pravnim i fizičkim licima. Elektronik Partner integriše brojne informatičke segmente izmedju ostalog i : - Servis i prodaja računara i stampača - Implementacija VPN servisa putem sopstvene bežicne mreze - Konfigurisanje i održavanje servera (Microsoft I Linux platforme) - Ugradnja Opreme za video nadzor i alarm Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd Trgovina, "
+  },
+  {
+   "source": "infostud",
+   "id": "768878",
+   "title": "Komercijalista za javne nabavke (IT oprema)",
+   "company": "Elektronik Partner d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/komercijalista-za-javne-nabavke-it-oprema/elektronik-partner-doo/768878",
+   "summary": "Uloga postoji da identifikuje relevantne javne tendere za IT opremu i obezbedi konkurentne i usklađene ponude. Kandidat će raditi na analizi tehničkih specifikacija, prikupljanju ponuda od distributera i koordinaciji nabavke i isporuke radi uspešne realizacije ugovora.",
+   "matched": [
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-11-26T09:42:54+00:00",
+   "details": "O poslodavcu Firma Elektronik partner d.o.o. se bavi distribucijom i prodajom računarske opreme, periferija i pratećih IT rešenja, sa fokusom na snabdevanje javnog i korporativnog sektora. Zbog širenja obima poslovanja,​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ tražimo preciznu, snalažljivu i organizovanu osobu za poziciju komercijalista za tendere u IT sektoru. Opis posla i odgovornosti: Svakodnevno praćenje Portala javnih nabavki i selekcija tendera za IT opremu, računare, servere, mrežnu opremu, štampače i potrošni materijal. Detaljna analiza konkursne dokumentacije i tumačenje tehničkih specifikacija (provera kompatibilnosti, karakteristika hardvera i periferija,​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ pronalaženje adekvatnih zamenskih modela koji ispunjavaju uslove). Komunikacija sa domaćim i stranim IT distributerima, prikupljanje ponuda, traženje projektnih cena (deal registration) i pregovaranje o rokovima isporuke. Kompletiranje, provera i blagovremeno podnošenje tenderske dokumentacije i ponuda. Organizacija nabavke robe od distributera i koordinacija isporuke ka krajnjim naručiocima nakon dobijenog​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ posla. Izrada kalkulacija, fakturisanje, praćenje realizacije ugovora i naplate. Reference: C6UppUTX2xpr5g Uslovi za kandidate: Minimum IV stepen stručne spreme (prednost imaju kandidati tehničkog, informatičkog ili ekonomskog usmerenja). Odlično poznavanje IT hardvera, računarskih komponenti, periferija i aktuelnih brendova na tržištu. Prethodno iskustvo u radu na javnim nabavkama (poznavanje Portala javnih nabavki i​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ Zakona o javnim nabavkama) ili iskustvo u B2B prodaji IT opreme. Izražena analitičnost, preciznost i sposobnost uočavanja sitnih detalja u tehničkim specifikacijama. Napredno korišćenje MS Office paketa (posebno Excel-a za izradu kalkulacija) i poznavanje engleskog jezika (čitanje tehničkih specifikacija). Vozačka dozvola B kategorije (aktivan vozač) - opciono. Šta nudimo: Stabilno zaposlenje i rad u dinamičnom IT​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ okruženju. Visoka plata uz transparentan sistem bonusa po uspešno realizovanim tenderima. Direktna saradnja sa vodećim IT distributerima i brendovima. Službeni telefon i sva potrebna oprema za rad. Elektronik Partner d.o.o. Elektronik Partner je privatna firma osnovana 2004. godine u Beogradu. Nalazimo se na adresi Inženjera Kapusa 6 u Zemunu. Pružamo i konsultantske usluge pravnim i fizičkim licima. Elektronik Partner integriše brojne informatičke segmente izmedju ostalog i : - Servis i prodaja računara i stampača - Implementacija VPN servisa putem sopstvene bežicne mreze - Konfigurisanje i održavanje servera (Microsoft I Linux platforme) - Ugradnja Opreme za video nadzor i alarm Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd Trgovina, prodaja Komercijalista Komercijalista za javne nabavke (IT oprema) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao"
+  },
+  {
+   "source": "infostud",
+   "id": "768888",
+   "title": "Senior C# Developer",
+   "company": "Numerator",
+   "location": "Novi Sad | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    ".NET",
+    "C#",
+    "ASP.NET",
+    "SQL",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "NoSQL",
+    "Git",
+    "SQL Server",
+    "Azure",
+    "Programiranje",
+    "RESTful",
+    "Microservices",
+    ".NET Core",
+    "ASP.NET Core"
+   ],
+   "posted": "2026-11-26",
+   "expires": "26.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/senior-c-developer/numerator/768888",
+   "summary": "Senior C sharp developer will design and implement scalable infrastructure for high throughput data processing and web crawling to support consumer insights. The role focuses on technical leadership through mentoring, driving engineering best practices, and resolving production performance issues to ensure reliable large scale systems.",
+   "matched": [
+    "data engineer",
+    "sql",
+    "junior",
+    "it support"
+   ],
+   "first_seen": "2026-11-26T09:42:54+00:00",
+   "details": "O poslodavcu We’re reinventing the market research industry. Let’s reinvent it together. At Numerator, we believe tomorrow’s success starts with today’s market intelligence. We empower the world’s leading brands and retailers with unmatched insights into consumer behaviour and the influencers that drive it. Numerator, a data and tech company serving the North American market research space, has combined with Worldpanel, to create a new global consumer data company. This new company forms a powerhouse of​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ technology enabled consumer insights from nearly five billion consumers worldwide, driving innovation and strategic solutions for thousands of customers. Numerator is continuing to grow its presence in Serbia, where we already have a technology team and an office in Novi Sad. As we do not yet have a local legal entity, your employment agreement will be managed through Adecco, our local employment partner. Your role, team, day-to-day management, and professional decisions will all be managed directly by Numerator. Join us in this groundbreaking venture and be part of a team that shapes the future of market research. Role's Mission As a Senior C# Developer, you will play a crucial role in the design and implementation of the infrastructure for one of Numerator's most cutting-edge projects. Our technology harnesses consumer-related​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ data in many ways, including sophisticated web crawling and high-throughput data processing to deliver an unmatched view of the consumer shopping experience. You will be a technical leader, driving engineering best practices and building relationships with other teams within Numerator. Reasonable Adjustments Worldpanel by Numerator is committed to offering equal opportunities to all individuals, including during the recruitment process. If you require any reasonable adjustments or assistance, please advise us in advance of your interview so that we can make the necessary arrangements. How You'll Spend Your Time Lead the build and development of robust, scalable, and high-performance applications using C#/.NET Core. Apply established development tools, guidelines, and conventions, including but not limited to ASP.NET Core, modern API frameworks, and cloud-native services. Mentor junior and mid-level engineers, leading by example in code reviews​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ and promoting development guidelines. Investigate, diagnose, and resolve complex defects and performance bottlenecks in existing systems serving millions of users. Drive the adoption of new technologies and methodologies to continuously improve the team's software development lifecycle and efficiency. Collaborate closely with product owners and data partners to define system architecture, document solutions, and translate business requirements into technical implementations. Manage defect tracking and system updates, ensuring the highest standards of code quality and stability. Supervise daily system activities and provide Tier 3 support when required. Maintain a strong attention to detail in all work and collaborate effectively in a remote-friendly setting. Reference: C6UppUTX2xpr5g What You'll Bring to Numerator 5+ years of hands-on experience in software development, with a strong focus on C# and the .NET / .NET Core framework. 3+ years of professional experience working in a Microsoft Azure environment, demonstrating services such​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138104",
+   "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+   "company": "GitLab",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-25",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104",
+   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built int",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-26T09:42:54+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138102",
+   "title": "Junior Talent Operations Specialist",
+   "company": "GitLab",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "other"
+   ],
+   "posted": "2026-11-25",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
+   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built int",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-26T09:42:54+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-databricks-lakebase-associate-director-specialist-mfg",
+   "title": "Lakebase Associate Director Specialist-MFG",
+   "company": "Databricks",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-26",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/databricks-lakebase-associate-director-specialist-mfg",
+   "summary": "Headquarters: Remote - Georgia; Remote - Texas; San Francisco, California SLSQ327R338 Databricks is seeking a Lakebase Associate Director Specialists to help customers modernize their operational data foundation with Databricks Lakebase, our fully-managed Postgres offering for intelligent applications. This high-impact role sits within the Lakebase Go-To-Market team and partners closely with regio",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-26T09:42:54+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-databricks-lakebase-sales-specialist-nordics",
+   "title": "Lakebase Sales Specialist, Nordics",
+   "company": "Databricks",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-26",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/databricks-lakebase-sales-specialist-nordics",
+   "summary": "Headquarters: Remote - Denmark SLSQ327R349 Databricks is seeking a Lakebase Sales Specialist to help customers modernise their operational data foundation with Databricks Lakebase , our fully-managed Postgres offering for intelligent applications . This high-impact role sits within the Lakebase Go-To-Market team and partners closely with regional Account Executives to drive adoption of Lakebase wi",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-26T09:42:54+00:00"
+  },
   {
    "source": "infostud",
    "id": "768844",
@@ -504,7 +686,7 @@
    "expires": "10.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Container-Engineer/Supabase/768772",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 10.12.2026. AWS Kubernetes Senior Novo",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 10.12.2026. AWS Kubernetes Senior global.searchSelectItemEvents = {\"768844\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_768844\",\"item_name\":\"Conversational AI Engineer\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"AI Engineer\",\"item_category2\":\"\",\"item_category3\":\"\",\"item_category4\":\"Premium\",\"item_category5\":\"remote\",\"it",
    "matched": [
     "helloworld"
    ],
@@ -977,7 +1159,7 @@
    "expires": "09.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-Product-Designer/Wayflyer/768509",
-   "summary": "Wayflyer Inostranstvo, Inostranstvo | Rad od kuće 09.12.2026. Prototype Web dizajn Senior Novo",
+   "summary": "Wayflyer Inostranstvo, Inostranstvo | Rad od kuće 09.12.2026. Prototype Web dizajn Senior",
    "matched": [
     "helloworld"
    ],
@@ -1005,7 +1187,7 @@
    "expires": "09.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Software-Engineer-Interfaces-Backend/Supabase/768508",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 09.12.2026. SQL Node Node.js AWS Proxy TypeScript Embedded Kubernetes Senior Novo",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 09.12.2026. SQL Node Node.js AWS Proxy TypeScript Embedded Kubernetes Senior",
    "matched": [
     "helloworld"
    ],
@@ -1031,7 +1213,7 @@
    "expires": "09.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Sr-Security-Engineer-Remote-Europe/n8n/768510",
-   "summary": "n8n Inostranstvo, Inostranstvo 09.12.2026. SAP Azure SoC Cloud Kubernetes Senior Novo",
+   "summary": "n8n Inostranstvo, Inostranstvo 09.12.2026. SAP Azure SoC Cloud Kubernetes Senior",
    "matched": [
     "helloworld"
    ],
@@ -1283,82 +1465,11 @@
    "expires": "08.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Product-Builder/Camunda/768274",
-   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. Senior",
+   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. Senior global.searchSelectItemEvents = {\"768844\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_768844\",\"item_name\":\"Conversational AI Engineer\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"AI Engineer\",\"item_category2\":\"\",\"item_category3\":\"\",\"item_category4\":\"Premium\",\"item_category5\":\"remote\",\"item_variant\":\"ext",
    "matched": [
     "helloworld"
    ],
    "details": "Product Builder Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Product Builder Camunda Inostranstvo | Rad od kuće 08.12.2026. senior Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the role Curious about the kind of challenges you'll work on at Camunda? Watch this quick 30-minute talk from our engineers to learn more about the new Camunda Exporter and how we’re solving complex problems at scale What You’ll Be Doing We are looking for a Product Builder to join the IDP & RPA pod. You will take real problems from customers, decide what is worth solving, and build and ship the solution yourself, using AI tools to get from idea to production quickly without lowering the bar. Product Building is how Camunda's Experience organization builds the applications people use on top of Camunda 8, such as Hub, Operate, and ProcessOS. Small pods of builders own a product area from customer problem to shipped change, with no hand-offs between product management, design, and engineering. We are setting this model up now, so you will help shape how it works. The IDP & RPA pod builds how Camunda processes work with documents and legacy applications. With intelligent document processing (IDP), customers create extraction and classification templates in Camunda Hub and publish them so a process can use AI to turn invoices and other documents into structured data. With robotic process automation (RPA), customers integrate legacy applications that have no APIs, using Robot Framework scripts on a standalone RPA worker. The hard problems come with putting LLMs into customer processes: extraction quality, model and prompt choices, testing and trust, and working for AI agents as well as for people. What You Will Do Help shape product direction for IDP & RPA by combining customer input, usage data, and field feedback into clear priorities. Partner with the other builders and product strategy to turn problems into shipped features, using short written proposals and prototypes to align early. Make judgment calls with incomplete information within your scope and own the outcome. Communicate trade-offs and decisions clearly to stakeholders who don't live in the details the way you do. Use AI tools across the whole loop, from specs to prototypes to production-ready code, and hold a high bar ",
-   "first_seen": "2026-11-23T09:18:16+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "768277",
-   "title": "Product Engineer - Integrations",
-   "company": "Kota",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "node",
-    "python",
-    "aws",
-    "ruby",
-    "django",
-    "azure",
-    "ruby on rails",
-    "typescript"
-   ],
-   "posted": "2026-11-23",
-   "expires": "08.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Product-Engineer-Integrations/Kota/768277",
-   "summary": "Kota Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. .NET Node Node.js Python AWS Ruby Django Azure Ruby on Rails <a href=\"/oglasi-za-posao/typescript\" class=\"btn btn-xs btn-primary w-auto jobtag __jobtag __ga4_job_tech_tag \" data-tag-id=\"332\"",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Product Engineer - Integrations Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Product Engineer - Integrations Kota Inostranstvo | Rad od kuće 08.12.2026. .NET Node Node.js Python AWS Ruby Django Azure Ruby on Rails TypeScript Cloud Embedded intermediate We're proud to be ranked as the 12th fastest growing startup on the Sifted 250 list! Read about it here Reports to: Product Lead, Integrations Location: Remote Level: Mid About Kota Kota is making insurance and retirement benefits as accessible as modern software. We do this across the Kota Platform, the world's first fully integrated benefits platform, and Kota Embed, our embedded insurance and retirement product for platforms. Our mission is to make insurance and benefits more accessible and delightful to this generation of employees. Kota was started in 2022 and has raised over €20m from Europe's top technology investors, including Eurazeo, EQT Ventures, Northzone, Frontline, and angels, including Romain Huet, formerly of Stripe, now OpenAI, and David Clarke, formerly of Workday. The companies our investors have previously backed or built include Spotify, Airbnb, Klarna, TrueLayer, Snapchat, Workday, Personio, Workvivo, Pointy, Workable, Wayflyer, and more. The role As a mid level Product Engineer on the Kota Integrations team, you’ll build and run the systems that connect Kota to insurers, pension providers and partner platforms, and the workflows that enrol employees into their benefits. Integrations is the core of Kota. When a request comes in from our API or from Kota Embed, this team does the work that actually puts someone into their cover. It’s also where the consequences are real: an enrolment that goes wrong affects someone’s health cover or pension, so we check rather than assume. You’ll work closely with senior and staff engineers, product, design, the API and Embed teams and our benefits experts, owning feature execution end to end and taking your turn in incident response. We’re looking for an engineer motivated by the “why” behind what they build, who asks rather than assumes. What you'll do Being a part of our team, you will be responsible to: Build and extend integrations: design, build and maintain the integrations and workflows that connect Kota to insurers, pension providers and partner platforms, and that enrol employees into their benefits. Deliver product outcomes: take ownership of feature execution from requirement through to production, focusing on the value delivered to customers rather than the volume of work shipped. Collaborate for impact: work closely with teams across Kota, including the API, Embed, forward deployed engineering and benefits operations teams, to refine procedures and ensure excellent customer experiences and operational efficiency. Own incident management: serve as an incident responder for technical issues, fostering a blameless culture of learning and iterating for improvement. Support our customers: investigate and resolve customer-reported issues in the areas you work on, and turn recurring problems into permanent fixes. Contribute to architecture: collaborate with senior and staff engineers to design and implement enhancements that strengthen our product and technical processes. Work with AI: use AI-assisted and agentic development tools across software design, coding, testing and operational workflows, applying your own judgement to what they produce. A glimpse into your week might include: De",
-   "first_seen": "2026-11-23T09:18:16+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137975",
-   "title": "Senior SRE, Site Experience",
-   "company": "Reddit",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-22",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975",
-   "summary": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of in",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-23T09:18:16+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137974",
-   "title": "Senior Staff SRE, Site Experience",
-   "company": "Reddit",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-22",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-sre-site-experience-reddit-1137974",
-   "summary": "Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of in",
-   "matched": [
-    "remoteok"
-   ],
    "first_seen": "2026-11-23T09:18:16+00:00"
   },
   {
@@ -1384,122 +1495,6 @@
    ],
    "details": "Software Engineer - AI Tooling Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Software Engineer - AI Tooling Supabase Inostranstvo | Rad od kuće 08.12.2026. JavaScript Prototype TypeScript senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling, including agents, the MCP server, agent skills and the dashboard assistant, and as the space moves you'll build the tooling for new technologies too. You'll build it all eval-first: every tool ships with evals and metrics, so we know, with evidence, that it makes agents better rather than worse. You'll work closely with the Docs, CLI, Frontend and SDK teams, and with the AI Tooling Infrastructure engineers who run these services in production. Other teams contribute to AI Tooling to improve Supabase's agentic capabilities, and you'll help them do that while keeping the quality bar high. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions. What You’ll Be Responsible For Build and improve the AI tooling we run today, including the MCP server, agent skills, agents and the Assistant. Make new Supabase products usable by agents from day one: tools, skills and evals for new product surfaces. Also build tooling for new AI technologies as they emerge: prototype quickly, evaluate honestly, and decide with the team what is worth taking to production. Drive an eval-first approach: build and improve evals, instrumentation and feedback loops, measure tools against a no-tool baseline, and help define the quality KPIs and gates that stop regressions shipping. Understand how customers and agents actually use what we ship, and turn that into improvements to our tooling, interfaces and documentation. Design how documentation and product knowledge are exposed to agents, and measure whether it works. Build patterns and tools that help customers add AI to their own apps, such as MCP on Edge Functions, vector embeddings and agents running on Edge Functions. Enable teams to improve Supabase's agentic capabilities through contributions to AI Tooling: clear contribution paths, templates, documentation and review practice. Centralise shared AI logic so teams reuse it rather than duplicate it. Ship tools that are battle-tested, with strong tests, benchmarking and stress testing where it counts. Work with the AI Tooling Infrastructure engineers on reliability, auth and hosting. Work across Docs, CLI, Frontend, SDK and other teams to deliver one coherent developer experience, and stay close to the fast-moving AI ecosystem. You Might Be a Good Fit If You Must have Have 5+ years of experience in professional software engineering experience. Write strong TypeScript and know the JavaScript ecosystem well: npm, ES modules, bundlers, compatibility. Are deeply familiar with the AI ecosystem: current tools, agent patterns and practical trade-offs. You can tell a durable pattern from hype. Have built developer tools, product interfaces or platform primitives used by other engineers. Have designed or use",
    "first_seen": "2026-11-23T09:18:16+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1137970",
-   "title": "Sr. Forward Deployed Data Engineer",
-   "company": "Natera",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-22",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970",
-   "summary": "POSITION SUMMARY: Natera is a global leader in cell-free DNA testing, serving patients across oncology, womenâs health, and organ health. Our Data & AI organization builds the enterprise data platform and AI systems that turn clinical, genomic, and operational data into products that improve patient care and accelerate the business. We are looking for a Senior Forward Deployed Data Engineer to w",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-23T09:18:16+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-keeper-security-bilingual-systems-support-engineer-spanish-wednesday-sunday",
-   "title": "Bilingual Systems Support Engineer, Spanish (Wednesday - Sunday)",
-   "company": "Keeper Security",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-22",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/keeper-security-bilingual-systems-support-engineer-spanish-wednesday-sunday",
-   "summary": "Headquarters: Remote, US Description Keeper is hiring a driven Bilingual Systems Support Engineer (Spanish) to join our B2B support team. This is a 100% remote position from select locations with an opportunity to work a hybrid schedule for candidates based in the Chicago, IL metro area. Keeper's cybersecurity software is trusted by millions of people and thousands of organizations, globally. Keep",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-22T20:24:51+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-gitlab-backend-engineer-ruby-plan-spec-driven-development-1",
-   "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
-   "company": "GitLab",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-22",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-plan-spec-driven-development-1",
-   "summary": "Headquarters: Remote, Poland GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. ",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-gitlab-backend-engineer-ruby-plan-spec-driven-development",
-   "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
-   "company": "GitLab",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-22",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-plan-spec-driven-development",
-   "summary": "Headquarters: Remote, United Kingdom GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software ",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-jfrog-professional-services-devops-architect",
-   "title": "Professional Services DevOps Architect",
-   "company": "JFrog",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-22",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-architect",
-   "summary": "Headquarters: Remote, US At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an imp",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-jfrog-senior-technical-project-manager",
-   "title": "Senior Technical Project Manager",
-   "company": "JFrog",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-22",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/jfrog-senior-technical-project-manager",
-   "summary": "Headquarters: Remote, US At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if you’re willing to do more, your career can take off. And since software plays a central role in everyone’s lives, you’ll be part of an imp",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-22T08:18:12+00:00"
   }
  ]
 }
