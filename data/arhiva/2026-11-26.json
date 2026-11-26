@@ -1,33 +1,33 @@
 {
- "generated_at": "2026-11-26T09:42:54+00:00",
+ "generated_at": "2026-11-26T22:28:11+00:00",
  "window_days": 3,
  "cutoff": "2026-11-23",
- "count": 55,
- "new_count": 8,
+ "count": 66,
+ "new_count": 14,
  "errors": [],
  "infostud_queries": {
   "python": {
-   "vraceno": 4,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 9,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
   "data inzenjer": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 43,
+   "vraceno": 49,
    "strane": 2,
    "stop": "kraj"
   },
   "etl": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -47,22 +47,22 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 4,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "sql": {
    "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
+  "sql": {
+   "vraceno": 7,
+   "strane": 1,
+   "stop": "kraj"
+  },
   "aws": {
-   "vraceno": 0,
-   "strane": 0,
+   "vraceno": 1,
+   "strane": 1,
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 7,
+   "vraceno": 10,
    "strane": 1,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 16,
+   "vraceno": 17,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,38 +102,38 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 40,
+   "vraceno": 47,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 26,
+   "vraceno": 28,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 74,
+   "vraceno": 83,
    "strane": 3,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 164,
+   "vraceno": 178,
    "strane": 6,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 3,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 34,
+   "vraceno": 36,
    "strane": 2,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 53,
-   "strane": 2,
+   "vraceno": 64,
+   "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
@@ -152,12 +152,357 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 97,
+   "vraceno": 109,
    "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "768819",
+   "title": "Analitičar poslovnih podataka",
+   "company": "Umbrella corporation ltd d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "SQL",
+    "Python",
+    "Podrška",
+    "R"
+   ],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/analiticar-poslovnih-podataka/umbrella-corporation-ltd-doo/768819",
+   "summary": "Ova pozicija postoji da pretvara poslovne podatke u upotrebljne uvide koji podržavaju donošenje odluka i unapređuju poslovne procese. Kandidat će proizvoditi izveštaje i vizuelizacije pratiti KPI i obezbeđivati tačnost podataka radi boljeg poslovnog odlučivanja.",
+   "matched": [
+    "python",
+    "podaci",
+    "sql",
+    "it podrska"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00",
+   "details": "O poslodavcu Umbrella Corporation Ltd d.o.o. traži analitičara/analitičarku poslovnih podataka za rad u Beogradu. Ako uživate u radu sa podacima i pretvaranju analiza u korisne uvide za poslovno​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ odlučivanje, pridružite se timu i doprinesite unapređenju poslovnih procesa. Odgovornosti: Prikupljanje, obrada i analiza poslovnih podataka iz različitih izvora. Izrada redovnih i ad hoc izveštaja, analiza i vizuelizacija za podršku poslovnom odlučivanju. Praćenje ključnih pokazatelja uspešnosti (KPI) i uočavanje trendova, odstupanja i mogućnosti za unapređenje. Saradnja sa timovima iz različitih poslovnih oblasti radi​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ razumevanja njihovih potreba i definisanja analitičkih zahteva. Provera kvaliteta, tačnosti i doslednosti podataka i predlaganje načina za unapređenje procesa upravljanja podacima. Dokumentovanje metodologija, izvora podataka i rezultata analiza. Reference: BD68znlXzIMcyA Kvalifikacije: Iskustvo u analizi poslovnih podataka i pripremi izveštaja; prednost imaju kandidati sa iskustvom u radu sa većim skupovima podataka. Napredno poznavanje​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ Excela i iskustvo u radu sa alatima za vizualizaciju i poslovnu inteligenciju, kao što su Power BI ili Tableau. Poznavanje SQL-a i rada sa relacionim bazama podataka; iskustvo sa programskim jezicima poput Python-a ili R-a nije neophodno ali predstavlja prednost. Sposobnost da se složeni podaci pretvore​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ u jasne zaključke i preporuke za poslovno odlučivanje. Razvijene analitičke veštine, preciznost, organizovanost i sposobnost samostalnog rada i saradnje sa različitim timovima. Poznavanje engleskog jezika. Šta nudimo: Rad u profesionalnom okruženju i saradnju sa timovima iz različitih poslovnih oblasti. Mogućnost stručnog usavršavanja i razvoja analitičkih veština. Uslove rada i zaradu u skladu sa iskustvom​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ i kvalifikacijama kandidata. Ako želite da svojim analitičkim veštinama doprinesete donošenju kvalitetnijih poslovnih odluka, pozivamo vas da se prijavite i pridružite timu kompanije Umbrella Corporation Ltd d.o.o. u Beogradu. Umbrella Corporation ltd doo Umbrella Corporation LTD d.o.o. je osnovana 2010. godine u Beogradu, Srbija. Umbrella je danas prisutna u 3 zemlje regiona: Srbija, Bosna i Hercegovina i Makedonija. Broj Umbrella prodajnih šopova u regionu je oko 60. Ovaj broj je u stalnom porastu usled konstantnog razvoja tržišta i otvaranja novih Umbrella šopova. Pored sopstvenog prodajnog kanala, Umbrella je razvila i distributivnu mrežu sa 700+ prodajnih mesta u regionu (trafike, benziske pumpe, marketi, šopovi mobilnih i… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd Fizika, matematika Poslovni analitičar Analitičar poslovnih podataka Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite"
+  },
+  {
+   "source": "infostud",
+   "id": "768963",
+   "title": "Configuration Manager",
+   "company": "Hyperoptic Ltd",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/configuration-manager/hyperoptic-ltd/768963",
+   "summary": "The Configuration Manager will establish and maintain authoritative configuration data to ensure IT asset and configuration accuracy across the organisation. The role focuses on integrating CMDB practices with change and incident processes and driving continuous improvements to configuration controls and data quality.",
+   "matched": [
+    "data platform",
+    "administrator",
+    "it support"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00",
+   "details": "O poslodavcu Job title: Configuration Manager Office location: Španskih boraca, Belgrade - Hybrid working (3 days in the office) About the role and the team: We are seeking an experienced Configuration Manager to lead our configuration management efforts. The Configuration Manager will be responsible for overseeing the configuration management database (CMDB) and ensuring the accurate documentation of all IT assets and configurations. The ideal candidate will have​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ a proven track record in configuration management, strong leadership skills, and the ability to drive process improvements in a dynamic environment. What will you be doing? Configuration Management Leadership Lead and oversee all configuration management activities, including the maintenance and updating of the CMDB to accurately reflect the current state of IT assets and configurations; Develop and implement robust configuration management processes and procedures to ensure consistency and accuracy across the organisation; Collaborate with the Change Management team to integrate configuration management practices into the change management process; Ensure that changes to IT assets and configurations are properly documented and managed within the CMDB; Provide support to Incident and Problem Management processes by supplying accurate and timely configuration information​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ to assist in the resolution of incidents and problems; Analyse configuration data to identify trends and patterns that may indicate underlying issues or areas for improvement; Drive continuous improvement initiatives in configuration management processes and tools to enhance efficiency and effectiveness; Conduct regular audits of the CMDB to verify data accuracy and integrity, identifying areas for improvement and implementing corrective actions as necessary; Collaborate with internal stakeholders, including IT teams and business units, to gather requirements and ensure alignment of configuration management practices with business needs; Provide guidance and support to other team members on configuration management best practices and tools. Reference: BD68znlXzIMcyA What we are looking for: Proven experience in configuration management or a related field, with a strong​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ understanding of configuration management principles, processes, and best practices; Previous experience with configuration management tools (e.g., ServiceNow, BMC Helix, or similar), including configuration, administration, and reporting capabilities; Attention to detail and accuracy in data management; Ability to work independently and collaboratively in a fast-paced environment; Strong communication skills, both written and verbal, with the ability to communicate complex technical concepts to non-technical stakeholders; Relevant experience in the telecommunications or ISP - DESIRABLE; Relevant certifications (e.g., ITIL Intermediate/Expert, Configuration Management Certification) - DESIRABLE. Why work for us? We're in your corner and our vision is to be the UK's most loved and desired broadband provider, that shows the way broadband is done! Awarded Broadband Provider of the Year 2023 Uswitch Telecoms Awards, as voted for by 20,000 customers, plus Fair Terms Gold Award 2023. We're also very​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ proud to have been awarded Great Place to Work Certification (2022-23) and UK's Best Workplaces f"
+  },
+  {
+   "source": "infostud",
+   "id": "769035",
+   "title": "Data Engineer (ETL/ELT)",
+   "company": "AdmiralBet",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "XML",
+    "JSON",
+    "REST",
+    "Microsoft SQL Server",
+    "Programiranje"
+   ],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/data-engineer-etl-elt/admiralbet/769035",
+   "summary": "",
+   "matched": [
+    "data engineer",
+    "etl"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00",
+   "details": "O poslodavcu Reference: BD68znlXzIMcyA Novomatic Srbija ADMIRALBET predstavlja brend sportskih kladionica koji veoma uspešno posluje u organizaciji sportskog klađenja. Kreiranjem kvota za 363 uplatna mesta širom Srbije, sa tendencijom brzog rasta, kao i kroz najsavremenije softversko rešenje - online platformu za sportsko klađenje, AdmiralBet pomera… Više o poslodavcu Više o poslodavcu na HelloWorld Beneficije Hrana i piće Edukacija, profesionalni razvoj Timska druženja Personalizovane beneficije Obezbeđena oprema za rad Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Data Warehouse / Business Intelligence Developer Data Engineer (ETL/ELT) Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "769000",
+   "title": "Full Stack Developer",
+   "company": "Ogranak Frankfurt School Solutions GmbH",
+   "location": "Novi Sad | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "SQL",
+    "JavaScript",
+    "NoSQL",
+    "Git",
+    "Python",
+    "AWS",
+    "Azure",
+    "Programiranje",
+    "TypeScript",
+    "Flutter"
+   ],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/full-stack-developer/ogranak-frankfurt-school-solut/769000",
+   "summary": "Ovaj posao postoji da održi i unapredi poslovne aplikacije, izveštajne dashbordove i AI alate kroz razvoj frontend i backend funkcionalnosti. Kandidat će graditi nove funkcije, integrisati servise trećih strana i obezbediti stabilnost i održavanje produkcije.",
+   "matched": [
+    "python",
+    "backend",
+    "sql",
+    "aws",
+    "data platform",
+    "it support"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00",
+   "details": "O poslodavcu About FS Solutions Ogranak Frankfurt School Solutions GmbH Novi Sad is a subsidiary of Frankfurt School of Finance & Management, delivering innovative learning, technology, and digital transformation solutions for the higher education industry. About the Role We are looking for a Full​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ Stack Developer with 2-3 years of professional experience to join the team responsible for maintaining and developing our applications. You will help improve existing products, build new features, and integrate third-party services. Our projects include business applications, reporting dashboards, and AI-powered tools. We work across multiple programming languages and platforms, so we value solid development fundamentals, curiosity, and a willingness to learn new technologies. You will work closely with our existing team, build familiarity with our systems, and​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ gradually take on more responsibility. Key Responsibilities: Develop and maintain frontend and backend features, APIs, and third-party integrations. Write, review, and test maintainable code, including AI-generated changes, with attention to security and performance. Turn user needs into practical solutions and clear, accessible interfaces. Use AI coding tools to support planning, implementation, and testing, and verify their results. Collaborate with the team, communicate progress and blockers, and help resolve issues after release. Reference: BD68znlXzIMcyA Qualifications 2-3 years of professional software development experience. Experience as the primary​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ developer of a system or module used by real users, from requirements to release and at least three months of production maintenance. Experience building APIs, implementing authentication, validating inputs, and handling errors using at least one of the following languages: JavaScript/TypeScript, Python, or Go. Experience building responsive frontends with state management and API integration. Our stack uses React and Next.js with JavaScript/TypeScript. Understanding SQL and NoSQL databases, data modeling, queries, and basic performance considerations. Familiarity with Git, code reviews, testing, and technical​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ documentation. Willingness to learn new technologies, including Flutter, Go, AI development, and cloud platforms (AWS and Azure). Previous cloud experience is helpful, not required. Excellent English and Serbian language skills (spoken & written, the company language is English). What we offer to you: Flexible working hours and a hybrid working model (3+2). 30 days of annual leave. Private healthcare. Visits and exchanges with our team in Germany. Professional development opportunities, including company-funded conferences, online courses, exams, or similar programs of your choice. Work in a friendly, supportive,​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ and international environment at the intersection of education, technology, and digital transformation. Does this sound like you? If so, we would love to meet you! We look forward to receiving your CV! Only applications submitted in English will be considered. Ogranak Frankfurt School Solutions GmbH Novi Sad Ogranak Frankfurt School Solutions GmbH Novi Sad, a subsidiary of Frankfurt School of Finance & Management, delivers innovative learning, technology, and digital transformation solutions for the higher education indust"
+  },
+  {
+   "source": "infostud",
+   "id": "768979",
+   "title": "Service Operations Analyst (Maternity Cover)",
+   "company": "M Plus Serbia d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Podrška",
+    "Hardware"
+   ],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/service-operations-analyst-maternity-cover/m-plus-serbia-doo/768979",
+   "summary": "The Service Operations Analyst ensures reliable regional service delivery by monitoring systems, managing incidents, and maintaining accurate operational records. The role enables operational decision making and drives process improvements to sustain service availability and quality.",
+   "matched": [
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00",
+   "details": "O poslodavcu WE'RE HIRING! Service Operations Analyst (Maternity Cover) M Plus Serbia is a Business Process Outsourcing company, and Customer Care is our core. Individual dedication, team expertise, and passion involved in each interaction with clients and​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ customers represent our commitment to reliable service delivery. The Service Operations Analyst provides operational support across regional service operations, helping ensure smooth and reliable service delivery. The role involves monitoring service performance, handling incidents and escalations, and supporting day-to-day operational activities. Key responsibilities: Provide first level support and independently manage complex or escalated incidents, ensuring timely resolution and appropriate communication with internal teams, suppliers, and customers Monitor customer and/or owned and operated networks, identify system alerts,​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ communication outages, transaction issues, and ATM performance degradation, and take appropriate action to maintain service availability Review customer portfolios, transaction activity, and operational data to assess service performance, identify potential issues, and ensure accurate ATM status and availability reporting Maintain accurate service records, asset lists, customer entitlements, and incident documentation, ensuring all relevant information is properly recorded and up to date Follow established operational procedures while identifying opportunities​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ to improve processes, service quality, operational efficiency, forecasting accuracy, and cost management Provide functional support and guidance within the team, participate in customer reviews and SLA discussions, and contribute to maintaining high service standards Coordinate and support cross-functional projects and process improvement initiatives Reference: BD68znlXzIMcyA What we expect from you: Minimum high school diploma Related experience in service operations, service desk, incident management, ATM operations, or related functional areas Strong English communication skills, oral​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ and written Basic ATM hardware and software understanding Technical troubleshooting ability across multiple system types Business and analytical expertise supporting operational decision making Proven ability to perform independently in a structured, process driven environment What you can expect from us: Hybrid working model, with weekly rotating shifts between 1 PM and 3 AM, including Saturday work Opportunity to develop skills through organized training Work in a large, international team Work in modernly equipped offices located in the heart of​​‌​​⁠⁠‍‍⁠⁠​⁠​⁠‍‌⁠‍‌‌‌‌⁠⁠​⁠​‍​​⁠​‌⁠​⁠​‍​ the business centre in New Belgrade If you want to give yourself a try in the new role, apply with your CV in English and join us! Only shortlisted candidates will be contacted. Good luck! M Plus Serbia Pozdrav od Mplus Serbia tima! Mplus grupa oformljena je od strane evropskih lidera u okviru Business Proces Outsourcing (BPO) industrije. Samim tim, dugogodišnje lokalno poznata Trizma se priključila istoj. Naša mreža okupila je preko poznavaoce preko 30 jezika i saradnike u preko 56 zemalja. Negujemo radnu atmosfteru gde svako može da pokaže ideje i razvija se u smeru svoje vizije. Verujemo u vrednost raznolikosti, kao i učenje kroz deljenje iskustava. Ukoliko govorite i jezike ka"
+  },
+  {
+   "source": "infostud",
+   "id": "769022",
+   "title": "Sistem administrator",
+   "company": "GRAWE osiguranje a.d.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Sistemska administracija"
+   ],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/sistem-administrator/grawe-osiguranje-ado/769022",
+   "summary": "",
+   "matched": [
+    "sistem administrator",
+    "administrator"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00",
+   "details": "O poslodavcu Reference: BD68znlXzIMcyA GRAWE osiguranje a.d.o. Tradicija. Sigurnost. Stabilnost. Pouzdanost. Poverenje. Iskustvo. GRAWE GRAWE osiguranje a.d.o, osnovano 1997. godine kao prvo osiguravajuće društvo sa stranim kapitalom u Srbiji, danas se nalazi među liderima na tržištu Republike Srbije u oblasti osiguranja života. Kao deo velike porodice Grazer Wechselseitige Versicherung AG sa sedištem u Gracu i istorijom dugom više od 190 godina, GRAWE gradi uspešno poslovanje u Srbiji na temeljima tradicije, stabilnosti i poverenja. Dostigli smo broj… Više o poslodavcu Više o poslodavcu na HelloWorld Beneficije Hibridni model rada Fleksibilno radno vreme Nagrade, bonusi, pokloni Kompanijski popusti Timska druženja Porodica i roditeljstvo Zdravlje Edukacija, profesionalni razvoj Sport i rekreacija Društvena odgovornost Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT System Administrator Sistem administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-gitlab-cloud-platform-engineer",
+   "title": "Cloud Platform Engineer",
+   "company": "GitLab",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-26",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/gitlab-cloud-platform-engineer",
+   "summary": "Headquarters: Remote, Canada; Remote, United States GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more s",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138127",
+   "title": "Commercial Account Executive",
+   "company": "Apryse",
+   "location": "Canada Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-25",
+   "expires": null,
+   "salary": "120000-180000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-executive-apryse-1138127",
+   "summary": "The Role We're growing our sales team and we're looking to bring on a Commercialâ¯Account Executive,â¯with a focus on strategic commercial sales. You will be at the forefront of our efforts to expand our growing business. Challenge yourself by selling the intrinsic value of software solutions to our customers. The primary responsibility will be to manage and close a pipeline of Apryse SDK opport",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "768882",
+   "title": "Digital Marketing - French language - Paid Media Consultant (SEA - SMA)",
+   "company": "Ad's up Europe Agence d.o.o.",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Digital-Marketing-French-language-Paid-Media-Consultant-SEA-SMA/Ads-up-Europe-Agence-d.o.o/768882",
+   "summary": "Ad's up Europe Agence d.o.o. Beograd | Hibrid 11.12.2026. 1.000,00 - 1.500,00 EUR (net) Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Digital Marketing - French language - Paid Media Consultant (SEA - SMA) Digital Marketing - French language - Paid Media Consultant (SEA - SMA) Ad's up Europe Agence d.o.o. Beograd | Hibrid 11.12.2026. 1.000,00 - 1.500,00 EUR (net) intermediate L'agence Notre agence Ad's up Europe, spécialisée en référencement payant (Google Ads, Facebook Ads) sur le marché français, recherche régulièrement de nouveaux collaborateurs/trices pour rejoindre notre équipe à Belgrade. Nous organisons des sessions de recrutement tout au long de l'année car l'agence se développe et nous avons des besoins récurrents sur le poste de consultant Paid. Vos missions En tant que Consultant·e SEA/SMA, votre mission principale sera d'optimiser la stratégie d'acquisition de votre portefeuille de clients et de maximiser leur retour sur investissement publicitaire. Pilotage & Performance: Créer, gérer et optimiser des campagnes publicitaires sur Google Ads, Microsoft Ads, Meta Ads, LinkedIn Ads, TikTok Ads, etc. Mettre en œuvre une approche test & learn pour identifier les leviers les plus performants et maximiser le ROI. Analyser les résultats des expérimentations (A/B tests, nouveaux formats, stratégies d'enchères…) pour nourrir la réflexion stratégique. Développer une culture de la performance pilotée par la donnée, en intégrant les enseignements de la Data dans vos prises de décision. Analyse, Data & IA: Suivre les KPIs clés et produire des reportings data-driven clairs et visuels, facilitant la prise de décision et la recommandation à nos clients. Collaborer étroitement avec les équipes Data & Data Visualisation pour développer des dashboards avancés et des outils de suivi personnalisés. Identifier des opportunités d'optimisation grâce à l'analyse de données comportementales, contextuelles et d'attribution. Explorer l'usage de solutions d'automatisation et d'intelligence artificielle (scripts, smart bidding, machine learning, prédictions) pour améliorer la performance et l'efficacité opérationnelle. LLMs: Usage quotidien & productivité: « Maîtriser les assistants IA génératifs (ChatGPT, Gemini, Claude) pour la rédaction, la synthèse documentaire, l'analyse de données et l'automatisation de tâches répétitives. Workflows & agents IA: « Concevoir des prompts structurés, des instructions réutilisables et des workflows/agents IA Conseil & Stratégie: Réaliser des études de marché et concurrentielles pour identifier de nouveaux relais de croissance. Élaborer et piloter des stratégies d'acquisition, en cohérence avec les objectifs business de vos clients. Accompagner les clients dans la mise en œuvre des recommandations et le déploiement de leurs dispositifs digitaux (recommandations UX / UI sur les sites web des clients afin d’augmenter les taux de conversion). Devenir un partenaire stratégique de vos clients, en leur apportant une vision globale et un accompagnement vers une maturité digitale (enjeux média et data). Le profil que nous recherchons Expérience / formation en marketing digital. La maîtrise d'outils tels que Google Ads, Meta Ads, LinkedIn Ads, GA4 ou Looker Studio apportera un avantage de taille à votre candidature. Intérêt marqué pour les innovations IA appliquées au marketing digital. Esprit analytique, curiosité et appétence forte pour la data et l'expérimentation. Vision stratégique : vous savez articuler performance opérationnelle et enjeux business. Excellentes capacités de communication, tant à l'écrit qu'à l'oral. Sens commercial. Esprit d'équipe, sens ",
+   "first_seen": "2026-11-26T22:28:11+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "768959",
+   "title": "Engineering Productivity Engineer",
+   "company": "Supabase",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "python",
+    "docker",
+    "typescript"
+   ],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Engineering-Productivity-Engineer/Supabase/768959",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 11.12.2026. Python Docker TypeScript Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Engineering Productivity Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Engineering Productivity Engineer Supabase Inostranstvo | Rad od kuće 11.12.2026. Python Docker TypeScript senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for an EngProd Engineer to join our Engineering Operations team and own the engineering experience from local setup to production deploy. You’ll build and integrate the tools our engineers rely on every day: local development, code search, testing, code review, CI, AI-assisted workflows, and the metrics that show where time is being lost. You’ll work closely with other engineering teams at Supabase to eliminate friction, optimize cycle times, and make reliably shipping to production effortless. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that engineers love and that empower them to do their best work. What You’ll Be Responsible for In this role, you’ll Improve local development and the daily workflow Own local development environment stability; eliminate “works on my machine,” keep environments reproducible across teams, and make onboarding and setup self-service for every engineer Improve the daily editing experience, including IDE and editor tooling, extensions, and code search, indexing, and navigation that stays fast as the codebase grows Build paved roads: project scaffolding, templates, and golden-path workflows that make the right thing the easy thing Speed up build, test, and CI Improve our testing tooling and make sure it works well for engineers, including test orchestration, ephemeral end-to-end environments, and techniques like mutation and chaos testing that catch what ordinary tests miss Profile build and test performance, optimize CI pipelines, parallelize and shard tests, cache aggressively, and hunt down the bottlenecks that leave engineers waiting Integrate and optimize code review tooling and automated review Bring AI into how we build Evaluate, integrate, and promote AI coding agents and assistants where they deliver real leverage without sacrificing quality or maintainability Build and curate the skills, extensions, and plugins that make those tools effective in our codebase Measure the real impact of AI tooling so we invest where it actually pays off Drive engineering excellence Champion best practices and be a force multiplier for our engineering org Track productivity metrics and feedback loops (e.g. DORA) to find where cycle time is lost and improve on it Track code-quality signals such as coverage and mutation testing, and build the dashboards that make quality visible Establish automation and practices that catch issues early in the development cycle You Might Be a Good Fit If You Have 7+ years of software engineering experience, with a focus on developer productivity, infrastructure, or platform engineering Are passionate about developer experience and productivity; you notice when engineers are fighting tools rather than solving problems, and you can’t help but fix it Are proficient in Go, TypeScript, Python, Rust, and shell and use them to build robust internal tools You have experience with: CI/CD s",
+   "first_seen": "2026-11-26T22:28:11+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138124",
+   "title": "North America Alliance and Partnerships Director (Remote)",
+   "company": "Vendavo",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "marketing"
+   ],
+   "posted": "2026-11-25",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-north-america-alliance-and-partnerships-director-remote-vendavo-1138124",
+   "summary": "We are a growing company, and as we scale, so does our need to focus on expanding our Alliance Team. Youâll be joining a Partner-focused company, as a North America Alliance and Partnerships Director you will be responsible for recruiting net new partners and working with a group of established Partners in North America, creating a mutually beneficial Go to Market Plans, creating Business Develo",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-fivetran-principal-software-engineer-data-lakes",
+   "title": "Principal Software Engineer, Data Lakes",
+   "company": "Fivetran",
+   "location": "Anywhere in the World",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-26",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/fivetran-principal-software-engineer-data-lakes",
+   "summary": "Headquarters: Remote, Germany, EMEA From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly ",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-26T22:28:11+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "768961",
+   "title": "Product Security Engineer",
+   "company": "Supabase",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "saas",
+    "cloud",
+    "kubernetes"
+   ],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Product-Security-Engineer/Supabase/768961",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 11.12.2026. SaaS Cloud Kubernetes Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Product Security Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Product Security Engineer Supabase Inostranstvo | Rad od kuće 11.12.2026. SaaS Cloud Kubernetes senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Product Security Engineer to join our team and help strengthen how security is built into Supabase’s products, platform, and engineering workflows as we continue to scale. You’ll work closely with software engineers, infrastructure teams, and technical leadership , helping us proactively reduce risk earlier in the development lifecycle and ship securely by default. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions. Success in this role means improving the security posture of the product without becoming a blocker to speed, autonomy, or builder velocity. What You’ll Own In this role, you’ll Identify and close gaps across application security, secure design review, and vulnerability management. Conduct threat modeling, secure design reviews, and code reviews to identify practical remediation paths. Partner closely with engineering teams to provide product-focused security expertise and shape a modern security program. Mature how we think about security in a developer-first environment, balancing pragmatism with strong technical judgment. Distinguish between theoretical risk and material business risk to prioritize security efforts effectively. Improve security posture through scalable mechanisms like tooling, automation, secure defaults, and developer-friendly guardrails. Support security incident response by helping triage, investigate, and coordinate remediation for product and platform security issues. Participate in security on-call rotations, helping respond to urgent security events with clear judgment and calm execution. Help manage and mature our bug bounty and vulnerability disclosure processes, including triage, validation, prioritization, and coordination with engineering teams. You Might Be a Good Fit If You Have strong experience in product security, application security, or security engineering. Are comfortable working with cloud-native, developer tools, SaaS, platform, or infrastructure products . Communicate clearly across both technical and non-technical audiences, especially in a written, asynchronous environment . Are energized by solving real-world problems for developers and navigating ambiguity while moving quickly. Possess a deep understanding of application security fundamentals, including auth, session management, APIs, and secrets handling . Have experience with vulnerability triage, bug bounty programs , responsible disclosure, or security incident response. Are comfortable participating in potential security on-call rotation and can balance urgency, risk, and practical remediation. Have experience with or interest in Postgres, Kubernetes, or building security guardrails that enable rather than enforce. What We Offer Fully Remote We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use an",
+   "first_seen": "2026-11-26T22:28:11+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "768960",
+   "title": "Senior DevSecOps Engineer",
+   "company": "Hauler Hero",
+   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "linux",
+    "javascript",
+    "node",
+    "ios",
+    "android",
+    "python",
+    "postgresql",
+    "devops",
+    "bash",
+    "saas",
+    "dns",
+    "soc",
+    "cloud",
+    "kubernetes"
+   ],
+   "posted": "2026-11-26",
+   "expires": "11.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-DevSecOps-Engineer/Hauler-Hero/768960",
+   "summary": "Hauler Hero Inostranstvo, Inostranstvo | Rad od kuće 11.12.2026. Linux JavaScript Node Node.js iOS Android Python PostgreSQL DevOps Bash SaaS DNS SoC Cloud Kubernetes Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior DevSecOps Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Senior DevSecOps Engineer Hauler Hero Inostranstvo | Rad od kuće 11.12.2026. Linux JavaScript Node Node.js iOS Android Python PostgreSQL DevOps Bash SaaS DNS SoC Cloud Kubernetes senior Location: Remote – Eastern Europe or Latin America (LATAM) Engagement: Independent Contractor (Full-time, long-term) Experience: Senior (7+ years preferred) About Hauler Hero Hauler Hero builds the operating system for residential and commercial waste haulers, including dispatch, routing, billing, payments, customer management, reporting, and the driver app that ties field operations together. Our customers are private hauler owners, operators, and municipal waste leaders running essential services every day. Many are still managing their businesses through paper tickets, whiteboards, spreadsheets, disconnected systems, and legacy software. The result is missed revenue, messy routes, limited visibility, and too much time spent fighting fires instead of growing the business. We are a well-funded, fast-growing vertical SaaS company bringing modern software to an essential industry where the customer need is clear and the opportunity is large. Role Overview We are seeking a Senior DevSecOps Engineer to own, evolve, and secure our cloud infrastructure and delivery pipelines on Google Cloud Platform (GCP) . This is a hands-on, highly technical role split roughly evenly between DevOps (infrastructure, infrastructure-as-code, CI/CD, reliability) and Security (cloud and application security, threat detection, and incident response). You will support every part of our platform: backend services and APIs, our web application, and our Android and iOS apps, running on GKE/Kubernetes and Cloud Run. Your goal is to make shipping fast, reliable, and secure by default, so engineers rarely have to choose between speed and safety. You will work closely with our distributed engineering teams on day-to-day infrastructure and deployments and act as our technical lead when a production or security incident occurs. This is a full-time, long-term independent contractor opportunity for an experienced engineer based in Eastern Europe or Latin America. What We're Looking For Builders, not gatekeepers who make the secure path the easy path for engineers Strong systems thinkers who can reason about reliability, blast radius, and failure modes Calm under pressure during incidents, with clear communication to engineers and leadership Comfortable with modern tooling , including AI tools, and careful to understand every change before it ships Self-directed engineers who take ownership, identify problems proactively, and drive them through resolution Strong collaborators who communicate effectively within a distributed, international engineering team We're not looking for Security specialists who only write policy and hand findings to others to fix DevOps engineers who treat security as someone else's job Key Responsibilities Infrastructure & Cloud Operations Design, operate, and maintain production infrastructure on Google Cloud Platform Manage and optimize GKE (Kubernetes) clusters, workloads, and networking Operate managed databases, caching, and other cloud services that support our platform Manage DNS, load balancing, and edge networking Ensure infrastructure scalability, reliability, and cost efficiency Infrastructure as Code & Automation Build and maintain infrastructure",
+   "first_seen": "2026-11-26T22:28:11+00:00"
+  },
   {
    "source": "infostud",
    "id": "768906",
@@ -910,7 +1255,7 @@
    "expires": "10.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Web-Designer/Workforce-Human-Resources-d.o.o/768609",
-   "summary": "Workforce Human Resources d.o.o. Beograd 10.12.2026. CSS HTML WordPress Figma Intermediate Novo",
+   "summary": "Workforce Human Resources d.o.o. Beograd 10.12.2026. CSS HTML WordPress Figma Intermediate @ poslovi na mail Najnoviji poslovi svakog dana u tvom inboxu Prijavi se KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA KATEGORIJA TEHNOLOGIJA POSLODAVAC GRAD SENIORITET NAČIN RADA Najnoviji poslovi svakog dana u tvom inboxu Prijavi se Novo",
    "matched": [
     "helloworld"
    ],
@@ -1422,79 +1767,6 @@
    ],
    "first_seen": "2026-11-23T09:18:16+00:00",
    "details": "O poslodavcu Reference: zmBgBaCztJ92XQ Galenika a.d. Beograd Budućnost pripada onima koji veruju u lepotu svojih snova Stvaranje dodatne vrednosti za korisnike, stručnu javnost, zaposlene i akcionare postavljanjem najviših standarda industrije i primenom višedecenijskog iskustva u pružanju inovativnih rešenja u farmaceutskom poslovanju je naša misija. Farmaceutska kompanija Galenika osnovana je 1945. godine. Danas je jedan od vodećih regionalnih proizvođača generičkih lekova, dijetetskih suplemenata, medicinskih sredstava i proizvoda za svakodnevnu… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT Data Analyst Junior anlitičar podataka Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
-  },
-  {
-   "source": "helloworld",
-   "id": "768272",
-   "title": "Developer Support Engineer",
-   "company": "RevenueCat",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "ios",
-    "android",
-    "java",
-    "objective c",
-    "c",
-    "swift",
-    "batch",
-    "kotlin"
-   ],
-   "posted": "2026-11-23",
-   "expires": "08.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Developer-Support-Engineer/RevenueCat/768272",
-   "summary": "RevenueCat Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. iOS Android Java Objective-C C Swift Batch Kotlin Intermediate",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Developer Support Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Developer Support Engineer RevenueCat Inostranstvo | Rad od kuće 08.12.2026. iOS Android Java Objective-C C Swift Batch Kotlin intermediate RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $18B+ in annual purchase volume, and we help everyone from a solo developer to the OpenAI mobile team understand and grow their revenue. We're a remote-first team of 180+ people across 30+ countries, guided by values we actually practice: Customer Obsession, Always Be Shipping, Own It, and Balance. This isn't the right fit for everyone. The systems you’ll build here manage billions of dollars and touch hundreds of millions of end users, and we don’t take that lightly. You'll be expected to work hard and hold a high bar for what you ship, alongside some of the sharpest, most driven people you've worked with. If that sounds energizing rather than exhausting, keep reading. The Role We’re looking for a Developer Support Engineer to help developers get the most out of RevenueCat, from their first integration to their next pricing experiment. You’ll work directly with customers every day, on anything from a quick question to a deep investigation in their apps, and every problem you solve gets a developer back to shipping and earning. You’ll also work with Engineering and Product, turning what you learn into better docs, clearer bug reports and a better product for every developer on RevenueCat. About you You have 3+ years of experience in an engineering or technical role. You have experience integrating and shipping RevenueCat in a mobile app. You have an understanding of the mobile development and release process. You have experience in either iOS (Swift / Objective-C) or Android (Java / Kotlin) You have great debugging skills: You will be identifying why apps aren’t working, often with limited information. You have experience debugging code issues utilizing stack traces. You have an interest in \"wearing many hats,\" doing what it takes to help developers every day. You have excellent verbal, written and interpersonal communication skills: You will be writing to, presenting to and speaking with developers and colleagues daily. You have empathy for developers and their development/learning process: we usually hear from developers at their lowest and need to be understanding. You have a demonstrated creative problem-solving approach and strong analytical skills. In the first month, you'll Learn the common frustrations our customers have, and help them get unblocked to ship their apps Learn the internal tools and processes used by the support team Make improvements to our docs and support articles based on customer interactions to reduce support Work with our engineering team to untangle complex tickets Within the first 3 months, you'll Make product suggestions that will improve the developer experience and reduce support Build internal apps to test and reproduce issues Work directly with customers to assist with onboarding and solution engineering Within the first 6 months, you'll Identify key problem areas for developers and make targeted improvements that help developers Improve and create internal tools and dashboards for suppor",
-   "first_seen": "2026-11-23T09:18:16+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "768274",
-   "title": "Product Builder",
-   "company": "Camunda",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-23",
-   "expires": "08.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Product-Builder/Camunda/768274",
-   "summary": "Camunda Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. Senior global.searchSelectItemEvents = {\"768844\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_768844\",\"item_name\":\"Conversational AI Engineer\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"AI Engineer\",\"item_category2\":\"\",\"item_category3\":\"\",\"item_category4\":\"Premium\",\"item_category5\":\"remote\",\"item_variant\":\"ext",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Product Builder Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Product Builder Camunda Inostranstvo | Rad od kuće 08.12.2026. senior Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations worldwide , including 9 of top 10 US banks, Camunda helps enterprises boost operational efficiency, accelerate time-to-value, and deliver better customer experiences. Fully remote and global, we are in the middle of something bigger: transforming into an AI-first organisation, built on our own platform . We use Agentic AI to automate, orchestrate intelligent processes, and elevate human contribution across every team. Named GP Bullhound’s Top 100 Next Unicorn list, 2025 Great Place to Work certified. Visionary in 2025 Gartner® Magic Quadrant™ for Business Orchestration and Automation Technologies. ranked 3rd in Flexa's 2026 Most Flexible Companies , We’re growing fast and looking for top talent to join our team. If you want meaningful work, visible impact and put something genuinely rare on your CV, keep reading. About the role Curious about the kind of challenges you'll work on at Camunda? Watch this quick 30-minute talk from our engineers to learn more about the new Camunda Exporter and how we’re solving complex problems at scale What You’ll Be Doing We are looking for a Product Builder to join the IDP & RPA pod. You will take real problems from customers, decide what is worth solving, and build and ship the solution yourself, using AI tools to get from idea to production quickly without lowering the bar. Product Building is how Camunda's Experience organization builds the applications people use on top of Camunda 8, such as Hub, Operate, and ProcessOS. Small pods of builders own a product area from customer problem to shipped change, with no hand-offs between product management, design, and engineering. We are setting this model up now, so you will help shape how it works. The IDP & RPA pod builds how Camunda processes work with documents and legacy applications. With intelligent document processing (IDP), customers create extraction and classification templates in Camunda Hub and publish them so a process can use AI to turn invoices and other documents into structured data. With robotic process automation (RPA), customers integrate legacy applications that have no APIs, using Robot Framework scripts on a standalone RPA worker. The hard problems come with putting LLMs into customer processes: extraction quality, model and prompt choices, testing and trust, and working for AI agents as well as for people. What You Will Do Help shape product direction for IDP & RPA by combining customer input, usage data, and field feedback into clear priorities. Partner with the other builders and product strategy to turn problems into shipped features, using short written proposals and prototypes to align early. Make judgment calls with incomplete information within your scope and own the outcome. Communicate trade-offs and decisions clearly to stakeholders who don't live in the details the way you do. Use AI tools across the whole loop, from specs to prototypes to production-ready code, and hold a high bar ",
-   "first_seen": "2026-11-23T09:18:16+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "768273",
-   "title": "Software Engineer - AI Tooling",
-   "company": "Supabase",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "javascript",
-    "prototype",
-    "typescript"
-   ],
-   "posted": "2026-11-23",
-   "expires": "08.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Software-Engineer-AI-Tooling/Supabase/768273",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 08.12.2026. JavaScript Prototype TypeScript Senior",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Software Engineer - AI Tooling Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Software Engineer - AI Tooling Supabase Inostranstvo | Rad od kuće 08.12.2026. JavaScript Prototype TypeScript senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling, including agents, the MCP server, agent skills and the dashboard assistant, and as the space moves you'll build the tooling for new technologies too. You'll build it all eval-first: every tool ships with evals and metrics, so we know, with evidence, that it makes agents better rather than worse. You'll work closely with the Docs, CLI, Frontend and SDK teams, and with the AI Tooling Infrastructure engineers who run these services in production. Other teams contribute to AI Tooling to improve Supabase's agentic capabilities, and you'll help them do that while keeping the quality bar high. This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions. What You’ll Be Responsible For Build and improve the AI tooling we run today, including the MCP server, agent skills, agents and the Assistant. Make new Supabase products usable by agents from day one: tools, skills and evals for new product surfaces. Also build tooling for new AI technologies as they emerge: prototype quickly, evaluate honestly, and decide with the team what is worth taking to production. Drive an eval-first approach: build and improve evals, instrumentation and feedback loops, measure tools against a no-tool baseline, and help define the quality KPIs and gates that stop regressions shipping. Understand how customers and agents actually use what we ship, and turn that into improvements to our tooling, interfaces and documentation. Design how documentation and product knowledge are exposed to agents, and measure whether it works. Build patterns and tools that help customers add AI to their own apps, such as MCP on Edge Functions, vector embeddings and agents running on Edge Functions. Enable teams to improve Supabase's agentic capabilities through contributions to AI Tooling: clear contribution paths, templates, documentation and review practice. Centralise shared AI logic so teams reuse it rather than duplicate it. Ship tools that are battle-tested, with strong tests, benchmarking and stress testing where it counts. Work with the AI Tooling Infrastructure engineers on reliability, auth and hosting. Work across Docs, CLI, Frontend, SDK and other teams to deliver one coherent developer experience, and stay close to the fast-moving AI ecosystem. You Might Be a Good Fit If You Must have Have 5+ years of experience in professional software engineering experience. Write strong TypeScript and know the JavaScript ecosystem well: npm, ES modules, bundlers, compatibility. Are deeply familiar with the AI ecosystem: current tools, agent patterns and practical trade-offs. You can tell a durable pattern from hype. Have built developer tools, product interfaces or platform primitives used by other engineers. Have designed or use",
-   "first_seen": "2026-11-23T09:18:16+00:00"
   }
  ]
 }
