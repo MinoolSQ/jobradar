@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T09:48:33+00:00",
+ "generated_at": "2026-11-27T22:10:25+00:00",
  "window_days": 3,
  "cutoff": "2026-11-24",
- "count": 65,
- "new_count": 10,
+ "count": 77,
+ "new_count": 16,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 13,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,7 +22,7 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 35,
+   "vraceno": 41,
    "strane": 2,
    "stop": "kraj"
   },
@@ -87,7 +87,7 @@
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 14,
+   "vraceno": 16,
    "strane": 1,
    "stop": "kraj"
   },
@@ -102,38 +102,38 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 44,
+   "vraceno": 55,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 24,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "administrator": {
-   "vraceno": 69,
-   "strane": 3,
-   "stop": "kraj"
-  },
-  "it podrska": {
-   "vraceno": 137,
-   "strane": 5,
-   "stop": "kraj"
-  },
-  "help desk": {
-   "vraceno": 4,
-   "strane": 1,
-   "stop": "kraj"
-  },
-  "tehnicka podrska": {
    "vraceno": 27,
    "strane": 1,
    "stop": "kraj"
   },
-  "it support": {
-   "vraceno": 54,
+  "administrator": {
+   "vraceno": 76,
+   "strane": 3,
+   "stop": "kraj"
+  },
+  "it podrska": {
+   "vraceno": 169,
+   "strane": 6,
+   "stop": "kraj"
+  },
+  "help desk": {
+   "vraceno": 6,
+   "strane": 1,
+   "stop": "kraj"
+  },
+  "tehnicka podrska": {
+   "vraceno": 32,
    "strane": 2,
+   "stop": "kraj"
+  },
+  "it support": {
+   "vraceno": 67,
+   "strane": 3,
    "stop": "kraj"
   },
   "serviser": {
@@ -142,7 +142,7 @@
    "stop": "kraj"
   },
   "mrezni": {
-   "vraceno": 1,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -152,12 +152,354 @@
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 91,
+   "vraceno": 111,
    "strane": 4,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "infostud",
+   "id": "769219",
+   "title": "Broadband Advanced Technical Support Representative",
+   "company": "Yettel d.o.o.",
+   "location": "Kragujevac",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-27",
+   "expires": "12.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/broadband-advanced-technical-support-representative/yettel-doo/769219",
+   "summary": "This role delivers frontline technical support for broadband TV telephony and applications, resolving connectivity and equipment issues to maintain service reliability. The successful candidate will diagnose problems guide customers through setup and escalate complex cases to ensure timely resolution and high customer satisfaction.",
+   "matched": [
+    "help desk",
+    "it support"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00",
+   "details": "O poslodavcu What we will expect from you: Provide technical support to customers via phone, covering broadband internet, TV, telephony and application services. Diagnose and troubleshoot technical⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ issues related to network connectivity and equipment (routers, STB devices, mobile and web applications). Guide customers through network configuration and application setup procedures. Educate and advise customers on the optimal use of our technical services and equipment. Recommend relevant add-ons, packages and services to enhance the customer experience. Escalate⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ complex issues to higher support levels and field teams, ensuring proper follow-up until resolution. Ensure high customer satisfaction through efficient and accurate complaint resolution. Reference: _Bj8iaX4xPmvVg For a good start you will need: High school diploma (technical or IT background is an advantage). Strong analytical skills and a logical approach to⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ troubleshooting. Good communication skills and patience when working with customers. Good command of English and computer literacy. Affinity for technology and willingness to learn. Why we think you should apply: Work in our modern Contact Center, surrounded by a supportive team and experienced mentors. Friendly working environment that encourages teamwork and⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ knowledge sharing. 25 days of annual leave. Participation in an attractive performance-based bonus scheme. Private health insurance. Company mobile phone, unlimited internet and Yettel Family tariff package. Recreation program and sports activities. Continuous technical training, certifications and development programs. Clear opportunities for professional growth and career advancement within our technical teams and the⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ company. Please include your references in your CV, as reference checks are an integral part of our selection process. We look forward to meeting you! Yettel d.o.o. Yettel je deo Etisalat PPF Telecom Grupe, koja je nastala iz partnerstva PPF Grupe i Emirates Telecommunication Group („Etisalat”). Etisalat PPF Telecom Grupa usmerena je na pružanje vrhunskog korisničkog iskustva u oblasti telekomunikacionih i digitalnih usluga u zemljama Centralne i Istočne Evrope. Yettel, deo Etisalat PPF Telecom Grupe, ima skoro tri miliona korisnika u Srbiji i do marta 2022. godine poslovao je pod imenom Telenor Srbija. Kompanija je prisutna na tržištu od 2006. godine i… Više o poslodavcu Više o poslodavcu na HelloWorld Iskustva zaposlenih \"Odabrao sam Yettel kako bih se upoznao sa radom korporacije. Zanimalo me je kako funkcioniše komunikacija i rad u tako velikom sistemu. Najviše me je iznenadila posvećenost ljudi u timu da mi na…\" Pročitajte celo iskustvo Beneficije Edukacija, profesionalni razvoj Wellness Sport i rekreacija Dobrovoljno zdravstveno osiguranje Dodatni slobodni dani Fleksibilno radno vreme Nagrade, bonusi, pokloni Obezbeđena oprema za rad Porodica i roditeljstvo Obuke, konferencije Hrana i piće Otkup opreme Rad od kuće Društvena odgovornost Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Sv"
+  },
+  {
+   "source": "infostud",
+   "id": "769153",
+   "title": "Embedded Software Developer (FPGA) – e.core",
+   "company": "ebs electronics d.o.o.",
+   "location": "Niš | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Programiranje"
+   ],
+   "posted": "2026-11-27",
+   "expires": "12.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/embedded-software-developer-fpga-e.core/ebs-electronics-doo/769153",
+   "summary": "This role develops and maintains low-level embedded firmware and FPGA logic for an MPSoC based product to ensure reliable board bring-up and daily build toolchain operation. The successful candidate will bridge hardware and software by owning bootloaders drivers and programmable logic to enable stable product releases.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00",
+   "details": "O poslodavcu Location: Niš Employment: Full-time, permanent contract About us ebs electronics d.o.o. is the Serbian member of the ebs group, an Austrian company that develops high-end lithium-ion battery systems and energy storage solutions. In Niš we are building a hardware and software engineering team that works closely with our R&D colleagues in Austria and⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ Germany. The role We are looking for an Embedded Software Developer with solid FPGA experience for e.core , our embedded platform built on AMD Zynq UltraScale+ MPSoCs. You will work close to the hardware, from FreeRTOS firmware, bootloaders and drivers to board bring-up and debugging. You will also own the FPGA design in the programmable logic. What you will do Maintain and develop the embedded software of e.core on Zynq UltraScale+: FreeRTOS applications, board support packages, bootloaders and device drivers Maintain and develop the FPGA design (functions and IP cores in the programmable logic), from specification⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ to test Keep the compiler and FPGA synthesis toolchain reliable for daily builds and releases Bring up new boards on the software side and debug issues across hardware and software Adapt existing implementations (bootloaders, drivers, IP cores) to new hardware and changing interfaces Contribute ideas and proposals for the technical development of the product Write technical documentation: design concepts, developer and user documentation Reference: _Bj8iaX4xPmvVg What you bring Embedded development (required) Embedded C and C++ on ARM Cortex-based SoCs, ideally Zynq UltraScale+ MPSoC with the AMD development tools FreeRTOS and bare-metal development close to the hardware: DDR controller,⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ DMA, caches, interrupts Hardware interfaces such as SPI, UART, I2C, CAN, USB and Ethernet, plus flash, SD card and EEPROM storage Debugging skills with JTAG and serial console FPGA development (required) Solid hands-on experience with complex FPGAs, ideally AMD/Xilinx with Vivado VHDL and/or Verilog, including testbenches and tool-based simulation Integration of in-house and commercial IP cores Engineering basics Git and CI/CD pipelines (ideally GitLab), and structured testing Reading complex schematics and working with lab equipment during board bring-up A degree in electrical engineering, computer engineering, computer science or similar, or equivalent experience Good communication skills in English; German is a plus Nice⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ to have High-speed communication buses, clocking, PLLs and time synchronization (internal and external) Boot chain experience: first- and second-stage bootloaders, U-Boot, ARM Trusted Firmware, Secure Boot CoreSight debugging Release management and testing from unit to integration level Simulink HDL Coder and Simulink Embedded Coder Some embedded Linux experience on the same platform Embedded hypervisors and partitioning (e.g. Xen, Jailhouse) and multi-boot systems System modelling with UML or SysML; requirements traceability from requirement to test Agile work with Jira and Confluence, and everyday use of AI coding tools such as Claude Code We offer A permanent⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ employment contract Additional Health Insurance A competitive salary and benefits package Work in an international product team on a modern embedded platform How to apply Please attach your CV in English. Only "
+  },
+  {
+   "source": "infostud",
+   "id": "769146",
+   "title": "Embedded Software Developer (Linux) – e.core",
+   "company": "ebs electronics d.o.o.",
+   "location": "Niš | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "Programiranje"
+   ],
+   "posted": "2026-11-27",
+   "expires": "12.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/embedded-software-developer-linux-e.core/ebs-electronics-doo/769146",
+   "summary": "This role delivers and maintains the embedded software stack for an MPSoC based platform, covering firmware, bootloaders, drivers and the Debian based Linux distribution. The successful candidate will ensure reliable board bring up and maintainable build and release processes to enable stable product development and deployment.",
+   "matched": [
+    "it support"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00",
+   "details": "O poslodavcu Location: Niš Employment: Full-time, permanent contract About us ebs electronics d.o.o. is the Serbian member of the ebs group, an Austrian company that develops high-end lithium-ion battery systems and energy storage solutions. In Niš we are building a hardware and software engineering team that works closely with our R&D colleagues in Austria and⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ Germany. The role We are looking for an Embedded Software Developer with strong embedded Linux experience for e.core , our embedded platform built on AMD Zynq UltraScale+ MPSoCs. You will work close to the hardware, from FreeRTOS firmware, bootloaders and drivers to board bring-up and debugging. You will also own the Debian-based Linux platform: kernel, user space, build system and toolchain. What you will do Maintain and develop the embedded software of e.core on Zynq UltraScale+: FreeRTOS applications, board support packages, bootloaders and device drivers; Maintain and develop the Debian-based Linux platform (kernel, user space and packages),⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ from specification to test; Keep the embedded Linux build environment and toolchain reliable for daily builds and releases; Bring up new boards on the software side and debug issues across hardware and software; Adapt existing implementations (bootloaders, drivers, kernel patches) to new hardware and changing interfaces; Contribute ideas and proposals for the technical development of the product; Write technical documentation: design concepts, developer and user documentation. Reference: _Bj8iaX4xPmvVg What you bring Embedded development (required) Embedded C and C++ on ARM Cortex-based SoCs, ideally Zynq UltraScale+ MPSoC with the AMD development tools; FreeRTOS and bare-metal development close to the⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ hardware: DDR controller, DMA, caches, interrupts; Hardware interfaces such as SPI, UART, I2C, CAN, USB and Ethernet, plus flash, SD card and EEPROM storage; Debugging skills with JTAG and serial console. Embedded Linux (required) Experience with embedded Linux, ideally on Debian-based systems; Linux kernel work: configuration, device trees, driver development and maintaining kernel patches; User-space development in C, C++ and Python. Engineering basics Git and CI/CD pipelines (ideally GitLab), and structured testing; Reading complex schematics and working with lab equipment during board bring-up; A degree in electrical engineering, computer engineering, computer science or similar, or equivalent experience; Good communication skills⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ in English; German is a plus. Nice to have Debian packaging; Embedded Linux build systems such as Yocto / BitBake (recipes, layers, machine configurations); Boot chain experience: first- and second-stage bootloaders, U-Boot, ARM Trusted Firmware, Secure Boot; CoreSight debugging; Release management and testing from unit to integration level; Real-time Linux (PREEMPT_RT); Some FPGA experience on the same platform; Embedded hypervisors and partitioning (e.g. Xen, Jailhouse) and multi-boot systems; System modelling with UML or SysML; requirements traceability from requirement to test; Agile work with Jira and Confluence, and everyday use of AI coding tools such as Claude Code. We offer A permanent⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ employment contract; Additional Health Insurance; A competitive salary and benefits package; Work in an international pro"
+  },
+  {
+   "source": "infostud",
+   "id": "769086",
+   "title": "Saradnik za IT tehničku podršku",
+   "company": "VIP sistem d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "Podrška"
+   ],
+   "posted": "2026-11-27",
+   "expires": "12.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/saradnik-za-it-tehnicku-podrsku/vip-sistem-doo/769086",
+   "summary": "Saradnik za IT tehničku podršku obezbeđuje kontinuiran rad ekspozitura kroz brzo rešavanje tehničkih problema i održavanje opreme. Uloga zahteva upravljanje mrežom, instalacije softvera i administraciju korisničkih naloga radi minimiziranja prekida i očuvanja bezbednosti podataka.",
+   "matched": [
+    "sistem administrator",
+    "administrator",
+    "it podrska",
+    "help desk",
+    "tehnicka podrska",
+    "it support",
+    "mrezni",
+    "racunari"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00",
+   "details": "O poslodavcu Preduzeće VIP SISTEM d.o.o. je rešenjem Izvršnog odbora NBS broj 49 od 07.04.2016. godine registrovano kod Narodne banke Srbije kao platna institucija i raspisuje konkurs⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ za radno mesto: Beograd, 27. novembar 2026. SARADNIK ZA IT TEHNIČKU PODRŠKU Ključne odgovornosti: Pružanje IT tehničke podrške mreži ekspozitura putem telefona, udaljenog pristupa (TeamViewer) i izlaskom na teren. Održavanje i servisiranje računara, povezivanje računara i štampača na mrežu. Praćenje rada računarske mreže i⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ reagovanje na prekide i nestabilnosti u radu sistema. Instalacija Windows operativnog sistema, upravljačkih programa i aplikativnog softvera. Instalacija, montaža i demontaža aktivne i pasivne IT opreme u centrali i ekspoziturama. Administracija korisničkih naloga⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ i VPN konekcija, uz primenu mera informacione bezbednosti i zaštite podataka. Praćenje i redovno sprovođenje sistemskih i softverskih nadogradnji. Izrada rezervnih kopija podataka (backup). Vođenje evidencije i briga o nabavci, održavanju i servisiranju IT opreme. Reference: _Bj8iaX4xPmvVg Uslovi⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ za kandidate: SSS/VŠS/VSS tehničkog smera. Vozačka dozvola B kategorije – aktivan vozač. Poznavanje engleskog jezika. Uverenje o neosuđivanosti. Poznavanje osnova računarskih mreža. Odgovornost, inicijativa i spremnost za usvajanje novih znanja. Iskustvo u radu u mrežnom okruženju je poželjno. Poznavanje Linux operativnog⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ sistema i konfigurisanja MikroTik rutera predstavlja prednost. Nudimo: Redovna i stabilna primanja. Dodatnu edukaciju i mogućnost napredovanja. Nagrađivanje uspešnosti i posebnog zalaganja. VIP sistem DOO VIP sistem doo osnovan 1996. godine, danas je lider u delatnosti menjačkih poslova. Vrhunska usluga, profesionalizam, ljubaznost, diskrecija i pouzdanost, naši su maniri u poslovanju i odnosu sa našim klijentima. Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support Saradnik za IT tehničku podršku Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslodavce Objavite oglas Post a job Employer branding studio Poslovi Infostud vodeća platforma za zapošljavanje u Srbiji, deo centra za zapošljavanje i razvoj karijere - Infostud. © Infostud rešenja d.o.o. Subotica , 2000 - 2026 . Sadržaj sajta Poslovi.infostud.com je vlasništvo Infostuda . Zabranjeno je njegovo preuzimanje bez dozvole Infostuda , zarad komercijalne upotrebe ili u druge svrhe, osim za lične potrebe posetilaca sajta. Uslovi korišćenja. Početna Poslodavci Poslovi Sačuvano Moj nalog"
+  },
+  {
+   "source": "infostud",
+   "id": "769173",
+   "title": "UGC Content Creator",
+   "company": "Fabrika nameštaja Numanović SNS d.o.o.",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [
+    "UX Dizajn"
+   ],
+   "posted": "2026-11-27",
+   "expires": "12.12.2026",
+   "salary": null,
+   "url": "https://poslovi.infostud.com/posao/ugc-content-creator/fabrika-namestaja-numanovic-sn/769173",
+   "summary": "Pozicija je usmerena na kreiranje autentičnih UGC videa koji povećavaju angažman publike kroz kratke formate. Kandidat će osmisliti koncept, snimati u maloprodajnim salonima i montirati sadržaj prilagođen kanalima kako bi podržao digitalne kampanje.",
+   "matched": [
+    "it podrska",
+    "racunari"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00",
+   "details": "O poslodavcu Fabrika nameštaja Numanović SNS d.o.o., renomirana kompanija sa sedištem u Beogradu, traži kreativnu i motivisanu osobu za poziciju UGC Content Creatora. Ako imate strast prema stvaranju autentičnog i angažujućeg⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ sadržaja koji odražava iskustva korisnika, pridružite se našem timu i doprinesite razvoju brenda kroz inovativne digitalne kampanje. Odgovornosti: Osmišljavanje ideja za kratke UGC videe (TikTok, Reels, Instagram) Snimanje videa mobilnim telefonom u našim maloprodajnim salonima Kreiranje sadržaja​‍​‌‌​​‌⁠​⁠‍‌‌‍⁠‍‍‍​​​​⁠⁠‍⁠‍‌⁠⁠⁠⁠​‍​⁠⁠‌‍ u formi recenzija, “unboxing”, “before/after”, “how to”, iskrenih preporuka Osnovna montaža videa u mobilnim aplikacijama (CapCut, InShot i Adobe Premiere i sl.) Prilagođavanje sadržaja različitim⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ kanalima (vertikalni format, dužina, titlovi) Povremena saradnja s našim timom oko scenarija, briefova i ideja za kampanje Reference: _Bj8iaX4xPmvVg Šta očekujemo od tebe: Da aktivno pratiš TikTok/Instagram trendove i znaš šta “radi” online Da ti je prirodno da se snimaš i pričaš pred kamerom (ovo nam je jako bitno) Dobar osjećaj za hook, kadar, svjetlo​‍​‌‌​​‌⁠​⁠‍‌‌‍⁠‍‍‍​​​​⁠⁠‍⁠‍‌⁠⁠⁠⁠​‍​⁠⁠‌‍ i zvuk (ne treba profi oprema, ali treba trud) Iskustvo u editovanju videa⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ na telefonu i računaru Smisao za storytelling – da proizvod uklopiš u priču, a ne da izgleda kao suva reklama Odgovornost prema rokovima i spremnost na feedback i dorade Prednost: prethodno iskustvo kao UGC creator, influencer ili content creator Šta nudimo: Rad u dinamičnom i kreativnom okruženju renomirane kompanije​‍​‌‌​​‌⁠​⁠‍‌‌‍⁠‍‍‍​​​​⁠⁠‍⁠‍‌⁠⁠⁠⁠​‍​⁠⁠‌‍ Fabrika nameštaja Numanović SNS d.o.o. u Beogradu Stimulativna plata prilagođena tržišnim uslovima i vašem iskustvu Mogućnost rada⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ na daljinu ili fleksibilno radno vreme Priliku za profesionalni razvoj i usavršavanje u oblasti digitalnog marketinga i kreiranja sadržaja Prijava na puno radno vreme u skladu sa zakonima Republike Srbije Podrška timskog rada i prijatna radna atmosfera Imaš svu profesionalnu opremu za snimanje već obezbeđenu (bubice, telefon, laptop) Ukoliko ste kreativna i​‍​‌‌​​‌⁠​⁠‍‌‌‍⁠‍‍‍​​​​⁠⁠‍⁠‍‌⁠⁠⁠⁠​‍​⁠⁠‌‍ posvećena osoba koja⁠⁠⁠​​‌‍​⁠⁠⁠​‍​‍‌‍‍‌‌⁠⁠‍​⁠​‌​⁠⁠‍‌‍‍⁠⁠‌‌‌‍ želi da doprinese razvoju i uspehu Fabrike nameštaja Numanović SNS d.o.o. u Beogradu, pozivamo vas da se pridružite našem timu i zajedno sa nama kreirate sadržaje koji inspirišu i angažuju publiku. Fabrika nameštaja Numanović SNS d.o.o. Fabrika nameštaja “Numanović” iz Novog Pazara osnovana je 1987. godine. Razvojni put fabrike karakteriše konstantno širenje obima i asortimana proizvodnje, kroz modernizaciju proizvodnih kapaciteta i upošljavanje novih radnika.Danas fabrika posluje u novoizgradjenom, savremenom industrijskom objektu površine preko 20.000 m2 sa svim pratećim sadržajima. Kadrovski potencijal čine kvalifikovani, dobro obučeni i stručni radnici. Mašinski park je moderan i visokoproduktivan i odraz je permanentnog… Više o poslodavcu Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskrimina"
+  },
+  {
+   "source": "helloworld",
+   "id": "769149",
+   "title": "AI Governance & Security Specialist",
+   "company": "Telesign",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [
+    "cloud"
+   ],
+   "posted": "2026-11-27",
+   "expires": "12.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/AI-Governance-Security-Specialist/Telesign/769149",
+   "summary": "Telesign 4.7 Beograd | Hibrid online intervju 12.12.2026. Oglas dostupan i osobama sa invaliditetom Cloud Intermediate Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "AI Governance & Security Specialist AI Governance & Security Specialist Telesign 4.7 Beograd | Hibrid online intervju 12.12.2026. Oglas dostupan i osobama sa invaliditetom Cloud intermediate Summary Proximus Global is looking for an AI Governance & Security Specialist to help drive the responsible adoption of Artificial Intelligence across the organization. The role focuses on supporting the design and adoption of AI solutions across Proximus Global. You will review AI architectures, evaluate risks and technical choices, and help teams build AI systems that are secure, resilient, compliant, and aligned with enterprise standards. Working closely with architects, developers, AI specialists, and business stakeholders, you will help bring innovative AI solutions from concept to production. This position is located in the Security team, under the CISO responsibility. The person will work closely with AI specialists, architects, developers, privacy specialists, legal teams, business stakeholders, and various IT teams to shape the future of AI at Proximus Global. Key Responsibilities Help shape the responsible adoption of AI across Proximus Global. Evaluate AI use cases, technologies, and emerging trends. Support teams in designing secure, trustworthy, and compliant AI solutions. Identify and mitigate AI-related risks, including security, privacy, and regulatory challenges. Assess AI solutions through architecture reviews, risk analysis, and testing activities to ensure they are reliable, secure, and fit for purpose. Participate in AI solution reviews, proof-of-concepts, and pilot projects Promote awareness and knowledge sharing on AI opportunities and risks across the organization. Essential Requirements 2+ years of experience in AI, cybersecurity, governance, risk management, compliance, technology consulting, or a related field. Strong interest in Artificial Intelligence and emerging technologies. Understanding of AI/ML concepts, modern AI architectures, and Generative AI technologies. Knowledge of AI-related risks, security principles, and trustworthy AI practices. Understanding of cloud environments, data governance, privacy, and security fundamentals. Strong analytical, problem-solving, and stakeholder management skills. Ability to translate governance and regulatory requirements into practical and business-friendly controls. Experience with AI governance frameworks such as NIST AI RMF, ISO 42001, or similar frameworks is a plus. Familiarity with GDPR, EU AI Act, and related regulatory requirements is a plus. Understanding of AI lifecycle management and risk assessment methodologies is a plus. Experience evaluating technology platforms, vendors, or cloud services is a plus. Interest in emerging AI trends, innovation, and responsible AI practices. Ideal Profile Passionate about AI, innovation, and emerging technologies. Curious mindset with a desire to continuously learn and explore new AI capabilities. Strong analytical and risk assessment capabilities. Comfortable working with technical and non-technical stakeholders. Excellent communication and stakeholder management skills. Ability to bridge AI innovation, security, and business objectives. Structured and pragmatic mindset, able to balance innovation with responsible adoption. Enthusiastic team player who enjoys shaping new capabilities in a fast-evolving domain. We are offering Good compensation package - Competitive € salary plus attractive benefits Development opportunities Challen",
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "769172",
+   "title": "AI Product Manager",
+   "company": "Telesign",
+   "location": "Beograd | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-11-27",
+   "expires": "12.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/AI-Product-Manager/Telesign/769172",
+   "summary": "Telesign 4.7 Beograd | Hibrid 12.12.2026. Oglas dostupan i osobama sa invaliditetom Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "AI Product Manager AI Product Manager Telesign 4.7 Beograd | Hibrid 12.12.2026. Oglas dostupan i osobama sa invaliditetom senior Summary An AI Product Manager is a role connecting and intersecting business needs and robust AI and Data Science technologies, responsible for planning, validating and overseeing the implementation of AI products and solutions. This role focuses on guiding AI solutions end-to-end delivery to support business goals by matching relevant AI techniques with real-world business needs and expectations, foster ethical ways of data and AI consumption and application. Key Responsibilities Manage the entire product lifecycle, from planning, via execution, to delivery, upgrades and maintenance of AI-powered solutions and products, ensuring compliance with budget, scope, and project timelines. Manage product roadmap for AI-driven initiatives, prioritizing features where applications of GenAI/agents or other types of ML and DS techniques solve specific real-world business problems and generate tangible business value. Make strategic decisions to balance business goals with technological capabilities. Conduct market and competition analysis to monitor and guide products’ positioning, and to identify opportunities for future AI applications. Act as the bridge layer between Tech AI teams and Business stakeholders. Support cross-disciplinary teams to develop AI applications that meet strategic business objectives. Collaborate with Data Scientists and Engineers to define product specifications, while also working with customer-facing and market-focused teams to ensure the products resonate with the market. Foster strong relationships with key stakeholders and customers to establish continuous feedback loop and corresponding products upgrades flywheel. Ensure AI solutions comply with privacy and ethical standards and industry regulations. Establish guidelines for responsible AI usage, unbiasedness and explainability, as well as data privacy management. Define and implement strategies and best practices for AI models evaluation and testing, and AI systems deployment, monitoring and maintenance. Define AI-specific success metrics (such as false positive rate, precision, recall, latency, etc.) and correlate and track them with/alongside business KPIs. Facilitate creation and maintenance of proper product and tech documentation, specifications, Jira boards, user stories, etc. Contribute to AI Program Management team growth and development (e.g. by participating in hiring process, by developing performance and training plans which are aligned with the company’s objectives and individuals career goals, by guiding the team, etc.). Essential Requirements and skills: MSc or PhD degree in Artificial Intelligence, Computer Science, Data Science, Mathematics, Engineering or a related field, or an equivalent work experience blending technical expertise in AI-related domains and skills in product strategy and/or market positioning. 7+ years’ experience as Senior/Principal Data Scientist, Senior/Principal Data/ML/AI Engineer or Data/AI architect. Experience as a Product Manager in a technology-driven field, building and delivering enterprise-grade high performant and scalable on-prem and cloud-based (preferably AWS) data and/or AI solutions is an advantage. Proven track record of managing all aspects of a successful product throughout its lifecycle, while balancing technical constraints with product capabilities and user expectations. Extensi",
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138192",
+   "title": "Director, Demand Generation",
+   "company": "ClickUp",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "marketing"
+   ],
+   "posted": "2026-11-26",
+   "expires": null,
+   "salary": "235000-302000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-director-demand-generation-clickup-1138192",
+   "summary": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and help redefine what's possible. ð The role Own ClickUpâs $1",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138196",
+   "title": "District Manager, Majors Financial Services",
+   "company": "Snowflake",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-26",
+   "expires": null,
+   "salary": "190000-249375 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-district-manager-majors-financial-services-snowflake-1138196",
+   "summary": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You donât just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "769118",
+   "title": "Enterprise Data Architect",
+   "company": "Telesign",
+   "location": "Beograd",
+   "remote": false,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-27",
+   "expires": "12.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Enterprise-Data-Architect/Telesign/769118",
+   "summary": "Telesign 4.7 Beograd 12.12.2026. Oglas dostupan i osobama sa invaliditetom Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Enterprise Data Architect Enterprise Data Architect Telesign 4.7 Beograd 12.12.2026. Oglas dostupan i osobama sa invaliditetom senior Summary We are looking for an Enterprise Data Architect who combines long-term vision, executive influence, governance discipline and real technical depth. The ideal candidate can shape the enterprise direction for data and BI, create clarity across a complex modern platform landscape, and then work directly with delivery teams to make the architecture real. The Enterprise Data Architect defines and steers the long-term enterprise data & analytics architecture. The role connects business strategy, governance, information architecture and modern platform engineering. The successful candidate can explain complex data concepts in clear C-level language, while remaining sufficiently hands-on to challenge designs, review code or configurations, prototype solutions and work credibly with developers, data engineers, BI specialists, security experts and business data owners. Responsibilities Enterprise data strategy: Create and maintain multi-year data & analytics supporting AI company strategy aligned with business growth, profitability, operational efficiency, regulatory obligations and technology modernization. Able to put into practice DAMA-DMBOK / TOGAF principles. Target architecture and roadmaps: Define current-state, transition and target architecture across data platforms, integration, storage, processing, semantic layers, BI, governance, metadata, data quality and information security. Executive advisory: Translate architecture choices, risks, dependencies and investment needs into concise, business-oriented recommendations for C-level executives, steering committees and senior stakeholders. Architecture governance: Establish architecture principles, standards, reference patterns, decision records and review mechanisms. Ensure projects comply with the target architecture while allowing justified exceptions. Hands-on technical leadership: Run design workshops, review data models and technical designs, inspect SQL, notebooks, pipelines, APIs, security models and platform configurations, and build focused proofs of concept when needed. Business and technology alignment: Bridge business domains, data owners, platform teams, BI teams, AI teams, enterprise architecture, security, privacy, legal, procurement and delivery partners. Technology portfolio rationalization: Clarify the role and boundaries of Snowflake, Databricks, Microsoft Fabric, Power BI, Qlik and other enterprise data capabilities. Reduce overlap, unmanaged proliferation, cost and vendor lock-in. Delivery assurance: Provide architecture support from ideation through implementation, migration and operational handover, including non-functional requirements, cost, resilience, observability and supportability. Requirements 10+ years in data, analytics or architecture, including 5+ years in enterprise data architecture. DAMA CDMP and/or TOGAF certification is a strong plus. Ability to apply TOGAF, DAMA-DMBOK and pragmatic architecture practices such as capability maps, principles, reference architectures, ADRs, roadmaps and architecture review boards. Proven ability to advise C-level and senior governance bodies. Current hands-on credibility across data engineering, modelling, BI and cloud platforms. Strong experience designing semantic layers and governed enterprise metrics. Strong command of data governance, metadata, lineage, quality, ownership an",
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138184",
+   "title": "Enterprise Sales Engineer - Germany",
+   "company": "Datadog",
+   "location": "Europe",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "devops"
+   ],
+   "posted": "2026-11-26",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-engineer-germany-datadog-1138184",
+   "summary": "As an Enterprise Sales Engineer, you will provide technical expertise through sales presentations, product demonstrations, and supporting technical evaluations (POVs). Sales Engineers help qualify and close opportunities with customers and partners and have a voice with the product team to help prioritize features based on input from customers, competitors, and partners. What Youâll Do: Partner ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138198",
+   "title": "Partner Sales Manager - EMEA Central (Eastern Europe)",
+   "company": "Snowflake",
+   "location": "Europe",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "sales"
+   ],
+   "posted": "2026-11-26",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-emea-central-eastern-europe-snowflake-1138198",
+   "summary": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You donât just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-coder-technologies-inc-senior-platform-engineer",
+   "title": "Senior Platform Engineer",
+   "company": "Coder Technologies Inc.",
+   "location": "USA Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-27",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/coder-technologies-inc-senior-platform-engineer",
+   "summary": "Headquarters: United States As a Senior Platform Engineer at Coder, you will own the infrastructure Coder's own engineers build on every day. Our internal environments run the same deployment path we publish for customers, so when something does not hold up at our scale, we find it before a customer does. We avoid building anything so specific to ourselves that a customer could not run the same th",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "helloworld",
+   "id": "769179",
+   "title": "Senior System Engineer",
+   "company": "Erste Bank a.d.",
+   "location": "Beograd/Novi Sad | Hibrid",
+   "remote": false,
+   "hybrid": true,
+   "tags": [],
+   "posted": "2026-11-27",
+   "expires": "07.12.2026.",
+   "salary": null,
+   "url": "https://www.helloworld.rs/posao/Senior-System-Engineer/Erste-Bank-a.d/769179",
+   "summary": "Erste Bank a.d. 3.2 Beograd/Novi Sad | Hibrid 07.12.2026. Senior Novo",
+   "matched": [
+    "helloworld"
+   ],
+   "details": "Senior System Engineer Senior System Engineer Erste Bank a.d. 3.2 Beograd/Novi Sad | Hibrid 07.12.2026. senior Konkuriši Upoznaj kompaniju O Kompaniji Iskustva Plate Beneficije Mi smo ERSTE, gde Mogućnosti počinju sa MOGU Zamisli sebe u svetu mogućnosti uz ljude koji te podržavaju, inspirišu i gde možeš da da iskažeš svoju jedinstvenost kreirajući posebnu vrednost za sve naše klijente. To je ERSTE. Mi verujemo u radno okruženje u kojem se neguje zajedništvo, sloboda da stvaramo i gde se slave uspesi. Otvoreni smo prema novim idejama, jer izazove vidimo kao priliku za učenje i razvoj. Kada si deo našeg tima onda uvek imaš nekoga koga možeš da pitaš kako i zašto. Mi smo Banka za sve one svakodnevne, male i velike stvari. Pomažemo ljudima da sanjaju velike snove, postižu više, ispunjavaju svoja nadanja i razvijaju svoje biznise. Ponosni smo što dugi niz godina kroz volontiranje, finansijsku edukaciju, podršku kulturi i umetnosti, startapima i socijalnim preduzećima, pojedincima i zajednici u celini pokrećemo promene koje menjaju svet na bolje. Upravo u tome što smo drugačiji, leži naša snaga. Budi i Ti deo tima koji te podržava, inspiriše i daje slobodu da budeš ono što jesi. #verujusebe 3.2 80% Menadžment kompanije 2.6 Beneficije 3.4 Balans karijere i privatnog života 3 Timska atmosfera 4.2 Zadovoljstvo projektima 3.6 Mogućnost napredovanja 3.4 Iskustvo o radu Iskustvo 20.11.2025 1 Ne preporučuje Business Analyst Prethodno zaposlen/a na neodređeno Manje od jedne godine Pozitivno Privatno zdrastveno osiguranje. Zamerke Los menadžment, ljudi na višim pozicijama bez znanja, velik nivo bezobrazluka. Traže puno znanja a malo razumevanja, previše odgovornosti na ljudima nižeg senioriteta, prevelik pritisak, toksična atmosfera, napreduju ljudi samo koji imaju vezu sa nadređenima. Moj savet nikad u ovu banku kročiti ako ne želite da se razbolite, pošten hleb je bolje zarađujem i u pekari nego na ovom groblju. Nema rada od kuće iako kažu da ima. Godišnji bonus 2% znaci 2000 din na juniorsku platu što znači ništa. Korisno? 14 Pročitaj sva iskustva o kompaniji Data Science Engineer 2 plate 675 € Prosečna neto plata min 600 Prosek i medijana 675 max 750 IT Specialist 2 plate 1.650 € Prosečna neto plata min 1.300 Prosek i medijana 1.650 max 2.000 IT Project Manager 4 plate 2.131 € Prosečna neto plata min 1.547 medijana 2.189 prosek 2.131 max 2.600 IT Help Desk / Support 2 plate 1.515 € Prosečna neto plata min 630 Prosek i medijana 1.515 max 2.400 Business Analyst 1 plata 8 € /satnica Prosečna satnica min 8 Prosek i medijana 8 max 8 QA Specialist 2 plate 1.035 € Prosečna neto plata min 370 Prosek i medijana 1.035 max 1.700 Full stack developer 1 plata 2.000 € Prosečna neto plata min 2.000 Prosek i medijana 2.000 max 2.000 Business Analyst 2 plate 900 € Prosečna neto plata min 900 Prosek i medijana 900 max 900 Dobrovoljno zdravstveno osiguranje Edukacija, profesionalni razvoj Porodica i roditeljstvo Fleksibilno radno vreme Rad od kuće Nagrade, bonusi, pokloni Pogledaj profil kompanije Link je kopiran. Preporuke se učitavaju... HelloWorld Logo Okupljamo IT zajednicu, podižemo transparentnost domaćeg IT tržišta rada i efikasno spajamo kandidate i poslodavce. O nama Za poslodavce Uslovi korišćenja Politika privatnosti Uklonjeni profili poslodavaca Za medije Kontakt Druželjubivi smo! 2026 · Made with in Subotica. Sadržaj sajta Helloworld.rs je u vlasništvu Infostud rešenja d.o.o. Subotica. Zabranjeno je njegovo preuzimanje bez dozvole. This site is protecte",
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-snowflake-solution-engineering-manager-expansion",
+   "title": "Solution Engineering Manager (Expansion)",
+   "company": "Snowflake",
+   "location": "Europe Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-27",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/snowflake-solution-engineering-manager-expansion",
+   "summary": "Headquarters: DE-Germany-Remote At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impac",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
+  {
+   "source": "weworkremotely",
+   "id": "wwr-coder-technologies-inc-staff-solutions-engineer-us-east",
+   "title": "Staff Solutions Engineer (US East)",
+   "company": "Coder Technologies Inc.",
+   "location": "USA Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [],
+   "posted": "2026-11-27",
+   "expires": null,
+   "salary": null,
+   "url": "https://weworkremotely.com/remote-jobs/coder-technologies-inc-staff-solutions-engineer-us-east",
+   "summary": "Headquarters: United States Coder is hiring a Staff Solutions Engineer to support our growing customer base. Your deep platform engineering and AI development knowledge, helps enterprises remove friction from coding, and keeps developers in flow. You partner with Account Executives, and Global 2000 prospects, to verify proper fit and value of Coder solutions for human and agentic development. Toge",
+   "matched": [
+    "weworkremotely"
+   ],
+   "first_seen": "2026-11-27T22:10:25+00:00"
+  },
   {
    "source": "infostud",
    "id": "769095",
@@ -731,7 +1073,7 @@
    "expires": "11.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Product-Security-Engineer/Supabase/768961",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 11.12.2026. SaaS Cloud Kubernetes Senior global.searchSelectItemEvents = {\"769035\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_769035\",\"item_name\":\"Data Engineer (ETL\\/ELT)\",\"item_index\":0,\"item_brand\":\"AdmiralBet \",\"item_category\":\"Data Warehouse \\/ Business Intelligence Developer\",\"item_category2\":\"Programiranje\",\"item_category3\"",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 11.12.2026. SaaS Cloud Kubernetes Senior global.searchSelectItemEvents = {\"769149\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_769149\",\"item_name\":\"AI Governance & Security Specialist\",\"item_index\":0,\"item_brand\":\"Telesign\",\"item_category\":\"Security Expert\",\"item_category2\":\"\",\"item_category3\":\"intermediate\",\"item_category4\":\"Brand",
    "matched": [
     "helloworld"
    ],
@@ -1181,27 +1523,6 @@
    "first_seen": "2026-11-25T22:38:09+00:00"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1138086",
-   "title": "Sr. Account Executive, AI & HPC",
-   "company": "Everpure",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-sr-account-executive-ai-hpc-everpure-1138086",
-   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-25T22:38:09+00:00"
-  },
-  {
    "source": "infostud",
    "id": "768733",
    "title": "Data Engineer — Snowflake, dbt & Data Integration",
@@ -1306,80 +1627,6 @@
     "helloworld"
    ],
    "details": "Container Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Container Engineer Supabase Inostranstvo | Rad od kuće 10.12.2026. AWS Kubernetes senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. More than 9 million developers and 250,000+ customers now build on Supabase, and the majority of new databases on the platform are created by AI app builders — so the systems underneath have to stay reliable while they grow fast. About the Role Container Engineering (ConEng) owns the internal container platform that runs Supabase's multi-tenant, multi-region services — the managed Kubernetes platform that other engineering teams build and deploy on top of. We own cluster lifecycle and cluster classes, multi-cluster and multi-region topology, capacity, scheduling, isolation and runtime safety, the higher-level platform APIs, the Kubernetes deployment contract and Argo semantics, rollout primitives, and runtime configuration and secret injection. Your job is to make the platform itself trustworthy, observable, and cheap to operate at scale — and to raise the reliability bar for everyone who depends on it. This is not a gatekeeper role. You'll make the reliable path the easy path: building the automation and platform APIs that let product teams run safely by default, instrumenting what we operate, and making sure that when something breaks we detect it and recover fast. The work spans three strength areas Tooling & ecosystem — deep knowledge of the container and orchestration landscape (Kubernetes, containerd/OCI, the CNCF ecosystem) and a clear point of view on how to compose it. Software engineering — designing and building the platform's automation, controllers, and internal tooling as production code, including solutions that don't come pre-shaped by an existing tool. Operational / SRE practice — the discipline (SLOs, error budgets, incident response, ORRs) that runs the platform at scale as a predictable one. We expect you to be genuinely deep in at least one of these, and many of our strongest candidates are deep in two (usually leaning toward one). Bringing real strength across all three is rare and exceptional — and even then, no one is equally strong in all three at once, so you'd focus where you're most needed at any given time. Different profiles are welcome here; tell us which of these is your center of gravity. What You'll Be Responsible For Regardless of the skill set, all team members carry a share of the team's on-call rota, responding to platform incidents and driving them to resolution and follow-up. Platform reliability & operations Define SLIs/SLOs and error budgets for the container platform itself, and build error-budget policies that actually gate platform changes. Own the Operational Readiness Review (ORR) process for new platform capabilities and major changes. Design and track metrics for platform uptime, and increase observability into the platform by capturing the right metrics, logs, and traces across the platform layers. Drive the incident-to-improvement pipeline: facilitate blameless postmortems, connect findings to readiness gaps, spot repeat failure patterns, and push through systemic fixes. Software engineering Build and maintain the platform's",
-   "first_seen": "2026-11-25T09:58:47+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1138075",
-   "title": "Senior CX Platform Engineer",
-   "company": "GitLab",
-   "location": "Canada Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
-   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built int",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-25T09:58:47+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1138079",
-   "title": "Senior Manager, Enterprise Application Development Engineering",
-   "company": "GitLab",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
-   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built int",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-25T09:58:47+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1138077",
-   "title": "Senior Tax Associate",
-   "company": "Real REMAX Group",
-   "location": "Newark",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "design",
-    "technical",
-    "customer support",
-    "accounting",
-    "education",
-    "finance",
-    "c",
-    "microsoft",
-    "senior",
-    "junior",
-    "ops",
-    "excel"
-   ],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": "118000-150000 USD",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-tax-associate-real-remax-group-1138077",
-   "summary": "Real REMAX Group (Nasdaq: REAX) is a global real estate company bringing together two trusted brands and a shared belief: when real estate professionals are empowered by innovation and community, everyone benefits. By combining Realâs AI-powered technology platform and entrepreneurial community with REMAXâs iconic global brand and trusted franchise network, weâre building one of the industry",
-   "matched": [
-    "remoteok"
-   ],
    "first_seen": "2026-11-25T09:58:47+00:00"
   },
   {
