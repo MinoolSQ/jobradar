@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T22:10:25+00:00",
+ "generated_at": "2026-11-28T09:00:08+00:00",
  "window_days": 3,
- "cutoff": "2026-11-24",
- "count": 77,
- "new_count": 16,
+ "cutoff": "2026-11-25",
+ "count": 62,
+ "new_count": 4,
  "errors": [],
  "infostud_queries": {
   "python": {
@@ -12,7 +12,7 @@
    "stop": "kraj"
   },
   "data engineer": {
-   "vraceno": 15,
+   "vraceno": 13,
    "strane": 1,
    "stop": "kraj"
   },
@@ -22,8 +22,8 @@
    "stop": "kraj"
   },
   "podaci": {
-   "vraceno": 41,
-   "strane": 2,
+   "vraceno": 25,
+   "strane": 1,
    "stop": "kraj"
   },
   "etl": {
@@ -37,7 +37,7 @@
    "stop": "kraj"
   },
   "spark": {
-   "vraceno": 2,
+   "vraceno": 1,
    "strane": 1,
    "stop": "kraj"
   },
@@ -47,7 +47,7 @@
    "stop": "kraj"
   },
   "backend": {
-   "vraceno": 5,
+   "vraceno": 4,
    "strane": 1,
    "stop": "kraj"
   },
@@ -62,7 +62,7 @@
    "stop": "kraj"
   },
   "data platform": {
-   "vraceno": 9,
+   "vraceno": 6,
    "strane": 1,
    "stop": "kraj"
   },
@@ -82,18 +82,18 @@
    "stop": "kraj"
   },
   "devops": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "junior": {
-   "vraceno": 16,
+   "vraceno": 9,
    "strane": 1,
    "stop": "kraj"
   },
   "cloud": {
-   "vraceno": 2,
-   "strane": 1,
+   "vraceno": 0,
+   "strane": 0,
    "stop": "kraj"
   },
   "linux": {
@@ -102,42 +102,42 @@
    "stop": "kraj"
   },
   "it tehnicar": {
-   "vraceno": 55,
+   "vraceno": 43,
    "strane": 2,
    "stop": "kraj"
   },
   "sistem administrator": {
-   "vraceno": 27,
+   "vraceno": 15,
    "strane": 1,
    "stop": "kraj"
   },
   "administrator": {
-   "vraceno": 76,
-   "strane": 3,
+   "vraceno": 49,
+   "strane": 2,
    "stop": "kraj"
   },
   "it podrska": {
-   "vraceno": 169,
-   "strane": 6,
+   "vraceno": 104,
+   "strane": 4,
    "stop": "kraj"
   },
   "help desk": {
-   "vraceno": 6,
+   "vraceno": 5,
    "strane": 1,
    "stop": "kraj"
   },
   "tehnicka podrska": {
-   "vraceno": 32,
-   "strane": 2,
+   "vraceno": 19,
+   "strane": 1,
    "stop": "kraj"
   },
   "it support": {
-   "vraceno": 67,
-   "strane": 3,
+   "vraceno": 50,
+   "strane": 2,
    "stop": "kraj"
   },
   "serviser": {
-   "vraceno": 9,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
@@ -147,17 +147,112 @@
    "stop": "kraj"
   },
   "windows": {
-   "vraceno": 3,
+   "vraceno": 2,
    "strane": 1,
    "stop": "kraj"
   },
   "racunari": {
-   "vraceno": 111,
-   "strane": 4,
+   "vraceno": 76,
+   "strane": 3,
    "stop": "kraj"
   }
  },
  "jobs": [
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138208",
+   "title": "Associate, External Resource Management",
+   "company": "Snowflake",
+   "location": "US Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "programming"
+   ],
+   "posted": "2026-11-27",
+   "expires": null,
+   "salary": "75000-98700 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-associate-external-resource-management-snowflake-1138208",
+   "summary": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You donât just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individ",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-28T09:00:08+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138219",
+   "title": "Senior Microsoft Dynamics 365 Consultant",
+   "company": "Version 1",
+   "location": "UK Only",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "customer support"
+   ],
+   "posted": "2026-11-27",
+   "expires": null,
+   "salary": null,
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-microsoft-dynamics-365-consultant-version-1-1138219",
+   "summary": "Company Description Version 1 has celebratedÂ 30 yearsÂ inÂ businessÂ and continues to be trusted by global brands to deliverÂ technology and transformationÂ solutions that drive customer success. OurÂ deepÂ expertiseÂ enables our customers to navigate the rapidlyÂ evolving technology landscape. We foster strong partnerships withÂ global technology leadersÂ including Microsoft, AWS, Oracle, Red Ha",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-28T09:00:08+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138202",
+   "title": "Senior Software Developer",
+   "company": "Loopio Inc.",
+   "location": "Toronto",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "dev",
+    "design",
+    "amazon",
+    "react",
+    "hr",
+    "python",
+    "education",
+    "docker",
+    "technical",
+    "customer support",
+    "transcribing",
+    "testing"
+   ],
+   "posted": "2026-11-27",
+   "expires": null,
+   "salary": "125300-167000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-loopio-inc-1138202",
+   "summary": "Take your career to new heights with Loopio! ðâ¨ Loopio is a workplace that unleashes learning & growth opportunities for our Loopers. We provide autonomous, challenging work that allows each employee to master their craft. We attract and retain people who are naturally curious, have grit and are eager to grow and build their careers. At Loopio, we genuinely support each other, because true su",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-28T09:00:08+00:00"
+  },
+  {
+   "source": "remoteok",
+   "id": "remoteok-1138211",
+   "title": "Software Engineer - Backend",
+   "company": "Sardine",
+   "location": "Asia",
+   "remote": true,
+   "hybrid": false,
+   "tags": [
+    "programming"
+   ],
+   "posted": "2026-11-27",
+   "expires": null,
+   "salary": "3000000-5000000 USD",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-backend-sardine-1138211",
+   "summary": "Who we are: Sardine is the leading agentic risk platform for fighting financial crime. Our integrated solution unifies data across risk teams to help organizations stop fraud in real time, prevent AI-driven attacks, and automate fraud and AML operations. Sardineâs platform is strengthened by one of the fastest-growing fraud consortiums in the market, spanning more than 6 billion profiled devices",
+   "matched": [
+    "remoteok"
+   ],
+   "first_seen": "2026-11-28T09:00:08+00:00"
+  },
   {
    "source": "infostud",
    "id": "769219",
@@ -455,7 +550,7 @@
    "expires": "07.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-System-Engineer/Erste-Bank-a.d/769179",
-   "summary": "Erste Bank a.d. 3.2 Beograd/Novi Sad | Hibrid 07.12.2026. Senior Novo",
+   "summary": "Erste Bank a.d. 3.2 Beograd/Novi Sad | Hibrid 07.12.2026. Senior",
    "matched": [
     "helloworld"
    ],
@@ -620,7 +715,7 @@
    "expires": "12.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/DevOps-Engineer-WM-remote/Pennylane/769074",
-   "summary": "Pennylane Inostranstvo, Inostranstvo | Rad od kuće 12.12.2026. AWS DevOps REST Cloud Embedded Senior Novo",
+   "summary": "Pennylane Inostranstvo, Inostranstvo | Rad od kuće 12.12.2026. AWS DevOps REST Cloud Embedded Senior global.searchSelectItemEvents = {\"769149\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_769149\",\"item_name\":\"AI Governance & Security Specialist\",\"item_index\":0,\"item_brand\":\"Telesign\",\"item_category\":\"Security Expert\",\"item_category2\":\"\",\"item_category3\":\"intermediate\",\"item_categor",
    "matched": [
     "helloworld"
    ],
@@ -985,7 +1080,7 @@
    "expires": "11.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Digital-Marketing-French-language-Paid-Media-Consultant-SEA-SMA/Ads-up-Europe-Agence-d.o.o/768882",
-   "summary": "Ad's up Europe Agence d.o.o. Beograd | Hibrid 11.12.2026. 1.000,00 - 1.500,00 EUR (net) Intermediate Novo",
+   "summary": "Ad's up Europe Agence d.o.o. Beograd | Hibrid 11.12.2026. 1.000,00 - 1.500,00 EUR (net) Intermediate",
    "matched": [
     "helloworld"
    ],
@@ -1009,7 +1104,7 @@
    "expires": "11.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Engineering-Productivity-Engineer/Supabase/768959",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 11.12.2026. Python Docker TypeScript Senior Novo",
+   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 11.12.2026. Python Docker TypeScript Senior",
    "matched": [
     "helloworld"
    ],
@@ -1108,7 +1203,7 @@
    "expires": "11.12.2026.",
    "salary": null,
    "url": "https://www.helloworld.rs/posao/Senior-DevSecOps-Engineer/Hauler-Hero/768960",
-   "summary": "Hauler Hero Inostranstvo, Inostranstvo | Rad od kuće 11.12.2026. Linux JavaScript Node Node.js iOS Android Python PostgreSQL DevOps Bash SaaS DNS SoC Cloud Kubernetes Senior Novo",
+   "summary": "Hauler Hero Inostranstvo, Inostranstvo | Rad od kuće 11.12.2026. Linux JavaScript Node Node.js iOS Android Python PostgreSQL DevOps Bash SaaS DNS SoC Cloud Kubernetes Senior",
    "matched": [
     "helloworld"
    ],
@@ -1216,48 +1311,6 @@
    ],
    "first_seen": "2026-11-26T09:42:54+00:00",
    "details": "O poslodavcu We’re reinventing the market research industry. Let’s reinvent it together. At Numerator, we believe tomorrow’s success starts with today’s market intelligence. We empower the world’s leading brands and retailers with unmatched insights into consumer behaviour and the influencers that drive it. Numerator, a data and tech company serving the North American market research space, has combined with Worldpanel, to create a new global consumer data company. This new company forms a powerhouse of​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ technology enabled consumer insights from nearly five billion consumers worldwide, driving innovation and strategic solutions for thousands of customers. Numerator is continuing to grow its presence in Serbia, where we already have a technology team and an office in Novi Sad. As we do not yet have a local legal entity, your employment agreement will be managed through Adecco, our local employment partner. Your role, team, day-to-day management, and professional decisions will all be managed directly by Numerator. Join us in this groundbreaking venture and be part of a team that shapes the future of market research. Role's Mission As a Senior C# Developer, you will play a crucial role in the design and implementation of the infrastructure for one of Numerator's most cutting-edge projects. Our technology harnesses consumer-related​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ data in many ways, including sophisticated web crawling and high-throughput data processing to deliver an unmatched view of the consumer shopping experience. You will be a technical leader, driving engineering best practices and building relationships with other teams within Numerator. Reasonable Adjustments Worldpanel by Numerator is committed to offering equal opportunities to all individuals, including during the recruitment process. If you require any reasonable adjustments or assistance, please advise us in advance of your interview so that we can make the necessary arrangements. How You'll Spend Your Time Lead the build and development of robust, scalable, and high-performance applications using C#/.NET Core. Apply established development tools, guidelines, and conventions, including but not limited to ASP.NET Core, modern API frameworks, and cloud-native services. Mentor junior and mid-level engineers, leading by example in code reviews​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌‌⁠⁠‌‍⁠​‌‍‍‌‍‍⁠⁠‍‌‍ and promoting development guidelines. Investigate, diagnose, and resolve complex defects and performance bottlenecks in existing systems serving millions of users. Drive the adoption of new technologies and methodologies to continuously improve the team's software development lifecycle and efficiency. Collaborate closely with product owners and data partners to define system architecture, document solutions, and translate business requirements into technical implementations. Manage defect tracking and system updates, ensuring the highest standards of code quality and stability. Supervise daily system activities and provide Tier 3 support when required. Maintain a strong attention to detail in all work and collaborate effectively in a remote-friendly setting. Reference: C6UppUTX2xpr5g What You'll Bring to Numerator 5+ years of hands-on experience in software development, with a strong focus on C# and the .NET / .NET Core framework. 3+ years of professional experience working in a Microsoft Azure environment, demonstrating services such​​‍⁠‍‍‌‌​‍‍‌‍‍‌‌‌​‌​⁠‌"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1138104",
-   "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
-   "company": "GitLab",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-25",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104",
-   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built int",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-26T09:42:54+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1138102",
-   "title": "Junior Talent Operations Specialist",
-   "company": "GitLab",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "other"
-   ],
-   "posted": "2026-11-25",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
-   "summary": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built int",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-26T09:42:54+00:00"
   },
   {
    "source": "weworkremotely",
@@ -1403,27 +1456,6 @@
    "details": "O poslodavcu Koji je vaš cilj? Želite da radite u jednoj od vodećih osiguravajućih kompanija u Srbiji sa tradicijom dugom 80 godina; Da budete deo međunarodnog tima u kojem se cene​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ različitost i pristupačnost za sve zaposlene; Od kompanije očekujete da ulaže u vaš profesionalni razvoj, ceni i nagrađuje dobre rezultate i kreativnost. Reference: DILUa6d08DCMPw Nudimo vam: Mogućnost da budete deo velikog sistema koji daje jednaku šansu svima; Rad u pozitivnoj, dinamičnoj i podržavajućoj atmosferi; Mogućnost kontinuiranog učenja i profesionalnog usavršavanja; Uslove za napredovanje i razvoj karijere u finansijski​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ stabilnom i inkluzivnom poslovnom okruženju. Od vas očekujemo da: Vršite analizu poslovnih procesa u saradnji sa korisnicima i definišete aplikativne zahteve; Definišete operacije i atribute pojedinih klasa, veza (interfejsa) između klasa i način njihovog uklapanja u celokupni ambijent implementacije aplikacije; Preuzimate ulogu vođe tima u projektima razvoja aplikativnih rešenja; Vršite integracioni test; Učestvujete u definisanju standarda za​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ dizajn, u izboru i primeni dizajn paterna i pratite razvoj tehnologije dizajna; Učestvujete u izboru alata za generisanje specifikacija aplikativnih rešenja; Kreirate potrebne analitičke modele i modele dizajna aplikacije; Izrađujete uputstva za korisnike; Posedujete tendenciju ka strukturnom programiranju u SQL jeziku. Vaš profil: 1-2 godine iskustva na istim ili sličnim poslovima; Razvijene analitičke sposobnosti​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ i preciznost u radu sa podacima; Proaktivni ste, inovativni i usmereni na rešavanje problema; Spremni ste na učenje i usavršavanje; Najmanje B1 nivo poznavanja engleskog jezika. Ulaz u zgradu ne poseduje rampu. Otvoreni smo za prilagođavanja koja se tiču uslova u kojima se odvija sam proces selekcije za osobe sa invaliditetom (prostor, način komunikacije,​​⁠​‍​​‍⁠‌‌​‌‍‍⁠‍‍‌⁠‌⁠‌​⁠⁠​​​⁠​​‍​⁠​​⁠⁠⁠ online alati). Takođe, otvoreni smo za prilagođavanje radnog mesta i kreiranje specifičnih uslova rada, u cilju stvaranja odgovarajućeg radnog okruženja osobi sa invaliditetom. DDOR Novi Sad a.d.o. Mi smo jedna od najvećih osiguravajućih kuća u Srbiji, deo vodeće italijanske osiguravajuće kompanije i značajnog učesnika na Evropskom tržištu - Unipol Gruppo S.p.A. Ponosni smo što smo deo kompanije i grupacije u kojoj nas raznovrsnost profesionalnog iskustva i različitost mišljenja čine… Više o poslodavcu Više o poslodavcu na HelloWorld Beneficije Edukacija, profesionalni razvoj Obezbeđena oprema za rad Kompanijski popusti Porodica i roditeljstvo Nagrade, bonusi, pokloni Dobrovoljno zdravstveno osiguranje Sport i rekreacija Wellness Privatni penzioni fond Fleksibilno radno vreme Konkurišite Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Novi Sad IT IT Architect Vodeći sistem dizajner Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1138089",
-   "title": "District Manager, Enterprise - Healthcare (Southeast)",
-   "company": "Everpure",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "sales"
-   ],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-district-manager-enterprise-healthcare-southeast-everpure-1138089",
-   "summary": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem. This type of workâwork",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-25T22:38:09+00:00"
-  },
-  {
    "source": "weworkremotely",
    "id": "wwr-databricks-lakebase-associate-director-specialist-manufacturing",
    "title": "Lakebase Associate Director Specialist-Manufacturing",
@@ -1462,27 +1494,6 @@
    "first_seen": "2026-11-25T22:38:09+00:00"
   },
   {
-   "source": "remoteok",
-   "id": "remoteok-1138095",
-   "title": "Principal Software Engineer",
-   "company": "Ping Identity",
-   "location": "US Only",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
-   "summary": "About Ping Identity:Â At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's something that inspires our company. People don't come here to join a culture that's built on digital freedom. They come to cultivate it.Â Our intelligent, cloud identity",
-   "matched": [
-    "remoteok"
-   ],
-   "first_seen": "2026-11-25T22:38:09+00:00"
-  },
-  {
    "source": "weworkremotely",
    "id": "wwr-natera-principal-software-engineer-in-test",
    "title": "Principal Software Engineer in Test",
@@ -1498,27 +1509,6 @@
    "summary": "Headquarters: US Remote POSITION SUMMARY Natera is seeking a highly technical, hands-on Principal Software Engineer in Test to define and own the end-to-end test automation strategy across all products in the Women's Health, Organ Health, and EB (WH/OH/EB) vertical. In this role, you will design, build, and maintain scalable backend automation suites to validate critical workflows across distribut",
    "matched": [
     "weworkremotely"
-   ],
-   "first_seen": "2026-11-25T22:38:09+00:00"
-  },
-  {
-   "source": "remoteok",
-   "id": "remoteok-1138096",
-   "title": "Security Engineer, Offensive Security",
-   "company": "Dropbox",
-   "location": "North America",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "devops"
-   ],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096",
-   "summary": "Role Description As an Â Offensive Security Engineer within Dropbox Security, you will investigate how attackers could compromise our products and infrastructure, including AI-enabled applications and agentic systems. You will help identify meaningful attack paths and improve the controls intended to prevent, detect or contain them. This is a hands-on offensive security and threat research role wi",
-   "matched": [
-    "remoteok"
    ],
    "first_seen": "2026-11-25T22:38:09+00:00"
   },
@@ -1607,57 +1597,6 @@
    "details": "O poslodavcu About Rubypoint Rubypoint builds software for digital manufacturing and engineering workflows, working with major industrial customers, including Fortune 500 companies. We are a small, highly technical team building core product infrastructure from the ground up. About the Role We are looking for a software engineer with strong​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ modern C++ skills, solid engineering fundamentals, and sound architectural judgment. C++ is central to the role, but the work is not limited to C++. Depending on product needs, you may also work with Go services, TypeScript and React applications, APIs, infrastructure, developer tooling, or DevOps. We do not expect deep experience across the entire stack. We care more about strong fundamentals, the ability to learn unfamiliar technologies, and the willingness to contribute outside a narrow specialty. The role comes with substantial autonomy. You will be expected to understand​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ objectives, make sound technical decisions, and take responsibility for results without close supervision. What You’ll Do Build and maintain performance-sensitive C++ systems and product infrastructure; Contribute to backend services, web applications, APIs, tooling, and infrastructure when needed; Turn ambiguous requirements into clear technical approaches and maintainable implementations; Make architectural decisions around system boundaries, APIs, data models, performance, and reliability; Take work from investigation through implementation, testing, deployment, and support; Work extensively with AI coding agents through rigorous, structured engineering workflows while remaining accountable for the final result; Review code and designs and​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ help improve engineering practices. Reference: FpM3mLkkuEgM3g What We’re Looking For Strong modern C++ skills, ideally C++17 or C++20; Strong software architecture and system-design fundamentals; Solid knowledge of algorithms, data structures, debugging, and testing; Good judgment about engineering trade-offs; Ability to work independently and learn unfamiliar technologies and technical domains; Clear, direct, and constructive communication; A dependable, collaborative, low-ego approach to working with others. We care about both technical ability and how people treat one another. We want Rubypoint to be a place where capable people can disagree honestly, solve difficult problems together, and enjoy working with their colleagues. Nice​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ to Have We do not expect any one candidate to have all of these: Go, TypeScript, React, or similar product-development experience; Cloud infrastructure, CI/CD, deployment, or operational experience; Systems or performance-sensitive programming experience; Computational geometry, graphics, geometry kernels, or spatial data structures; CAD, 3D modeling, or engineering-data experience; Familiarity with formats such as QIF, STEP, IGES, JT, STL, XML, or XSD. Why Join Work on technically challenging problems across systems, geometry, product, and infrastructure; Have meaningful influence over architecture and product direction; Take meaningful ownership in a small, high-trust engineering team; Work with colleagues who value​‌‌‍‍‌​⁠​⁠‌⁠‍‌‍​‍⁠‍‌​‍‌​‍⁠‍​‌​‍​​​⁠​⁠‌⁠‍ productivity, direct communication, and mutual respect; Competitive compensation and performance bonus; Private health insurance; Learning and confer"
   },
   {
-   "source": "helloworld",
-   "id": "768772",
-   "title": "Container Engineer",
-   "company": "Supabase",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "aws",
-    "kubernetes"
-   ],
-   "posted": "2026-11-25",
-   "expires": "10.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Container-Engineer/Supabase/768772",
-   "summary": "Supabase Inostranstvo, Inostranstvo | Rad od kuće 10.12.2026. AWS Kubernetes Senior global.searchSelectItemEvents = {\"768844\":{\"event\":\"select_item\",\"ecommerce\":{\"items\":[{\"item_id\":\"JOB_768844\",\"item_name\":\"Conversational AI Engineer\",\"item_index\":0,\"item_brand\":\"CREATEQ\",\"item_category\":\"AI Engineer\",\"item_category2\":\"\",\"item_category3\":\"\",\"item_category4\":\"Premium\",\"item_category5\":\"remote\",\"it",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Container Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Container Engineer Supabase Inostranstvo | Rad od kuće 10.12.2026. AWS Kubernetes senior About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. More than 9 million developers and 250,000+ customers now build on Supabase, and the majority of new databases on the platform are created by AI app builders — so the systems underneath have to stay reliable while they grow fast. About the Role Container Engineering (ConEng) owns the internal container platform that runs Supabase's multi-tenant, multi-region services — the managed Kubernetes platform that other engineering teams build and deploy on top of. We own cluster lifecycle and cluster classes, multi-cluster and multi-region topology, capacity, scheduling, isolation and runtime safety, the higher-level platform APIs, the Kubernetes deployment contract and Argo semantics, rollout primitives, and runtime configuration and secret injection. Your job is to make the platform itself trustworthy, observable, and cheap to operate at scale — and to raise the reliability bar for everyone who depends on it. This is not a gatekeeper role. You'll make the reliable path the easy path: building the automation and platform APIs that let product teams run safely by default, instrumenting what we operate, and making sure that when something breaks we detect it and recover fast. The work spans three strength areas Tooling & ecosystem — deep knowledge of the container and orchestration landscape (Kubernetes, containerd/OCI, the CNCF ecosystem) and a clear point of view on how to compose it. Software engineering — designing and building the platform's automation, controllers, and internal tooling as production code, including solutions that don't come pre-shaped by an existing tool. Operational / SRE practice — the discipline (SLOs, error budgets, incident response, ORRs) that runs the platform at scale as a predictable one. We expect you to be genuinely deep in at least one of these, and many of our strongest candidates are deep in two (usually leaning toward one). Bringing real strength across all three is rare and exceptional — and even then, no one is equally strong in all three at once, so you'd focus where you're most needed at any given time. Different profiles are welcome here; tell us which of these is your center of gravity. What You'll Be Responsible For Regardless of the skill set, all team members carry a share of the team's on-call rota, responding to platform incidents and driving them to resolution and follow-up. Platform reliability & operations Define SLIs/SLOs and error budgets for the container platform itself, and build error-budget policies that actually gate platform changes. Own the Operational Readiness Review (ORR) process for new platform capabilities and major changes. Design and track metrics for platform uptime, and increase observability into the platform by capturing the right metrics, logs, and traces across the platform layers. Drive the incident-to-improvement pipeline: facilitate blameless postmortems, connect findings to readiness gaps, spot repeat failure patterns, and push through systemic fixes. Software engineering Build and maintain the platform's",
-   "first_seen": "2026-11-25T09:58:47+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "768769",
-   "title": "Software Engineer: Core",
-   "company": "Constructor",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "c",
-    "python",
-    "aws",
-    "jenkins",
-    "foundation",
-    "cloud",
-    "less"
-   ],
-   "posted": "2026-11-25",
-   "expires": "10.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Software-Engineer-Core/Constructor/768769",
-   "summary": "Constructor Inostranstvo, Inostranstvo | Rad od kuće 10.12.2026. C++ Python AWS Jenkins Foundation Cloud LESS Intermediate",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Software Engineer: Core Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Software Engineer: Core Constructor Inostranstvo | Rad od kuće 10.12.2026. C++ Python AWS Jenkins Foundation Cloud LESS intermediate About Us Constructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personalization capabilities to power everything from search itself to recommendations to shopping agents. Engineering is by far our largest department, and we’ve built our proprietary engine to be the best on the market, having never lost an A/B test to a competitive technology. We’re passionate about maintaining this and work on the bleeding edge of AI to do so. Out of necessity, our engine is built for extreme scale and powers over 1 billion queries every day across 150 languages and roughly 100 countries. It is used by some of the biggest ecommerce companies in the world like Sephora, Under Armour, and Petco. We’re a passionate team who love solving problems and want to make our customers’ and coworkers’ lives better. We value empathy, openness, curiosity, continuous improvement, and are excited by metrics that matter. We believe that empowering everyone in a company to do what they do best can lead to great things. Constructor is a U.S. based company that has been in the market since 2019. It was founded by Eli Finkelshteyn and Dan McCormick who still lead the company today. The Team The Core Team sits at the heart of Constructor, shaping Constructor’s in-house search engine, where user requests meet customer catalogs and Constructor’s learnings. We build and operate the foundational systems that power every request flowing through the platform, enabling fast, reliable, and intelligent interactions at massive scale. Our systems handle billions of requests daily with exceptional uptime, and we take pride in delivering a highly scalable, resilient, and globally distributed platform. As part of the Core team, you will help design, build, and maintain the critical infrastructure and services that underpin the entire product, ensuring performance, stability, and reliability across the globe. Requirements You’ll thrive in this role if you: Have a strong foundation in computer science, including algorithms, data structures, concurrency, and systems design. Have experience building and scaling high-traffic, high-availability backend systems. Have experience designing and operating backend infrastructure, including deployment automation, capacity planning, and observability. Are comfortable working across different layers of the stack, from performance-critical code to production operations. Enjoy learning new technologies and tools in a fast-moving, large-scale environment. Collaborate effectively and contribute to a positive, ownership-driven team culture. Our Tech Stack Languages: Rust, C++, Python Cloud Infrastructure: AWS CI/CD: Jenkins, GitHub Actions Monitoring & Observability: Prometheus, Grafana Benefits Unlimited vacation time - we strongly encourage all of our employees take at least 3 weeks per year Fully remote team - choose where you live Work from home stipend! We want you to have the resources you need to set up your home office Apple laptops provided for new employees Training and development budget",
-   "first_seen": "2026-11-25T09:58:47+00:00"
-  },
-  {
    "source": "weworkremotely",
    "id": "wwr-jfrog-solution-architect-new-logo-presales",
    "title": "Solution Architect, New Logo (Presales)",
@@ -1675,64 +1614,6 @@
     "weworkremotely"
    ],
    "first_seen": "2026-11-25T09:58:47+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "768771",
-   "title": "Staff Backend Software Engineer",
-   "company": "Notabene",
-   "location": "Inostranstvo, Inostranstvo | Rad od kuće",
-   "remote": true,
-   "hybrid": false,
-   "tags": [
-    "c",
-    "node",
-    "java",
-    "aws",
-    "postgresql",
-    "rest",
-    "soc",
-    "typescript",
-    "cloud",
-    "kotlin"
-   ],
-   "posted": "2026-11-25",
-   "expires": "10.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Staff-Backend-Software-Engineer/Notabene/768771",
-   "summary": "Notabene Inostranstvo, Inostranstvo | Rad od kuće 10.12.2026. C# Node Node.js Java AWS PostgreSQL REST SoC TypeScript Cloud Kotlin Senior",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Staff Backend Software Engineer Oglas je preuzet sa sajta poslodavca i sajt HelloWorld ne garantuje njegovu ažurnost. Staff Backend Software Engineer Notabene Inostranstvo | Rad od kuće 10.12.2026. C# Node Node.js Java AWS PostgreSQL REST SoC TypeScript Cloud Kotlin senior About Notabene Notabene is on a mission to make crypto a part of the everyday economy. Leading crypto organizations use our tools to reduce transaction risk and make crypto transfers safe. Working across three continents in eight countries, the Notabene team serves our fantastic community of 100+ customers, including financial institutions, fintechs, exchanges, and more. Our co-founders spearheaded foundational Self Sovereign Identity protocols and use-cases. This technology is key to the internals of our cutting edge tech stack. We’re proud to have the support of leading investors, including Y Combinator, Jump Capital, Castle Island, Green Visor Capital, and more. We’re at an exhilarating moment in our journey, as regulation technologies (reg-techs) are fast becoming recognized as a vital enabler of the crypto ecosystem. Notabene is growing fast—and we’re looking for people like you to help shape the future rails of the crypto industry! The Impact You'll Have Every crypto transfer we touch moves between institutions that run their own systems, answer to different regulators, and have no reason to trust each other. The software in the middle has to be right every time. A message processed twice, a lost update, or a record shown to the wrong tenant is a compliance failure for our customers. You’ll work on the core platform that carries this data between institutions around the world, written in Go. As a Staff Engineer on the team you’ll build the hardest parts of it, contribute to its design, and help the engineers around you do their best work. What You'll Do Design and build core parts of our transaction platform. Build for correctness under failure, with the isolation and auditability a regulated product needs. Scale the platform as transaction volume and the number of institutions per node grow, keeping latency predictable and the database healthy. Write design docs for what you build, and give sharp, useful reviews on other people’s designs and code. Build with AI agents every day, and help improve the specs, context and review practices that make agent-written code safe to ship in a regulated product. Work with product, compliance and customer-facing teams to turn regulatory and customer needs into working software. Own what you ship in production, from tracing and alerts to incident follow-ups. Mentor engineers on the team. Work on an on call rotation Must Haves Systems design depth. You’ve designed and owned distributed systems where correctness matters more than features. You know asynchronous processing well and can reason about what happens when parts of it fail. Strong Go, or deep production experience in another statically typed backend language (Java, Kotlin, Rust, C#) and the appetite to be shipping Go within your first weeks. PostgreSQL in depth: schema design, query plans, locking and isolation levels, migrations on live systems, and multi-tenant data. End-to-end ownership in the cloud. Working knowledge of AWS or GCP: IAM, networking, managed databases, queues and storage. You can read and change Terraform and debug production from traces and logs. AI-native engineering. You use coding agents such as Claude Code or Cursor every day and can show how. Y",
-   "first_seen": "2026-11-25T09:58:47+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "768548",
-   "title": "Service Desk Administrator",
-   "company": "Gastpro d.o.o.",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Podrška"
-   ],
-   "posted": "2026-11-24",
-   "expires": "09.12.2026",
-   "salary": "neto 90.000 - 100.000 RSD (mesečno) ",
-   "url": "https://poslovi.infostud.com/posao/service-desk-administrator/gastpro-doo/768548",
-   "summary": "Administrator servisne podrške organizuje prijem i praćenje servisnih zahteva kako bi se obezbedilo njihovo pravovremeno rešavanje. Kandidat pruža prvi nivo tehničke podrške i koordinira sa terenskim serviserima radi održavanja optimalne funkcionalnosti opreme.",
-   "matched": [
-    "sistem administrator",
-    "administrator",
-    "it podrska",
-    "help desk",
-    "tehnicka podrska",
-    "it support"
-   ],
-   "first_seen": "2026-11-24T23:08:12+00:00",
-   "details": "O poslodavcu GASTPRO d.o.o. Beograd posluje kao generalni zastupnik i servisni partner kompanije RATIONAL A.G., vodećeg svetskog proizvođača profesionalne kuhinjske opreme. Kompanija je usmerena na isporuku visokokvalitetnih proizvoda i pružanje⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ pouzdane servisne podrške klijentima u sektoru ugostiteljstva. Kao servisni partner, GASTPRO obezbeđuje instalaciju, održavanje i tehničku pomoć kako bi se osigurao optimalan rad RATIONAL sistema. Članovi tima postaju deo profesionalnog okruženja koje pruža priliku za rad sa savremenim kuhinjskim tehnologijama i pružanje podrške različitim profilima klijenata. Opis radnog mesta: Administrator servisne podrške (Service Desk Administrator)⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ je pozicija sa punim radnim vremenom, koja podrazumeva rad u prostorijama kompanije u Beogradu. Ova uloga obuhvata prijem servisnih zahteva, evidentiranje i praćenje tiketa, kao i pružanje tehničke podrške prvog nivoa korisnicima i internim timovima. Administrator servisne podrške odgovara na upite primljene putem telefona i imejla, rešava jednostavnije tehničke probleme i, po potrebi,⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ koordinira rad sa serviserima na terenu. Svakodnevni zadaci uključuju vođenje precizne evidencije o servisiranju, pripremu dokumentacije, slanje servisnih naloga, kao i praćenje statusa zahteva kako bi se osiguralo njihovo pravovremeno rešavanje i zadovoljstvo klijenata. Kvalifikacije Izražene komunikacione veštine i sposobnost jasnog prenošenja tehničkih informacija različitim korisnicima. Veštine administrativne podrške, uključujući unos podataka, vođenje evidencije i organizovanje servisne dokumentacije. Funkcionalno znanje⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ engleskog jezika (u pisanoj i govornoj formi). Spretnost u korišćenju sistema za praćenje zahteva (ticketing sistemi), imejla i standardnih kancelarijskih softverskih paketa (npr. MS Office ili slični alati). Prethodno iskustvo u radu u „help desk“ službi, servisnom centru ili okruženju za tehničku podršku predstavlja prednost. Odgovoran i organizovan pristup radu, uz sposobnost određivanja prioriteta i rešavanja više zahteva. Spremnost za timski⁠‍​⁠‌​⁠‌‌⁠‍‌⁠​‍⁠‍​​‍⁠‌‍‍​​​‌‍‍‌‍⁠‍‍‍⁠​​⁠ rad i kontinuirano usavršavanje. Reference: 4015y4LaAabqww Šta nudimo: Uslovi rada i zarada dogovaraju se u skladu sa iskustvom i kvalifikacijama kandidata. Radno vreme ponedeljak-petak od 8-16h. Uvođenje u posao i kontinuiranu podršku tokom perioda obuke. Gastpro d.o.o. Autoput za 2d, Beograd, Srbija PIB: 106835314 Matični broj: 20690003 Više o poslodavcu Konkurišite Pozovite poslodavca Sačuvajte Podelite Greška u oglasu? Obavestite nas Napomena: Poslovi.infostud.com ne vrši posredovanje u zapošljavanju u Srbiji, niti u inostranstvu. Postupak selekcije i odabira kandidata je u nadležnosti poslodavca, a odredbe ugovora o radu predstavljaju direktan dogovor između poslodavca i zaposlenog. Svi pojmovi u oglasima, koji su upotrebljeni u muškom rodu, odnose se bez diskriminacije i na osobe ženskog pola i obrnuto, osim ukoliko specifičnim zahtevima posla nije drugačije propisano. Posao Beograd IT IT Help Desk / Support Service Desk Administrator Blog O nama Česta pitanja Kontaktirajte nas RSS Uslovi korišćenja Obaveštenje o privatnosti Pronađite posao Pretraga poslova Poslovi na email Upoznajte poslodavce Dok tražite posao Arhiva poslova Za medije Saopštenja Istraživanja Podacima do razumevanja procesa depopulacije Za poslod"
   },
   {
    "source": "helloworld",
@@ -1758,251 +1639,6 @@
    ],
    "details": "Web Designer Web Designer Workforce Human Resources d.o.o. Beograd 10.12.2026. CSS HTML WordPress Figma intermediate Job Description For our client, an international real estate developer, we are looking for a talented WEB DESIGNER to join the team and work on web projects across different countries and markets within the Group. This is a hands-on role for someone who will both design and build websites, taking projects from initial concept and visual design through to implementation, launch, and ongoing maintenance. You will work closely with Marketing and technical teams to create engaging, functional, and visually consistent digital experiences across the Group's portfolio. Key Responsibilities Design and build websites, landing pages, and web experiences from concept through to implementation and launch. Build, update, and maintain websites directly in WordPress, including page layouts, content, and design components. Take hands-on ownership of web projects, from design and build through to ongoing updates and optimization. Create engaging web visuals, banners, and other digital assets. Translate design concepts and marketing requirements into functional, responsive web experiences. Ensure visual consistency, usability, and performance across websites and digital platforms. Work closely with Marketing and technical teams on website launches, updates, and other digital initiatives. Adapt existing brand and design materials for web and digital use. Create and animate graphics for websites and other digital platforms. Occasionally adapt digital and marketing assets to support broader brand initiatives. What We Are Looking For Proven experience in web design and website building, with a strong portfolio of completed website projects. Strong proficiency in Figma and experience designing website layouts and UI components. Hands-on experience with WordPress and website development/implementation. Strong understanding of responsive design, web usability, and digital best practices. Good knowledge of typography, layout, visual hierarchy, and web-focused graphic design. A strong visual eye and the ability to translate premium brand identities into engaging digital experiences. Experience creating and adapting visual assets specifically for digital environments. Ability to work across multiple projects, brands, and markets while maintaining consistency and attention to detail. Strong collaboration skills and an execution-focused approach. Fluency in English. Nice to Have Experience working on real estate, hospitality, lifestyle, or other visually driven brands. Experience with motion graphics or animation for web. Basic knowledge of HTML/CSS or other web development tools. Experience working in an international or multi-market environment. Interested? If you are passionate about creating websites that combine strong visual design, functionality, and a great user experience, we would love to see your work. Please apply with your CV and portfolio showcasing relevant web design and website development projects. Apply Here Upoznaj kompaniju O Kompaniji Workforce Human Resources je agencija za zapošljavanje koja pruža sveobuhvatna rešenja iz oblasti upravljanja i razvoja ljudskih resursa. Kontinuiranim inovacijama u domenu ljudskih resursa i prilagođavanjem potrebama tržišta za fleksibilnim zapošljavanjem, Workforce omogućava saradnicima i klijentima realizaciju poslovnih ambicija po najvišim HR standardima. Workforce nudi usluge u domenu fleksibil",
    "first_seen": "2026-11-24T23:08:12+00:00"
-  },
-  {
-   "source": "infostud",
-   "id": "768557",
-   "title": "Agent za podršku (praksa)",
-   "company": "NB SOFT Agencija za programiranje",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Podrška",
-    "Prakse"
-   ],
-   "posted": "2026-11-24",
-   "expires": "09.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/agent-za-podrsku-praksa/nb-soft-agencija-za-programira/768557",
-   "summary": "Ova pozicija obezbeđuje pravovremenu i profesionalnu podršku klijentima putem telefona i tiketing sistema. Kandidat će pratiti i administrativno kompletirati zahteve klijenata i koordinisati komunikaciju sa internim timovima radi brzog rešavanja.",
-   "matched": [
-    "sistem administrator",
-    "administrator",
-    "it podrska",
-    "tehnicka podrska"
-   ],
-   "first_seen": "2026-11-24T11:12:00+00:00",
-   "details": "O poslodavcu Tražimo inovativne kolege koje žele da sa nama unaprede internet prodaju. Ako se raduješ uzbudljivim zadacima, kulturi otvorene komunikacije i kreativnom okruženju u kom imaš priliku da se razvijaš i napreduješ, prijavi se i postani deo našeg tima! O NB SOFT-u NB SOFT od 2009. godine, sa više od 70 zaposlenih, pomaže trgovcima u više od 15 zemalja da postignu svoj maksimalni potencijal digitalnog razvoja, kroz razvoj i implementaciju enterprise eCommerce i‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ Retail rešenja zasnovanih na NB SHOP-u. Transformacijom i unapređenjem ecommerce tržišta naš rad oblikuje navike i svakodnevni život trgovaca i njihovih kupaca. Zajedno radimo na razvoju rešenja koje koristi preko 4 miliona korisnika, svaki dan! Ako tražiš okruženje koje te ohrabruje da izneseš svoje ideje, da prihvatiš izazov i rasteš, NB SOFT je pravo mesto za tebe! Opis posla: Svakodnevna telefonska komunikacija sa klijentima, uz pružanje profesionalne, ljubazne i pravovremene podrške. Evidentiranje novih zahteva klijenata i prosleđivanje informacija nadležnim timovima u skladu sa internim procedurama. Praćenje statusa otvorenih zahteva kroz tiketing sistem (Active Collab) i pružanje osnovnih informacija klijentima o njihovom statusu. Redovna kontrola pristiglih i neobrađenih tiketa, provera njihove ispravnosti i prosleđivanja nadležnim timovima na dalju obradu. Praćenje tiketa koji su u obradi, čekaju odgovor‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ nadležnog tima ili dodatne informacije od klijenta. Pravovremeno obaveštavanje klijenata o prijemu i evidentiranju zahteva, kao i podsećanje na dostavljanje nedostajućih informacija. Praćenje promena statusa i odgovora koje unose timovi zaduženi za realizaciju zahteva. Provera tiketa za koje je nadležni tim potvrdio da su rešeni i njihovo administrativno kompletiranje. Održavanje ažurne evidencije o statusu zahteva, komunikaciji sa klijentima i narednim koracima. Saradnja sa timovima zaduženim za tehničku i operativnu realizaciju zahteva, kao i ukazivanje na tikete koji zahtevaju dodatnu pažnju zbog kašnjenja ili nedostatka informacija. Priprema osnovnih pregleda otvorenih, završenih i blokiranih tiketa, prema potrebi. Reference: lubECGS3gBwu8g Kvalifikacije: Napredna kompjuterska pismenost i spremnost za rad u digitalnim alatima i sistemima. Izražene komunikacione veštine i profesionalan pristup u komunikaciji sa klijentima. Odlične veštine pisane‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ i usmene komunikacije. Dobre organizacione veštine, sistematičnost i sposobnost praćenja više zahteva istovremeno. Odgovornost, preciznost i pažnja prema detaljima u radu sa informacijama i evidencijama. Sposobnost određivanja prioriteta i pravovremenog reagovanja. Spremnost na timski rad i saradnju sa različitim timovima. Želja za učenjem i usavršavanjem u dinamičnom okruženju. Poželjno, ali nije presudno: Poznavanje tiketing sistema, posebno Active Collab-a. Prethodno iskustvo ili interesovanje za oblast korisničke podrške i komunikacije sa klijentima. Osnovno razumevanje IT okruženja i rada tehničkih timova. Poznavanje engleskog jezika. Šta dobijaš kao deo NB SOFT tima? Tromesečni program plaćene stručne prakse uz mentorsku podršku i stručno usmeravanje; Priliku za rad na vodećem domaćem enterprise eCommerce rešenju; Mogućnost zaposlenja nakon uspešno završene prakse i profesionalnog razvoja u našem timu; Direktan rad sa iskusnim stručnjacima koji više od 15 godina rade na razvoju i unapređivanju N"
-  },
-  {
-   "source": "infostud",
-   "id": "768527",
-   "title": "Engineering Manager",
-   "company": "Pollard Digital Solutions",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "DevOps",
-    "Menadžment",
-    "Cloud",
-    "Agile"
-   ],
-   "posted": "2026-11-24",
-   "expires": "09.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/engineering-manager/pollard-digital-solutions/768527",
-   "summary": "The Engineering Manager will lead stream aligned product teams to deliver high quality scalable software and to strengthen engineering practices. The role is accountable for team outcomes and execution while partnering with Product and Architecture to balance delivery velocity with long term sustainability.",
-   "matched": [
-    "data engineer",
-    "data platform",
-    "devops",
-    "cloud",
-    "it support"
-   ],
-   "first_seen": "2026-11-24T11:12:00+00:00",
-   "details": "O poslodavcu We’re hiring an Engineering Manager to lead one or more of our high-impact, cross-functional product-development teams. Our engineering organization centers on teams aligned to domain-specific workstreams, supported by a dedicated Platform Engineering group. As part of our fast-scaling engineering organization, you’ll play a key leadership role in developing both the people and the systems behind the products that matter most to our customers. Reporting to a Director‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ of Engineering and collaborating closely with Product, Architecture, and other engineering leaders, you will be accountable for your teams’ outcomes and for shaping the engineering ecosystem – fostering quality, high-performing teams and a smooth flow from concept to production. You will help shape a strong team culture rooted in ownership, collaboration, and continuous improvement – supporting engineers to do their best work and teams to deliver real value at speed and scale. Who We Are Pollard Digital Solutions - Europe is a full-solution supplier of lottery management and iLottery technology for lottery markets. We’re a division of Pollard Banknote Ltd - a leading partner to 60 lotteries worldwide, known for high-quality instant ticket products, licensed games, retail merchandising solutions, and innovation. Established in 1907 and headquartered in Winnipeg, Canada, Pollard Banknote is publicly traded on the Toronto Stock Exchange (PBL). Our objective is to‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ deliver the most innovative solutions that will render industry-leading returns to good causes in an ethically responsible way. We pride ourselves on a collaborative and inclusive workplace - where creativity, team spirit, and respect are core to how we work. What We Offer: A truly collaborative and supportive working environment Modern office space with on-site parking Private health insurance Coverage for medical treatments outside of Serbia Learning and development budget Profit sharing – every role plays a part in our success Budget for sports activities Team-building and social activities Employee referral bonuses Hybrid work environment Additional employee perks Reference: lubECGS3gBwu8g What You’ll Do: Lead & grow 1–2 Stream-Aligned teams: coach, mentor and empower engineers while delivering meaningful business outcomes. Foster continuous delivery & feedback loops: cultivate iterative delivery, rapid feedback and data-driven learning to uphold quality. Shape the roadmap with Product & Architecture: collaborate to scope work, balance near-term goals with long-term sustainability and communicate trade-offs. Drive engineering excellence:‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ embed testing, observability, performance, maintainability and scalability into everyday work. Own delivery management and drive execution excellence: measure and optimize flow, remove bottlenecks and ensure predictable delivery. Scale & nurture the organization: hire, onboard and retain diverse talent, reinforce team health and foster an inclusive engineering culture. Champion cross-team initiatives: partner with Platform to improve developer experience, reduce friction and support sustainable growth. Manage change & incidents: steer teams calmly through organizational shifts and production issues, protecting focus and morale. Engage stakeholders: maintain transparent communication, celebrate wins and align expectations across product, design and le"
-  },
-  {
-   "source": "infostud",
-   "id": "768528",
-   "title": "Full-Stack Software Engineer",
-   "company": "Pollard Digital Solutions",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "JavaScript",
-    "CSS",
-    "HTML",
-    "Spring",
-    "Java",
-    "Git",
-    "PostgreSQL",
-    "Programiranje",
-    "TypeScript",
-    "Vue.js",
-    "RESTful",
-    "React"
-   ],
-   "posted": "2026-11-24",
-   "expires": "09.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/full-stack-software-engineer/pollard-digital-solutions/768528",
-   "summary": "This full stack engineer role builds and sustains secure scalable web applications and backend services for the iLottery platform. The hire will drive software quality and reliable deliveries while enabling seamless integration between frontend and backend systems.",
-   "matched": [
-    "data engineer",
-    "backend",
-    "data platform",
-    "it support"
-   ],
-   "first_seen": "2026-11-24T11:12:00+00:00",
-   "details": "O poslodavcu We are looking for a Full-Stack Software Engineer to join our team on the iLottery Platform. In this role, you'll collaborate with cross-functional teams to design, build, and support modern web applications and backend services that power our next-generation digital lottery solutions. You'll contribute to every phase of development - from planning and design to delivery‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ and support - helping create secure, scalable, and innovative experiences for lottery players around the world. Who We Are Pollard Digital Solutions - Europe is a full-solution supplier of lottery management and iLottery technology for lottery markets. We’re a division of Pollard Banknote Ltd - a leading partner to 60 lotteries worldwide, known for high quality instant ticket products, licensed games, retail merchandising solutions, and innovation. Established in 1907 and headquartered in Winnipeg, Canada, Pollard Banknote is publicly traded on the Toronto Stock Exchange (PBL). Our objective is to deliver the most innovative solutions that will render industry-leading returns to good causes in an ethically responsible way. We pride ourselves on a collaborative and inclusive workplace - where creativity, team spirit, and respect are core to how‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ we work. What We Offer: A truly collaborative and supportive working environment Modern office space with on-site parking Private health insurance Coverage for medical treatments outside of Serbia Learning and development budget Profit sharing – every role plays a part in our success Budget for sports activities Team-building and social activities Employee referral bonuses Hybrid work environment Additional employee perks Reference: lubECGS3gBwu8g What You’ll Do: Build and maintain reliable, and scalable web applications across both frontend and backend systems for iLottery gaming products. Design, develop, test, and deploy high-quality software using modern engineering practices. Write clean, efficient, and reusable code that supports evolving business needs and complex workflows. Develop and integrate RESTful APIs and services that enable seamless communication between applications and systems. Participate in code reviews and contribute to technical standards, quality practices, and continuous improvement initiatives. Write and maintain automated‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ tests to ensure the reliability, quality, and maintainability of software solutions. Ensure a great user experience by considering performance, accessibility, usability, security, and operational reliability. Contribute to release activities, production support, troubleshooting, and continuous improvement of the systems owned by the team. Stay current with modern engineering technologies, frameworks, and practices, and identify opportunities to improve tools, processes, and delivery effectiveness. Who You Are: A skilled and thoughtful software engineer who enjoys working across the full application stack and takes pride in delivering high-quality software that creates value for customers. Comfortable working in a collaborative team environment where shared ownership, feedback, and continuous learning are valued. Curious and pragmatic - eager to learn new technologies and approaches while remaining focused on delivering outcomes. Practised in modern engineering fundamentals including version control, automated testing, CI/CD, and monitoring. Able to break d"
-  },
-  {
-   "source": "infostud",
-   "id": "768530",
-   "title": "Reliability & Problem Management Lead",
-   "company": "Pollard Digital Solutions",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [
-    "Windows",
-    "Jira",
-    "DevOps",
-    "Menadžment",
-    "Cloud",
-    "Microservices"
-   ],
-   "posted": "2026-11-24",
-   "expires": "09.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/reliability-problem-management-lead/pollard-digital-solutions/768530",
-   "summary": "This role owns end to end production health and ensures incidents and defects are triaged, tracked, and resolved to prevent recurrence. The lead converts RCA findings into durable engineering work and coordinates cross functional teams to improve system reliability and reduce operational recurrence.",
-   "matched": [
-    "devops",
-    "cloud",
-    "it support",
-    "windows"
-   ],
-   "first_seen": "2026-11-24T11:12:00+00:00",
-   "details": "O poslodavcu We're looking for a Reliability & Problem Management Lead to own the end-to-end lifecycle of production health across Pollard's platforms. This role is accountable not only for the effective intake, triage, and coordination of production incidents and defects, but also for driving their systemic resolution to prevent recurrence. Acting as the connective tissue between Business, Product, Engineering, Quality, and Operations, this role ensures that high-impact issues are addressed with urgency and discipline, while Root Cause Analysis (RCA) outcomes are translated into durable,‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ long-term fixes that are tracked, prioritized, and delivered. Success in this role is measured by improved system reliability, reduced recurrence, and a sustained shift from reactive support to proactive prevention. Who We Are Pollard Digital Solutions – Europe is a full-solution supplier of lottery management and iLottery technology for lottery markets. We're a division of Pollard Banknote Ltd – a leading partner to 60 lotteries worldwide, known for high-quality instant ticket products, licensed games, retail merchandising solutions, and innovation. Established in 1907 and headquartered in Winnipeg, Canada, Pollard Banknote is publicly traded on the Toronto Stock Exchange (PBL). Our objective is to deliver the most innovative solutions that will render industry-leading returns to good causes in an ethically responsible way. We pride ourselves on a collaborative and inclusive workplace – where creativity, team spirit, and respect are core to how we work. What We Offer: A truly collaborative and supportive working environment Modern office space with on-site parking Private health insurance Coverage for medical treatments outside of Serbia Learning and development budget Profit sharing – every role plays‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ a part in our success Budget for sports activities Team-building and social activities Employee referral bonuses Hybrid work environment Reference: lubECGS3gBwu8g What You'll Do: Own Production Incident and Bug Intake Take full ownership of the operational queue for all production incidents and bugs (P1–P5), ensuring clear accountability and no loss of signal. Review, triage, and validate incoming issues with business and technical stakeholders to confirm severity, impact, and urgency. Ensure each issue is documented with clear business context, distinguishing between cosmetic issues and those with material customer, revenue, or compliance impact. Drive Prioritization and Cross-Team Coordination Facilitate prioritization discussions across Business, Product, Engineering, and Quality to ensure critical reliability work is appropriately sequenced. Advocate for timely resolution of high-impact incidents and defects, balancing support work against feature delivery. Coordinate closely with Engineering and Release Management to align fixes with safe and appropriate deployment windows. Lead Problem Management and Recurrence Reduction Lead structured RCA sessions for major and recurring incidents, challenging superficial explanations and driving toward true systemic causes. Translate RCA outcomes into well-scoped Jira Epics and Stories‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ that reflect durable corrective actions, not temporary mitigations. Track recurring incidents as formal \"Problems\" and maintain a visible registry of long-term corrective actions, tagged as reliability commitmen"
-  },
-  {
-   "source": "infostud",
-   "id": "768488",
-   "title": "Specijalista/kinja za upravljanje IT dobavljačima",
-   "company": "Addiko Bank a.d.",
-   "location": "Beograd | Hibrid",
-   "remote": false,
-   "hybrid": true,
-   "tags": [],
-   "posted": "2026-11-24",
-   "expires": "09.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/specijalista-kinja-za-upravljanje-it-dobavljacima/addiko-bank-ad/768488",
-   "summary": "Pozicija postoji da obezbedi pravovremeno i usklađeno upravljanje IT dobavljačima, ugovorima i budžetima kako bi IT podrška ispunjavala poslovne zahteve. Kandidat će koordinisati između IT timova i eksternih partnera, nadgledati finansijske obaveze i održavati urednu ugovornu i administrativnu evidenciju.",
-   "matched": [
-    "podaci",
-    "sistem administrator",
-    "administrator",
-    "it podrska"
-   ],
-   "first_seen": "2026-11-24T11:12:00+00:00",
-   "details": "O poslodavcu Voliš da držiš konce u svojim rukama i znaš da iza svakog uspešnog IT sistema stoje dobri partneri, jasni procesi i dobro isplanirani resursi? Ako uživaš u saradnji sa različitim timovima, pratiš detalje bez gubljenja šire slike i lako povezuješ brojeve, ugovore i poslovne potrebe, možda je vreme za tvoj‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ sledeći karijerni korak. Tražimo Specijalistu/kinju za upravljanje IT dobavljačima , osobu koja će biti važna spona između IT tima, dobavljača i drugih organizacionih celina u banci, obezbeđujući da naši IT resursi, ugovori i budžeti budu efikasno vođeni i podrže poslovne ciljeve Banke. Ako se prepoznaješ u ovim opisima, onda si ti osoba koju tražimo! Šta te očekuje na budućoj poziciji? Upravljanje IT vendorima i ugovorima: nadzor ugovora i ugovorenih obaveza sa dobavljačima iz domena IT Praćenje i ažuriranje baze IT dobavljača‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ i ugovora, uključujući praćenje rokova, ugovorenih obaveza, izmena, aneksa i blagovremenog obnavljanja ugovora Koordinacija sa IT vlasnicima ugovora, Nabavkom, Legal-om, Finansijama i drugim relevantnim funkcijama u vezi sa ugovaranjem i upravljanjem dobavljačima Praćenje i kontrola realizacije ugovorenih obaveza i troškova prema IT dobavljačima Učešće u sprovođenju procesa nabavke IT usluga, licenci, softvera, opreme i ostalih IT potreba, uključujući administraciju i praćenje zahteva za nabavku Obrada i kontrola ulaznih IT faktura, uključujući proveru usklađenosti sa ugovorom,‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ narudžbenicom i odobrenim budžetom Finansijska kontrola i administracija zahteva za nabavku IT usluga unutar sektora Vođenje i ažuriranje evidencije osnovnih sredstava i nematerijalnih ulaganja u okviru IT Sektora Učešće u planiranju, kontroli i reviziji IT budžeta Podrška za izradu Business Case kalkulacije za projekte u delu koji se odnosi na IT budžet Podrška u pripremi podataka i dokumentacije za interne i eksterne kontrole i revizije, kao i izradi i reviziji IT akata Reference: lubECGS3gBwu8g I na kraju, pitaš se šta te to‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ kvalifikuje da postaneš naš novi Specijalista/kinja za upravljanje IT dobavljačima? VII stepen stručne spreme Dobro poznavanje MS Office paketa Aktivno znanje engleskog jezika Uživaš u organizaciji, planiranju i radu sa više različitih aktivnosti istovremeno Odlično se snalaziš u radu sa podacima, budžetima i ugovornom dokumentacijom Neguješ partnerski odnos sa internim i eksternim saradnicima Preuzimaš odgovornost, pokazuješ inicijativu i pronalaziš rešenja umesto prepreka Zašto je ova pozicija važna? Zato što kvalitetna IT rešenja ne zavise samo od tehnologije. Ona zavise i od dobrih partnerstava, pažljivog upravljanja resursima i procesa koji omogućavaju da IT tim posluje efikasno i pruža najbolju podršku poslovanju.‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ Kroz ovu ulogu imaćeš priliku da sarađuješ sa velikim brojem kolega i partnera, stekneš širok uvid u funkcionisanje Banke i budeš deo inicijativa koje podržavaju njen dalji razvoj. Ako prepoznaješ sebe u ovom opisu, prijavi se i postani deo Addiko tima! Prijavi se putem linka u nastavku. ADDIKO BANK AD BEOGRAD Addiko Bank uspešno posluje u Srbiji od 2002. godine, uključujući sve segmente bankarskog poslovanja, pod nazivom Hypo Alpe-Adria-Bank a.d. Beograd. Sa promenom vlasničke strukture, u julu 2016 postali smo Addiko Bank a.d. jer gradimo još bolju banku!Nastojimo da budemo jednostavni, da"
-  },
-  {
-   "source": "infostud",
-   "id": "768552",
-   "title": "eCommerce Content and Implementation Specialist (praksa)",
-   "company": "NB SOFT Agencija za programiranje",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [
-    "Podrška",
-    "Prakse"
-   ],
-   "posted": "2026-11-24",
-   "expires": "09.12.2026",
-   "salary": null,
-   "url": "https://poslovi.infostud.com/posao/ecommerce-content-and-implementation-specialist-praksa/nb-soft-agencija-za-programira/768552",
-   "summary": "Praksa ima za cilj učešće u postavci i implementaciji internet prodavnica. Kandidat će doprinositi unosu sadržaja, komunikaciji sa klijentima i koordinaciji implementacionih aktivnosti uz mentorsku podršku.",
-   "matched": [
-    "administrator",
-    "it podrska"
-   ],
-   "first_seen": "2026-11-24T11:12:00+00:00",
-   "details": "O poslodavcu Tražimo inovativne kolege koje žele da sa nama unaprede internet prodaju. Ako se raduješ uzbudljivim zadacima, kulturi otvorene komunikacije i kreativnom okruženju u kom imaš priliku da se razvijaš i napreduješ, prijavi se i postani deo našeg tima! O NB SOFT-u NB SOFT od 2009. godine, sa više od 70 zaposlenih, pomaže trgovcima u više od 15 zemalja da postignu svoj maksimalni potencijal‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ digitalnog razvoja, kroz razvoj i implementaciju enterprise eCommerce i Retail rešenja zasnovanih na NB SHOP-u. Transformacijom i unapređenjem ecommerce tržišta naš rad oblikuje navike i svakodnevni život trgovaca i njihovih kupaca. Zajedno radimo na razvoju rešenja koje koristi preko 4 miliona korisnika, svaki dan! Ako tražiš okruženje koje te ohrabruje da izneseš svoje ideje, da prihvatiš izazov i rasteš, NB SOFT je pravo mesto za tebe! Opis posla: Kao praktikant na poziciji eCommerce Content and Implementation Specialist , aktivno ćeš učestvovati na realizaciji izazovnih projekata u okviru web developmenta u domenu postavke internet prodavnice. Postavka nove internet prodavnice - unos sadržaja i implementacija funkcionalnosti na NB SHOP platformi u‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ skladu sa zahtevima i potrebama klijenta; Profesionalna komunikacija sa klijentom u cilju efikasnog realizovanja zahteva; Konsultativna pomoć klijentima; Koordinacija aktivnosti u domenu sadržaja i implementacije potrebnih za razvoj internet prodavnice; Učešće u procesu razvoja i implementacije novih funkcionalnosti na platformi sa korisničkog aspekta; Rad na unapređenju korisničkog iskustva; Obučavanje klijenata za rad na NB SHOP platformi. Reference: lubECGS3gBwu8g Kvalifikacije: Napredna kompjuterska pismenost i razumevanje osnovnih web tehnologija; Proaktivan pristup radu i komunikativnost; Kreativnost i nalaženje inovativnih rešenja za prikaz sadržaja na sajtu; Kooperativnost i timski rad; Želja za učenjem i daljim usavršavanjem; Znanje engleskog jezika. Poželjno, ali nije presudno: Iskustvo u radu‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ na administraciji eCommerce sajtova; Poznavanje rada na eCommerce platformama; Poznavanje procesa prodaje; Poznavanje NB SHOP eCommerce platforme. Šta dobijaš kao deo NB SOFT tima? Tromesečni program plaćene stručne prakse uz kontinuiranu mentorsku podršku i usmeravanje; Mogućnost zaposlenja nakon uspešno završene prakse i nastavka profesionalnog razvoja u našem timu; Priliku da radiš na vodećem domaćem enterprise eCommerce rešenju; Direktan rad sa iskusnim stručnjacima koji više od 15 godina rade na razvoju i unapređivanju NB SHOP platforme; Izazovne projekte koji prate najnovije trendove u oblasti eCommerce-a; Okruženje koje podstiče učenje, razmenu znanja i profesionalni razvoj, kroz interne i eksterne radionice i edukacije; Mogućnost dugoročnog napredovanja i razvoja karijere u‍‌‌‍⁠‍‌‍⁠​‌​​​‍​‌‍‌​‍⁠‌⁠‍​​​​‌⁠​​‍⁠‍⁠⁠​‍ skladu sa tvojim interesovanjima, znanjem i potencijalom; Prijatnu i podsticajnu timski orijentisanu atmosferu, uz redovna druženja i događaje; Prostor za predah i zabavu (stoni fudbal, PlayStation.); Kafu, sokove, voće i slatkiše tokom radnog dana – jer verujemo da male stvari prave veliku razliku! Zajedničko obeležavanje važnih trenutaka, svaki novi projekat i uspeh kolega su razlog za slavlje! Poklone i posebna iznenađenja za važne datume i prilike; I još mnogo toga što doprinosi pozitivnoj i podsticajnoj radnoj atmosferi! Kod nas praksa nije samo prilika da "
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-stripe-backend-engineer-developer-end-user-experience-platform",
-   "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "company": "Stripe",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-developer-end-user-experience-platform",
-   "summary": "Headquarters: Toronto Canada, San Francisco, Remote in US, Remote in Canada Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, an",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-24T11:12:00+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-upsun-general-accountant-accounts-payable",
-   "title": "General Accountant - Accounts Payable",
-   "company": "Upsun",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/upsun-general-accountant-accounts-payable",
-   "summary": "Headquarters: Remote • France, Spain, Canada About Upsun Upsun is the software factory for human-AI workflows. We give teams one unified platform to create, review, deploy, and run software, with AI agents and humans working in sync. Developers, DevOps engineers, and platform teams use Upsun to build and ship with confidence, without wrestling with infrastructure. Upsun brings this together throug",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-24T11:12:00+00:00"
-  },
-  {
-   "source": "helloworld",
-   "id": "768568",
-   "title": "Junior Product Marketing Specialist - praksa",
-   "company": "NB SOFT Agencija za programiranje",
-   "location": "Beograd",
-   "remote": false,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-24",
-   "expires": "09.12.2026.",
-   "salary": null,
-   "url": "https://www.helloworld.rs/posao/Junior-Product-Marketing-Specialist-praksa/NB-SOFT-Agencija-za-programiranje/768568",
-   "summary": "NB SOFT Agencija za programiranje 2.8 Beograd 09.12.2026. Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima Novo",
-   "matched": [
-    "helloworld"
-   ],
-   "details": "Junior Product Marketing Specialist - praksa 2 izvršioca Junior Product Marketing Specialist - praksa NB SOFT Agencija za programiranje 2.8 Beograd Beograd: Milutina Milankovića 3a 09.12.2026. Oglas dostupan i osobama sa invaliditetom Oglas dostupan i studentima Tražimo inovativne kolege koje žele da sa nama unaprede internet prodaju. Ako se raduješ uzbudljivim zadacima, kulturi otvorene komunikacije i kreativnom okruženju u kom imaš priliku da se razvijaš i napreduješ, prijavi se i postani deo našeg tima! O NB SOFT-u NB SOFT od 2009. godine, sa više od 70 zaposlenih, pomaže trgovcima u više od 15 zemalja da postignu svoj maksimalni potencijal digitalnog razvoja, kroz razvoj i implementaciju enterprise eCommerce i Retail rešenja zasnovanih na NB SHOP-u. Transformacijom i unapređenjem ecommerce tržišta naš rad oblikuje navike i svakodnevni život trgovaca i njihovih kupaca. Zajedno radimo na razvoju rešenja koje koristi preko 4 miliona korisnika, svaki dan! Ako tražiš okruženje koje te ohrabruje da izneseš svoje ideje, da prihvatiš izazov i rasteš, NB SOFT je pravo mesto za tebe! Opis posla: Komunikacija sa razvojnim timovima i prikupljanje informacija o novorazvijenim funkcionalnostima, unapređenjima sistema; Kreiranje client-facing sadržaja tako da se na zanimljiv i privlačan način klijentima i korisnicima predstave nove funkcionalnosti, unapređenja i prednosti NB SHOP platforme; Učestvovanje u prezentaciji novih funkcionalnosti i proizvoda klijentima i korisnicima; Učestvovanje u pisanju prodajnih specifikacija i drugih dokumenata namenjenih klijentima i korisnicima; Konstantno istraživanje trendova, best practice preporuka, konkurencije u eCommerce-u na domaćem i svetskom tržištu i davanje predloga koji za rezultat imaju unapređenje platforme; Učestvovanje u planiranju i kreiranju marketinških kampanja preko različitih kanala (e-mail, društvene mreže), koje će podizati svest o našem proizvodu i brendu; Doprinos unapređenju partnerske mreže i održavanju odnosa sa klijentima i partnerima. Kvalifikacije: Studenti ekonomskog, FON-a ili srodnih fakulteta; Napredna kompjuterska pismenost i razumevanje osnovnih web tehnologija; Veštine organizacije i sposobnost preuzimanja inicijative; Odlične veštine pisane i usmene komunikacije; Sposobnost da se kompleksni koncepti predstave na jasan, koncizan i zanimljiv način; Poznavanje osnovnih marketinških postulata, tehnika i best practice principa; Želja za učenjem i usavršavanjem u dinamičnom okruženju; Odlično poznavanje engleskog jezika. Poželjno, ali nije presudno: Poznavanje e-commerce okruženja; Osnovno iskustvo ili znanje iz oblasti product marketinga; Razumevanje digitalnog marketinga i rada sa podacima. Šta dobijaš kao deo NB SOFT tima? Tromesečni program plaćene stručne prakse uz mentorsku podršku i stručno usmeravanje; Priliku za rad na vodećem domaćem enterprise eCommerce rešenju; Mogućnost zaposlenja nakon uspešno završene prakse i profesionalnog razvoja u našem timu; Direktan rad sa iskusnim stručnjacima koji više od 15 godina rade na razvoju i unapređivanju NB SHOP platforme; Izazovne projekte koji prate najnovije trendove u oblasti eCommerce-a; Okruženje koje podstiče učenje, razmenu znanja i profesionalni razvoj kroz radionice i edukacije; Mogućnost dugoročnog napredovanja i razvoja karijere u skladu sa tvojim interesovanjima, znanjem i potencijalom; Prijatnu i podsticajnu timski orijentisanu atmosferu, uz redovna druženja i događaje; Prostor za predah i zabavu (stoni fudbal, Sony P",
-   "first_seen": "2026-11-24T11:12:00+00:00"
-  },
-  {
-   "source": "weworkremotely",
-   "id": "wwr-gemini-staff-platform-engineer",
-   "title": "Staff Platform Engineer",
-   "company": "Gemini",
-   "location": "Anywhere in the World",
-   "remote": true,
-   "hybrid": false,
-   "tags": [],
-   "posted": "2026-11-24",
-   "expires": null,
-   "salary": null,
-   "url": "https://weworkremotely.com/remote-jobs/gemini-staff-platform-engineer",
-   "summary": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by pro",
-   "matched": [
-    "weworkremotely"
-   ],
-   "first_seen": "2026-11-24T11:12:00+00:00"
   }
  ]
 }
